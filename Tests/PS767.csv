@@ -1,0 +1,1276 @@
+MSN,Line Number,Aircraft Type,Reg,Current Operator,Delivered From,Status,Prev Reg,Remark
+,,,,,,,,
+22233,1,Boeing 767-200,N767BA,Boeing,,Scrapped,,
+21862,2,Boeing 767-222,N601UA,United Airlines,29-Mar-83,Scrapped,,6201
+21863,3,Boeing 767-222,N602UA,United Airlines,24-Jan-83,Scrapped,,6202
+21864,4,Boeing 767-222,G-CECU,UK International Airlines,22-Dec-06,Scrapped,N603UA,
+21865,5,Boeing 767-222,G-CEMK,UK International Airlines,22-Feb-07,Scrapped,N604UA,
+22213,6,Boeing 767-232(BDSF),N740AX,ABX Air,22-Mar-06,Active,N101DA,"740, lsf CAM"
+21866,7,Boeing 767-222,N769VA,Vision Airlines,17-Oct-08,Stored,N605UA,
+22307,8,Boeing 767-223,N301AA,American Airlines,4-Nov-82,Scrapped,,
+21867,9,Boeing 767-222,N606UA,United Airlines,19-Aug-82,Scrapped,,6206
+21868,10,Boeing 767-222,HS-JAB,Jet Asia Airways,25-Aug-11,Stored,HS-BIA,
+21869,11,Boeing 767-222,N768VA,Cargo Aircraft Management (CAM),7-Nov-17,Stored,N608UA,
+22214,12,Boeing 767-232,N102DA,Delta Air Lines,25-Oct-82,Preserved,,"The Spirit of Delta, 102"
+21870,13,Boeing 767-222,N767VA,Vision Airlines,18-Sep-07,Scrapped,N609UA,
+22564,14,Boeing 767-231,TJ-CAD,Cameroon Airlines,20-Jul-01,Stored,N601TW,
+21871,15,Boeing 767-222,HS-JAC,Jet Asia Airways,16-Dec-10,Stored,HS-SSA,
+22517,16,Boeing 767-233,C-GAUB,Air Canada,30-Oct-82,Scrapped,,Star Alliance cs
+22215,17,Boeing 767-232(BDSF),N741AX,Amerijet International,2-Mar-10,Stored,N103DA,"741, lsf CAM"
+22681,18,Boeing 767-209,N753JM,Jet Midwest Group,14-May-12,Scrapped,C-FVNM,
+22308,19,Boeing 767-223,N302AA,American Airlines,18-Nov-82,Scrapped,,
+21872,20,Boeing 767-222,HS-JAG,Jet Asia Airways,16-Dec-10,Stored,HS-SSB,
+22565,21,Boeing 767-231,N602TW,Trans World Airlines (TWA),8-Dec-82,Scrapped,,
+22518,22,Boeing 767-233,N743JM,Jet Midwest Group,15-May-12,Stored,C-GAUE,
+22309,23,Boeing 767-223,N303AA,American Airlines,9-Dec-82,Stored,,
+22692,24,Boeing 767-277,N861AT,AeroTurbine,2-Dec-04,Scrapped,VH-RMD,
+22310,25,Boeing 767-223,N304AA,American Airlines,30-Mar-83,Scrapped,,
+22216,26,Boeing 767-232(BDSF),N739AX,Air Transport International,14-Apr-17,Active,N104DA,lsf CAM
+22217,27,Boeing 767-232(BDSF),SE-RLC,West Air Sweden,10-Dec-15,Active,N742AX,lsf CAM
+22693,28,Boeing 767-277,VH-RME,Ansett Australia,Jan-91,Scrapped,N8292V,
+22566,29,Boeing 767-231(BDSF),N650GT,Atlas Air,23-Feb-12,Active,N702AX,
+22567,30,Boeing 767-231,N767BZ,Unknown,27-Mar-20,Stored,VP-CME,
+22218,31,Boeing 767-232(BDSF),N743AX,Amerijet International,15-Jul-10,Active,N106DA,lsf CAM
+22694,32,Boeing 767-277,N767MW,MLW Aviation LLC,16-Feb-07,Active,N767AT,opby Atlas Air
+22568,33,Boeing 767-231,N605TW,Trans World Airlines (TWA),17-Dec-82,Scrapped,,
+22311,34,Boeing 767-223,N305AA,American Airlines,27-May-83,Scrapped,,
+22695,35,Boeing 767-277,N862AT,AeroTurbine,24-Feb-05,Scrapped,VH-RMG,
+22683,36,Boeing 767-275,C-GPWA,Air Canada,May-85,Stored,,671
+22219,37,Boeing 767-232(BDSF),OY-SRL,Star Air,11-Aug-06,Active,N107DL,lsf GECAS
+22220,38,Boeing 767-232(BDSF),OY-SRP,Star Air,27-Sep-06,Active,N108DL,lsf GECAS
+22569,39,Boeing 767-231,N606TW,Aeronautica Militare (Italian Air Force),30-Jun-08,Stored,PR-BRV,
+22519,40,Boeing 767-233,C-GAUH,Air Canada,11-Feb-83,Stored,,603
+21873,41,Boeing 767-222,N612UA,United Airlines,23-Feb-83,Written Off,,6212
+21874,42,Boeing 767-222,N613UA,United Airlines,25-Feb-83,Scrapped,,6213
+21875,43,Boeing 767-222,N614UA,United Airlines,2-Mar-83,Scrapped,,6214
+22312,44,Boeing 767-223,N306AA,ICG Aircraft Holding,16-Jul-07,Scrapped,,
+21876,45,Boeing 767-222,N615UA,United Airlines,14-Mar-83,Stored,,6215
+21877,46,Boeing 767-222,TR-LHP,Gabon Airlines,13-Jul-07,Stored,N617UA,
+22520,47,Boeing 767-233,C-GAUN,Air Canada,31-Mar-83,Scrapped,,604
+21878,48,Boeing 767-222,TR-LHQ,Gabon Airlines,13-Jul-07,Scrapped,N618UA,
+21879,49,Boeing 767-222,YA-KAM,Kam Air,23-Jul-07,Stored,N619UA,
+21880,50,Boeing 767-222,HS-SSD,SkyStar Airways,2-Jun-08,Scrapped,N620UA,
+22785,51,Boeing 767-281(BDSF),N767AX,ABX Air,15-Aug-03,Active,JA8479,"767, lsf CAM"
+22684,52,Boeing 767-275,C-GPWB,Air Canada,May-85,Stored,N1791B,672
+22221,53,Boeing 767-232(BDSF),N744AX,ABX Air,28-Mar-09,Active,N109DL,"744, lsf CAM"
+22786,54,Boeing 767-281(BDSF),N768AX,ABX Air,7-May-11,Active,JA8480,"768, lsf CAM"
+22921,55,Boeing 767-2Q4,PT-TAA,Transbrasil,23-Jun-83,Scrapped,N4574M,
+,,,,,,,,
+22222,56,Boeing 767-232(BDSF),SE-RLB,West Air Sweden,26-Oct-15,Active,N745AX,lsf CAM
+22922,57,Boeing 767-2Q4,PT-TAB,Transbrasil,11-Jul-83,Scrapped,N45742,
+22787,58,Boeing 767-281(BDSF),A9C-DHM,DHL International,7-Apr-17,Active,N769AX,lsf CAM
+22923,59,Boeing 767-2Q4,PT-TAC,Transbrasil,11-Jul-83,Preserved,N4575L,
+22682,60,Boeing 767-209,N754JM,Jet Midwest Group,14-May-12,Stored,C-FUCL,
+22788,61,Boeing 767-281(BDSF),N773AX,Cargo Aircraft Management (CAM),17-Sep-19,Stored,SE-RLD,
+22972,62,Boeing 767-258,4X-EAA,El Al Israel Airlines,12-Jul-83,Scrapped,N6066Z,601
+22570,63,Boeing 767-231(BDSF),N651GT,Atlas Air,29-May-12,Active,N707AX,
+22571,64,Boeing 767-231(BDSF),N652GT,Atlas Air,18-Jul-12,Active,N708AX,
+22572,65,Boeing 767-231(BDSF),N653GT,Atlas Air,20-Jun-12,Active,N709AX,
+22521,66,Boeing 767-233,C-GAUP,Air Canada,1-Sep-83,Scrapped,N1791B,
+22789,67,Boeing 767-281(BDSF),N774AX,ABX Air,30-Mar-11,Active,JA8483,"774, lsf CAM"
+22973,68,Boeing 767-258,N570JH,AvCorp International,10-Oct-08,Scrapped,4X-EAB,
+22790,69,Boeing 767-281(BDSF),A9C-DHQ,DHL International,14-May-18,Active,N775AX,lsf CAM
+22573,70,Boeing 767-231(ER),N610TW,Trans World Airlines (TWA),23-Nov-83,Scrapped,,
+22980,71,Boeing 767-204,N864AT,AeroTurbine,30-May-05,Scrapped,VH-RML,
+22313,72,Boeing 767-223,N307AA,American Airlines,7-Nov-83,Scrapped,,
+22314,73,Boeing 767-223(BDSF),N714AX,Air Transport International,12-Apr-16,Active,C-GKLY,lsf CAM
+22223,74,Boeing 767-232(BDSF),N763CX,Air Transport International,2-Sep-10,Active,N746AX,lsf CAM
+22522,75,Boeing 767-233,C-GAUS,Air Canada,1-Dec-83,Stored,N60659,
+22224,76,Boeing 767-232(BDSF),SE-RLA,West Air Sweden,9-Mar-15,Active,N747AX,lsf CAM
+22225,77,Boeing 767-232(BDSF),N762CX,Air Transport International,22-Sep-10,Active,N748AX,lsf CAM
+22226,78,Boeing 767-232(BDSF),N749AX,ABX Air,18-Feb-16,Active,OY-SRT,"749, lsf CAM"
+22981,79,Boeing 767-204,N860AT,AeroTurbine,22-Oct-04,Scrapped,VH-RMK,
+23016,80,Boeing 767-281(BDSF),N783AX,ABX Air,15-Aug-03,Active,JA8485,"783, lsf CAM"
+23057,81,Boeing 767-205,N391LF,ILFC,8-Nov-11,Scrapped,S7-ILF,
+23017,82,Boeing 767-281(BDSF),N656GT,Atlas Air,21-Jan-15,Active,N784AX,
+22227,83,Boeing 767-232(BDSF),N750AX,ABX Air,3-Jan-07,Active,N115DA,"750, lsf CAM"
+23018,84,Boeing 767-281(BDSF),N657GT,Atlas Air,16-Mar-15,Active,N785AX,
+23019,85,Boeing 767-281(BDSF),N658GT,Atlas Air,29-Jan-15,Active,N786AX,
+22974,86,Boeing 767-258(ER),4X-EAC,El Al Israel Airlines,26-Mar-84,Scrapped,N6018N,603
+22523,87,Boeing 767-233,C-GAUU,Air Canada,12-Apr-84,Stored,N1784B,607
+22524,88,Boeing 767-233,C-GAUW,Air Canada,19-Apr-84,Stored,N6038E,
+22975,89,Boeing 767-258(ER),4X-EAD,El Al Israel Airlines,1-Jun-84,Scrapped,N6046P,604
+23106,90,Boeing 767-260(ER),N289SW,Aircraft Recycling Corp (ARC),4-Feb-09,Scrapped,EI-DMH,
+22525,91,Boeing 767-233,C-GAUY,Air Canada,31-May-84,Scrapped,N6055X,
+22526,92,Boeing 767-233,JY-JRF,Royal Falcon,30-Jun-07,Stored,J2-KCN,
+23107,93,Boeing 767-260(ER),CP-2521,Aerosur,Oct-07,Stored,ET-AIF,
+22315,94,Boeing 767-223(BDSF),N312AA,ABX Air,21-Jul-15,Active,C-GCJO,"312, lsf CAM"
+22316,95,Boeing 767-223(BDSF),N255CM,Air Transport International,2-May-16,Active,C-FMCJ,"255, lsf CAM"
+23020,96,Boeing 767-281(BDSF),A9C-DHR,DHL International,12-Dec-18,Stored,N787AX,
+23178,97,Boeing 767-266(ER),9Q-CPD,flyCongo,22-Sep-11,Scrapped,N902EJ,
+23179,98,Boeing 767-266(ER),EI-GAA,KrasAir,24-May-04,Stored,N567KM,lsf Arbor Finance
+23180,99,Boeing 767-266(ER),N605KW,Eastern Airlines,Jun-19,Active,N928SS,605
+22696,100,Boeing 767-277,N863AT,AeroTurbine,31-Mar-05,Scrapped,VH-RMH,
+23058,101,Boeing 767-205(BDSF),N655GT,Atlas Air,5-Nov-12,Active,N713AX,
+22527,102,Boeing 767-233,N749JM,Jet Midwest Group,14-May-12,Scrapped,C-GAVC,
+23021,103,Boeing 767-281(BDSF),SP-MRF,Sky Taxi,15-Nov-18,Active,N788AX,lsf CAM
+23022,104,Boeing 767-281(PC),N789AX,Apollo Aviation,7-May-10,Scrapped,JA8491,
+22528,105,Boeing 767-233,C-GAVF,Air Canada,21-Nov-84,Scrapped,N6066U,
+23140,106,Boeing 767-281(BDSF),N659GT,Atlas Air,30-Jan-15,Active,N790AX,
+23072,107,Boeing 767-204(BDSF),OY-SRK,Star Air,25-Oct-05,Active,N307MT,lsf GECAS
+23141,108,Boeing 767-281(BDSF),N791AX,Air Transport International,4-Dec-12,Active,PR-IOE,lsf CAM
+22317,109,Boeing 767-223(BDSF),9M-RXA,Raya Airways,8-Mar-16,Active,N315AA,lsf CAM
+23142,110,Boeing 767-281(BDSF),N792AX,ABX Air,29-Mar-04,Stored,JA8240,"792, lsf CAM"
+,,,,,,,,
+22318,111,Boeing 767-223(BDSF),N761CX,Air Transport International,31-Jul-08,Active,N316AA,lsf CAM
+22319,112,Boeing 767-223(BDSF),C-FGAJ,Cargojet Airways,4-Aug-08,Active,N317AA,
+23250,113,Boeing 767-204(ER),ZK-NBJ,Air New Zealand,3-Nov-97,Scrapped,G-BLKW,
+23143,114,Boeing 767-281(BDSF),A9C-DHO,DHL International,31-May-17,Active,N793AX,lsf CAM
+23144,115,Boeing 767-281(BDSF),A9C-DHP,DHL International,9-Feb-18,Active,N794AX,lsf CAM
+23145,116,Boeing 767-281(BDSF),N795AX,ABX Air,Jul-09,Active,JA8243,"795, lsf CAM"
+23212,117,Boeing 767-246,N769DA,Jet Midwest Group,24-Mar-15,Stored,JA8231,
+23213,118,Boeing 767-246,N603KW,Eastern Airlines,5-Jul-18,Active,N767DA,603
+23304,119,Boeing 767-238(ER),VH-EAJ,Qantas,3-Jul-85,Scrapped,N6055X,
+23305,120,Boeing 767-238(ER),VH-EAK,Qantas,11-Jul-85,Scrapped,N6009F,
+23146,121,Boeing 767-281(BDSF),A9C-DHJ,DHL International,16-Oct-15,Active,N796AX,lsf CAM
+23214,122,Boeing 767-246,N768DA,Dynamic Aviation Group,11-Apr-14,Stored,HS-JAD,
+23147,123,Boeing 767-281(BDSF),N797AX,ABX Air,15-Aug-03,Active,JA8245,"797, lsf CAM"
+23326,124,Boeing 767-219(BDSF),OY-SRN,Star Air,29-Oct-05,Active,N326MR,lsf GECAS
+23306,125,Boeing 767-238(ER),N602KW,Eastern Airlines,Sep-18,Active,N250MY,602
+23307,126,Boeing 767-2J6(ER),N712AX,Cargo Aircraft Management (CAM),10-Nov-16,Stored,HS-DCM,
+23308,127,Boeing 767-2J6(ER),B-2552,Air China,1-Jul-88,Written Off,N60659,
+22320,128,Boeing 767-223(ER),N319AA,KMW Leasing,7-Jul-14,Scrapped,,
+23309,129,Boeing 767-238(ER),E3-AAQ,Eritrean Airlines,9-Jun-04,Stored,N771WD,
+22321,130,Boeing 767-223(ER),N320AA,American Airlines,5-Dec-85,Scrapped,,"320, Flagship Independence cs"
+23280,131,Boeing 767-269(ER),N251MY,Dynamic Airways,12-Sep-15,Written Off,HS-KOA,lsf KMW Leasing
+23215,132,Boeing 767-346,JA8236,Japan Airlines,16-Dec-86,Scrapped,N767S,
+23402,133,Boeing 767-238(ER),N673BF,Polaris Aviation Solutions,20-Nov-08,Active,N773WD,
+23327,134,Boeing 767-219(BDSF),OY-SRF,Star Air,6-Apr-05,Active,N327MR,lsf GECAS
+23281,135,Boeing 767-269(ER),9K-AIB,Kuwait Airways,2-Apr-86,Written Off,N60659,Algrain
+23275,136,Boeing 767-332,N594HA,AAR Corporation,14-Mar-19,Scrapped,N116DL,
+23403,137,Boeing 767-238(ER),N774WD,"West Dover, LLC",9-Jul-04,Scrapped,VH-EAO,
+23282,138,Boeing 767-269(ER),9K-AIC,Kuwait Airways,15-Apr-86,Written Off,N60668,Garouh
+22322,139,Boeing 767-223(ER),N321AA,American Airlines,22-Apr-86,Scrapped,,321
+22323,140,Boeing 767-223(ER),N322AA,American Airlines,6-May-86,Stored,,322
+23494,141,Boeing 767-2S1,N767TA,TACA International Airlines,6-May-86,Written Off,,
+23623,142,Boeing 767-216(ER),EI-CZD,Transaero Airlines,30-Aug-02,Preserved,N762TA,lsf Transalpine Leasing
+23431,143,Boeing 767-281(BDSF),N798AX,ABX Air,14-Jul-05,Stored,JA8251,"798, lsf CAM"
+23624,144,Boeing 767-216(ER),ZS-DJI,Aeronexus Corporation,20-Jun-11,Stored,J2-KBE,
+23432,145,Boeing 767-281(BDSF),N799AX,ABX Air,22-Sep-03,Written Off,JA8252,
+22324,146,Boeing 767-223(ER),N323AA,American Airlines,25-Jul-86,Scrapped,,323
+22325,147,Boeing 767-223(ER),N324AA,Jet Midwest Group,6-Apr-15,Stored,,
+23216,148,Boeing 767-346,N767NG,Boullioun Aviation Services,30-Apr-09,Scrapped,JA8234,
+23328,149,Boeing 767-219(BDSF),OY-SRG,Star Air,10-Mar-05,Active,N328MT,lsf GECAS
+23217,150,Boeing 767-346,JA8235,Japan Airlines,2-Oct-86,Scrapped,N60659,
+23276,151,Boeing 767-332,N596HA,Hawaiian Airlines,27-Sep-06,Scrapped,N117DL,Koa'e Ke'a
+23277,152,Boeing 767-332,N597HA,Hawaiian Airlines,27-Sep-06,Scrapped,N118DL,Akohekohe
+23278,153,Boeing 767-332,N598HA,Hawaiian Airlines,27-Sep-06,Scrapped,N119DL,Akiapolaʻau
+23279,154,Boeing 767-332,N120DL,Ryan International Airlines,6-Dec-07,Scrapped,,
+23744,155,Boeing 767-2J6(ER),B-2553,Air China,1-Jul-88,Scrapped,N60659,
+23745,156,Boeing 767-2J6(ER),YA-AQS,Safi Airways,29-Jul-07,Stored,B-2554,City of Kabul
+22326,157,Boeing 767-223(ER),N325AA,American Airlines,24-Nov-86,Stored,,325
+23764,158,Boeing 767-3P6(ER),N636SH,Sky Holding Company,20-Jun-18,Stored,YV545T,
+22327,159,Boeing 767-223(ER),N327AA,Jet Midwest Group,19-Feb-14,Stored,,
+22328,160,Boeing 767-223(ER),N328AA,American Airlines,23-Dec-86,Scrapped,,328
+23803,161,Boeing 767-241(ER)(BDSF),N881YV,21 Air,Oct-14,Active,N768QT,
+23435,162,Boeing 767-332,N121DE,Delta Air Lines,8-Mar-87,Scrapped,,121
+23436,163,Boeing 767-332,EY-756,Tajik Air,Nov-16,Stored,5N-ASG,
+22329,164,Boeing 767-223(ER),N329AA,American Airlines,24-Feb-87,Scrapped,,329
+23765,165,Boeing 767-3Z9(ER),N763BK,Ryan International Airlines,5-Feb-09,Scrapped,G-VKNG,
+,,,,,,,,
+22330,166,Boeing 767-223(ER),N330AA,American Airlines,13-Mar-87,Written Off,,
+23433,167,Boeing 767-281,JA8254,All Nippon Airways,1-Apr-87,Written Off,N6038E,
+22331,168,Boeing 767-223(ER),N332AA,American Airlines,27-Mar-87,Stored,,332
+22332,169,Boeing 767-223(ER),N334AA,American Airlines,13-Apr-87,Written Off,,
+23801,170,Boeing 767-241(ER)(BDSF),N999YV,21 Air,14-Oct-14,Active,N769QT,opby Dynamic Airways
+23434,171,Boeing 767-281(BDSF),N752AX,ABX Air,14-Feb-18,Active,A9C-DHK,lsf CAM
+23802,172,Boeing 767-241(ER)(BDSF),XA-LRC,AeroUnion,7-Apr-14,Active,N770QT,lsf GECAS
+23897,173,Boeing 767-201(ER),N245AY,American Airlines,9-Dec-13,Scrapped,N645US,245
+23645,174,Boeing 767-346,JA8253,Japan Airlines,7-Apr-93,Scrapped,N6038E,
+23898,175,Boeing 767-201(ER),N246AY,KMW Leasing,24-Mar-15,Scrapped,N646US,
+23756,176,Boeing 767-381,JA8256,All Nippon Airways,30-Jun-87,Scrapped,N6005C,
+23757,177,Boeing 767-381,JA8257,All Nippon Airways,1-Jul-87,Scrapped,N6038E,
+23804,178,Boeing 767-241(ER)(BDSF),XA-EFR,AeroUnion,8-Apr-14,Active,N767QT,lsf GECAS
+23758,179,Boeing 767-381,JA8258,Hokkaido International Airlines - Air Do,14-Mar-05,Scrapped,N6055X,
+23805,180,Boeing 767-241(ER),N805MT,GECAS,10-Aug-09,Scrapped,5N-BGG,
+23806,181,Boeing 767-241(ER),N806MT,GECAS,6-Aug-09,Scrapped,5N-BGH,
+23899,182,Boeing 767-201(ER),EI-DBW,Transaero Airlines,10-Sep-03,Scrapped,N647US,
+23896,183,Boeing 767-238(ER),2-TSSA,Weststar Aviation,13-Jun-18,Active,N2767,
+23807,184,Boeing 767-204,N807AN,Ansett Worldwide (AWAS),5-Jul-02,Scrapped,VH-RMO,
+23759,185,Boeing 767-381,JA8259,All Nippon Airways,23-Sep-87,Scrapped,N6038E,
+23965,186,Boeing 767-346,HS-BKI,Orient Thai Airlines,8-Aug-14,Stored,JA8264,
+23916,187,Boeing 767-260(ER),ET-AIZ,Ethiopian Airlines,17-Feb-92,Written Off,N6009F,
+23437,188,Boeing 767-332,N123DN,Jet Midwest Group,25-Jul-13,Scrapped,,
+23438,189,Boeing 767-332,N124DE,Delta Air Lines,9-Nov-87,Stored,,124
+23900,190,Boeing 767-201(ER),N248AY,KMW Leasing,21-Oct-15,Scrapped,N648US,
+23966,191,Boeing 767-346,HS-BKH,Orient Thai Airlines,25-Sep-13,Stored,JA8266,
+23961,192,Boeing 767-346,HS-BKB,Orient Thai Airlines,6-Oct-11,Stored,JA8265,
+23962,193,Boeing 767-346,HS-BKD,Orient Thai Airlines,21-Sep-12,Stored,JA8267,
+22333,194,Boeing 767-223(ER),N335AA,American Airlines,25-Nov-87,Stored,,335
+22334,195,Boeing 767-223(ER),N336AA,American Airlines,8-Dec-87,Scrapped,,336
+22335,196,Boeing 767-223(ER),N338AA,American Airlines,16-Dec-87,Scrapped,,338
+23901,197,Boeing 767-201(ER),N249AU,KMW Leasing,21-Oct-15,Scrapped,N649US,
+22336,198,Boeing 767-223(ER),N339AA,American Airlines,11-Jan-88,Scrapped,,339
+24002,199,Boeing 767-381,JA8271,All Nippon Airways,8-Feb-88,Scrapped,N60668,
+24075,200,Boeing 767-332,N125DL,Delta Air Lines,5-Feb-88,Stored,,125
+24076,201,Boeing 767-332,N126DL,Delta Air Lines,4-Mar-88,Stored,,126
+24032,202,Boeing 767-323(ER)(WL),N351AA,Infinity Trading Solutions,11-Oct-17,Stored,,
+24077,203,Boeing 767-332,N127DL,Delta Air Lines,1-Apr-88,Stored,,127
+24007,204,Boeing 767-2J6(ER),HS-JAK,Jet Asia Airways,4-Sep-12,Scrapped,N984JM,
+24033,205,Boeing 767-323(ER)(WL),N352AA,Jetran,21-Jul-16,Stored,,
+24034,206,Boeing 767-323(ER)(WL),N353AA,Infinity Trading Solutions,21-Dec-17,Stored,,
+24078,207,Boeing 767-332,N128DL,Delta Air Lines,6-Apr-88,Scrapped,,128
+23973,208,Boeing 767-23B(ER),I-AIGH,Meridiana,2-May-15,Stored,N252MY,
+24079,209,Boeing 767-332,N129DL,Delta Air Lines,16-May-88,Stored,,129
+24013,210,Boeing 767-204(ER),N767HS,Bank of Utah,12-Jan-09,Scrapped,S7-EXL,
+24035,211,Boeing 767-323(ER)(BDSF)(WL),N397AZ,Amazon Prime Air,27-Sep-19,Active,N354AA,opby Air Transport International
+24003,212,Boeing 767-381,JA8272,All Nippon Airways,18-Apr-88,Scrapped,N6038E,
+24082,213,Boeing 767-375(ER),C-FCAB,Air Canada,29-Mar-01,Stored,N6055X,681
+23974,214,Boeing 767-23B(ER),N253MY,Dynamic Airways,2-May-14,Scrapped,I-AIGI,
+24083,215,Boeing 767-375(ER),C-FCAE,Cargojet Airways,21-Jan-20,Stored,N6046P,"643, lsf GECAS"
+24080,216,Boeing 767-332,N130DL,Delta Air Lines,23-May-88,Scrapped,,130
+23902,217,Boeing 767-201(ER),N250AY,KMW Leasing,21-Oct-15,Scrapped,N650US,
+24004,218,Boeing 767-381,JA8273,All Nippon Airways,12-May-88,Scrapped,N6055X,
+24084,219,Boeing 767-375(ER),C-FCAF,Air Canada,29-Mar-01,Stored,N6038E,"683, lsf KV Aviation"
+24085,220,Boeing 767-375(ER),C-FCAG,Air Canada,29-Mar-01,Scrapped,N6009F,"684, lsf GECAS"
+,,,,,,,,
+24036,221,Boeing 767-323(ER)(BDSF),N359AZ,Amazon Prime Air,1-Apr-17,Active,N388CM,opby Air Transport International
+24005,222,Boeing 767-381,JA8274,All Nippon Airways,6-Jun-88,Scrapped,N6046P,
+24006,223,Boeing 767-381,JA8275,All Nippon Airways,9-Jun-88,Preserved,N6018N,
+23963,224,Boeing 767-346,HS-BKJ,Orient Thai Airlines,26-Mar-15,Stored,JA8268,
+23964,225,Boeing 767-346,JA8269,Japan Airlines,23-Jun-88,Stored,N6055X,
+24037,226,Boeing 767-323(ER)(WL),N39356,Infinity Trading Solutions,21-Dec-17,Stored,,
+24038,227,Boeing 767-323(ER)(WL),N357AA,Infinity Aviation,14-Jun-17,Scrapped,,
+24039,228,Boeing 767-323(ER),N358AA,American Airlines,6-Jul-88,Stored,,358
+24142,229,Boeing 767-233,N756JM,Jet Midwest Group,14-May-12,Scrapped,C-GDSP,
+24040,230,Boeing 767-323(ER)(WL),EI-GEP,Blue Panorama Airlines,4-May-18,Stored,N359AA,"Città di Milano, lsf Spectre Air Capital"
+24146,231,Boeing 767-338(ER)(BDSF),N316CM,Amerijet International,13-Aug-14,Active,VH-OGA,lsf CAM
+24041,232,Boeing 767-323(ER)(WL),N360AA,American Airlines,19-Jul-88,Stored,,360
+24143,233,Boeing 767-233,N768JM,Jet Midwest Group,14-May-12,Stored,C-GDSS,
+24144,234,Boeing 767-233,N769JM,Jet Midwest Group,14-May-12,Scrapped,C-GDSU,
+24042,235,Boeing 767-323(ER)(WL),N361AA,AAR Corporation,26-Jan-17,Stored,,
+24145,236,Boeing 767-233,N604KW,Eastern Airlines,31-Aug-18,Active,N770JM,604
+24043,237,Boeing 767-323(ER)(WL),N362AA,Salt River Aviation,18-Oct-19,Stored,,
+24044,238,Boeing 767-323(ER),N363AA,American Airlines,16-Sep-88,Stored,,363
+24150,239,Boeing 767-219(ER),N381LF,ILFC,3-Nov-11,Scrapped,S7-SEZ,
+24045,240,Boeing 767-323(ER)(WL),N39364,AAR Corporation,15-Nov-16,Scrapped,,
+24046,241,Boeing 767-323(ER)(WL),N39365,Infinity Trading Solutions,21-Dec-17,Stored,,
+24316,242,Boeing 767-338(ER)(BDSF),N362CM,ABX Air,Mar-12,Active,VH-OGB,lsf CAM
+24239,243,Boeing 767-204(ER),JY-JAL,Jordan Aviation,6-Nov-08,Active,G-BOPB,
+24349,244,Boeing 767-3P6(ER),N960PG,SKY Aviation Leasing,30-May-18,Scrapped,YV528T,
+24350,245,Boeing 767-381,JA8285,All Nippon Airways,6-Apr-89,Scrapped,N1789B,
+24317,246,Boeing 767-338(ER)(BDSF),N317CM,ABX Air,Mar-12,Active,VH-OGC,lsf CAM
+24407,247,Boeing 767-338(ER)(BDSF),N319CM,Amerijet International,1-Oct-14,Active,VH-OGD,lsf CAM
+24086,248,Boeing 767-375(ER)(BDSF),N1709A,Amazon Prime Air,21-Jul-17,Active,CS-TLZ,opby Atlas Air
+24087,249,Boeing 767-375(ER),C-GHOZ,Air Canada,20-Oct-05,Stored,N487CT,"685, lsf Avolon"
+24323,250,Boeing 767-233,N772JM,Jet Midwest Group,14-May-12,Scrapped,C-FBEF,
+24257,251,Boeing 767-3G5(ER),N585HA,Hawaiian Airlines,10-May-02,Scrapped,D-AMUR,"Noio, lsf ILFC"
+24324,252,Boeing 767-233,N606KW,Alta Airlines Holdings,23-Dec-19,Stored,HS-JAE,
+24157,253,Boeing 767-2J6(ER)(MMTT),FAC1202,Fuerza Aerea Colombiana,6-May-09,Active,N983JM,Jupiter
+24325,254,Boeing 767-233,HS-JAF,Jet Asia Airways,26-Sep-13,Stored,N780JM,lsf Jet Midwest Group
+24258,255,Boeing 767-3G5(ER),N584HA,Hawaiian Airlines,22-Mar-02,Scrapped,D-AMUS,"Kioea, lsf ILFC"
+24457,256,Boeing 767-204(BDSF),OY-SRH,Star Air,22-Jul-05,Active,N457GE,lsf GECAS
+24318,257,Boeing 767-383(ER)(BDSF),N1511A,Amazon Prime Air,24-Apr-18,Active,CS-TLO,opby Atlas Air
+24306,258,Boeing 767-375(ER),C-FPCA,Air Canada,29-Mar-01,Stored,,"637, lsf GECAS"
+24307,259,Boeing 767-375(ER),C-FTCA,Air Canada,29-Mar-01,Stored,,638
+24484,260,Boeing 767-3P6(ER),N244KR,Kraake & Associates Inc,3-Aug-15,Stored,5Y-KYX,
+24733,261,Boeing 767-25D(ER),N473AG,Aviation Capital Group (ACG),1-Nov-12,Stored,XA-AMX,
+24357,262,Boeing 767-383(ER),N984AN,Sky Holding Company,22-Oct-14,Stored,HS-BIG,
+24358,263,Boeing 767-383(ER)(BDSF),N219CY,ABX Air,27-Oct-10,Active,G-VKNI,"219, lsf CAM"
+24485,264,Boeing 767-3P6(ER),N181AQ,Waha Leasing,2-Jan-09,Scrapped,A9C-GI,
+24333,265,Boeing 767-336(ER),G-BNWA,British Airways,25-Apr-90,Scrapped,N6009F,
+24734,266,Boeing 767-25D(ER),N734AG,Aviation Capital Group (ACG),21-Oct-13,Stored,XA-EAP,
+24495,267,Boeing 767-3P6(ER),N182AQ,Waha Leasing,2-Jan-09,Scrapped,A9C-GJ,
+24259,268,Boeing 767-3G5(ER),N586HA,Hawaiian Airlines,30-Jul-02,Scrapped,D-AMUN,"Ou, lsf ILFC"
+24400,269,Boeing 767-381(ER)(BCF),N433AZ,Cargo Aircraft Management (CAM),7-Apr-20,Stored,JA8286,
+24496,270,Boeing 767-3P6(ER),N183HK,Bank of Utah,7-Nov-16,Stored,8Q-MEG,
+24351,271,Boeing 767-381,JA8287,All Nippon Airways,6-Jul-89,Scrapped,,
+24448,272,Boeing 767-2Q8(ER),N766VA,Vision Airlines,29-Oct-09,Scrapped,EI-DMP,lsf ILFC
+24475,273,Boeing 767-383(ER),N346CL,CIT Leasing Corporation,31-Dec-09,Scrapped,UR-VVO,
+24476,274,Boeing 767-383(ER),N538BC,Boeing Capital Corporation (BCC),20-Mar-14,Scrapped,ET-AQW,
+24541,275,Boeing 767-366(ER),P2-ANA,Air Niugini,23-Apr-08,Scrapped,TF-LLA,lsf Aircastle
+,,,,,,,,
+24415,276,Boeing 767-381,JA8288,All Nippon Airways,14-Aug-89,Scrapped,,
+24498,277,Boeing 767-346,2-MELO,Aero Maximum,23-Feb-16,Stored,N763AM,
+24531,278,Boeing 767-338(ER)(BDSF),N364CM,ABX Air,1-Sep-16,Stored,VH-OGE,lsf CAM
+24428,279,Boeing 767-31A(ER),PH-MCG,Martinair Holland,4-Mar-97,Scrapped,,"Prins Johan Friso, lsf Mega-Flight KB"
+24416,280,Boeing 767-381,JA8289,All Nippon Airways,18-Sep-89,Scrapped,,
+24334,281,Boeing 767-336(ER),G-BNWB,British Airways,8-Feb-90,Scrapped,N6046P,
+24542,282,Boeing 767-366(ER),SU-GAP,EgyptAir,26-Sep-89,Written Off,,
+24628,283,Boeing 767-3Z9(ER),OE-LAV,Lauda Air,16-Oct-89,Written Off,,
+24335,284,Boeing 767-336(ER),G-BNWC,British Airways,21-Feb-90,Stored,,
+24632,285,Boeing 767-381(ER)(BCF),N431AZ,Cargo Aircraft Management (CAM),,Stored,JA8362,
+24336,286,Boeing 767-336(ER),G-BNWD,British Airways,27-Feb-90,Stored,N6018N,
+24713,287,Boeing 767-2N0(ER),Z-WPE,Air Zimbabwe,28-Nov-89,Stored,,Victoria Falls
+24337,288,Boeing 767-336(ER),N489AS,AerSale Inc,19-Feb-13,Scrapped,VH-ZXA,
+24752,289,Boeing 767-341(ER)(BDSF),N761CK,Kalitta Air,Oct-16,Active,N170CR,761
+24417,290,Boeing 767-381,JA8290,All Nippon Airways,23-Jan-90,Scrapped,,
+24753,291,Boeing 767-341(ER)(BDSF),N760CK,Kalitta Air,Jul-16,Active,N173CR,760
+24618,292,Boeing 767-259(ER),N985AN,AerSale Inc,13-Apr-10,Scrapped,,
+24338,293,Boeing 767-336(ER),N283AS,AerSale Inc,19-Dec-12,Scrapped,VH-ZXB,
+24429,294,Boeing 767-31A(ER),PH-MCH,Martinair Holland,28-Feb-90,Scrapped,,"Prins Constantijn, lsf Mega-Flight KB"
+24755,295,Boeing 767-381,JA8291,All Nippon Airways,28-Feb-90,Scrapped,,
+24736,296,Boeing 767-204(ER),JY-JAI,Jordan Aviation,Dec-11,Stored,G-SILC,
+24716,297,Boeing 767-284(ER),N716AN,AerSale Inc,13-Apr-10,Scrapped,B-MAV,
+24339,298,Boeing 767-336(ER),N706KW,Eastern Airlines,7-Jun-18,Active,N796JM,706
+24757,299,Boeing 767-204(ER),JY-JAG,Jordan Aviation,29-Oct-08,Active,G-SLVR,
+24756,300,Boeing 767-381,JA8363,All Nippon Airways,12-Apr-90,Scrapped,,
+24727,301,Boeing 767-283(ER),XA-TOJ,Aeromexico,27-Jun-99,Written Off,PT-TAI,lsf BCC
+24574,302,Boeing 767-375(ER),C-FXCA,Air Canada Rouge,24-Jan-18,Stored,,"639, lsf GECAS"
+24742,303,Boeing 767-284(ER),N988AN,Ansett Worldwide (AWAS),24-Jul-12,Scrapped,CP-2659,
+24759,304,Boeing 767-332(ER)(WL),N171DN,Delta Air Lines,9-Jun-90,Stored,,171
+24728,305,Boeing 767-283(ER),N728CG,Aviation Capital Group (ACG),28-Oct-15,Stored,XA-FRJ,
+24764,306,Boeing 767-2B7(ER),N251AY,KMW Leasing,21-Oct-15,Scrapped,N651US,
+24762,307,Boeing 767-284(ER),XA-JBC,Aeromexico,26-Nov-98,Scrapped,XA-RVY,SkyTeam cs
+24765,308,Boeing 767-2B7(ER),N252AU,KMW Leasing,21-Oct-15,Scrapped,N652US,
+24846,309,Boeing 767-383(ER),N846AU,AerSale Inc,6-Nov-19,Stored,HS-AAB,
+24766,310,Boeing 767-3D6,7T-VJG,Air Algérie,28-Jun-90,Stored,,
+24575,311,Boeing 767-375(ER),C-FOCA,Air Canada,29-Mar-01,Stored,,640
+24775,312,Boeing 767-332(ER)(WL),N172DN,Delta Air Lines,22-Jun-90,Stored,,172
+24800,313,Boeing 767-332(ER),N173DN,Delta Air Lines,28-Jun-90,Scrapped,,173
+24843,314,Boeing 767-341(ER),SP-LPE,LOT - Polish Airlines,13-Jul-05,Scrapped,N483TC,Star Alliance cs
+24847,315,Boeing 767-383(ER),PH-AHX,Arke,3-Oct-13,Scrapped,LN-RCD,
+24832,316,Boeing 767-27E(ER),4X-EAE,El Al Israel Airlines,12-Feb-99,Scrapped,F-GHGD,610
+24802,317,Boeing 767-332(ER)(WL),N174DN,Delta Air Lines,20-Jul-90,Stored,,174
+24803,318,Boeing 767-332(ER)(WL),N175DN,Delta Air Lines,26-Jul-90,Active,,175
+24853,319,Boeing 767-338(ER)(BDSF),N363CM,ABX Air,27-Aug-12,Stored,VH-OGF,"363, lsf CAM"
+24852,320,Boeing 767-332,N131DN,Delta Air Lines,3-Aug-90,Scrapped,,131
+24835,321,Boeing 767-259(ER),N249AT,AeroTurbine,23-Mar-12,Scrapped,ZS-SOF,
+24865,322,Boeing 767-35D(ER),ZS-NEX,Aeronexus Corporation,2-Feb-16,Active,N865AG,
+24767,323,Boeing 767-3D6,7T-VJH,Air Algérie,17-Aug-90,Stored,,
+24844,324,Boeing 767-341(ER)(WL),N190AT,Apollo Aviation,26-Sep-13,Scrapped,OO-TUC,
+24848,325,Boeing 767-383(ER),N24848,WFBN Wells Fargo Bank Northwest,16-Feb-16,Stored,HS-BID,
+24854,326,Boeing 767-27E(ER),4X-EAF,El Al Israel Airlines,2-Apr-99,Scrapped,F-GHGE,"Daliat El Carmel, 611"
+24782,327,Boeing 767-346,N783CK,Kalitta Air,18-Dec-15,Stored,JA8364,
+24797,328,Boeing 767-38E,N798AS,AerSale Inc,2-Sep-10,Scrapped,5Y-KQP,
+24783,329,Boeing 767-346,N784CK,Kalitta Air,17-Feb-16,Stored,JA8365,
+24849,330,Boeing 767-383(ER),N125RD,Ryan International Airlines,17-Aug-09,Scrapped,XA-MIR,lsf Aircastle
+,,,,,,,,
+24798,331,Boeing 767-38E,N798AW,Ansett Worldwide (AWAS),8-Apr-10,Scrapped,B-MAW,
+24768,332,Boeing 767-3D6,7T-VJI,Air Algérie,12-Oct-90,Stored,N6009F,
+24867,333,Boeing 767-2N0(ER),Z-WPF,Air Zimbabwe,26-Oct-90,Active,,Chimanimani
+24983,334,Boeing 767-3P6(ER)(BDSF)(WL),N409AZ,Amazon Prime Air,13-Dec-19,Active,N1501P,opby Air Transport International
+24340,335,Boeing 767-336(ER),G-BNWH,British Airways,31-Oct-90,Stored,N6005C,
+24880,336,Boeing 767-381,JA8368,All Nippon Airways,31-Oct-90,Scrapped,,
+24477,337,Boeing 767-383(ER),PH-AHQ,Arke,3-Oct-13,Scrapped,OY-KDL,
+24894,338,Boeing 767-2B7(ER),N253AY,American Airlines,9-Dec-13,Scrapped,N653US,"253, lsf Aircastle"
+24984,339,Boeing 767-3P6(ER)(WL),N152DL,Delta Air Lines,26-Feb-97,Active,A4O-GM,1502
+24985,340,Boeing 767-3P6(ER)(BDSF)(WL),N449AZ,Air Transport International,29-May-20,Stored,N153DL,lsf CAM
+25061,341,Boeing 767-332(ER)(WL),N176DN,Delta Air Lines,15-Dec-90,Stored,,176
+24341,342,Boeing 767-336(ER),F-HILU,OpenSkies,8-Aug-16,Scrapped,G-BNWI,
+24929,343,Boeing 767-338(ER)(BDSF),N373CM,Amerijet International,4-Dec-15,Active,VH-OGG,lsf CAM
+24930,344,Boeing 767-338(ER)(BDSF),N313AZ,Amazon Prime Air,20-Dec-16,Active,N377CM,"313, opby Air Transport International"
+24981,345,Boeing 767-332,N132DN,Delta Air Lines,10-Jan-91,Stored,,
+25122,346,Boeing 767-332(ER)(WL),N177DN,Delta Air Lines,19-Jan-91,Stored,,177
+24973,347,Boeing 767-216(ER),EI-CXZ,Transaero Airlines,25-Jul-02,Stored,N502GX,
+24982,348,Boeing 767-332,N133DN,Delta Air Lines,24-Jan-91,Stored,,
+25143,349,Boeing 767-332(ER)(WL),N178DN,Delta Air Lines,5-Apr-91,Stored,,178
+25144,350,Boeing 767-332(ER)(WL),N179DN,Delta Air Lines,17-Apr-91,Stored,,179
+24947,351,Boeing 767-3Y0(ER)(WL),VP-BUX,Azur Air,19-Aug-16,Stored,N328JJ,lsf Azex Leasing
+25055,352,Boeing 767-381,JA8360,All Nippon Airways,18-Feb-91,Scrapped,,
+25123,353,Boeing 767-332,N134DL,Delta Air Lines,22-Feb-91,Stored,,
+24999,354,Boeing 767-3Y0(ER),C-GHPD,Air Canada,22-Jul-02,Scrapped,N25034,"687, lsf AerCo"
+24745,355,Boeing 767-3Q8(ER),VP-BUV,Azur Air,22-Jul-16,Stored,N275AG,lsf Azex Leasing
+25145,356,Boeing 767-332,N135DL,Delta Air Lines,8-Mar-91,Scrapped,,135
+24952,357,Boeing 767-3Y0(ER),N334AT,AeroTurbine,14-Jun-13,Scrapped,YL-LCY,
+24729,358,Boeing 767-383(ER)(BDSF),N220CY,ABX Air,30-Apr-12,Active,EC-LKV,lsf CAM
+25088,359,Boeing 767-383(ER),N767PF,Pacific Airfinance,28-Aug-12,Scrapped,HS-BIE,
+25091,360,Boeing 767-322(ER)(WL),N641UA,United Airlines,18-Apr-91,Stored,,6441
+25120,361,Boeing 767-375(ER),C-GLCA,Air Canada,29-Mar-01,Stored,,641
+25058,362,Boeing 767-204(ER),N152AT,AeroTurbine,16-Jan-09,Scrapped,G-BYAA,
+24342,363,Boeing 767-336(ER),N705KW,Eastern Airlines,21-Jun-18,Active,N793JM,705
+24343,364,Boeing 767-336(ER),N703KW,Eastern Airlines,16-Jun-18,Active,N740JM,703
+25203,365,Boeing 767-336(ER),HS-JAS,Jet Asia Airways,8-Jan-14,Stored,N797JM,
+25076,366,Boeing 767-3T7(ER),N676AC,Aircastle,23-Oct-12,Scrapped,VP-BWU,
+25092,367,Boeing 767-322(ER)(WL),N642UA,United Airlines,9-May-91,Stored,,6442
+25093,368,Boeing 767-322(ER)(WL),N643UA,United Airlines,24-May-91,Active,,"6443, lsf Avolon"
+25094,369,Boeing 767-322(ER)(WL),N644UA,United Airlines,17-May-91,Stored,,6444
+25117,370,Boeing 767-3T7(ER),HS-BKC,Orient Thai Airlines,30-Nov-12,Scrapped,VP-BWV,
+24875,371,Boeing 767-319(ER)(BDSF),N331AZ,Amazon Prime Air,3-Mar-17,Active,N385CM,opby Air Transport International
+25121,372,Boeing 767-375(ER),C-GSCA,Air Canada Rouge,9-May-17,Stored,B-2564,"642, lsf Avolon"
+25139,373,Boeing 767-204(ER),N178AT,AeroTurbine,21-Jan-09,Scrapped,G-BYAB,
+25146,374,Boeing 767-332,N136DL,Delta Air Lines,15-Jun-91,Stored,,136
+25225,375,Boeing 767-2B7(ER),N654US,US Airways,27-Feb-97,Written Off,,
+25204,376,Boeing 767-336(ER),G-BNWM,British Airways,25-Jun-91,Scrapped,,
+25137,377,Boeing 767-330(ER),N701LF,ILFC,25-Mar-14,Scrapped,EI-DJL,
+24746,378,Boeing 767-3Q8(ER),RA-73030,Azur Air,14-Jul-18,Stored,VP-BVI,
+25136,379,Boeing 767-381(ER)(BCF),N394UP,United Parcel Service (UPS),9-Dec-19,Active,N327CM,lsf CAM
+24948,380,Boeing 767-3Y0(ER),N617SC,GECAS,29-May-12,Scrapped,S2-AFR,
+25208,381,Boeing 767-330(ER),4X-EAJ,El Al Israel Airlines,25-Mar-04,Stored,N208LS,"Bat Yam / בת ים, 635, lsf GECAS"
+25209,382,Boeing 767-330(ER)(WL),D-ABUZ,Condor,28-May-04,Stored,,
+25257,383,Boeing 767-2B7(ER),N255AY,American Airlines,9-Dec-13,Scrapped,N655US,255
+25221,384,Boeing 767-3S1(ER),N640GT,Atlas Air,22-Dec-11,Active,N585MS,
+25077,385,Boeing 767-37E(ER),UR-AZC,Azur Air Ukraine,19-Apr-18,Active,D-AZUB,lsf FTAI
+,,,,,,,,
+25000,386,Boeing 767-3Y0(ER),N224AT,Bank of Utah,3-Mar-14,Scrapped,TF-LLB,
+25246,387,Boeing 767-338(ER)(WL),C-FOGT,WestJet,19-Apr-16,Stored,N304BC,673
+25193,388,Boeing 767-323(ER),N36NE,New England Patriots,Sep-17,Active,N366AA,
+25241,389,Boeing 767-3P6(ER)(WL),N154DL,Delta Air Lines,30-Apr-97,Active,A4O-GO,1504
+25269,390,Boeing 767-3P6(ER)(WL),N155DL,Delta Air Lines,12-Jun-97,Stored,A4O-GP,1505
+25280,391,Boeing 767-322(ER)(WL),UR-GEA,Ukraine International Airlines,28-Aug-13,Active,UR-DNM,lsf Aircastle
+25306,392,Boeing 767-332,N137DL,Delta Air Lines,25-Sep-91,Stored,,137
+25273,393,Boeing 767-31A(ER)(WL),OE-LAT,Austrian Airlines,31-Mar-07,Stored,PH-MCK,Thailand
+25194,394,Boeing 767-323(ER),N225NE,New England Patriots,27-Oct-17,Active,N39367,
+25365,395,Boeing 767-383(ER),P2-PXW,Air Niugini,19-Apr-11,Stored,TF-FIB,
+25274,396,Boeing 767-338(ER)(WL),C-FOGJ,WestJet,13-Oct-15,Stored,N324BC,671
+25316,397,Boeing 767-338(ER)(BDSF),N311AZ,Amazon Prime Air,31-Oct-16,Active,N380CM,opby Air Transport International
+25444,398,Boeing 767-336(ER),G-BNWN,British Airways,30-Oct-91,Stored,,
+25347,399,Boeing 767-38E(ER),C-GDUZ,Air Canada Rouge,18-Jul-17,Stored,HL7266,646
+25312,400,Boeing 767-31A(ER),N325MP,Residco,7-Dec-11,Scrapped,PH-MCI,
+25293,401,Boeing 767-381,JA8357,All Nippon Airways,14-Nov-91,Stored,,
+25363,402,Boeing 767-338(ER)(WL),C-FWAD,WestJet,25-Jan-16,Stored,N326BC,672
+25346,403,Boeing 767-33A(ER),EI-DFS,Transaero Airlines,31-May-04,Stored,ET-AKW,lsf VEB-Leasing
+25195,404,Boeing 767-323(ER)(BDSF),N396CM,Amerijet International,31-Oct-17,Active,N368AA,lsf CAM
+24953,405,Boeing 767-3Y0(ER),N953KW,Jet Midwest Group,18-Jun-19,Stored,4X-EAP,
+25354,406,Boeing 767-3P6(ER)(WL),N156DL,Delta Air Lines,21-Jul-97,Stored,A4O-GR,1506
+25421,407,Boeing 767-2B1(ER),N421AV,Avianca,9-Nov-99,Scrapped,PT-TAK,lsf GECAS
+25411,408,Boeing 767-3Y0(ER),VP-BUY,Azur Air,31-Oct-16,Stored,N869TM,lsf Azex Leasing
+25403,409,Boeing 767-33A(ER),N637TW,Ryan International Airlines,14-Jul-09,Scrapped,PR-BRW,lsf GECAS
+25409,410,Boeing 767-332,N138DL,Delta Air Lines,17-Jan-92,Stored,,138
+25404,411,Boeing 767-38E(ER),C-GBZR,Air Canada Rouge,30-Mar-17,Stored,HL7267,645
+26544,412,Boeing 767-383(ER)(BDSF),N226CY,ABX Air,16-Oct-14,Active,EC-LKI,"226, lsf CAM"
+24876,413,Boeing 767-319(ER),N767WA,Fly Jamaica,16-Jun-14,Stored,N762NA,lsf Wings Aviation
+25530,414,Boeing 767-33A(ER)(WL),UR-GEB,Ukraine International Airlines,11-Nov-13,Stored,UR-AAI,
+26469,415,Boeing 767-31A(ER),N326MP,Residco,7-Dec-11,Scrapped,PH-MCL,
+26470,416,Boeing 767-31A(ER),N328MP,Residco,15-Jul-19,Stored,FAB2900,
+25132,417,Boeing 767-38E(ER),N641GT,Atlas Air,30-Jun-11,Active,PR-VAF,641
+25442,418,Boeing 767-336(ER),G-BNWO,British Airways,2-Mar-92,Scrapped,,
+25443,419,Boeing 767-336(ER),N700KW,Eastern Airlines,10-Aug-18,Active,N254MY,700
+25283,420,Boeing 767-322(ER)(WL),N646UA,United Airlines,18-Mar-92,Active,,6446
+25732,421,Boeing 767-336(ER),G-BNWR,British Airways,20-Mar-92,Stored,,
+25196,422,Boeing 767-323(ER)(BDSF),C-GXAJ,Cargojet Airways,1-Nov-18,Active,N369AA,639
+25531,423,Boeing 767-33A(ER),N583HA,Hawaiian Airlines,4-Mar-02,Stored,D-AMUP,"'A, lsf AerCap"
+25284,424,Boeing 767-322(ER)(WL),N647UA,United Airlines,6-Apr-92,Active,,6447
+25197,425,Boeing 767-323(ER)(BDSF)(WL),C-FCCJ,Cargojet Airways,27-Oct-17,Active,N370AA,"640, lsf CAM"
+25864,426,Boeing 767-375(ER)(WL),N649GT,Atlas Air,25-May-16,Stored,N661CS,649
+25984,427,Boeing 767-332,N139DL,Delta Air Lines,8-May-92,Scrapped,,139
+25985,428,Boeing 767-332(ER)(WL),N180DN,Delta Air Lines,25-Apr-92,Stored,,180
+25875,429,Boeing 767-3J6,N332MP,WFBN Wells Fargo Bank Northwest,20-Jan-12,Scrapped,B-2557,
+25865,430,Boeing 767-375(ER)(BCF)(WL),N1217A,Atlas Air,8-Dec-16,Written Off,N631GT,lsf AerCap
+25198,431,Boeing 767-323(ER)(BDSF),N353AZ,Amazon Prime Air,13-Jun-17,Active,N371AA,"353, opby Air Transport International"
+25616,432,Boeing 767-381(ER)(BCF),JA8358,All Nippon Airways,21-Oct-09,Active,,
+25199,433,Boeing 767-323(ER)(BDSF)(WL),N379CX,Northern Air Cargo,5-Feb-18,Active,N372AA,"379, lsf CAM"
+26063,434,Boeing 767-35E(ER)(BCF),C-GUAJ,Cargojet Airways,9-Oct-14,Active,N224CY,631
+25200,435,Boeing 767-323(ER)(BDSF)(WL),N379AZ,Amazon Prime Air,1-Jul-19,Active,N373AA,opby Air Transport International
+26236,436,Boeing 767-3P6(ER)(BDSF),N762CK,Kalitta Air,10-Jan-17,Active,EI-UND,762
+25201,437,Boeing 767-323(ER)(BDSF),N351CM,Strat Air,27-Jul-18,Active,N374AA,opby Northern Air Cargo
+26064,438,Boeing 767-35E(ER)(BCF),C-GYAJ,Cargojet Airways,9-Oct-14,Active,N225CY,"632, lsf Altavair AirFinance"
+25617,439,Boeing 767-381,JA8359,Hokkaido International Airlines - Air Do,21-Nov-09,Stored,,
+26238,440,Boeing 767-3P6(ER)(BDSF),N765CK,Kalitta Air,18-May-18,Active,2-EUNF,765
+,,,,,,,,
+25202,441,Boeing 767-323(ER)(BDSF),N443AZ,Air Transport International,4-May-20,Active,N360CM,"443, lsf CAM"
+25532,442,Boeing 767-33A(ER),UR-AAG,AeroSvit Airlines,25-Mar-11,Stored,V8-RBG,
+25285,443,Boeing 767-322(ER)(WL),N648UA,United Airlines,20-Jul-92,Stored,,"6448, lsf ORIX Aviation"
+25286,444,Boeing 767-322(ER)(WL),N649UA,United Airlines,27-Jul-92,Stored,,6449
+26387,445,Boeing 767-35H(ER),C-GHLA,Air Canada Rouge,12-Apr-16,Stored,VH-BZL,"656, lsf Avolon"
+25986,446,Boeing 767-332(ER)(WL),N181DN,Delta Air Lines,7-Aug-92,Stored,,181
+25445,447,Boeing 767-323(ER)(BDSF),N376AN,Air Transport International,23-Jun-18,Active,,lsf CAM
+26417,448,Boeing 767-3Z9(ER)(WL),OE-LAW,Austrian Airlines,11-Feb-05,Stored,,China
+25287,449,Boeing 767-322(ER),N625HR,Houston Rockets,18-Jan-19,Stored,HS-AAC,
+26200,450,Boeing 767-3Y0(ER),N288SC,GECAS,30-Sep-13,Scrapped,5R-MFJ,
+25575,451,Boeing 767-338(ER)(BDSF),N372CM,ABX Air,27-Jul-15,Active,VH-OGM,"372, lsf CAM"
+25389,452,Boeing 767-322(ER)(WL),N651UA,United Airlines,14-Sep-92,Active,,6451
+25446,453,Boeing 767-323(ER)(BDSF)(WL),C-GAJG,Cargojet Airways,23-Nov-18,Active,N366CM,lsf CAM
+25533,454,Boeing 767-33A(ER)(WL),UR-GEC,Ukraine International Airlines,24-Dec-13,Stored,UR-AAJ,
+26991,455,Boeing 767-330(ER)(WL),D-ABUA,Condor,28-May-04,Stored,,lsf Castlelake
+26388,456,Boeing 767-35H(ER),C-GHLK,Air Canada Rouge,31-May-16,Stored,VH-BZM,"657, lsf Avolon"
+25390,457,Boeing 767-322(ER)(WL),N652UA,United Airlines,30-Sep-92,Active,,6452
+25618,458,Boeing 767-381,JA8322,All Nippon Airways,14-Oct-92,Stored,,
+26389,459,Boeing 767-35H(ER),9H-KIA,Blue Panorama Airlines,2-Oct-18,Active,EI-DBP,"Città di Mérida, lsf Avolon"
+25391,460,Boeing 767-322(ER)(WL),N653UA,United Airlines,27-Oct-92,Stored,,"6453, Star Alliance cs"
+25987,461,Boeing 767-332(ER)(WL),N182DN,Delta Air Lines,5-Nov-92,Stored,,182
+25392,462,Boeing 767-322(ER)(WL),N654UA,United Airlines,10-Nov-92,Stored,,"6454, lsf ORIX Aviation"
+25654,463,Boeing 767-381(ER)(BCF),JA8323,All Nippon Airways,14-Mar-02,Stored,,
+26204,464,Boeing 767-3Y0(ER),N764RD,Delta Material Services,24-Jan-13,Stored,PR-VAD,
+25655,465,Boeing 767-381,JA8324,All Nippon Airways,23-Nov-92,Stored,,
+26987,466,Boeing 767-330(ER)(WL),D-ABUB,Condor,28-May-04,Stored,,lsf Castlelake
+27095,467,Boeing 767-3Z9(ER)(WL),OE-LAX,Austrian Airlines,6-Apr-07,Stored,,Salzburger Festspiele
+25393,468,Boeing 767-322(ER)(WL),N655UA,United Airlines,11-Dec-92,Stored,,6455
+25447,469,Boeing 767-323(ER)(BDSF)(WL),N395CM,Air Transport International,27-Sep-17,Active,N378AN,"395, lsf CAM"
+26992,470,Boeing 767-330(ER)(WL),D-ABUC,Condor,28-May-04,Stored,,lsf Castlelake
+26983,471,Boeing 767-330(ER)(WL),D-ABUD,Condor,28-May-04,Stored,,lsf Castlelake
+25394,472,Boeing 767-322(ER)(WL),N656UA,United Airlines,20-Jan-93,Active,,"6456, lsf ORIX Aviation"
+25826,473,Boeing 767-336(ER),G-BNWS,British Airways,19-Feb-93,Scrapped,N6018N,
+26205,474,Boeing 767-3Y0(ER),985,Fuerza Aérea de Chile (Chilean Air Force),29-Aug-08,Active,CS-TLQ,
+27048,475,Boeing 767-27G(ER),N761XA,AerSale Inc,5-Jun-15,Scrapped,N48AQ,
+25828,476,Boeing 767-336(ER),G-BNWT,British Airways,8-Feb-93,Scrapped,,
+25534,477,Boeing 767-33A(ER)(WL),UR-CSX,Ukrainian Wings,3-May-20,Active,YA-KMR,
+25876,478,Boeing 767-3J6,N330MP,WFBN Wells Fargo Bank Northwest,20-Jan-12,Scrapped,B-2558,
+27112,479,Boeing 767-322(ER)(WL),N657UA,United Airlines,1-Mar-93,Active,,6457
+27113,480,Boeing 767-322(ER)(WL),N658UA,United Airlines,4-Mar-93,Active,,6458
+25448,481,Boeing 767-323(ER)(BDSF)(WL),N379AA,Cargo Aircraft Management (CAM),8-Jul-19,Stored,,
+27049,482,Boeing 767-27G(ER),HA-LHB,Malév Hungarian Airlines,16-May-08,Stored,N60668,
+25829,483,Boeing 767-336(ER),G-BNWU,British Airways,16-Mar-93,Scrapped,,
+26256,484,Boeing 767-39H(ER)(BCF)(WL),C-FGSJ,Cargojet Airways,16-Jan-15,Active,OY-SRS,634
+27114,485,Boeing 767-322(ER)(WL),N659UA,United Airlines,1-Apr-93,Stored,,6459
+26847,486,Boeing 767-2B7(ER),N256AY,KMW Leasing,21-Oct-15,Scrapped,N656US,
+26206,487,Boeing 767-3Y0(ER)(BDSF),N1181A,Amazon Prime Air,13-Jul-17,Active,N505CS,opby Atlas Air
+26257,488,Boeing 767-39H(ER)(BDSF),C-FDIJ,Cargojet Airways,2-Apr-15,Active,N760NA,"635, lsf AerCap"
+25449,489,Boeing 767-323(ER)(BDSF)(WL),C-GAAJ,Cargojet Airways,17-Jan-19,Active,N380AN,"641, lsf Elevate Capital Partners"
+27140,490,Boeing 767-336(ER),G-BNWV,British Airways,29-Apr-93,Scrapped,,
+25535,491,Boeing 767-33A(ER),UR-AZD,Azur Air Ukraine,20-Aug-18,Active,D-AZUC,lsf Azex Leasing
+27110,492,Boeing 767-332(ER)(WL),N183DN,Delta Air Lines,29-Apr-93,Stored,,183
+27135,493,Boeing 767-328(ER)(BDSF),C-FMIJ,Cargojet Airways,11-Sep-15,Active,4X-AGM,636
+27115,494,Boeing 767-322(ER)(WL),N660UA,United Airlines,17-May-93,Stored,,6460
+25450,495,Boeing 767-323(ER)(WL),N381AN,Cargo Aircraft Management (CAM),14-May-19,Stored,,
+,,,,,,,,
+27111,496,Boeing 767-332(ER)(WL),N184DN,Delta Air Lines,25-May-93,Stored,,184
+27136,497,Boeing 767-328(ER),N342AX,Omni Air International,11-Jan-15,Active,N225LF,lsf CAM
+25451,498,Boeing 767-323(ER)(BDSF)(WL),N399CM,Aloha Air Cargo,7-Nov-17,Active,N382AN,opby Air Transport International
+25988,499,Boeing 767-332,N140LL,Delta Air Lines,17-Jun-93,Stored,,1401
+26995,500,Boeing 767-323(ER)(BDSF)(WL),N347CM,Amerijet International,2-Oct-18,Active,N383AN,lsf CAM
+26233,501,Boeing 767-3P6(ER)(BDSF),N763CK,Kalitta Air,10-Jan-17,Active,EI-UNA,763
+26235,502,Boeing 767-3P6(ER),YI-AQM,Iraqi Airways,21-Jun-10,Stored,N90GV,
+26207,503,Boeing 767-3Y0(ER)(BDSF),N642GT,Polar Air Cargo,25-Feb-16,Active,C-GHPH,
+25536,504,Boeing 767-33A(ER)(WL),UR-GED,Ukraine International Airlines,3-Mar-14,Active,UR-VVV,
+26208,505,Boeing 767-3Y0(ER)(BDSF),N1619A,Amazon Prime Air,15-Sep-18,Active,CS-TFT,opby Atlas Air
+25989,506,Boeing 767-332,N1402A,Delta Air Lines,20-Jul-93,Stored,,1402
+27158,507,Boeing 767-322(ER)(WL),N661UA,United Airlines,29-Jul-93,Stored,,6461
+25583,508,Boeing 767-333(ER)(WL),C-FMWP,Air Canada Rouge,19-Jun-14,Stored,,631
+26912,509,Boeing 767-319(ER)(BDSF)(WL),N367AZ,Amazon Prime Air,7-Aug-19,Active,N730WE,opby Air Transport International
+25656,510,Boeing 767-381,N112TU,ANA Trading Corporation,20-Nov-18,Stored,JA8567,
+26471,511,Boeing 767-2B1(ER),N542BC,Boeing Capital Corporation (BCC),20-Feb-15,Scrapped,XA-OAM,
+26996,512,Boeing 767-323(ER)(WL),N384AA,Cargo Aircraft Management (CAM),23-Dec-19,Stored,,
+27159,513,Boeing 767-322(ER)(WL),N662UA,United Airlines,30-Aug-93,Stored,,6462
+27160,514,Boeing 767-322(ER)(WL),N663UA,United Airlines,30-Aug-93,Stored,,6463
+25657,515,Boeing 767-381,N113TU,ANA Trading Corporation,3-Dec-18,Scrapped,JA8568,
+27050,516,Boeing 767-381,N114TU,ANA Trading Corporation,28-Dec-18,Stored,JA8569,
+25537,517,Boeing 767-27G(ER),V8-MHB,Brunei Government,26-Feb-00,Active,V8-MJB,
+26984,518,Boeing 767-330(ER)(WL),D-ABUE,Condor,28-May-04,Stored,N1788B,lsf Castlelake
+25658,519,Boeing 767-381,JA8578,All Nippon Airways,1-Nov-93,Stored,,
+25659,520,Boeing 767-381,JA8579,All Nippon Airways,1-Dec-93,Stored,,
+27189,521,Boeing 767-33A(ER)(WL),UR-VVW,AeroSvit Airlines,9-Jun-11,Stored,V8-RBL,lsf AWAS
+27254,522,Boeing 767-3P6(ER),VP-BKS,Kalair,7-Apr-98,Active,A4O-GW,
+25757,523,Boeing 767-38E,HL7247,Asiana Airlines,31-Jan-94,Scrapped,,
+27192,524,Boeing 767-25E(BDSF),OY-SRM,Star Air,15-Dec-05,Active,N621EV,lsf GECAS
+27255,525,Boeing 767-3P6(ER),N804MS,Las Vegas Sands Corporation,14-Jun-05,Active,HZ-WBT6,
+25831,526,Boeing 767-336(ER),G-BNWW,British Airways,3-Feb-94,Scrapped,,
+27193,527,Boeing 767-25E(BDSF),OY-SRI,Star Air,13-Sep-05,Active,N622EV,lsf GECAS
+27205,528,Boeing 767-31K(ER)(BDSF)(WL),N1373A,Amazon Prime Air,17-Nov-17,Active,G-TCCA,opby Atlas Air
+25832,529,Boeing 767-336(ER),G-BNWX,British Airways,1-Mar-94,Scrapped,,
+25877,530,Boeing 767-3J6,B-2559,Air China,16-Mar-94,Scrapped,,
+27212,531,Boeing 767-328(ER)(BDSF),C-GVIJ,Cargojet Airways,9-Mar-15,Active,N365CM,
+27194,532,Boeing 767-25E(BDSF),OY-SRO,Star Air,22-Mar-06,Active,N623EV,lsf GECAS
+27206,533,Boeing 767-31K(ER)(BCF)(WL),N1489A,Amazon Prime Air,10-Jul-18,Active,G-DAJC,opby Atlas Air
+26259,534,Boeing 767-31B(ER)(WL),D-ABUL,Condor,16-Mar-12,Stored,EI-CRD,lsf AerCap
+27195,535,Boeing 767-25E(BDSF),OY-SRJ,Star Air,2-Nov-05,Active,N625EV,lsf GECAS
+27059,536,Boeing 767-323(ER)(WL),N385AM,Cargo Aircraft Management (CAM),21-Apr-20,Stored,,
+26985,537,Boeing 767-330(ER)(WL),D-ABUF,Condor,28-May-04,Stored,,lsf Castlelake
+26234,538,Boeing 767-3P6(ER)(BDSF),N764CK,Kalitta Air,10-Jan-17,Active,EI-UNB,764
+25660,539,Boeing 767-381,JA8670,All Nippon Airways,9-May-94,Stored,,
+27060,540,Boeing 767-323(ER)(BDSF)(WL),N337AZ,Amazon Prime Air,22-Jul-17,Active,N386AA,opby Air Transport International
+27184,541,Boeing 767-323(ER)(BDSF)(WL),N378CX,Amerijet International,30-May-18,Active,N387AM,"378, lsf CAM"
+25170,542,Boeing 767-31B(ER)(WL),D-ABUM,Condor,3-Aug-12,Stored,EI-CRF,"Achim, 1980s retro cs"
+25661,543,Boeing 767-381,JA8674,All Nippon Airways,15-Jun-94,Stored,,
+26237,544,Boeing 767-3P6(ER),YI-AQW,Iraqi Airways,17-Apr-12,Stored,JY-JRD,
+27310,545,Boeing 767-33A(ER)(BDSF),N1997A,Amazon Prime Air,2-Aug-16,Active,N648GT,"Amazon One, 97A, opby Atlas Air"
+27309,546,Boeing 767-36D,N879BC,Alta Airlines Holdings,8-Jul-19,Stored,B-2563,
+27311,547,Boeing 767-346,N571UA,Unical Aviation,29-Jun-16,Scrapped,JA8397,
+27312,548,Boeing 767-346,N572UA,Unical Aviation,2-Aug-16,Stored,JA8398,
+25576,549,Boeing 767-338(ER)(WL),C-GOGN,WestJet,2-Dec-15,Stored,N328BC,670
+25577,550,Boeing 767-338(ER)(BDSF),N371CM,ABX Air,19-Jun-15,Active,VH-OGO,lsf CAM
+,,,,,,,,
+25662,551,Boeing 767-381,JA8677,All Nippon Airways,24-Aug-94,Stored,,
+26260,552,Boeing 767-3X2(ER)(WL),I-BPAD,Blue Panorama Airlines,22-Mar-17,Stored,EI-FCV,"Città di Havana, lsf DAE Capital"
+26986,553,Boeing 767-330(ER)(WL),D-ABUH,Condor,28-May-04,Stored,N6046P,lsf Castlelake
+27313,554,Boeing 767-346,N573UA,Unical Aviation,8-Dec-16,Stored,JA8399,
+26264,555,Boeing 767-319(ER)(BDSF),N347AZ,Amazon Prime Air,30-Apr-17,Active,N396AX,"347, opby Air Transport International"
+27339,556,Boeing 767-381(ER)(BCF),JA8664,All Nippon Airways,Aug-10,Active,,
+27385,557,Boeing E-767 (B767-27C(ER)),64-3501,Japan Air Self-Defence Force (JASDF),11-Mar-98,Active,N767JA,501
+26913,558,Boeing 767-319(ER)(BDSF)(WL),N419AZ,Amazon Prime Air,30-Nov-19,Active,N830WE,opby Air Transport International
+26608,559,Boeing 767-3S1(ER)(WL),CP-3086,Boliviana de Aviación (BoA),20-Nov-17,Stored,2-DYUS,lsf Sky Holding Company
+27376,560,Boeing 767-33A(ER),CP-2880,Boliviana de Aviación (BoA),4-Nov-14,Stored,N366MS,lsf DAE Capital
+27377,561,Boeing 767-33A(ER),CP-2881,Boliviana de Aviación (BoA),8-Sep-14,Stored,N368MS,lsf DAE Capital
+26988,562,Boeing 767-330(ER)(WL),D-ABUI,Condor,28-May-04,Active,,lsf Castlelake
+27448,563,Boeing 767-323(ER)(WL),N388AA,American Airlines,13-Jan-95,Stored,,388
+27449,564,Boeing 767-323(ER)(WL),N432AX,Omni Air International,27-Jul-19,Active,N389AA,"423, lsf CAM"
+27450,565,Boeing 767-323(ER)(WL),N390AA,American Airlines,1-Feb-95,Stored,,390
+27451,566,Boeing 767-323(ER)(WL),N391AA,American Airlines,16-Feb-95,Stored,,391
+27444,567,Boeing 767-381,JA8669,All Nippon Airways,1-Mar-95,Stored,,
+27392,568,Boeing 767-324(ER)(BCF)(WL),N739DH,Kalitta Air,3-Dec-18,Active,EI-CMD,"739, lsf DHL"
+25878,569,Boeing 767-3J6,B-2560,Air China,17-Mar-95,Scrapped,,
+26265,570,Boeing 767-31B(ER)(BCF)(WL),N1361A,Amazon Prime Air,12-Aug-17,Active,N639GT,"61A, opby Atlas Air"
+27393,571,Boeing 767-324(ER)(WL),N645GT,Atlas Air,28-Aug-15,Active,N861TM,645
+27394,572,Boeing 767-324(ER)(WL),N394DL,Delta Air Lines,21-Apr-98,Stored,HL7505,1521
+27445,573,Boeing 767-381,JA8342,All Nippon Airways,27-Apr-95,Stored,,
+26915,574,Boeing 767-319(ER)(BDSF)(WL),N389AZ,Amazon Prime Air,Jun-19,Active,N382CM,opby Air Transport International
+26261,575,Boeing 767-352(ER)(WL),N261LF,AerSale Inc,7-Jan-19,Stored,5N-BQN,
+27961,576,Boeing 767-332(ER)(WL),N185DN,Delta Air Lines,3-May-95,Stored,,185
+27902,577,Boeing 767-35D(ER),EC-LZO,Privilege Style,18-Dec-13,Active,EI-FDI,"Eduardo Barreiros, lsf DAE Capital"
+27908,578,Boeing 767-33A(ER),N351AX,Omni Air International,11-Aug-09,Active,I-DEIF,"351, lsf CAM"
+27427,579,Boeing 767-328(ER)(WL),CP-3017,Boliviana de Aviación (BoA),23-Feb-16,Stored,VQ-BMU,lsf Castlelake
+27239,580,Boeing 767-34AF(ER)(WL),N301UP,United Parcel Service (UPS),24-Oct-95,Active,,301
+27658,581,Boeing 767-346,N982UA,Unical Aviation,21-Jan-20,Stored,JA8975,
+25758,582,Boeing 767-38E,HL7248,Asiana Airlines,12-Jul-95,Stored,,
+26262,583,Boeing 767-352(ER),2-XEAR,AerCap,6-Mar-19,Stored,4X-EAR,
+27468,584,Boeing 767-33A(ER),PT-MSQ,TAM Linhas Aéreas,10-Jun-08,Stored,I-DEID,lsf AWAS
+27962,585,Boeing 767-332(ER)(WL),N186DN,Delta Air Lines,7-Jul-95,Stored,,186
+27428,586,Boeing 767-328(ER)(BCF),N1499A,Amazon Prime Air,10-Sep-18,Active,VQ-BBI,"499, opby Atlas Air"
+27957,587,Boeing 767-306(ER)(BCF),N1321A,Amazon Prime Air,14-Jun-17,Active,N637GT,opby Atlas Air
+27391,588,Boeing E-767 (B767-27C(ER)),64-3502,Japan Air Self-Defence Force (JASDF),11-Mar-98,Active,N767JB,502
+27958,589,Boeing 767-306(ER)(WL),I-NDMJ,Neos,16-Dec-10,Stored,EI-DMJ,"Ciudad de la Habana, lsf AerCap, Moonflower cs"
+27240,590,Boeing 767-34AF(ER)(WL),N302UP,United Parcel Service (UPS),12-Oct-95,Active,,302
+27909,591,Boeing 767-33A(ER),VQ-BUO,Azur Air,1-Nov-18,Stored,D-AZUA,lsf FTAI
+26263,592,Boeing 767-306(ER)(BDSF),C-GCIJ,Cargojet Airways,4-Jan-16,Active,N263BA,638
+27568,593,Boeing 767-324(ER)(BCF)(WL),N663GT,Atlas Air,28-Feb-19,Active,I-NDDL,663
+27241,594,Boeing 767-34AF(ER)(WL),N303UP,United Parcel Service (UPS),7-Nov-95,Active,,303
+27619,595,Boeing 767-31A(ER),N662GT,Atlas Air,2-Mar-18,Active,VP-BFI,662
+25584,596,Boeing 767-333(ER)(WL),C-FMWQ,Air Canada Rouge,Jun-14,Stored,,"632, lsf Avolon"
+25585,597,Boeing 767-333(ER)(WL),C-FMWU,Air Canada Rouge,7-Apr-14,Stored,,"633, lsf CAP"
+27242,598,Boeing 767-34AF(ER)(WL),N304UP,United Parcel Service (UPS),21-Nov-95,Active,,304
+25586,599,Boeing 767-333(ER)(WL),C-FMWV,Air Canada Rouge,1-Mar-14,Stored,,"634, lsf CAP"
+27243,600,Boeing 767-34AF(ER)(WL),N305UP,United Parcel Service (UPS),11-Dec-95,Active,,305
+27569,601,Boeing 767-324(ER),N423AX,Omni Air International,24-Apr-15,Active,N767NA,lsf CAM
+27597,602,Boeing 767-316(ER)(WL),C-FMLZ,Air Canada Rouge,1-Apr-16,Stored,9Y-LHR,"677, lsf AerCap"
+27918,603,Boeing 767-33A(ER)(BDSF),C-FPIJ,Cargojet Airways,6-Nov-14,Active,4X-AGL,633
+25587,604,Boeing 767-333(ER)(WL),C-FMWY,Air Canada Rouge,7-May-14,Stored,,635
+27610,605,Boeing 767-306(ER)(WL),I-NDOF,Neos,27-Oct-19,Stored,EI-DOF,"lsf AerCap, Moonflower cs"
+,,,,,,,,
+25588,606,Boeing 767-333(ER)(WL),C-FMXC,Air Canada Rouge,15-May-14,Stored,,"636, lsf Castlelake"
+28098,607,Boeing 767-306(ER)(BCF),N1427A,Amazon Prime Air,3-Apr-18,Active,N638GT,"27A, opby Atlas Air"
+25834,608,Boeing 767-336(ER),G-BNWY,British Airways,22-Apr-96,Scrapped,,
+27959,609,Boeing 767-306(ER)(BDSF),N1399A,Amazon Prime Air,6-Jan-18,Active,8Q-MEE,opby Atlas Air
+28039,610,Boeing 767-304(ER)(BDSF),N391UP,United Parcel Service (UPS),21-Nov-19,Active,I-AIGJ,"391, lsf CAM"
+28147,611,Boeing 767-33A(ER),N378AX,Omni Air International,11-Aug-09,Active,I-DEIL,
+28111,612,Boeing 767-3G5(ER),VP-BOZ,Ikar,1-Nov-13,Stored,EI-CXO,lsf AerCap
+28040,613,Boeing 767-304(ER)(BDSF)(WL),N284DH,Kalitta Air,27-Jul-17,Active,SE-RFS,284
+28041,614,Boeing 767-304(ER)(BDSF),N392UP,United Parcel Service (UPS),11-Oct-19,Active,I-AIGG,"392, lsf CAM"
+28153,615,Boeing 767-338(ER)(BCF),B-1423,SF Airlines (ShunFeng Airlines),7-Feb-17,Active,N197CR,
+25761,616,Boeing 767-38EF(ER),HL7507,Asiana Airlines,23-Aug-96,Active,N6005C,
+27582,617,Boeing 767-332(ER)(WL),N187DN,Delta Air Lines,19-Jun-96,Stored,,187
+28016,618,Boeing E-767 (B767-27C(ER)),74-3503,Japan Air Self-Defence Force (JASDF),5-Jan-99,Active,N767JC,503
+28148,620,Boeing 767-3W0(ER),N708KW,Alta Airlines Holdings,27-Feb-20,Stored,HS-BKA,
+26327,621,Boeing 767-316(ER)(WL),C-FMLV,Air Canada Rouge,4-Mar-16,Stored,9Y-LGW,"676, lsf AerCap"
+27759,622,Boeing 767-34AF(ER)(WL),N306UP,United Parcel Service (UPS),30-Jul-96,Active,,306
+28154,623,Boeing 767-338(ER)(BCF),B-1589,SF Airlines (ShunFeng Airlines),26-Oct-16,Active,N198CR,
+27760,624,Boeing 767-34AF(ER)(WL),N307UP,United Parcel Service (UPS),20-Aug-96,Active,,307
+27960,625,Boeing 767-306(ER)(BCF),N1409A,Amazon Prime Air,20-Dec-17,Active,2-QMEF,opby Atlas Air
+27761,626,Boeing 767-34AF(ER)(WL),N308UP,United Parcel Service (UPS),5-Sep-96,Active,,308
+28149,627,Boeing 767-3W0(ER),VP-BRE,Royal Flight,18-Aug-17,Stored,N968AS,lsf AerSale Inc
+27740,628,Boeing 767-34AF(ER)(WL),N309UP,United Parcel Service (UPS),24-Sep-96,Active,,309
+28270,629,Boeing 767-24Q(ER),N767CJ,Elan Express,18-Apr-19,Active,N767KS,Drake Air cs
+27762,630,Boeing 767-34AF(ER)(WL),N310UP,United Parcel Service (UPS),10-Oct-96,Active,,310
+27583,631,Boeing 767-332(ER)(WL),N188DN,Delta Air Lines,17-Oct-96,Stored,,188
+27741,632,Boeing 767-34AF(ER)(WL),N311UP,United Parcel Service (UPS),24-Oct-96,Active,,311
+27611,633,Boeing 767-306(ER)(BDSF),N647GT,Polar Air Cargo,20-May-15,Active,ET-AME,
+27763,634,Boeing 767-34AF(ER)(WL),N312UP,United Parcel Service (UPS),7-Nov-96,Active,,312
+28370,635,Boeing 767-33P(ER)(BCF),UK67001,Uzbekistan Airways,1-Nov-14,Active,VP-BUA,Samarkand
+27764,636,Boeing 767-34AF(ER)(WL),N313UP,United Parcel Service (UPS),21-Nov-96,Stored,,313
+26328,637,Boeing 767-37D(ER)(BDSF),N1327A,Amazon Prime Air,6-Oct-17,Active,N635GT,opby Atlas Air
+27742,638,Boeing 767-34AF(ER)(WL),N314UP,United Parcel Service (UPS),6-Dec-96,Active,,314
+25760,639,Boeing 767-38E,HL7506,Asiana Airlines,19-Dec-96,Active,,
+27743,640,Boeing 767-34AF(ER)(WL),N315UP,United Parcel Service (UPS),13-Dec-96,Active,,315
+26329,641,Boeing 767-316(ER)(WL),CC-BJA,LATAM Airlines Chile,5-May-16,Stored,LV-BMR,lsf AerCap
+28017,642,Boeing E-767 (B767-27C(ER)),84-3504,Japan Air Self-Defence Force (JASDF),5-Jan-99,Active,N767JD,504
+28495,643,Boeing 767-33A(ER)(BDSF),N1439A,Amazon Prime Air,3-Dec-19,Active,VP-BVH,opby Air Transport International
+28264,644,Boeing 767-3W0(ER),OE-IHO,Air Lease Corporation (ALC),23-Aug-18,Stored,HS-BKE,
+25619,645,Boeing 767-381(ER)(BCF),JA8970,All Nippon Airways,18-Feb-97,Active,,
+25990,646,Boeing 767-332(ER)(WL),N189DN,Delta Air Lines,13-Feb-97,Stored,,189
+27612,647,Boeing 767-306(ER),VQ-BSX,Azur Air,24-May-15,Stored,P4-KCA,lsf AerCap
+25733,648,Boeing 767-336(ER),G-BNWZ,British Airways,25-Feb-97,Scrapped,,
+28042,649,Boeing 767-304(ER)(BCF)(WL),HP-3310DAE,DHL Aero Expreso,31-Oct-19,Active,N842DH,649
+28392,650,Boeing 767-33P(ER)(BCF),UK67002,Uzbekistan Airways,20-Dec-14,Active,VP-BUZ,Khiva
+27942,651,Boeing 767-381(ER),JA8971,All Nippon Airways,18-Mar-97,Stored,,
+27613,652,Boeing 767-316(ER)(WL),N495AX,Omni Air International,4-May-18,Active,HB-JJF,
+28447,653,Boeing 767-332(ER)(WL),N190DN,Delta Air Lines,25-Mar-97,Stored,,190
+28448,654,Boeing 767-332(ER)(WL),N191DN,Delta Air Lines,9-Apr-97,Stored,,191
+27600,655,Boeing 767-3Q8(ER),4X-EAK,El Al Israel Airlines,22-Jun-10,Scrapped,N271LF,"Rehovot / רחובות, 612, lsf AerCap"
+25763,656,Boeing 767-38E,HL7514,Asiana Airlines,22-Apr-97,Active,,
+28865,657,Boeing 767-31K(ER)(BDSF)(WL),N1487A,Amazon Prime Air,8-Nov-18,Active,G-TCCB,"Valor, 487, opby Atlas Air"
+25762,658,Boeing 767-38E,HL7515,Asiana Airlines,23-May-97,Active,N6055X,
+28656,659,Boeing 767-35D(ER),SP-LPC,LOT - Polish Airlines,21-Mar-07,Written Off,,"Poznań, lsf Aircastle"
+27744,660,Boeing 767-34AF(ER)(WL),N316UP,United Parcel Service (UPS),30-May-97,Active,,316
+27614,661,Boeing 767-306(ER),VQ-BSY,Azur Air,Mar-16,Stored,P4-KCB,lsf AerCap
+,,,,,,,,
+28724,662,Boeing 767-338(ER)(BCF),B-1576,SF Airlines (ShunFeng Airlines),19-Aug-16,Active,N208CR,
+26971,663,Boeing 767-319(ER)(WL),TF-ISP,Icelandair,8-Jul-16,Active,ZK-NCK,Eldgjá
+28449,664,Boeing 767-332(ER)(WL),N192DN,Delta Air Lines,26-Jun-97,Stored,,192
+28725,665,Boeing 767-338(ER)(BDSF),N307AZ,Amazon Prime Air,6-Sep-16,Active,N374CM,opby Air Transport International
+27745,666,Boeing 767-34AF(ER)(WL),N317UP,United Parcel Service (UPS),10-Jul-97,Active,,317
+27659,667,Boeing 767-346,JA8976,Japan Airlines,2002,Stored,,
+25759,668,Boeing 767-38E,HL7516,Asiana Airlines,17-Jul-97,Active,,Star Alliance cs
+27943,669,Boeing 767-381,JA601A,Hokkaido International Airlines - Air Do,7-Mar-12,Active,,
+27746,670,Boeing 767-34AF(ER)(WL),N318UP,United Parcel Service (UPS),18-Sep-97,Active,,318
+28450,671,Boeing 767-332(ER)(WL),N193DN,Delta Air Lines,21-Aug-97,Stored,,193
+27758,672,Boeing 767-34AF(ER)(WL),N319UP,United Parcel Service (UPS),10-Sep-97,Active,,319
+28837,673,Boeing 767-346,JA8980,Japan Airlines,15-Sep-97,Stored,,oneworld cs
+27747,674,Boeing 767-34AF(ER)(WL),N320UP,United Parcel Service (UPS),26-Sep-97,Active,,320
+28451,675,Boeing 767-332(ER)(WL),N194DN,Delta Air Lines,26-Sep-97,Stored,,194
+28452,676,Boeing 767-332(ER)(WL),N195DN,Delta Air Lines,30-Sep-97,Stored,,195
+28745,677,Boeing 767-319(ER)(WL),TF-ISW,Icelandair,7-Oct-16,Active,ZK-NCL,Gullborg
+27748,678,Boeing 767-34AF(ER)(WL),N322UP,United Parcel Service (UPS),3-Dec-97,Active,,322
+28453,679,Boeing 767-332(ER)(WL),N196DN,Delta Air Lines,30-Oct-97,Stored,,196
+28838,680,Boeing 767-346,N787CK,Kalitta Air,14-May-20,Stored,JA8986,787
+27615,681,Boeing 767-316(ER)(BCF)(WL),N1381A,Amazon Prime Air,24-Oct-17,Active,PT-MOH,opby Atlas Air
+27749,682,Boeing 767-34AF(ER)(WL),N323UP,United Parcel Service (UPS),15-Dec-97,Active,,323
+28454,683,Boeing 767-332(ER)(WL),N197DN,Delta Air Lines,23-Dec-97,Stored,,197
+27944,684,Boeing 767-381,JA602A,Hokkaido International Airlines - Air Do,Jul-16,Active,,Beardo Hokkaido Jet cs
+28455,685,Boeing 767-332(ER)(WL),N198DN,Delta Air Lines,2-Feb-98,Stored,,198
+27685,686,Boeing 767-36D,N877BC,Alta Airlines Holdings,8-Jul-19,Stored,B-2567,
+27476,687,Boeing 767-33A(ER),JA98AD,Hokkaido International Airlines - Air Do,30-Mar-98,Active,N767AN,
+28553,688,Boeing 767-346,JA8987,Japan Airlines,16-Feb-98,Stored,,
+28159,689,Boeing 767-33A(ER),JA01HD,Hokkaido International Airlines - Air Do,26-Apr-00,Active,OO-CTQ,
+28456,690,Boeing 767-332(ER)(WL),N199DN,Delta Air Lines,2-Mar-98,Stored,,199
+28979,691,Boeing 767-304(ER)(BCF)(WL),B-20AV,SF Airlines (ShunFeng Airlines),13-May-19,Active,N661AC,
+28132,692,Boeing 767-3Q8(ER),4X-EAM,El Al Israel Airlines,Jan-12,Stored,UR-VVT,"Daliat El Carmel / דאלית אל כרמל, 614, lsf AerCap"
+29129,693,Boeing 767-38E,HL7528,Asiana Airlines,30-Sep-99,Stored,N6005C,
+28206,694,Boeing 767-3Q8(ER)(WL),CC-CML,LATAM Airlines Chile,23-Nov-19,Stored,LV-ZYV,lsf AerCap
+28207,695,Boeing 767-3Q8(ER),VQ-BTQ,Ikar,20-Oct-14,Stored,B-5018,lsf AerCap
+28457,696,Boeing 767-332(ER)(WL),N1200K,Delta Air Lines,10-Apr-98,Stored,,1200
+28458,697,Boeing 767-332(ER)(WL),N1201P,Delta Air Lines,17-Apr-98,Stored,,1201
+29227,698,Boeing 767-316(ER)(WL),N544LA,Cargo Aircraft Management (CAM),23-Mar-20,Stored,LV-IQW,
+29228,699,Boeing 767-316(ER)(WL),N304CM,Cargo Aircraft Management (CAM),2-Jul-19,Stored,CC-CZT,
+29429,700,Boeing 767-323(ER)(WL),N392AN,Cargo Aircraft Management (CAM),27-Apr-20,Stored,,
+29430,701,Boeing 767-323(ER)(WL),N393AN,American Airlines,18-May-98,Stored,,393
+29230,702,Boeing 767-336(ER),G-BZHA,British Airways,22-May-98,Scrapped,,
+29431,703,Boeing 767-323(ER)(WL),N394AN,Cargo Aircraft Management (CAM),3-Dec-19,Stored,,
+29231,704,Boeing 767-336(ER),G-BZHB,British Airways,30-May-98,Scrapped,,
+28208,705,Boeing 767-304(ER)(WL),SE-RNC,TUIfly Nordic,20-Mar-19,Stored,G-OBYF,lsf AerCap
+29689,706,Boeing 767-332(ER)(WL),N169DZ,Delta Air Lines,18-Jun-98,Stored,,1601
+29236,707,Boeing 767-322(ER)(WL),N664UA,United Airlines,29-Jun-98,Stored,,6664
+29232,708,Boeing 767-336(ER),G-BZHC,British Airways,29-Jun-98,Scrapped,,
+29432,709,Boeing 767-323(ER)(WL),N395AN,Cargo Aircraft Management (CAM),7-Feb-20,Stored,,
+29117,710,Boeing 767-338(ER)(BCF),B-7593,SF Airlines (ShunFeng Airlines),6-Jan-16,Active,N196CR,
+29237,711,Boeing 767-322(ER)(WL),N665UA,United Airlines,27-Jul-98,Stored,,6665
+25756,712,Boeing 767-316F(ER)(WL),CC-CZZ,LATAM Cargo Chile,5-May-16,Active,,
+29118,713,Boeing 767-338(ER)(BCF),B-6996,SF Airlines (ShunFeng Airlines),22-Jun-16,Active,N207CR,
+27616,714,Boeing 767-3Q8(ER),VP-BLC,Royal Flight,22-Apr-16,Active,EI-EAR,lsf AerCap
+29238,715,Boeing 767-322(ER)(WL),N666UA,United Airlines,25-Aug-98,Stored,,6666
+29239,716,Boeing 767-322(ER)(WL),N667UA,United Airlines,31-Aug-98,Stored,,6667
+,,,,,,,,
+29690,717,Boeing 767-332(ER)(WL),N171DZ,Delta Air Lines,11-Sep-98,Stored,,1701
+29691,719,Boeing 767-332(ER)(WL),N172DZ,Delta Air Lines,25-Sep-98,Stored,,1702
+29435,720,Boeing 767-3G5(ER),VP-BOY,Ikar,30-Oct-13,Stored,EI-CZH,"A. Koldunov / А. Колдунов, lsf AerCap"
+25991,721,Boeing 767-332,N143DA,Delta Air Lines,15-Oct-98,Stored,,1403
+27617,722,Boeing 767-3Q8(ER),VP-BLG,Royal Flight,6-May-16,Active,EI-ECB,lsf AerCap
+29692,723,Boeing 767-332(ER)(WL),N173DZ,Delta Air Lines,2-Nov-98,Active,,1703
+27750,724,Boeing 767-34AF(ER)(WL),N324UP,United Parcel Service (UPS),30-Oct-98,Active,,324
+29693,725,Boeing 767-332(ER)(WL),N174DZ,Delta Air Lines,5-Nov-98,Stored,,1704
+27751,726,Boeing 767-34AF(ER)(WL),N325UP,United Parcel Service (UPS),13-Nov-98,Active,,325
+27618,727,Boeing 767-3Q8(ER)(WL),VP-BXW,Azur Air,24-Apr-15,Active,XA-APB,lsf AerCap
+27752,728,Boeing 767-34AF(ER)(WL),N326UP,United Parcel Service (UPS),25-Nov-98,Active,,326
+29229,729,Boeing 767-316(ER)(BDSF)(WL),N308CM,Cargo Aircraft Management (CAM),9-Aug-19,Stored,CC-CZU,
+27753,730,Boeing 767-34AF(ER)(WL),N327UP,United Parcel Service (UPS),14-Dec-98,Active,,327
+29867,731,Boeing 767-3Z9(ER)(WL),OE-LAY,Austrian Airlines,4-Jul-05,Stored,D-ABUV,Japan
+27754,732,Boeing 767-34AF(ER)(WL),N328UP,United Parcel Service (UPS),17-Dec-98,Active,,328
+29137,733,Boeing 767-304(ER)(WL),G-OBYG,TUI Airways,2-Oct-17,Stored,D-ATYG,lsf AerCap
+28043,734,Boeing 767-33A(ER),VQ-BUP,Azur Air,30-May-15,Stored,LZ-AWC,lsf FTAI
+29694,735,Boeing 767-332(ER)(WL),N1602,Delta Air Lines,22-Jan-99,Stored,,1602
+29695,736,Boeing 767-332(ER)(WL),N1603,Delta Air Lines,5-Feb-99,Active,,1603
+28883,737,Boeing 767-304(ER)(WL),G-OBYH,TUI Airways,2-Oct-17,Stored,SE-DZO,lsf AerCap
+28884,738,Boeing 767-306(ER)(BDSF),N1229A,Amazon Prime Air,2-Jun-17,Active,ET-AQG,opby Atlas Air
+29603,739,Boeing 767-323(ER)(WL),N396AN,American Airlines,25-Feb-99,Stored,,396
+29696,740,Boeing 767-332(ER)(WL),N175DZ,Delta Air Lines,4-Mar-99,Active,,1705
+29617,741,Boeing 767-38A(ER)(WL),SE-RFR,TUIfly Nordic,26-Mar-19,Stored,G-OBYK,"Sunshine, lsf GECAS"
+30024,742,Boeing 767-322(ER)(WL),N668UA,United Airlines,15-Mar-99,Stored,,6668
+30008,743,Boeing 767-343(ER)(BCF),CN-ROW,Royal Air Maroc,19-Mar-18,Active,N768MT,
+29604,744,Boeing 767-323(ER)(WL),N397AN,American Airlines,1-Apr-99,Stored,,397
+29697,745,Boeing 767-332(ER)(WL),N176DZ,Delta Air Lines,22-Apr-99,Stored,,1706
+30009,746,Boeing 767-343(ER)(WL),D-ABUK,Condor,31-Aug-11,Stored,EI-CRM,lsf GECAS
+29383,747,Boeing 767-3Q8(ER)(WL),D-ABUT,Condor,11-Mar-16,Stored,EI-UNE,lsf AerCap
+29605,748,Boeing 767-323(ER)(WL),N398AN,American Airlines,30-Apr-99,Stored,,398
+30180,749,Boeing 767-332(ER)(WL),N1604R,Delta Air Lines,28-Apr-99,Stored,,1604
+29698,750,Boeing 767-332(ER)(WL),N177DZ,Delta Air Lines,6-May-99,Stored,,1707
+27584,751,Boeing 767-332,N144DA,Delta Air Lines,13-May-99,Stored,,1404
+29606,752,Boeing 767-323(ER)(WL),N399AN,American Airlines,28-May-99,Stored,,399
+30198,753,Boeing 767-332(ER)(WL),N1605,Delta Air Lines,27-May-99,Stored,,1605
+29898,754,Boeing 767-36N(ER),N441AX,Omni Air International,3-Oct-14,Active,N768NA,lsf GECAS
+30199,755,Boeing 767-332(ER)(WL),N16065,Delta Air Lines,10-Jun-99,Stored,,"Andrew Young - Atlanta Ambassador to the World, 1606"
+27755,756,Boeing 767-34AF(ER)(WL),N329UP,United Parcel Service (UPS),24-Jun-99,Active,,329
+30025,757,Boeing 767-322(ER)(WL),N669UA,United Airlines,28-Jun-99,Stored,,6669
+29703,758,Boeing 767-432(ER),N825MH,Delta Air Lines,14-Dec-00,Stored,N6067U,1801
+30331,759,Boeing 767-3Z9(ER)(WL),OE-LAZ,Austrian Airlines,25-Apr-05,Stored,D-ABUW,India
+27756,760,Boeing 767-34AF(ER)(WL),N330UP,United Parcel Service (UPS),10-Aug-99,Stored,,330
+30107,761,Boeing 767-36N(ER)(BDSF),OY-SRU,Star Air,24-Nov-16,Active,EI-RUW,lsf GECAS
+30301,762,Boeing 767-3Q8(ER),VP-BMC,Ikar,10-Feb-14,Stored,N431LF,lsf AerCap
+29240,763,Boeing 767-322(ER)(WL),N670UA,United Airlines,31-Aug-99,Stored,,6670
+27757,764,Boeing 767-34AF(ER)(WL),N331UP,United Parcel Service (UPS),9-Sep-99,Active,,331
+30112,765,Boeing 767-375(ER),C-GEOQ,Air Canada Rouge,20-Dec-16,Stored,,"647, lsf GECAS"
+30026,766,Boeing 767-322(ER)(WL),N671UA,United Airlines,1-Oct-99,Stored,,6671
+30109,767,Boeing 767-36N(ER)(BDSF),N1049A,Amazon Prime Air,6-Sep-19,Active,N632GT,"049, opby Air Transport International"
+30341,768,Boeing 767-341(ER),P2-PXV,Air Niugini,2-Jul-10,Active,A6-JBD,lsf Loftleidir Icelandic
+29713,769,Boeing 767-432(ER),N826MH,Delta Air Lines,30-Nov-00,Stored,,1802
+27941,770,Boeing 767-36D,N885BC,Boeing Capital Corporation (BCC),19-Dec-18,Stored,B-2570,
+30108,771,Boeing 767-375(ER),C-GEOU,Air Canada Rouge,8-Feb-17,Stored,,"648, lsf GECAS"
+29863,772,Boeing 767-346,JA8988,Japan Airlines,28-Nov-99,Active,,
+,,,,,,,,
+29705,773,Boeing 767-432(ER),N827MH,Delta Air Lines,14-Dec-00,Stored,N76400,1803
+30342,774,Boeing 767-341(ER),VQ-BOG,Ikar,10-Jun-14,Stored,VP-BWQ,lsf GECAS
+30110,775,Boeing 767-36N(ER)(BCF),N1013A,Amazon Prime Air,5-Jun-18,Active,N661GT,"013, opby Atlas Air"
+30111,776,Boeing 767-36N(ER)(BDSF),N1093A,Amazon Prime Air,1-Apr-17,Active,N633GT,"93A, opby Atlas Air"
+30027,777,Boeing 767-322(ER)(WL),N672UA,United Airlines,22-Dec-99,Stored,,6672
+29881,778,Boeing 767-316F(ER)(WL),PR-ABB,LATAM Cargo Brasil,5-May-16,Active,CC-CZX,
+29241,779,Boeing 767-322(ER)(WL),N673UA,United Airlines,11-Jan-00,Stored,,6673
+27477,780,Boeing 767-33A(ER),VP-BRA,Azur Air,12-May-19,Stored,4X-EAL,
+30393,781,Boeing 767-306(ER),ET-AWQ,Ceiba Intercontinental,Feb-19,Active,3C-LLU,"Kie-Ntem, opby Ethiopian Airlines"
+29242,782,Boeing 767-322(ER)(WL),N674UA,United Airlines,5-Apr-00,Stored,,6674
+29138,783,Boeing 767-304(ER)(WL),PH-OYI,TUI Airlines Netherlands,1-Oct-15,Stored,G-OBYI,lsf AerCap
+29384,784,Boeing 767-304(ER)(WL),OO-JNL,TUI Airlines Belgium,19-Oct-16,Active,PH-OYJ,"Sunshine, lsf AerCap"
+29388,785,Boeing 767-319(ER)(WL),TF-ISO,Icelandair,5-Feb-16,Stored,EI-UNC,Hlöðufell
+30563,786,Boeing 767-3BG(ER),ET-AMF,Ethiopian Airlines,1-Jun-07,Stored,B-2561,lsf Automatic LLC
+30388,787,Boeing 767-332(ER)(WL),N1607B,Delta Air Lines,21-Apr-00,Stored,,1607
+30573,788,Boeing 767-332(ER)(WL),N1608,Delta Air Lines,21-Apr-00,Stored,,1608
+30574,789,Boeing 767-332(ER)(WL),N1609,Delta Air Lines,25-Apr-00,Stored,,1609
+30594,790,Boeing 767-332(ER)(WL),N1610D,Delta Air Lines,26-Apr-00,Stored,,1610
+29699,791,Boeing 767-432(ER),N828MH,Delta Air Lines,11-Aug-00,Active,,1804
+29618,792,Boeing 767-38A(ER),VP-BDI,Ikar,19-Apr-16,Stored,N618SH,lsf GECAS
+27686,793,Boeing 767-3Q8(ER)(BDSF),N276DH,DHL,19-Dec-19,Active,CN-ROV,"276, opby Kalitta Air"
+30595,794,Boeing 767-332(ER)(WL),N1611B,Delta Air Lines,15-May-00,Stored,,1611
+30596,795,Boeing 767-332(ER)(WL),N178DZ,Delta Air Lines,23-May-00,Stored,,1708
+30186,796,Boeing 767-338(ER),4X-ISR,Israel Air Force,14-Sep-17,Stored,N376CM,כנף ציון / Wing of Zion
+30597,797,Boeing 767-332(ER),UP-B6703,Sunday Airlines,4-Jul-14,Active,B-2499,
+30564,798,Boeing 767-3BG(ER),EI-FGN,MIAT - Mongolian Airlines,1-Jun-16,Active,ET-ALL,"Munkh Khaan, lsf FTAI"
+29446,799,Boeing 767-424(ER),N66051,United Airlines,1-Oct-10,Stored,,51
+29243,800,Boeing 767-322(ER)(WL),N675UA,United Airlines,1-Aug-00,Stored,,6675
+29700,801,Boeing 767-432(ER),N829MH,Delta Air Lines,22-Aug-00,Stored,,1805
+30565,802,Boeing 767-3BG(ER),ET-ALH,United Nations,Sep-12,Stored,HB-IHW,opby Ethiopian Airlines
+29701,803,Boeing 767-432(ER),N830MH,Delta Air Lines,13-Sep-00,Stored,,1806
+29702,804,Boeing 767-432(ER),N831MH,Delta Air Lines,20-Sep-00,Active,,1807
+29447,805,Boeing 767-424(ER),N67052,United Airlines,1-Oct-10,Stored,,52
+30780,806,Boeing 767-316F(ER)(WL),N532LA,LATAM Cargo Colombia,15-Aug-17,Active,N68077,
+29704,807,Boeing 767-432(ER),N832MH,Delta Air Lines,26-Sep-00,Stored,,1808
+30586,808,Boeing 767-319(ER)(WL),TF-ISN,Icelandair,1-Nov-15,Active,5Y-KYW,"Svörtuborgir, lsf GECAS"
+29448,809,Boeing 767-424(ER),N59053,United Airlines,1-Oct-10,Stored,,53
+29706,810,Boeing 767-432(ER),N833MH,Delta Air Lines,13-Oct-00,Stored,,1809
+30430,811,Boeing 767-224(ER)(BDSF),C-FOIJ,Cargojet Airways,8-Apr-20,Active,N430CJ,
+30383,812,Boeing 767-3Z9(ER)(WL),OE-LAE,Austrian Airlines,27-Jan-05,Stored,,Wiener Sängerknaben
+29707,813,Boeing 767-432(ER),N834MH,Delta Air Lines,6-Nov-00,Stored,,1810
+29708,814,Boeing 767-432(ER),N835MH,Delta Air Lines,4-Nov-00,Stored,,1811
+30431,815,Boeing 767-224(ER)(BDSF),C-FHCJ,Cargojet Airways,4-Feb-20,Active,N431CJ,
+29449,816,Boeing 767-424(ER),N76054,United Airlines,1-Oct-10,Stored,,54
+30566,817,Boeing 767-3BG(ER),ET-AMG,Ethiopian Airlines,7-Jul-07,Stored,B-2562,lsf Deutsche Structured Finance
+29709,818,Boeing 767-432(ER),N836MH,Delta Air Lines,13-Dec-00,Stored,,1812
+30432,819,Boeing 767-224(ER),VP-BAU,UTair Aviation,20-May-14,Stored,N76153,
+29710,820,Boeing 767-432(ER),N837MH,Delta Air Lines,20-Dec-00,Stored,,1813
+29711,821,Boeing 767-432(ER),N838MH,Delta Air Lines,10-Jan-01,Stored,,1814
+28138,822,Boeing 767-33A(ER),TJ-CAC,Camair Co,11-Nov-09,Stored,,lsf AWAS
+30433,823,Boeing 767-224(ER),VP-BAW,UTair Aviation,18-Feb-14,Stored,N69154,
+29712,824,Boeing 767-432(ER),N839MH,Delta Air Lines,26-Jan-01,Stored,,1815
+30434,825,Boeing 767-224(ER),N225AX,Omni Air International,Sep-11,Active,N68155,
+29450,826,Boeing 767-424(ER),N76055,United Airlines,1-Oct-10,Stored,,"0055, Star Alliance cs"
+30435,827,Boeing 767-224(ER),VP-BAG,UTair Aviation,22-May-12,Active,N76156,"Victor Chernomyrdin / Виктор Черномырдин, lsf VTB Leasing"
+,,,,,,,,
+30048,828,Boeing 767-3Q8(ER)(WL),D-ABUP,Condor,22-Apr-16,Stored,EI-RUZ,lsf AerCap
+30840,829,Boeing 767-38E(ER)(WL),D-ABUS,Condor,6-May-15,Active,OO-JAP,lsf GECAS
+29718,830,Boeing 767-432(ER),N840MH,Delta Air Lines,23-May-01,Stored,,1816
+29386,831,Boeing 767-3Q8(ER),C-FJZK,Air Canada Rouge,22-Jun-15,Stored,5Y-KYV,"675, lsf AerCap"
+30846,832,Boeing 767-333(ER)(WL),C-GHLQ,Air Canada Rouge,28-Jan-15,Stored,N6009F,"658, lsf GECAS"
+30436,833,Boeing 767-224(ER),N234AX,Omni Air International,2-Sep-16,Active,N67157,
+30028,834,Boeing 767-322(ER)(WL),N676UA,United Airlines,23-Apr-01,Stored,,6676
+30850,835,Boeing 767-333(ER)(WL),C-GHLT,Air Canada Rouge,20-Mar-15,Stored,N6018N,"659, lsf GECAS"
+30851,836,Boeing 767-333(ER)(WL),C-GHLU,Air Canada Rouge,3-May-15,Stored,N6046P,"660, lsf GECAS"
+30853,837,Boeing 767-36N(ER),CS-TKT,EuroAtlantic Airways,26-Sep-18,Active,EI-FKJ,lsf GECAS
+30575,838,Boeing 767-332(ER)(WL),N1612T,Delta Air Lines,26-May-01,Stored,,1612
+30437,839,Boeing 767-224(ER),VP-BAI,UTair Aviation,23-Aug-12,Active,N67158,lsf VTB Leasing
+29387,840,Boeing 767-3Q8(ER)(WL),D-ABUO,Condor,17-Feb-16,Stored,EI-RUY,lsf AerCap
+30841,841,Boeing 767-36N(ER),CS-TKS,EuroAtlantic Airways,28-Oct-15,Active,EI-FKI,lsf GECAS
+29451,842,Boeing 767-424(ER),N66056,United Airlines,1-Oct-10,Stored,,56
+30852,843,Boeing 767-333(ER)(WL),C-GHLV,Air Canada Rouge,13-Jun-15,Stored,N6055X,"661, lsf GECAS"
+30854,844,Boeing 767-36N(ER),CS-TKR,EuroAtlantic Airways,16-Oct-16,Active,EI-FLV,lsf GECAS
+30438,845,Boeing 767-224(ER),N207AX,Omni Air International,28-Oct-15,Active,N68159,
+32572,846,Boeing 767-316F(ER)(WL),N534LA,LATAM Cargo Chile,9-Nov-17,Active,N68078,
+32776,847,Boeing 767-332(ER)(WL),N1613B,Delta Air Lines,10-Aug-01,Stored,,1613
+32573,848,Boeing 767-316F(ER)(WL),N536LA,LATAM Cargo Colombia,13-Mar-18,Active,N68079,
+27684,849,Boeing 767-36D,N839BC,Alta Airlines Holdings,8-Jul-19,Stored,B-2498,
+28140,850,Boeing 767-33A(ER)(WL),VQ-BEN,Azur Air,21-Feb-19,Stored,N580HA,lsf FTAI
+30439,851,Boeing 767-224(ER),VP-BAL,UTair Aviation,21-Jul-14,Active,N68160,"Иван Хохлов, lsf VTB Leasing"
+30029,852,Boeing 767-322(ER)(WL),N677UA,United Airlines,14-Nov-01,Stored,,6677
+28141,853,Boeing 767-33A(ER)(WL),VQ-BEO,Azur Air,7-May-19,Stored,N581HA,lsf FTAI
+32843,854,Boeing 767-34AF(ER)(WL),N332UP,United Parcel Service (UPS),24-Oct-01,Active,,332
+29714,855,Boeing 767-432(ER),N841MH,Delta Air Lines,23-Dec-01,Stored,,1817
+29715,856,Boeing 767-432(ER),N842MH,Delta Air Lines,23-Dec-01,Stored,,1818
+28139,857,Boeing 767-33A(ER)(WL),UR-AZK,Azur Air Ukraine,24-Apr-19,Active,N582HA,lsf FTAI
+32844,858,Boeing 767-34AF(ER)(WL),N334UP,United Parcel Service (UPS),13-Nov-01,Active,,334
+29452,859,Boeing 767-424(ER),N66057,United Airlines,1-Oct-10,Stored,,57
+30842,860,Boeing 767-316F(ER)(WL),JA605F,All Nippon Airways,29-Apr-14,Active,N316LA,lsf GECAS
+32954,861,Boeing 767-2DX(ER),P4-CLA,Comlux Aruba,30-Aug-11,Active,UP-B6701,
+29453,862,Boeing 767-424(ER),N67058,United Airlines,1-Oct-10,Stored,,58
+30115,863,Boeing 767-36N(ER),N468AX,Omni Air International,6-Feb-20,Active,CN-RNS,
+29454,864,Boeing 767-424(ER),N69059,United Airlines,1-Oct-10,Stored,,59
+29716,865,Boeing 767-432(ER),N843MH,Delta Air Lines,1-Feb-02,Stored,,1819
+29455,866,Boeing 767-424(ER),N78060,United Airlines,1-Oct-10,Stored,,60
+30843,867,Boeing 767-36N(ER),CN-RNT,Royal Air Maroc,26-Feb-02,Stored,,lsf GECAS
+29456,868,Boeing 767-424(ER),N68061,United Airlines,1-Oct-10,Stored,,61
+29457,869,Boeing 767-424(ER),N76062,United Airlines,1-Oct-10,Stored,,62
+29390,870,Boeing 767-3Q8(ER),N477AX,Omni Air International,17-May-16,Stored,EI-DZH,"477, lsf CAM"
+29717,871,Boeing 767-432(ER),N844MH,Delta Air Lines,12-Mar-02,Stored,,"1820, SkyTeam cs"
+29458,872,Boeing 767-424(ER),N69063,United Airlines,1-Oct-10,Stored,,63
+29459,873,Boeing 767-424(ER),N76064,United Airlines,1-Oct-10,Stored,,64
+29719,874,Boeing 767-432(ER),N845MH,Delta Air Lines,15-Apr-02,Stored,,"1821, Breast Cancer Research Foundation (2015) cs"
+32886,875,Boeing 767-346(ER),JA601J,Japan Airlines,19-May-02,Stored,N60697,Tokyo 2020 Olympics cs
+29460,876,Boeing 767-424(ER),N76065,United Airlines,1-Oct-10,Stored,,65
+32972,877,Boeing 767-381(ER)(BCF),JA603A,All Nippon Airways,8-May-15,Active,N6046P,
+29461,878,Boeing 767-424(ER),N77066,United Airlines,1-Oct-10,Stored,,66
+32887,879,Boeing 767-346(ER),JA602J,Japan Airlines,6-Jun-02,Active,,
+32888,880,Boeing 767-346(ER),JA603J,Japan Airlines,17-Jun-02,Active,N1794B,
+32973,881,Boeing 767-381(ER),JA604A,All Nippon Airways,26-Jun-02,Stored,,
+32974,882,Boeing 767-381(ER),JA605A,All Nippon Airways,11-Jul-02,Active,,
+,,,,,,,,
+32975,883,Boeing 767-381(ER),JA606A,All Nippon Airways,23-Jul-02,Stored,,
+32976,884,Boeing 767-381(ER),JA607A,All Nippon Airways,8-Aug-02,Active,,
+33404,885,Boeing 767-381F(ER),JA601F,All Nippon Airways,7-Dec-15,Active,N771QT,lsf BBAM
+32977,886,Boeing 767-381(ER),JA608A,All Nippon Airways,28-Aug-02,Active,,
+33421,887,Boeing 767-33A(ER)(WL),C-FIYA,Air Canada Rouge,2-Dec-15,Stored,N587HA,"693, lsf DAE Capital"
+32978,888,Boeing 767-381(ER),JA609A,All Nippon Airways,15-Nov-02,Active,,
+33047,889,Boeing 767-34P(ER),CS-TST,EuroAtlantic Airways,Sep-18,Active,B-2490,
+33466,890,Boeing 767-3CB(ER)(WL),N684UA,United Airlines,19-Mar-19,Stored,N588HA,6684
+33048,891,Boeing 767-34P(ER),CS-TSU,EuroAtlantic Airways,Jul-18,Active,B-2491,
+33422,892,Boeing 767-33A(ER)(WL),C-FIYE,Air Canada Rouge,4-May-15,Stored,N589HA,"694, lsf DAE Capital"
+33049,893,Boeing 767-34P(ER),CS-TSV,EuroAtlantic Airways,15-Jan-19,Active,B-2492,
+33467,894,Boeing 767-3CB(ER)(WL),N685UA,United Airlines,29-May-19,Stored,N590HA,6685
+32979,895,Boeing 767-381(ER),JA610A,All Nippon Airways,18-Dec-02,Active,,
+33081,896,Boeing 767-323(ER)(WL),N342AN,American Airlines,23-Jan-03,Stored,,342
+33423,897,Boeing 767-33A(ER)(WL),C-GHPE,Air Canada Rouge,28-Jun-13,Stored,N591HA,"691, lsf Castlelake"
+33468,898,Boeing 767-3CB(ER)(WL),N686UA,United Airlines,16-May-19,Stored,N592HA,6686
+33082,899,Boeing 767-323(ER)(WL),N343AN,American Airlines,14-Feb-03,Stored,,"343, oneworld cs"
+33083,900,Boeing 767-323(ER)(WL),N344AN,American Airlines,12-Mar-03,Stored,,344
+33424,901,Boeing 767-33A(ER)(WL),C-GHPN,Air Canada Rouge,14-Jun-13,Stored,N593HA,"692, lsf Castlelake"
+30847,902,Boeing 767-36N(ER),2-POWD,GECAS,6-May-20,Stored,G-POWD,
+33685,903,Boeing 767-2AX(ER),N767A,Saudi Aramco,27-Mar-03,Active,,
+33469,904,Boeing 767-3CB(ER),UK67007,Uzbekistan Airways,Dec-15,Stored,VP-BUE,
+33493,905,Boeing 767-346(ER)(BCF),N362UP,United Parcel Service (UPS),25-Sep-17,Active,JA604J,362
+33084,906,Boeing 767-323(ER)(WL),N345AN,American Airlines,30-Apr-03,Written Off,,345
+33085,907,Boeing 767-323(ER)(WL),N346AN,American Airlines,16-May-03,Stored,,346
+33086,908,Boeing 767-323(ER)(WL),N347AN,American Airlines,2-Jun-03,Stored,,347
+33425,909,Boeing 767-33A(ER),P4-MES,Global Jet Luxembourg,16-Jan-05,Active,N595HA,
+33087,910,Boeing 767-323(ER)(WL),N348AN,American Airlines,27-Jun-03,Stored,,348
+33494,911,Boeing 767-346(ER)(BCF),N363UP,United Parcel Service (UPS),30-Mar-17,Active,JA605J,363
+33686,912,Boeing 767-2EY(ER),MM62226,Aeronautica Militare (Italian Air Force),27-Oct-11,Active,N767TT,14-01
+33088,913,Boeing 767-323(ER)(WL),N349AN,American Airlines,25-Jul-03,Stored,,349
+32980,914,Boeing 767-381(ER),JA611A,All Nippon Airways,27-Jul-03,Active,,
+33495,915,Boeing 767-346(ER)(WL),JA606J,Japan Airlines,14-Aug-03,Stored,,
+33089,916,Boeing 767-323(ER)(WL),N350AN,American Airlines,29-Aug-03,Stored,,350
+33496,917,Boeing 767-346(ER)(WL),JA607J,Japan Airlines,6-Oct-03,Active,,
+33767,918,Boeing 767-360(ER)(WL),ET-ALJ,Ethiopian Airlines,24-Nov-03,Stored,N5020K,
+33497,919,Boeing 767-346(ER)(WL),JA608J,Japan Airlines,2-Mar-04,Stored,,
+33506,920,Boeing 767-381(ER),JA612A,Hokkaido International Airlines - Air Do,17-Aug-19,Active,,
+33845,921,Boeing 767-346(ER)(BCF),N364UP,United Parcel Service (UPS),25-Jan-18,Active,JA609J,364
+33768,922,Boeing 767-360(ER)(WL),ET-ALO,Ethiopian Airlines,3-Jun-04,Stored,,Star Alliance cs
+33840,923,Boeing 767-2EZ(C),-,Boeing,,Scrapped,,
+33507,924,Boeing 767-381(ER),JA613A,Hokkaido International Airlines - Air Do,18-Mar-19,Active,,
+33846,925,Boeing 767-346(ER),JA610J,Japan Airlines,21-Sep-04,Stored,,
+33968,926,Boeing 767-32K(ER),EW-001PB,Belarus Government,8-May-12,Active,EZ-A700,
+33847,927,Boeing 767-346(ER),JA611J,Japan Airlines,15-Nov-04,Stored,,
+33078,928,Boeing 767-33P(ER),UK67008,Uzbekistan Airways,Dec-16,Stored,VP-BUF,
+33848,929,Boeing 767-346(ER),JA612J,Japan Airlines,7-Mar-05,Active,,
+33687,930,Boeing 767-2EY(ER),MM62227,Aeronautica Militare (Italian Air Force),11-Mar-11,Active,N762TT,
+33508,931,Boeing 767-381(ER),JA614A,All Nippon Airways,20-Apr-05,Active,,Star Alliance cs
+33844,932,Boeing 767-2FK(ER),87-3601,Japan Air Self-Defence Force (JASDF),12-Aug-08,Active,N763TT,
+33769,933,Boeing 767-360(ER),ET-ALP,Ethiopian Airlines,22-Jun-05,Stored,,
+34245,934,Boeing 767-316F(ER)(WL),PR-ABD,LATAM Cargo Brasil,5-May-16,Active,,
+33849,935,Boeing 767-346(ER),JA613J,Japan Airlines,23-Aug-05,Active,,
+34246,936,Boeing 767-316F(ER)(WL),N418LA,LATAM Cargo Colombia,5-May-16,Active,,
+33509,937,Boeing 767-381F(ER),JA602F,All Nippon Airways,28-Nov-05,Active,,lsf BBAM
+,,,,,,,,
+33851,938,Boeing 767-346(ER),JA614J,Japan Airlines,21-Dec-05,Active,,
+33510,939,Boeing 767-381F(ER),VH-EFR,Qantas,7-Feb-11,Active,N324MY,opby Express Freighters
+34626,940,Boeing 767-316(ER)(WL),CC-CWF,LATAM Airlines Chile,5-May-16,Active,,
+33688,941,Boeing 767-2EY(ER),MM62228,Aeronautica Militare (Italian Air Force),20-Dec-11,Active,N764TT,
+33850,942,Boeing 767-346(ER),JA615J,Japan Airlines,15-May-06,Active,,
+33958,943,Boeing 767-2FK(ER),87-3602,Japan Air Self-Defence Force (JASDF),12-Aug-08,Active,N768TT,
+34629,944,Boeing 767-316(ER)(BCF)(WL),N542LA,LATAM Cargo Colombia,29-Jan-20,Active,LV-CFV,opby 21 Air
+34628,945,Boeing 767-316(ER)(BCF)(WL),N538LA,LATAM Cargo Colombia,29-Jan-20,Active,LV-CKU,opby 21 Air
+35155,946,Boeing 767-36D(ER)(BCF),B-20A2,SF Airlines (ShunFeng Airlines),8-Mar-19,Active,N665AC,
+35709,947,Boeing 767-381F(ER),JA604F,All Nippon Airways,20-Sep-06,Active,,
+34627,948,Boeing 767-316F(ER)(WL),N420LA,MAS Air Cargo,1-Dec-18,Active,,
+35229,949,Boeing 767-316(ER)(BCF)(WL),N540LA,LATAM Cargo Colombia,29-Jan-20,Active,LV-CDQ,opby 21 Air
+35156,950,Boeing 767-36D(ER)(BCF),B-208R,SF Airlines (ShunFeng Airlines),23-Jan-19,Active,N668AC,
+35877,951,Boeing 767-381(ER),JA615A,All Nippon Airways,30-Jan-07,Active,,
+33689,952,Boeing 767-2EY(ER),MM62229,Aeronautica Militare (Italian Air Force),25-Jan-11,Active,N765TT,14-04
+35876,953,Boeing 767-381(ER),JA616A,All Nippon Airways,22-Mar-07,Active,,
+35813,954,Boeing 767-346(ER)(WL),JA616J,Japan Airlines,19-Apr-07,Stored,,
+35230,955,Boeing 767-316(ER)(WL),CC-CWV,LATAM Airlines Chile,5-May-16,Active,,
+35816,956,Boeing 767-346F(ER)(WL),OY-SRV,Star Air,10-Apr-17,Active,EI-GAG,lsf GECAS
+35814,957,Boeing 767-346(ER)(WL),JA617J,Japan Airlines,23-Jul-07,Stored,,
+35796,958,Boeing 767-33P(ER),UK67000,Uzbekistan Airways,23-Aug-07,Active,,
+35817,959,Boeing 767-346F(ER)(WL),PR-ACO,LATAM Cargo Brasil,5-May-16,Active,N526LA,lsf GECAS
+35818,960,Boeing 767-346F(ER)(WL),OY-SRW,Star Air,2-Feb-18,Active,N530LA,
+35231,961,Boeing 767-316(ER)(WL),CC-CWY,LATAM Airlines Chile,5-May-16,Stored,,
+36710,962,Boeing 767-316(ER)(WL),CC-CXC,LATAM Airlines Chile,5-May-16,Stored,,
+34433,963,Boeing 767-2FK(ER),97-3603,Japan Air Self-Defence Force (JASDF),25-Feb-09,Active,N766TT,
+35815,964,Boeing 767-346(ER)(WL),JA618J,Japan Airlines,14-Feb-08,Stored,,
+34205,965,Boeing 767-4FS(ER),A9C-HMH,Bahrain Royal Flight,27-Jan-09,Active,N526BA,
+35498,966,Boeing 767-2FK(ER),Jul-04,Japan Air Self-Defence Force (JASDF),8-Jan-10,Active,N770TT,
+35697,967,Boeing 767-316(ER)(WL),CC-CXD,LATAM Airlines Chile,5-May-16,Stored,HC-CJX,
+35696,968,Boeing 767-316(ER)(WL),CC-CXE,LATAM Airlines Chile,5-May-16,Active,HC-CKY,
+37550,969,Boeing 767-346(ER)(WL),JA619J,Japan Airlines,30-Jun-08,Stored,,
+36711,970,Boeing 767-316(ER)(WL),CC-CXF,LATAM Airlines Chile,5-May-16,Active,HC-CIZ,
+37719,971,Boeing 767-381(ER),JA617A,All Nippon Airways,29-Aug-08,Active,,
+36712,972,Boeing 767-316(ER)(WL),CC-CXG,LATAM Airlines Chile,5-May-16,Active,N5020K,
+35698,973,Boeing 767-316(ER)(WL),CC-CXH,LATAM Airlines Chile,5-May-16,Active,HC-CJA,
+37547,974,Boeing 767-346(ER)(WL),JA620J,Japan Airlines,9-Feb-09,Stored,,
+37548,975,Boeing 767-346(ER)(WL),JA621J,Japan Airlines,16-Mar-09,Stored,,
+37720,976,Boeing 767-381(ER),JA618A,All Nippon Airways,7-Apr-09,Active,,
+37549,977,Boeing 767-346(ER),JA622J,Japan Airlines,6-May-09,Active,,
+36131,978,Boeing 767-346(ER),JA623J,Japan Airlines,28-May-09,Active,N1794B,
+37856,979,Boeing 767-34AF(ER)(WL),N335UP,United Parcel Service (UPS),31-Jul-09,Active,,335
+37805,980,Boeing 767-3JHF(ER)(WL),G-DHLE,DHL Air,18-Aug-09,Active,,
+37806,981,Boeing 767-3JHF(ER)(WL),G-DHLF,DHL Air,2-Sep-09,Active,,
+37807,982,Boeing 767-3JHF(ER)(WL),G-DHLG,DHL Air,24-Sep-09,Active,,
+37857,983,Boeing 767-34AF(ER)(WL),N336UP,United Parcel Service (UPS),26-Oct-09,Active,,336
+37800,984,Boeing 767-316(ER)(WL),CC-CXI,LATAM Airlines Chile,5-May-16,Active,,
+37801,985,Boeing 767-316(ER)(WL),CC-CXJ,LATAM Airlines Chile,5-May-16,Active,,
+37858,986,Boeing 767-34AF(ER)(WL),N337UP,United Parcel Service (UPS),21-Jan-10,Active,,337
+37802,987,Boeing 767-316(ER)(WL),CC-CXK,LATAM Airlines Chile,5-May-16,Active,,
+37944,988,Boeing 767-34AF(ER)(WL),N338UP,United Parcel Service (UPS),29-Mar-10,Active,,338
+37859,989,Boeing 767-34AF(ER)(WL),N339UP,United Parcel Service (UPS),28-Apr-10,Active,,339
+40342,990,Boeing 767-32L(ER),4K-AI01,AZAL Azerbaijan Airlines,2-May-11,Active,4K-BAKU-1,Baku-1
+37860,991,Boeing 767-34AF(ER)(WL),N340UP,United Parcel Service (UPS),22-Jun-10,Active,,340
+37861,992,Boeing 767-34AF(ER)(WL),N341UP,United Parcel Service (UPS),15-Jul-10,Active,,341
+,,,,,,,,
+40564,993,Boeing 767-381(ER)(WL),JA619A,All Nippon Airways,31-Aug-10,Stored,,
+40363,994,Boeing 767-346(ER),JA651J,Japan Airlines,30-Sep-10,Stored,,
+40364,995,Boeing 767-346(ER),JA652J,Japan Airlines,21-Oct-10,Stored,,
+40565,996,Boeing 767-381(ER)(WL),JA620A,All Nippon Airways,10-Nov-10,Active,,
+40365,997,Boeing 767-346(ER),JA653J,Japan Airlines,14-Dec-10,Stored,,
+40566,998,Boeing 767-381(ER)(WL),JA621A,All Nippon Airways,17-Jan-11,Stored,,
+40366,999,Boeing 767-346(ER),JA654J,Japan Airlines,3-Feb-11,Stored,,
+40567,1000,Boeing 767-381(ER)(WL),JA622A,All Nippon Airways,22-Feb-11,Active,,
+40894,1001,Boeing 767-381(ER)(WL),JA623A,All Nippon Airways,29-Mar-11,Stored,,
+37865,1002,Boeing 767-34AF(ER)(WL),N342UP,United Parcel Service (UPS),8-Apr-11,Active,,342
+37945,1003,Boeing 767-34AF(ER)(WL),N343UP,United Parcel Service (UPS),28-Apr-11,Active,,343
+40343,1004,Boeing 767-32L(ER),4K-AZ81,AZAL Azerbaijan Airlines,31-May-11,Stored,N5023Q,Babek
+37866,1005,Boeing 767-34AF(ER)(WL),N344UP,United Parcel Service (UPS),8-Jun-11,Active,,344
+37867,1006,Boeing 767-34AF(ER)(WL),N345UP,United Parcel Service (UPS),29-Jun-11,Active,,345
+40367,1007,Boeing 767-346(ER),JA655J,Japan Airlines,28-Jul-11,Active,,
+37868,1008,Boeing 767-34AF(ER)(WL),N346UP,United Parcel Service (UPS),28-Jul-11,Active,,346
+40368,1009,Boeing 767-346(ER),JA656J,Japan Airlines,22-Aug-11,Active,,
+40895,1010,Boeing 767-381(ER)(WL),JA624A,All Nippon Airways,31-Aug-11,Active,,
+40798,1011,Boeing 767-316(ER)(WL),CC-BDA,LATAM Airlines Chile,5-May-16,Stored,,
+40896,1012,Boeing 767-381(ER)(WL),JA625A,All Nippon Airways,2-Oct-11,Stored,,
+40369,1013,Boeing 767-346(ER),JA657J,Japan Airlines,20-Oct-11,Stored,,
+40590,1014,Boeing 767-316(ER)(WL),CC-BDB,LATAM Airlines Chile,5-May-16,Stored,,
+40370,1015,Boeing 767-346(ER),JA658J,Japan Airlines,17-Nov-11,Active,,
+40591,1016,Boeing 767-316(ER)(WL),CC-BDC,LATAM Airlines Chile,5-May-16,Stored,,
+40371,1017,Boeing 767-346(ER),JA659J,Japan Airlines,14-Dec-11,Stored,,
+40897,1018,Boeing 767-381(ER)(WL),JA626A,All Nippon Airways,16-Jan-12,Active,,
+40534,1019,Boeing 767-33P(ER),UK67003,Uzbekistan Airways,7-Feb-12,Active,,
+37871,1020,Boeing 767-34AF(ER)(WL),N347UP,United Parcel Service (UPS),31-Jan-12,Active,,347
+40536,1021,Boeing 767-33P(ER),UK67004,Uzbekistan Airways,24-Feb-12,Active,,
+37872,1022,Boeing 767-34AF(ER)(WL),N348UP,United Parcel Service (UPS),27-Feb-12,Active,,348
+40898,1023,Boeing 767-381(ER)(WL),JA627A,All Nippon Airways,22-Mar-12,Stored,,
+37947,1024,Boeing 767-34AF(ER)(WL),N349UP,United Parcel Service (UPS),30-Mar-12,Active,,349
+37873,1025,Boeing 767-34AF(ER)(WL),N350UP,United Parcel Service (UPS),16-Apr-12,Active,,350
+37874,1026,Boeing 767-34AF(ER)(WL),N351UP,United Parcel Service (UPS),23-Apr-12,Stored,,351
+41068,1027,Boeing 767-32LF(ER),N297FE,Federal Express (FedEx),10-Feb-15,Active,4K-SW808,"Benjamin, 297"
+37875,1028,Boeing 767-34AF(ER)(WL),N352UP,United Parcel Service (UPS),22-May-12,Active,,352
+40799,1029,Boeing 767-316(ER)(WL),PT-MOD,LATAM Airlines Brasil,5-May-17,Active,CC-BDD,
+41063,1030,Boeing 767-32L(ER)(WL),4K-AZ82,AZAL Azerbaijan Airlines,26-Jun-12,Stored,,Koroglu
+40592,1031,Boeing 767-316(ER)(WL),PT-MOB,LATAM Airlines Brasil,5-May-16,Active,CC-BDE,
+41069,1032,Boeing 767-32LF(ER),N298FE,Federal Express (FedEx),10-Feb-15,Active,4K-SW880,"Bianca, 298"
+41746,1033,Boeing 767-316(ER)(WL),PT-MOC,LATAM Airlines Brasil,5-May-16,Stored,CC-BDF,oneworld cs
+41747,1034,Boeing 767-316(ER)(WL),PT-MSO,LATAM Airlines Brasil,5-May-16,Active,CC-BDG,
+37877,1035,Boeing 767-34AF(ER)(WL),N353UP,United Parcel Service (UPS),31-Aug-12,Active,,353
+37808,1036,Boeing 767-3JHF(ER)(WL),VH-EXZ,Tasman Cargo Airlines,27-Aug-18,Active,G-DHLH,
+41748,1037,Boeing 767-316(ER)(WL),PT-MSS,LATAM Airlines Brasil,5-May-16,Stored,CC-BDH,
+40593,1038,Boeing 767-316(ER)(WL),PT-MSV,LATAM Airlines Brasil,5-May-16,Active,CC-BDI,
+37809,1039,Boeing 767-3JHF(ER)(WL),N643GT,Polar Air Cargo,28-Jan-13,Active,G-DHLJ,
+42213,1040,Boeing 767-316(ER)(WL),PT-MSW,LATAM Airlines Brasil,5-May-16,Active,CC-BDJ,
+37810,1041,Boeing 767-3JHF(ER)(WL),N644GT,Polar Air Cargo,22-Jan-13,Active,G-DHLK,opby Atlas Air
+41993,1042,Boeing 767-316(ER)(WL),PT-MSX,LATAM Airlines Brasil,5-May-16,Active,CC-BDK,
+42214,1043,Boeing 767-316(ER)(WL),PT-MSY,LATAM Airlines Brasil,5-May-16,Active,CC-BDL,
+37862,1044,Boeing 767-34AF(ER)(WL),N354UP,United Parcel Service (UPS),14-Jan-13,Active,,354
+41994,1045,Boeing 767-316(ER)(WL),PT-MSZ,LATAM Airlines Brasil,5-May-16,Stored,CC-BDM,
+37863,1046,Boeing 767-34AF(ER)(WL),N355UP,United Parcel Service (UPS),15-Feb-13,Active,,355
+40533,1047,Boeing 767-33P(ER),UK67005,Uzbekistan Airways,14-May-13,Active,N940BA,
+,,,,,,,,
+37869,1048,Boeing 767-34AF(ER)(WL),N356UP,United Parcel Service (UPS),29-Mar-13,Active,,356
+41995,1049,Boeing 767-316(ER)(WL),PT-MOA,LATAM Airlines Brasil,5-May-16,Stored,CC-BDN,
+41519,1050,Boeing 767-34G(ER)(WL),JU-1021,MIAT - Mongolian Airlines,13-May-13,Active,,Chinggis Khaan
+37876,1051,Boeing 767-34AF(ER)(WL),N357UP,United Parcel Service (UPS),1-May-13,Stored,,357
+41996,1052,Boeing 767-316(ER)(WL),PT-MOE,LATAM Airlines Brasil,5-May-16,Stored,CC-BDO,
+37864,1053,Boeing 767-34AF(ER)(WL),N358UP,United Parcel Service (UPS),7-Jun-13,Active,,358
+40535,1054,Boeing 767-33P(ER),UK67006,Uzbekistan Airways,28-Jun-13,Active,,
+41997,1055,Boeing 767-316(ER)(WL),PT-MOF,LATAM Airlines Brasil,5-May-16,Stored,CC-BDP,
+37870,1056,Boeing 767-34AF(ER)(WL),N359UP,United Parcel Service (UPS),15-Jul-13,Active,,359
+37946,1057,Boeing 767-34AF(ER)(WL),N360UP,United Parcel Service (UPS),30-Jul-13,Active,,360
+42706,1058,Boeing 767-3S2F(ER),N101FE,Federal Express (FedEx),4-Sep-13,Active,N60659,"Hannah, 101"
+37878,1059,Boeing 767-34AF(ER)(WL),N361UP,United Parcel Service (UPS),6-Sep-13,Active,,361
+42220,1060,Boeing 767-3KY(ER)(WL),P4-KEA,Air Astana,25-Sep-13,Active,,
+42707,1061,Boeing 767-3S2F(ER),N102FE,Federal Express (FedEx),17-Oct-13,Active,,"Kara, 102"
+42221,1062,Boeing 767-3KY(ER)(WL),P4-KEB,Air Astana,18-Oct-13,Stored,N5028Y,Sara
+43544,1063,Boeing 767-3S2F(ER),N103FE,Federal Express (FedEx),18-Nov-13,Active,,"Selah, 103"
+42708,1064,Boeing 767-3S2F(ER),N104FE,Federal Express (FedEx),10-Dec-13,Active,,"Birdie, 104"
+41273,1065,Boeing KC-46A Pegasus (767-2LKC),N461FT,Boeing,,Active,,
+41274,1066,Boeing KC-46A Pegasus (767-2LKC),N464KC,Boeing,,Active,,
+34054,1067,Boeing KC-46A Pegasus (767-2LKC),N463FT,Boeing,,Active,,
+42223,1068,Boeing 767-3KY(ER)(WL),P4-KEC,Air Astana,26-Jun-14,Active,,
+41275,1069,Boeing KC-46A Pegasus (767-2LKC),N462KC,Boeing,,Active,,
+42709,1070,Boeing 767-3S2F(ER),N106FE,Federal Express (FedEx),5-Sep-14,Active,,"Evelyn, 106"
+44377,1071,Boeing 767-3S2F(ER),N107FE,Federal Express (FedEx),25-Sep-14,Active,,"Grayson, 107"
+44378,1072,Boeing 767-3S2F(ER),N108FE,Federal Express (FedEx),28-Oct-14,Active,,"Lucia, 108"
+42710,1073,Boeing 767-3S2F(ER),N109FE,Federal Express (FedEx),14-Nov-14,Active,,"Stephanie, 109"
+43542,1074,Boeing 767-3S2F(ER),N110FE,Federal Express (FedEx),4-Dec-14,Active,,"Margo, 110"
+43543,1075,Boeing 767-3S2F(ER),N112FE,Federal Express (FedEx),12-Jan-15,Active,,"Jordan, 112"
+42711,1076,Boeing 767-3S2F(ER),N113FE,Federal Express (FedEx),29-Jan-15,Active,,"Brandon, 113"
+42712,1077,Boeing 767-3S2F(ER),N114FE,Federal Express (FedEx),18-Feb-15,Active,,"Jade, 114"
+42713,1078,Boeing 767-3S2F(ER),N115FE,Federal Express (FedEx),5-Mar-15,Active,,"Rosabella, 115"
+44379,1079,Boeing 767-3S2F(ER),N117FE,Federal Express (FedEx),20-Mar-15,Active,,"Kendall, 117"
+42714,1080,Boeing 767-3S2F(ER),N118FE,Federal Express (FedEx),10-Apr-15,Active,,"Emilee, 118"
+44380,1081,Boeing 767-3S2F(ER),N120FE,Federal Express (FedEx),4-May-15,Active,,"Brianna, 120"
+43545,1082,Boeing 767-3S2F(ER),N121FE,Federal Express (FedEx),1-Jun-15,Active,,"Kylah, 121"
+42715,1083,Boeing 767-3S2F(ER),N122FE,Federal Express (FedEx),12-Jun-15,Active,,"Josephine, 122"
+43546,1084,Boeing 767-3S2F(ER),N124FE,Federal Express (FedEx),2-Jul-15,Active,,"Quinn, 124"
+42716,1085,Boeing 767-3S2F(ER),N123FE,Federal Express (FedEx),28-Jul-15,Active,,"Shuler, 123"
+42717,1086,Boeing 767-3S2F(ER),N125FE,Federal Express (FedEx),12-Aug-15,Active,,"Claudia, 125"
+42718,1087,Boeing 767-3S2F(ER),N126FE,Federal Express (FedEx),17-Sep-15,Active,,"Josie, 126"
+43547,1088,Boeing 767-3S2F(ER),N127FE,Federal Express (FedEx),29-Sep-15,Active,,"HaileyAnna, 127"
+42719,1089,Boeing 767-3S2F(ER),N128FE,Federal Express (FedEx),15-Oct-15,Active,,"Jaxon, 128"
+43548,1090,Boeing 767-3S2F(ER),N129FE,Federal Express (FedEx),24-Nov-15,Active,,"Carina, 129"
+41852,1091,Boeing KC-46A Pegasus (767-2LKC),15-46005,USAF United States Air Force,,On Order,N842BA,56005
+41983,1092,Boeing KC-46A Pegasus (767-2LKC),15-46006,USAF United States Air Force,,On Order,N884BA,56006
+42720,1093,Boeing 767-3S2F(ER),N130FE,Federal Express (FedEx),17-Feb-16,Active,,"Addison, 130"
+61205,1094,Boeing 767-3S2F(ER),N131FE,Federal Express (FedEx),30-Sep-16,Active,,"Alanis, 131"
+42721,1095,Boeing 767-3S2F(ER),N132FE,Federal Express (FedEx),19-Apr-16,Active,,"Analia, 132"
+43549,1096,Boeing 767-3S2F(ER),N133FE,Federal Express (FedEx),20-Dec-16,Active,,"Boden, 133"
+43550,1097,Boeing 767-3S2F(ER),N134FE,Federal Express (FedEx),3-Jun-16,Active,N5511V,"Emma Jay, 134"
+41855,1098,Boeing KC-46A Pegasus (767-2LKC),15-46007,USAF United States Air Force,,On Order,,56007
+42722,1099,Boeing 767-3S2F(ER),N135FE,Federal Express (FedEx),10-Jun-16,Active,,"Lexington, 135"
+41856,1100,Boeing KC-46A Pegasus (767-2LKC),15-46008,USAF United States Air Force,,On Order,,56008
+61206,1101,Boeing 767-3S2F(ER),N137FE,Federal Express (FedEx),29-Jun-16,Active,,"Peter, 137"
+41858,1102,Boeing KC-46A Pegasus (767-2LKC),15-46009,USAF United States Air Force,25-Jan-19,Active,N50217,56009
+,,,,,,,,
+42723,1103,Boeing 767-3S2F(ER),N138FE,Federal Express (FedEx),26-Jul-16,Active,,"Ryan, 138"
+41859,1104,Boeing KC-46A Pegasus (767-2LKC),15-46010,USAF United States Air Force,,On Order,,56010
+43538,1105,Boeing 767-3S2F(ER),N139FE,Federal Express (FedEx),24-Aug-16,Active,,"Spencer, 139"
+43541,1106,Boeing 767-3S2F(ER),N140FE,Federal Express (FedEx),31-Aug-16,Active,,"Tyler, 140"
+34106,1107,Boeing KC-46A Pegasus (767-2LKC),15-46011,USAF United States Air Force,,On Order,,56011
+42724,1108,Boeing 767-3S2F(ER),N141FE,Federal Express (FedEx),27-Sep-16,Active,,"Maddox Ace, 141"
+34107,1109,Boeing KC-46A Pegasus (767-2LKC),16-46012,USAF United States Air Force,,On Order,,66012
+42725,1110,Boeing 767-3S2F(ER),N142FE,Federal Express (FedEx),1-Nov-16,Active,,"Poppy, 142"
+34109,1111,Boeing KC-46A Pegasus (767-2LKC),16-46013,USAF United States Air Force,,On Order,,66013
+62497,1112,Boeing 767-3S2F(ER),N143FE,Federal Express (FedEx),22-Nov-16,Active,,"Ayda, 143"
+34105,1113,Boeing KC-46A Pegasus (767-2LKC),16-46014,USAF United States Air Force,,On Order,N5573S,66014
+34134,1114,Boeing KC-46A Pegasus (767-2LKC),16-46015,USAF United States Air Force,,On Order,N6009F,66015
+42726,1115,Boeing 767-3S2F(ER),N144FE,Federal Express (FedEx),27-Feb-17,Active,,"Hoyt, 144"
+41860,1116,Boeing KC-46A Pegasus (767-2LKC),16-46016,USAF United States Air Force,,On Order,N6018N,66016
+34108,1117,Boeing KC-46A Pegasus (767-2LKC),16-46017,USAF United States Air Force,29-Aug-19,Active,,66017
+42727,1118,Boeing 767-3S2F(ER),N145FE,Federal Express (FedEx),22-Mar-17,Active,,"Demitra, 145"
+34135,1119,Boeing KC-46A Pegasus (767-2LKC),16-46018,USAF United States Air Force,,On Order,N5514J,66018
+34138,1120,Boeing KC-46A Pegasus (767-2LKC),16-46019,USAF United States Air Force,,On Order,N5514K,66019
+43551,1121,Boeing 767-3S2F(ER),N146FE,Federal Express (FedEx),24-May-17,Active,,"Charity, 146"
+34137,1122,Boeing KC-46A Pegasus (767-2LKC),16-46020,USAF United States Air Force,,On Order,N5514V,66020
+63094,1123,Boeing 767-3S2F(ER),N147FE,Federal Express (FedEx),13-Jun-17,Active,,"Charles, 147"
+34139,1124,Boeing KC-46A Pegasus (767-2LKC),16-46021,USAF United States Air Force,,On Order,N5514X,66021
+42728,1125,Boeing 767-3S2F(ER),N148FE,Federal Express (FedEx),30-Jun-17,Active,,"Lois, 148"
+34136,1126,Boeing KC-46A Pegasus (767-2LKC),16-46022,USAF United States Air Force,31-Jan-19,Active,N5573S,66022
+62498,1127,Boeing 767-3S2F(ER),N149FE,Federal Express (FedEx),21-Jul-17,Active,,"Lailana, 149"
+41861,1128,Boeing KC-46A Pegasus (767-2LKC),16-46023,USAF United States Air Force,28-Jun-19,Active,N6018N,66023
+34121,1129,Boeing KC-46A Pegasus (767-2LKC),17-46024,USAF United States Air Force,,On Order,N5514J,76024
+42729,1130,Boeing 767-3S2F(ER),N150FE,Federal Express (FedEx),15-Sep-17,Active,,"Maliya, 150"
+41863,1131,Boeing KC-46A Pegasus (767-2LKC),17-46025,USAF United States Air Force,18-May-19,Active,N1785B,76025
+34127,1132,Boeing KC-46A Pegasus (767-2LKC),17-46026,USAF United States Air Force,1-Nov-19,Active,N6018N,76026
+43630,1133,Boeing 767-3S2F(ER),N151FE,Federal Express (FedEx),12-Oct-17,Active,,"Presley, 151"
+34126,1134,Boeing KC-46A Pegasus (767-2LKC),17-46027,USAF United States Air Force,8-Feb-19,Active,N5014K,76027
+34124,1135,Boeing KC-46A Pegasus (767-2LKC),17-46028,USAF United States Air Force,9-Feb-19,Active,N55141,76028
+43552,1136,Boeing 767-3S2F(ER),N152FE,Federal Express (FedEx),21-Nov-17,Active,,"Malachi, 152"
+34110,1137,Boeing KC-46A Pegasus (767-2LKC),17-46029,USAF United States Air Force,8-Aug-19,Active,N55141,76029
+63095,1138,Boeing 767-3S2F(ER),N153FE,Federal Express (FedEx),19-Dec-17,Active,,"Teyo, 153"
+34112,1139,Boeing KC-46A Pegasus (767-2LKC),17-46030,USAF United States Air Force,31-Jan-19,Active,N6009F,76030
+42730,1140,Boeing 767-3S2F(ER),N154FE,Federal Express (FedEx),23-Jan-18,Active,,"Zachary, 154"
+43631,1141,Boeing 767-3S2F(ER),N155FE,Federal Express (FedEx),2-Feb-18,Active,,"Louis, 155"
+63096,1142,Boeing 767-3S2F(ER),N156FE,Federal Express (FedEx),23-Feb-18,Active,,"Tess, 156"
+34115,1143,Boeing KC-46A Pegasus (767-2LKC),17-46031,USAF United States Air Force,25-Jan-19,Active,N5513X,76031
+42731,1144,Boeing 767-3S2F(ER),N157FE,Federal Express (FedEx),16-Mar-18,Active,,"Benoît, 157"
+34111,1145,Boeing KC-46A Pegasus (767-2LKC),17-46032,USAF United States Air Force,18-May-19,Active,N5016R,76032
+63097,1146,Boeing 767-3S2F(ER),N158FE,Federal Express (FedEx),6-Apr-18,Active,,"Damien, 158"
+34113,1147,Boeing KC-46A Pegasus (767-2LKC),17-46033,USAF United States Air Force,11-Mar-19,Active,N5016R,76033
+42732,1148,Boeing 767-3S2F(ER),N159FE,Federal Express (FedEx),4-May-18,Active,,"Averianna, 159"
+34114,1149,Boeing KC-46A Pegasus (767-2LKC),17-46034,USAF United States Air Force,9-Aug-19,Active,N5017Q,76034
+63098,1150,Boeing 767-3S2F(ER),N160FE,Federal Express (FedEx),21-May-18,Active,,"Katalina, 160"
+41864,1151,Boeing KC-46A Pegasus (767-2LKC),17-46035,USAF United States Air Force,20-Apr-19,Active,N5017V,76035
+43553,1152,Boeing 767-3S2F(ER),N161FE,Federal Express (FedEx),8-Jun-18,Active,,"Rayyaan, 161"
+43632,1153,Boeing 767-3S2F(ER),N162FE,Federal Express (FedEx),22-Jun-18,Active,,"Thor, 162"
+34091,1154,Boeing KC-46A Pegasus (767-2LKC),17-46036,USAF United States Air Force,17-May-19,Active,N5017V,76036
+62499,1155,Boeing 767-3S2F(ER),N163FE,Federal Express (FedEx),20-Jul-18,Active,,"Albie, 163"
+41984,1156,Boeing KC-46A Pegasus (767-2LKC),17-46037,USAF United States Air Force,19-Jul-19,Active,N5511Y,76037
+62500,1157,Boeing 767-3S2F(ER),N165FE,Federal Express (FedEx),3-Aug-18,Active,,"Mette, 165"
+,,,,,,,,
+41985,1158,Boeing KC-46A Pegasus (767-2LKC),17-46038,USAF United States Air Force,11-Oct-19,Active,N5020K,76038
+43554,1159,Boeing 767-3S2F(ER),N164FE,Federal Express (FedEx),23-Aug-18,Active,,"Aleena, 164"
+34089,1160,Boeing KC-46A Pegasus (767-2LKC),18-46039,USAF United States Air Force,9-Aug-19,Active,N1785B,86039
+43633,1161,Boeing 767-3S2F(ER),N166FE,Federal Express (FedEx),18-Sep-18,Active,,"JobEdokat, 166"
+34087,1162,Boeing KC-46A Pegasus (767-2LKC),18-46040,USAF United States Air Force,11-Oct-19,Active,N6018N,86040
+63099,1163,Boeing 767-3S2F(ER),N167FE,Federal Express (FedEx),12-Oct-18,Active,,"Timya, 167"
+34088,1164,Boeing KC-46A Pegasus (767-2LKC),18-46041,USAF United States Air Force,20-Sep-19,Active,N50217,86041
+63100,1165,Boeing 767-3S2F(ER),N168FE,Federal Express (FedEx),2-Nov-18,Active,,"Massimo, 168"
+34090,1166,Boeing KC-46A Pegasus (767-2LKC),18-46042,USAF United States Air Force,29-Aug-19,Active,N5512A,86042
+63101,1167,Boeing 767-3S2F(ER),N169FE,Federal Express (FedEx),20-Nov-18,Active,,"Nicholas, 169"
+34092,1168,Boeing KC-46A Pegasus (767-2LKC),18-46043,USAF United States Air Force,11-Oct-19,Active,,86043
+63102,1169,Boeing 767-3S2F(ER),N170FE,Federal Express (FedEx),21-Dec-18,Active,,"Sienna, 170"
+34086,1170,Boeing KC-46A Pegasus (767-2LKC),18-46044,USAF United States Air Force,22-Nov-19,Active,N5511V,86044
+63103,1171,Boeing 767-3S2F(ER),N172FE,Federal Express (FedEx),25-Jan-19,Active,,"Edison, 172"
+41865,1172,Boeing KC-46A Pegasus (767-2LKC),18-46045,USAF United States Air Force,22-Nov-19,Active,N1794B,86045
+64055,1173,Boeing 767-3S2F(ER),N105FE,Federal Express (FedEx),12-Feb-19,Active,,"Dario, 105"
+41866,1174,Boeing KC-46A Pegasus (767-2LKC),18-46046,USAF United States Air Force,6-Sep-19,Active,N55077,86046
+63104,1175,Boeing 767-3S2F(ER),N173FE,Federal Express (FedEx),12-Mar-19,Active,,"Eleanor, 173"
+41867,1176,Boeing KC-46A Pegasus (767-2LKC),18-46047,USAF United States Air Force,7-Feb-20,Active,N5016R,86047
+63105,1177,Boeing 767-3S2F(ER),N174FE,Federal Express (FedEx),29-Mar-19,Active,,"Javin, 174"
+34141,1178,Boeing KC-46A Pegasus (767-2LKC),18-46048,USAF United States Air Force,20-Dec-19,Active,N1794B,86048
+64056,1179,Boeing 767-3S2F(ER),N296FE,Federal Express (FedEx),3-May-19,Active,,"Sullivan, 296"
+65788,1180,Boeing 767-34AF(ER),N365UP,United Parcel Service (UPS),13-Jun-19,Active,,365
+34140,1181,Boeing KC-46A Pegasus (767-2LKC),18-46049,USAF United States Air Force,,On Order,N5510E,86049
+63106,1182,Boeing 767-3S2F(ER),N175FE,Federal Express (FedEx),29-May-19,Active,,"Ahnya Kailani, 175"
+63108,1183,Boeing 767-3S2F(ER),N177FE,Federal Express (FedEx),25-Jun-19,Active,,"Nylesha, 177"
+34052,1184,Boeing KC-46A Pegasus (767-2LKC),18-46050,USAF United States Air Force,,On Order,N5511Z,86050
+63107,1185,Boeing 767-3S2F(ER),N176FE,Federal Express (FedEx),15-Jul-19,Active,,"Kasper, 176"
+65789,1186,Boeing 767-34AF(ER),N366UP,United Parcel Service (UPS),26-Jul-19,Active,,
+63109,1187,Boeing 767-3S2F(ER),N178FE,Federal Express (FedEx),8-Aug-19,Active,,"Paisley, 178"
+41868,1188,Boeing KC-46A Pegasus (767-2LKC),18-46051,USAF United States Air Force,,On Order,N6018N,
+64057,1189,Boeing 767-3S2F(ER),N119FE,Federal Express (FedEx),27-Aug-19,Active,,"Landon, 119"
+65790,1190,Boeing 767-34AF(ER),N367UP,United Parcel Service (UPS),12-Sep-19,Active,,
+63110,1191,Boeing 767-300F(ER),N179FE,Federal Express (FedEx),27-Sep-19,Active,,"Edy, 179"
+41870,1192,Boeing KC-46A Pegasus (767-2C),18-46052,USAF United States Air Force,,On Order,N5514K,
+63112,1193,Boeing 767-300F(ER),N181FE,Federal Express (FedEx),17-Oct-19,Active,,"Hao, 181"
+65907,1194,Boeing 767-300F(ER),N368UP,United Parcel Service (UPS),25-Oct-19,Active,,
+63111,1195,Boeing 767-300F(ER),N180FE,Federal Express (FedEx),7-Nov-19,Active,,"Kristjan, 180"
+41873,1196,Boeing KC-46A Pegasus (767-2C),18-46053,USAF United States Air Force,,On Order,,
+66240,1197,Boeing 767-300F(ER),N369UP,United Parcel Service (UPS),25-Nov-19,Active,,369
+64058,1198,Boeing 767-300F(ER),N136FE,Federal Express (FedEx),16-Dec-19,Active,,"Haven, 136"
+63113,1199,Boeing 767-300F(ER),N182FE,Federal Express (FedEx),20-Dec-19,Active,,"Nathan, 182"
+41874,1200,Boeing KC-46A Pegasus (767-2C),18-46054,USAF United States Air Force,,On Order,,86054
+63114,1201,Boeing 767-300F(ER),N183FE,Federal Express (FedEx),10-Feb-20,Active,,"Alixes, 183"
+66241,1203,Boeing 767-300F(ER),N370UP,United Parcel Service (UPS),14-Feb-20,Active,,370
+66249,1204,Boeing 767-300F(ER),N270FE,Federal Express (FedEx),25-Feb-20,Active,,"Dayena, 270"
+64059,1206,Boeing 767-300F(ER),N299FE,Federal Express (FedEx),10-Mar-20,Active,,"Aoife, 299"
+63115,1208,Boeing 767-300F(ER),N184FE,Federal Express (FedEx),31-Mar-20,Active,,"Freddie, 184"
+65791,1209,Boeing 767-300F(ER),N371UP,United Parcel Service (UPS),12-May-20,Active,,371
+63118,1217,Boeing 767-300F(ER),N187FE,Federal Express (FedEx),,On Order,,187
+66242,1218,Boeing 767-300F(ER),N272FE,Federal Express (FedEx),,On Order,,272
+63119,1222,Boeing 767-300F(ER),N188FE,Federal Express (FedEx),,On Order,,188
+66243,1224,Boeing 767-300F(ER),N273FE,Federal Express (FedEx),,On Order,,273
+63120,1225,Boeing 767-300F(ER),N189FE,Federal Express (FedEx),,On Order,,189
+66244,1227,Boeing 767-300F(ER),N274FE,Federal Express (FedEx),,On Order,,274
+,,,,,,,,
+63121,1229,Boeing 767-300F(ER),N190FE,Federal Express (FedEx),,On Order,,190
+63122,1232,Boeing 767-300F(ER),N191FE,Federal Express (FedEx),,On Order,,191
+66245,1233,Boeing 767-300F(ER),N275FE,Federal Express (FedEx),,On Order,,275
+63123,1235,Boeing 767-300F(ER),N192FE,Federal Express (FedEx),,On Order,,192
+66251,1237,Boeing 767-300F(ER),N276FE,Federal Express (FedEx),,On Order,,276
+64060,,Boeing 767-300F(ER),N111FE,Federal Express (FedEx),,On Order,,111
+63116,,Boeing 767-300F(ER),N185FE,Federal Express (FedEx),,On Order,,185
+63117,,Boeing 767-300F(ER),N186FE,Federal Express (FedEx),,On Order,,186
+66250,,Boeing 767-300F(ER),N271FE,Federal Express (FedEx),,On Order,,271
+22723,,Boeing 767-222,N,United Airlines,,Not Built,,
+22722,,Boeing 767-222,N,United Airlines,,Not Built,,
+22721,,Boeing 767-222,N,United Airlines,,Not Built,,
+22720,,Boeing 767-222,N,United Airlines,,Not Built,,
+22719,,Boeing 767-222,N,United Airlines,,Not Built,,
+22718,,Boeing 767-222,N,United Airlines,,Not Built,,
+22717,,Boeing 767-222,N,United Airlines,,Not Built,,
+22716,,Boeing 767-222,N,United Airlines,,Not Built,,
+22715,,Boeing 767-222,N,United Airlines,,Not Built,,
+22228,,Boeing 767-232,N116DL,Delta Air Lines,,Not Built,,
+22229,,Boeing 767-232,N117DL,Delta Air Lines,,Not Built,,
+22230,,Boeing 767-232,N118DL,Delta Air Lines,,Not Built,,
+22231,,Boeing 767-232,N119DL,Delta Air Lines,,Not Built,,
+22232,,Boeing 767-232,N120DL,Delta Air Lines,,Not Built,,
+22685,,Boeing 767-275,C-GPWC,Pacific Western Airlines,,Not Built,,
+22686,,Boeing 767-275,C-GPWD,Pacific Western Airlines,,Not Built,,
+24949,,Boeing 767-3Y0(ER),-,Guinness Peat Aviation (GPA),,Not Built,,
+24950,,Boeing 767-3Y0(ER),-,Guinness Peat Aviation (GPA),,Not Built,,
+24951,,Boeing 767-3Y0(ER),-,Guinness Peat Aviation (GPA),,Not Built,,
+24954,,Boeing 767-3Y0(ER),-,Guinness Peat Aviation (GPA),,Not Built,,
+25992,,Boeing 767-332,N,Delta Air Lines,,Not Built,,
+25993,,Boeing 767-332,N,Delta Air Lines,,Not Built,,
+26201,,Boeing 767-3Y0(ER),-,Guinness Peat Aviation (GPA),,Not Built,,
+26202,,Boeing 767-3Y0(ER),-,Guinness Peat Aviation (GPA),,Not Built,,
+26203,,Boeing 767-3Y0(ER),-,Guinness Peat Aviation (GPA),,Not Built,,
+26209,,Boeing 767-3Y0(ER),-,Guinness Peat Aviation (GPA),,Not Built,,
+26210,,Boeing 767-3Y0(ER),-,Guinness Peat Aviation (GPA),,Not Built,,
+27161,,Boeing 767-322(ER),N664UA,United Airlines,,Not Built,,
+27209,,Boeing 767-322(ER),-,United Airlines,,Not Built,,
+27210,,Boeing 767-322(ER),-,United Airlines,,Not Built,,
+27211,,Boeing 767-322(ER),-,United Airlines,,Not Built,,
+27185,,Boeing 767-323(ER),N,American Airlines,,Not Built,,
+27429,,Boeing 767-328(ER),F-GHGN,Air France,,Not Built,,

@@ -1,0 +1,1071 @@
+MSN,Line Number,Aircraft Type,Reg,Current Operator,Delivered From,Status,Prev Reg,Remark
+,,,,,,,,
+22212,1,Boeing 757-200,N757A,Boeing,,Active,,
+22191,2,Boeing 757-225,N144DC,Starflite International Corporation,24-Jan-09,Active,N557NA,
+22192,3,Boeing 757-225,N916UW,US Airways,4-Jan-07,Scrapped,N600AU,"916, lsf GECAS"
+22193,4,Boeing 757-225,N917UW,US Airways,19-Oct-06,Scrapped,N601AU,"917, lsf GECAS"
+22194,5,Boeing 757-225,N757HW,Honeywell International,4-Oct-05,Active,G-JALC,
+22195,6,Boeing 757-225,N304H,Evergreen International Airlines,14-Mar-06,Stored,G-PIDS,
+22196,7,Boeing 757-225,N918UW,US Airways,20-Sep-06,Scrapped,N602AU,"918, lsf GECAS"
+22197,8,Boeing 757-225,N448TK,Megalith Group,18-Jun-09,Scrapped,N811AD,
+22172,9,Boeing 757-236(SF),G-BIKA,DHL Air,17-Mar-16,Scrapped,D-ALEA,lsf BCC
+22173,10,Boeing 757-236(SF),G-BIKB,DHL Air,1-Sep-15,Scrapped,D-ALEB,lsf BCC
+22174,11,Boeing 757-236(SF),G-BIKC,DHL Air,27-Mar-02,Scrapped,,lsf BCC
+22198,12,Boeing 757-225,N919UW,US Airways,15-Sep-06,Scrapped,N603AU,"919, lsf GECAS"
+22175,13,Boeing 757-236(SF),D-ALEC,EAT Leipzig,26-Mar-10,Scrapped,OO-DLQ,lsf BCC
+22176,14,Boeing 757-236,N757SS,Juliet Romeo Aviation,24-Jan-12,Active,N757BJ,
+22780,15,Boeing 757-2T7(SF),N935FD,Federal Express (FedEx),24-Feb-09,Active,G-MONB,"Desiree, 935"
+22177,16,Boeing 757-236(SF),G-BIKF,DHL Air,30-May-03,Scrapped,,lsf BCC
+22199,17,Boeing 757-225,N920UW,US Airways,17-Jan-07,Scrapped,N604AU,"920, lsf GECAS"
+22781,18,Boeing 757-2T7,G-MONC,Monarch Airlines,28-Apr-99,Scrapped,PH-AHO,
+22960,19,Boeing 757-2T7,G-MOND,Monarch Airlines,13-May-92,Scrapped,D-ABNZ,
+22200,20,Boeing 757-225,G-MCEA,MyTravel,1-May-02,Scrapped,N510EA,
+22201,21,Boeing 757-225,N921UW,US Airways,18-Sep-06,Scrapped,N605AU,"921, lsf GECAS"
+22202,22,Boeing 757-225,N922UW,US Airways,18-Dec-06,Scrapped,N606AU,"922, lsf GECAS"
+22178,23,Boeing 757-236(SF),G-BIKG,DHL Air,16-Apr-02,Scrapped,,lsf BCC
+22179,24,Boeing 757-236(SF),G-BIKH,DHL Air,12-Jun-17,Scrapped,D-ALED,lsf BCC
+22180,25,Boeing 757-236(SF),G-BIKI,DHL Air,21-Jun-02,Scrapped,OO-DLO,lsf BCC
+22203,26,Boeing 757-225,N923UW,US Airways,26-Dec-06,Scrapped,N607AU,"923, lsf GECAS"
+22204,27,Boeing 757-225,N924UW,US Airways,26-Dec-06,Scrapped,N608AU,"924, lsf GECAS"
+22205,28,Boeing 757-225,N925UW,US Airways,11-Oct-06,Scrapped,N609AU,"925, lsf GECAS"
+22181,29,Boeing 757-236(SF),G-BIKJ,DHL Air,2-Apr-02,Scrapped,,lsf BCC
+22182,30,Boeing 757-236(SF),G-BIKK,DHL Air,12-Apr-02,Scrapped,,lsf BCC
+22206,31,Boeing 757-225,TC-GEN,Birgenair,31-Mar-95,Written Off,8P-GUL,
+22183,32,Boeing 757-236(SF),G-BIKL,DHL Air,5-Jan-17,Scrapped,D-ALEE,lsf BCC
+22184,33,Boeing 757-236(SF),G-BIKM,DHL Air,18-Dec-02,Scrapped,,lsf BCC
+22185,34,Boeing 757-236,N951PG,Pegasus Aviation,27-Apr-06,Scrapped,HS-OTB,
+22207,35,Boeing 757-225,N913AW,US Airways,27-Sep-05,Scrapped,N517EA,913
+23118,36,Boeing 757-2G5,EC-HQV,Volar Airlines,1-Jul-03,Scrapped,EC-EFX,
+22808,37,Boeing 757-232,N601DL,Delta Air Lines,28-Feb-85,Scrapped,,601
+22208,38,Boeing 757-225,N914AW,US Airways,27-Sep-05,Scrapped,N518EA,
+22809,39,Boeing 757-232,N602DL,Delta Air Lines,5-Nov-84,Scrapped,,602
+22209,40,Boeing 757-225,N915AW,US Airways,27-Sep-05,Scrapped,N747BJ,"915, lsf GECAS"
+22810,41,Boeing 757-232,N603DL,Delta Air Lines,7-Nov-84,Stored,,603
+22210,42,Boeing 757-225(PCF),N241AL,Aerolease,18-Oct-18,Stored,A9C-DHE,
+22811,43,Boeing 757-232,N604DL,Delta Air Lines,4-Dec-84,Scrapped,,604
+23125,44,Boeing 757-212,N751AT,Delta Air Lines,22-Nov-96,Scrapped,9V-SGK,6901
+23126,45,Boeing 757-212,N750AT,Delta Air Lines,19-Sep-96,Scrapped,9V-SGL,6902
+22812,46,Boeing 757-232(PCF),N605DL,Air Transport International,11-Mar-13,Stored,,lsf CAM
+23127,47,Boeing 757-212,N757AT,Delta Air Lines,26-Sep-96,Scrapped,9V-SGM,6903
+23128,48,Boeing 757-212,N752AT,Delta Air Lines,15-Oct-96,Scrapped,9V-SGN,6904
+22813,49,Boeing 757-232,N606DL,Delta Air Lines,17-Jan-85,Scrapped,,606
+22186,50,Boeing 757-236(SF),G-BIKN,DHL Air,31-Jul-03,Scrapped,,lsf BCC
+23119,51,Boeing 757-2G5,N119WF,Evergreen Aircraft Sales & Leasing Company,27-Jul-04,Scrapped,EC-HRB,
+22187,52,Boeing 757-236(SF),G-BIKO,DHL Air,25-Apr-03,Scrapped,,lsf Barclays Bank
+23190,53,Boeing 757-251,N501US,Delta Air Lines,29-Oct-08,Stored,,5501
+,,,,,,,,
+22188,54,Boeing 757-236(SF),G-BIKP,DHL Air,2-Apr-02,Scrapped,,
+23191,55,Boeing 757-251,N502US,Delta Air Lines,29-Oct-08,Stored,,5502
+23293,56,Boeing 757-2T7(SF),N936FD,Federal Express (FedEx),28-Nov-08,Active,G-MONE,"Piper, 936"
+23227,57,Boeing 757-236,N227AN,Avianca,1-Sep-01,Scrapped,EC-GCB,lsf FCC
+22189,58,Boeing 757-236(SF),G-BIKR,DHL Air,19-Jul-16,Scrapped,D-ALEF,
+23192,59,Boeing 757-251,N503US,Delta Air Lines,29-Oct-08,Stored,,5503
+23193,60,Boeing 757-251,N504US,Northwest Airlines,1-Oct-86,Scrapped,,5504
+22814,61,Boeing 757-232,N607DL,Delta Air Lines,14-May-85,Scrapped,,607
+23194,62,Boeing 757-251,N505US,Northwest Airlines,1-Oct-86,Stored,,5505
+22190,63,Boeing 757-236(SF),G-BIKS,DHL Air,20-Jun-03,Scrapped,,lsf Barclays Bank
+22815,64,Boeing 757-232,N608DA,Delta Air Lines,1-May-06,Preserved,,"608, Classic Widget (Retro) cs"
+22816,65,Boeing 757-232,N609DL,Delta Air Lines,1-May-06,Stored,,609
+22817,66,Boeing 757-232,N610DL,Delta Air Lines,28-Sep-06,Scrapped,,610
+23195,67,Boeing 757-251,N506US,Northwest Airlines,1-Oct-86,Scrapped,,5506
+23196,68,Boeing 757-251,N507US,Delta Air Lines,29-Oct-08,Scrapped,,5507
+23197,69,Boeing 757-251,N508US,Northwest Airlines,1-Oct-86,Scrapped,,5508
+23198,70,Boeing 757-251,N509US,Northwest Airlines,1-Oct-86,Scrapped,,5509
+22818,71,Boeing 757-232,N611DL,Delta Air Lines,23-Aug-85,Scrapped,,611
+23199,72,Boeing 757-251,N511US,Northwest Airlines,1-Oct-86,Scrapped,,5511
+22819,73,Boeing 757-232,N612DL,Delta Air Lines,18-Oct-85,Scrapped,,612
+22211,74,Boeing 757-225(PCF),N314ST,TVPX Trust Services,2-Aug-18,Stored,A9C-DHC,
+22611,75,Boeing 757-225(PCF),VH-PQA,Pacific Air Express,20-Mar-18,Active,N315ST,
+23321,76,Boeing 757-2S7,N901AW,Jetran,8-Mar-17,Scrapped,N601RC,
+23398,77,Boeing 757-236(SF),D-ALEG,EAT Leipzig,26-Mar-10,Stored,OO-DPO,
+23399,78,Boeing 757-236(SF),G-BIKU,DHL Air,2-Oct-02,Scrapped,,lsf Barclays Bank
+23322,79,Boeing 757-2S7,N902AW,American Airlines,9-Dec-13,Scrapped,N602RC,902
+23323,80,Boeing 757-2S7(SF),N926FD,Federal Express (FedEx),27-Sep-10,Active,N903AW,"Clare, 926"
+23400,81,Boeing 757-236(SF),G-BIKV,DHL Air,13-Sep-02,Scrapped,,
+23200,82,Boeing 757-251,N512US,Northwest Airlines,1-Oct-86,Scrapped,,5512
+23201,83,Boeing 757-251,N513US,Northwest Airlines,1-Oct-86,Scrapped,,5513
+22820,84,Boeing 757-232,N613DL,Delta Air Lines,24-Jan-86,Scrapped,,613
+22821,85,Boeing 757-232,N614DL,Delta Air Lines,1-May-06,Scrapped,,614
+23202,86,Boeing 757-251,N514US,Northwest Airlines,1-Oct-86,Scrapped,,5514
+22822,87,Boeing 757-232,N615DL,Delta Air Lines,Nov-07,Scrapped,,615
+23203,88,Boeing 757-251,N515US,Northwest Airlines,1-Oct-86,Scrapped,,5515
+23492,89,Boeing 757-236(SF),D-ALEH,EAT Leipzig,26-Mar-10,Scrapped,OO-DPK,lsf BCC
+23493,90,Boeing 757-236(SF),G-BIKX,DHL Air,10-Nov-15,Scrapped,D-ALEI,lsf BCC
+22823,91,Boeing 757-232,N616DL,Delta Air Lines,2-Apr-86,Stored,,616
+22907,92,Boeing 757-232,N617DL,Delta Air Lines,21-May-86,Stored,,617
+23533,93,Boeing 757-236(SF),D-ALEK,EAT Leipzig,12-Mar-10,Stored,OO-DPN,lsf BCC
+23452,94,Boeing 757-2M6,G-CDMR,TES 757 Ltd,4-Aug-05,Scrapped,V8-RBA,
+22908,95,Boeing 757-232,N618DL,Delta Air Lines,25-Apr-86,Stored,,618
+23566,96,Boeing 757-2S7,N904AW,American Airlines,9-Dec-13,Scrapped,N604RC,"904, lsf Castlelake"
+23567,97,Boeing 757-2S7,N905AW,American Airlines,9-Dec-13,Scrapped,N605RC,"905, lsf Castlelake"
+23532,98,Boeing 757-236(SF),G-BIKZ,DHL Air,22-Jul-02,Scrapped,,lsf BCC
+23568,99,Boeing 757-2S7,N906AW,American Airlines,9-Dec-13,Stored,N606RC,"906, lsf Castlelake"
+23453,100,Boeing 757-2M6,4K-AZ43,AZAL Azerbaijan Airlines,10-Aug-04,Stored,V8-RBB,
+22909,101,Boeing 757-232(SF),N990FD,Federal Express (FedEx),8-Feb-11,Active,N619DL,"Ana, 990"
+23454,102,Boeing 757-2M6,UP-B5701,Kazakhstan - Air Force,Sep-19,Active,UN-B5701,
+23686,103,Boeing 757-2B6,N686AL,Aerolease,8-Mar-10,Scrapped,CN-RMT,
+23204,104,Boeing 757-251,N516US,Delta Air Lines,29-Oct-08,Stored,,5516
+23205,105,Boeing 757-251,N517US,Delta Air Lines,29-Oct-08,Scrapped,,5517
+23687,106,Boeing 757-2B6(PCF),N557CM,Air Transport International,5-Feb-13,Stored,CN-RMZ,lsf CAM
+,,,,,,,,
+23206,107,Boeing 757-251,N518US,Delta Air Lines,29-Oct-08,Scrapped,,5518
+23207,108,Boeing 757-251,N519US,Delta Air Lines,29-Oct-08,Scrapped,,5519
+23208,109,Boeing 757-251,N520US,Delta Air Lines,29-Oct-08,Scrapped,,5520
+23209,110,Boeing 757-251,N521US,Delta Air Lines,29-Oct-08,Stored,,5521
+22910,111,Boeing 757-232(PCF),N620DL,Air Transport International,11-Mar-13,Stored,,lsf CAM
+22911,112,Boeing 757-232(SF),N991FD,Federal Express (FedEx),15-Dec-10,Active,N621DL,"Teagan, 991"
+22912,113,Boeing 757-232(SF),N992FD,Federal Express (FedEx),4-Feb-11,Active,N622DL,"Andi-Gayle, 992"
+22612,114,Boeing 757-225(SF),N942FD,Federal Express (FedEx),24-Sep-09,Active,N226CL,"Kylie, 942"
+22688,115,Boeing 757-225(PCF),N688GX,AerSale Inc,8-Dec-11,Scrapped,TC-OGH,
+23651,116,Boeing 757-2G5,N651MG,Memphis Group Inc,5-Apr-07,Scrapped,HS-BTA,
+22689,117,Boeing 757-225(PCF),N689GX,AerSale Inc,5-Jan-12,Scrapped,PR-LGK,
+22913,118,Boeing 757-232,N623DL,Delta Air Lines,8-Jan-87,Stored,,623
+23616,119,Boeing 757-251,N522US,Delta Air Lines,29-Oct-08,Stored,,5522
+22914,120,Boeing 757-232,N624DL,Delta Air Lines,23-Jan-87,Scrapped,,624
+23617,121,Boeing 757-251,N523US,Delta Air Lines,29-Oct-08,Stored,,5523
+23618,122,Boeing 757-251,N524US,Northwest Airlines,14-Feb-87,Scrapped,,5524
+23710,123,Boeing 757-236(SF),G-BMRA,DHL Air,27-Nov-02,Stored,,lsf Barclays
+23619,124,Boeing 757-251,N525US,Delta Air Lines,29-Oct-08,Stored,,5525
+23770,125,Boeing 757-2T7,G-DAJB,Monarch Airlines,17-Mar-87,Scrapped,,
+22915,126,Boeing 757-232,N625DL,Delta Air Lines,1-Apr-87,Stored,,625
+23767,127,Boeing 757-28A(PCF),C-GIAJ,Cargojet Airways,4-Mar-14,Active,N767AN,lsf DAE Capital
+22916,128,Boeing 757-232,N626DL,Delta Air Lines,22-May-87,Stored,,626
+22917,129,Boeing 757-232(WL),N627DL,Delta Air Lines,24-Apr-87,Stored,,627
+23822,130,Boeing 757-28A(PCF),N822PB,Arrow Air,26-Apr-09,Scrapped,G-OOOB,
+23620,131,Boeing 757-251,N526US,Delta Air Lines,29-Oct-08,Stored,,5526
+23895,132,Boeing 757-2T7(SF),N937FD,Federal Express (FedEx),12-Apr-10,Active,N513NA,"Aley, 937"
+22918,133,Boeing 757-232,N628DL,Delta Air Lines,3-Jun-87,Stored,,628
+22919,134,Boeing 757-232,N629DL,Delta Air Lines,14-Oct-87,Scrapped,,629
+22920,135,Boeing 757-232,N630DL,Delta Air Lines,25-Nov-87,Scrapped,,630
+23842,136,Boeing 757-251,N527US,Delta Air Lines,29-Oct-08,Stored,,5527
+23843,137,Boeing 757-251,N528US,Delta Air Lines,29-Oct-08,Stored,,5528
+23612,138,Boeing 757-232,N631DL,Delta Air Lines,3-Dec-87,Scrapped,,631
+23723,139,Boeing 757-24APF,N401UP,United Parcel Service (UPS),6-Oct-87,Active,,401
+23844,140,Boeing 757-251,N529US,Delta Air Lines,29-Oct-08,Scrapped,,5529
+23724,141,Boeing 757-24APF,N402UP,United Parcel Service (UPS),17-Sep-87,Active,,402
+23850,142,Boeing 757-2F8,9N-ACA,Nepal Airlines,Jan-07,Stored,,Karnali
+23725,143,Boeing 757-24APF,N403UP,United Parcel Service (UPS),18-Sep-87,Active,,403
+24014,144,Boeing 757-21B,G-LSAG,Jet2,22-Nov-06,Stored,B-2801,
+23975,145,Boeing 757-236(SF),G-BMRB,DHL Air,15-May-03,Active,,lsf Barclays
+23928,146,Boeing 757-2G5,N928MQ,Macquarie AirFinance,12-Dec-08,Scrapped,XA-DIA,
+23726,147,Boeing 757-24APF,N404UP,United Parcel Service (UPS),27-Oct-87,Active,,404
+24015,148,Boeing 757-21B,G-LSAH,Jet2,22-Nov-06,Stored,B-2802,
+23727,149,Boeing 757-24APF,N405UP,United Parcel Service (UPS),29-Oct-87,Active,,405
+24016,150,Boeing 757-21B,G-LSAI,Jet2,22-Feb-07,Stored,B-2803,
+22690,151,Boeing 757-225(WL),XC-UJM,Fuerza Aérea Mexicana (Mexican Air Force),1991,Stored,XC-CBD,TP-02
+23917,152,Boeing 757-258,C-GMYC,Harmony Airways,17-May-04,Scrapped,N789BA,"801, lsf BCC"
+23929,153,Boeing 757-2G5(SF),N943FD,Federal Express (FedEx),10-Sep-10,Active,N929RD,"Rebeka, 943"
+23613,154,Boeing 757-232,N632DL,Delta Air Lines,9-Dec-87,Stored,,632
+22691,155,Boeing 757-225(SF),N941FD,Federal Express (FedEx),30-Jun-09,Active,TF-LLY,"Erika, 941"
+23918,156,Boeing 757-258,4X-EBM,Sun d'Or International Airlines,Apr-07,Scrapped,,lsf El Al Israel Airlines
+23614,157,Boeing 757-232,N633DL,Delta Air Lines,23-Dec-87,Scrapped,,633
+23615,158,Boeing 757-232,N634DL,Delta Air Lines,13-Jan-88,Stored,,634
+23762,159,Boeing 757-232,N635DL,Delta Air Lines,3-Feb-88,Scrapped,,635
+,,,,,,,,
+24072,160,Boeing 757-236(SF),D-ALEW,EAT Leipzig,1-Dec-17,Stored,G-BMRC,lsf Barclays
+23983,161,Boeing 757-2G5,N950PT,Sunrise Asset Management,14-Sep-10,Scrapped,CS-TFK,
+24017,162,Boeing 757-28A(SF),N913FD,Federal Express (FedEx),3-Nov-08,Active,C-FTDV,"Brayden, 913"
+24118,163,Boeing 757-236(SF),N977FD,Federal Express (FedEx),20-Dec-13,Active,N630SH,"Gatten, 977"
+23763,164,Boeing 757-232,N636DL,Delta Air Lines,3-Mar-88,Scrapped,,636
+24135,165,Boeing 757-27B(WL),G-LSAE,Jet2,25-Sep-06,Stored,OM-SNA,
+24073,166,Boeing 757-236(SF),G-BMRD,DHL Air,14-Nov-03,Active,,
+24119,167,Boeing 757-236(SF),N978FD,Federal Express (FedEx),20-Jun-12,Active,YV2242,"Mackenzie Ann, 978"
+24074,168,Boeing 757-236(SF),G-BMRE,DHL Air,1-Nov-03,Scrapped,,lsf Barclays
+24136,169,Boeing 757-27B(WL),G-LSAB,Jet2,21-Jun-05,Stored,N136CV,Jet2 Menorca
+24104,170,Boeing 757-2T7,G-MONJ,Monarch Airlines,6-Mar-00,Scrapped,,
+23760,171,Boeing 757-232,N637DL,Jet Midwest Group,21-May-13,Scrapped,,
+24105,172,Boeing 757-2T7,G-MONK,Monarch Airlines,8-Mar-00,Scrapped,,
+24176,173,Boeing 757-2G5(SF),N962FD,Federal Express (FedEx),22-Sep-11,Active,CS-TLX,"Nina, 962"
+24120,174,Boeing 757-236(SF),N915FD,Federal Express (FedEx),27-Feb-07,Active,4X-EBO,"Declan, 915"
+24101,175,Boeing 757-236(SF),G-BMRF,DHL Air,14-Oct-02,Stored,,lsf Barclays
+23728,176,Boeing 757-24APF,N406UP,United Parcel Service (UPS),2-Jun-88,Active,,406
+23761,177,Boeing 757-232(WL),N638DL,Delta Air Lines,Apr-06,Scrapped,,638
+24137,178,Boeing 757-27B(SF),N916FD,Federal Express (FedEx),29-Oct-07,Active,4X-EBY,"Mallory, 916"
+24102,179,Boeing 757-236(SF),G-BMRG,DHL Air,13-Apr-15,Scrapped,A9C-DHF,
+24235,180,Boeing 757-28A(SF),N235WD,Jetran,16-Feb-18,Stored,PR-XCA,
+23729,181,Boeing 757-24APF,N407UP,United Parcel Service (UPS),24-Jun-88,Active,,407
+23863,182,Boeing 757-2F8M,9N-ACB,Nepal Airlines,Jan-07,Stored,N5573K,Gandaki
+24121,183,Boeing 757-236(PCF),EC-KLD,Cygnus Air,Jun-13,Active,N28AT,
+23730,184,Boeing 757-24APF,N408UP,United Parcel Service (UPS),15-Jul-88,Active,,408
+24254,185,Boeing 757-258,C-GMYD,Harmony Airways,17-May-04,Scrapped,N73724,"802, lsf BCC"
+23731,186,Boeing 757-24APF,N409UP,United Parcel Service (UPS),29-Jul-88,Active,,409
+24122,187,Boeing 757-236,G-LSAA,Jet2,17-May-05,Stored,N241CV,Jet2 Tenerife
+23845,188,Boeing 757-251,N530US,Delta Air Lines,29-Oct-08,Scrapped,,5530
+23732,189,Boeing 757-24APF,N410UP,United Parcel Service (UPS),1-Sep-88,Active,,410
+23846,190,Boeing 757-251,N531US,Delta Air Lines,29-Oct-08,Stored,,5531
+23851,191,Boeing 757-24APF,N411UP,United Parcel Service (UPS),1-Sep-88,Active,,411
+24263,192,Boeing 757-251,N532US,Delta Air Lines,29-Oct-08,Scrapped,,5532
+23852,193,Boeing 757-24APF,N412UP,United Parcel Service (UPS),30-Sep-88,Stored,,412
+24264,194,Boeing 757-251,N533US,Delta Air Lines,29-Oct-08,Scrapped,,5533
+23853,195,Boeing 757-24APF,N413UP,United Parcel Service (UPS),30-Sep-88,Active,,413
+24265,196,Boeing 757-251,N534US,Delta Air Lines,29-Oct-08,Scrapped,,5534
+23854,197,Boeing 757-24APF,N414UP,United Parcel Service (UPS),28-Oct-88,Active,,414
+23993,198,Boeing 757-232,N639DL,Delta Air Lines,1-May-06,Scrapped,,639
+23855,199,Boeing 757-24APF,N415UP,United Parcel Service (UPS),28-Oct-88,Active,,415
+24330,200,Boeing 757-21B(SF),N933FD,Federal Express (FedEx),18-Jul-08,Active,B-2804,"Fabian, 933"
+23994,201,Boeing 757-232(WL),N640DL,Delta Air Lines,1-May-06,Scrapped,,640
+23995,202,Boeing 757-232(WL),N641DL,Delta Air Lines,1-May-06,Scrapped,,641
+24331,203,Boeing 757-21B(SF),N934FD,Federal Express (FedEx),12-Sep-08,Active,B-2805,"Shae, 934"
+24260,204,Boeing 757-28A(SF),N912FD,Federal Express (FedEx),10-Jul-08,Active,N517NA,"Demir, 912"
+23996,205,Boeing 757-232,N642DL,Delta Air Lines,22-Dec-88,Scrapped,,642
+23997,206,Boeing 757-232,N643DL,Delta Air Lines,1-May-06,Scrapped,,643
+23998,207,Boeing 757-232,N644DL,Delta Air Lines,1-May-06,Scrapped,,644
+24367,208,Boeing 757-28A(SF),N914FD,Federal Express (FedEx),24-Feb-09,Active,G-FCLG,"Bella, 914"
+24289,209,Boeing 757-23A(SF),N920FD,Federal Express (FedEx),13-Dec-07,Active,G-OAVB,"Sophia, 920"
+24266,210,Boeing 757-236(SF),G-BMRH,DHL Air,25-Feb-03,Scrapped,,
+24267,211,Boeing 757-236(SF),G-BMRI,DHL Air,18-Dec-14,Active,VT-BDK,
+24290,212,Boeing 757-23A(SF),N918FD,Federal Express (FedEx),18-Aug-08,Active,N290AN,"Dexter, 918"
+,,,,,,,,
+24368,213,Boeing 757-28A(SF),N963FD,Federal Express (FedEx),16-Oct-12,Active,N639AX,"Makenzie, 963"
+24268,214,Boeing 757-236(SF),G-BMRJ,DHL Air,17-Dec-02,Active,,
+24291,215,Boeing 757-23A(SF),N917FD,Federal Express (FedEx),20-Aug-08,Active,CX-PUD,"Kirby, 917"
+24216,216,Boeing 757-232,N645DL,Delta Air Lines,1-May-06,Scrapped,,645
+24217,217,Boeing 757-232,N646DL,Delta Air Lines,5-Apr-89,Scrapped,,646
+24370,218,Boeing 757-236,N635SH,Sky Holding Company,31-May-18,Stored,YV450T,
+24292,219,Boeing 757-23A(SF),N938FD,Federal Express (FedEx),22-Dec-11,Active,G-OJIB,"Isabella, 938"
+24293,220,Boeing 757-23A(SF),N922FD,Federal Express (FedEx),27-Apr-09,Active,N293AW,"Remy, 922"
+24397,221,Boeing 757-236,G-LSAD,Jet2,16-Jun-06,Stored,SX-BLW,
+24218,222,Boeing 757-232,N647DL,Delta Air Lines,1-May-06,Scrapped,,647
+24372,223,Boeing 757-232(WL),N648DL,Delta Air Lines,1-May-06,Stored,,648
+24398,224,Boeing 757-236(SF),N946FD,Federal Express (FedEx),4-Jun-10,Active,G-CPEL,"Sadie, 946"
+24371,225,Boeing 757-236(SF),N958FD,Federal Express (FedEx),8-May-12,Active,N579SH,"Ryanne, 958"
+24369,226,Boeing 757-28A(SF),N928FD,Federal Express (FedEx),16-Jun-10,Active,G-JMCF,"Annsley, 928"
+24451,227,Boeing 757-2G5(C),N752CX,Air Transport International,14-Mar-13,Stored,N151GX,lsf CAM
+24497,228,Boeing 757-2G5(SF),N944FD,Federal Express (FedEx),21-Dec-10,Active,N497EA,"Reagan, 944"
+24389,229,Boeing 757-232,N649DL,Delta Air Lines,1-May-06,Stored,,649
+24390,230,Boeing 757-232,N650DL,Delta Air Lines,1-May-06,Stored,,650
+24471,231,Boeing 757-26D(PCF),HP-2110DAE,DHL Aero Expreso,14-Sep-16,Active,N588GT,lsf Titan Aviation Holdings
+24401,232,Boeing 757-21B(PCF),B-2899,SF Airlines (ShunFeng Airlines),20-Oct-09,Active,N401AN,
+24402,233,Boeing 757-21B,N634SH,Sky Holding Company,30-May-18,Scrapped,YV288T,
+24486,234,Boeing 757-223(WL),N610AA,American Airlines,31-Jul-89,Scrapped,,610
+24472,235,Boeing 757-26D(PCF),9M-RYA,Raya Airways,8-Oct-15,Active,2-TBXE,
+24487,236,Boeing 757-223(WL),N119NA,US Department of Justice,16-Mar-15,Active,N611AM,
+24456,237,Boeing 757-23APF,TF-FIG,Icelandair,9-Sep-99,Active,N571CA,lsf Castlelake
+24391,238,Boeing 757-232,N651DL,Delta Air Lines,1-May-06,Stored,,651
+24392,239,Boeing 757-232,N652DL,Delta Air Lines,27-Jul-89,Stored,,652
+24488,240,Boeing 757-223(WL),N612AA,American Airlines,4-Aug-89,Scrapped,,612
+24622,241,Boeing 757-222,N501UA,United Airlines,24-Aug-89,Scrapped,,"5401, lsf CIT"
+24489,242,Boeing 757-223(WL),N613AA,Jet Midwest Group,13-May-15,Scrapped,,
+24490,243,Boeing 757-223(WL),N614AA,Jet Midwest Group,29-Oct-13,Stored,,
+24233,244,Boeing 757-2G7(WL),N908AW,American Airlines,9-Dec-13,Scrapped,,908
+24491,245,Boeing 757-223(WL),N615AM,American Airlines,12-Sep-89,Stored,,615
+24623,246,Boeing 757-222(WL),N502UA,United Airlines,14-Sep-89,Stored,,5302
+24624,247,Boeing 757-222,N503UA,United Airlines,20-Sep-89,Stored,,5403
+24524,248,Boeing 757-223(WL),N874TW,US Department of Justice,12-Feb-15,Active,N616AA,
+24527,249,Boeing 757-23A(WL),9H-AVM,JetMagic,23-Oct-13,Active,HB-IEE,U2 - the Joshua Tree Tour 2019 cs
+24528,250,Boeing 757-23A(SF),N939FD,Federal Express (FedEx),6-Dec-10,Active,N549AX,"Camila, 939"
+24625,251,Boeing 757-222,N504UA,United Airlines,16-Oct-89,Scrapped,,5404
+24522,252,Boeing 757-2G7(WL),N909AW,Jetran,1-Dec-16,Scrapped,,
+24525,253,Boeing 757-223(WL),N617AM,American Airlines,17-Nov-89,Stored,,"617, lsf SPEL"
+24626,254,Boeing 757-222(WL),N505UA,United Airlines,13-Nov-89,Stored,,5305
+24566,255,Boeing 757-23A(PCF),C-FKAJ,Cargojet Airways,12-Mar-14,Active,N720DB,lsf Castlelake
+24523,256,Boeing 757-2G7(WL),N910AW,Sundown Aircraft,9-Mar-17,Stored,,
+24567,257,Boeing 757-23A(PCF),C-FLAJ,Cargojet Airways,5-Sep-14,Active,TF-FID,lsf Castlelake
+24635,258,Boeing 757-23APF,A9C-DHL,DHL International,23-Apr-02,Written Off,OO-DLK,
+24636,259,Boeing 757-23A(SF),N919FD,Federal Express (FedEx),15-Jan-08,Active,G-FJEA,"Evan, 919"
+24526,260,Boeing 757-223(WL),N618AA,Unical Aviation,27-Jan-15,Scrapped,,
+24393,261,Boeing 757-232,N653DL,Delta Air Lines,9-Feb-90,Stored,,653
+24714,262,Boeing 757-21B,N633SH,Sky Holding Company,1-Mar-18,Scrapped,YV304T,
+24627,263,Boeing 757-222,N757ET,Boeing,1-Nov-13,Scrapped,N506UA,
+24394,264,Boeing 757-232,N654DL,Delta Air Lines,1-May-06,Stored,,654
+24395,265,Boeing 757-232,N655DL,Delta Air Lines,1-May-06,Stored,,655
+,,,,,,,,
+24396,266,Boeing 757-232,N656DL,Delta Air Lines,7-Mar-90,Stored,,656
+24737,267,Boeing 757-230(SF),N985FD,Federal Express (FedEx),7-Jun-13,Active,N741PA,"Karina, 985"
+24543,268,Boeing 757-28A,N176CA,National Airlines,18-Apr-12,Stored,G-STRW,
+24577,269,Boeing 757-223(WL),N619AA,American Airlines,19-Mar-90,Scrapped,,619
+24743,270,Boeing 757-222(SF),N770FD,Federal Express (FedEx),28-Mar-14,Active,N507UA,"Penelope, 770"
+24772,271,Boeing 757-236(SF),N940FD,Federal Express (FedEx),21-Sep-10,Active,N247SS,"Layla, 940"
+24771,272,Boeing 757-236,N506NA,Avianca,25-Nov-03,Scrapped,TC-AJA,lsf CIT
+24739,273,Boeing 757-208(PCF),TF-FIH,Icelandair,4-Apr-90,Active,,lsf BBAM
+24738,274,Boeing 757-230(SF),N997FD,Federal Express (FedEx),30-Jun-10,Active,N473AC,"Analise, 997"
+24747,275,Boeing 757-230(SF),N998FD,Federal Express (FedEx),5-Dec-11,Active,EI-IGC,"Tatum, 998"
+24578,276,Boeing 757-223(WL),N620AA,American Airlines,17-Apr-90,Stored,,620
+24744,277,Boeing 757-222,N508UA,United Airlines,18-Apr-90,Scrapped,,5708
+24794,278,Boeing 757-236,N526NA,Ryan International Airlines,20-Jul-08,Scrapped,EC-HDG,
+24792,279,Boeing 757-236(PCF),C-FKCJ,Cargojet Airways,10-Mar-08,Active,SE-DUO,lsf BBAM
+24544,280,Boeing 757-28A,N101LF,ILFC,3-Aug-12,Scrapped,EC-LHL,
+24760,281,Boeing 757-208(WL),D4-CCG,TACV Cabo Verde Airlines,12-Mar-19,Stored,TF-FII,Baía de Tarrafal
+24758,282,Boeing 757-21B,B-2812,China Southern Airlines,16-May-90,Written Off,,
+24579,283,Boeing 757-223(WL),N621AM,American Airlines,17-May-90,Scrapped,,"621, lsf Pacific Airfinance"
+24763,284,Boeing 757-222,N509UA,United Airlines,21-May-90,Stored,,5409
+24748,285,Boeing 757-230(SF),N999FD,Federal Express (FedEx),24-Aug-10,Active,N493AC,"Meredith, 999"
+24419,286,Boeing 757-232,N657DL,Delta Air Lines,21-May-90,Stored,,657
+24420,287,Boeing 757-232(WL),N658DL,Delta Air Lines,24-May-90,Stored,,658
+24774,288,Boeing 757-21B(SF),N957FD,Federal Express (FedEx),5-Nov-10,Stored,N802PG,"Gabriella, 957"
+24580,289,Boeing 757-223(WL),N622AA,American Airlines,11-Jun-90,Stored,,622
+24780,290,Boeing 757-222(WL),N510UA,United Airlines,13-Jun-90,Stored,,5310
+24799,291,Boeing 757-222(SF),N771FD,Federal Express (FedEx),27-Feb-14,Active,N511UA,"Whitland, 771"
+24793,292,Boeing 757-236,G-LSAJ,Jet2,6-May-08,Stored,G-CDUP,
+24421,293,Boeing 757-232(WL),N659DL,Delta Air Lines,25-Jun-90,Active,,659
+24422,294,Boeing 757-232(WL),N660DL,Delta Air Lines,22-Jun-90,Stored,,660
+24749,295,Boeing 757-230,N749DB,Aerolease,4-Feb-14,Scrapped,RA-73007,
+24581,296,Boeing 757-223(WL),N623AA,American Airlines,11-Jul-90,Scrapped,,623
+24582,297,Boeing 757-223(WL),N624AA,American Airlines,16-Jul-90,Scrapped,,624
+24809,298,Boeing 757-222(WL),N512UA,United Airlines,20-Jul-90,Stored,,5312
+24810,299,Boeing 757-222,N513UA,Delta Material Services,16-Dec-15,Stored,,
+24845,300,Boeing 757-260PF,N754CS,CSDS Aircraft Sales and Leasing,19-Dec-18,Stored,ET-AJS,
+24473,301,Boeing 757-26D(WL),N473AP,L-3 Communications Advanced Aviation LLC,20-Aug-18,Stored,F-HAVI,
+24838,302,Boeing 757-27B,TF-FIW,Icelandair,24-Jun-18,Stored,VP-BFI,"Búrfell, Abercrombie & Kent cs"
+24583,303,Boeing 757-223(WL),N625AA,American Airlines,8-Aug-90,Scrapped,,"625, lsf WCC"
+24584,304,Boeing 757-223(WL),N626AA,American Airlines,14-Aug-90,Scrapped,,626
+24839,305,Boeing 757-222,N514UA,United Airlines,17-Aug-90,Stored,,5414
+24840,306,Boeing 757-222(SF),N772FD,Federal Express (FedEx),16-Oct-14,Active,N515UA,"Emerson, 772"
+24860,307,Boeing 757-222,N516UA,United Airlines,24-Aug-90,Scrapped,,5416
+24585,308,Boeing 757-223(WL),N627AA,CIT Leasing Corporation,18-Apr-12,Scrapped,,
+24586,309,Boeing 757-223(WL),N628AA,American Airlines,31-Aug-90,Scrapped,,"628, lsf Pacific Airfinance"
+24861,310,Boeing 757-222(WL),N517UA,United Airlines,24-Sep-90,Scrapped,,5317
+24871,311,Boeing 757-222(WL),N518UA,United Airlines,14-Sep-90,Stored,,5318
+24872,312,Boeing 757-222(SF),N773FD,Federal Express (FedEx),7-Jan-14,Active,N519UA,"Cannon, 773"
+24890,313,Boeing 757-222,N520UA,United Airlines,21-Sep-90,Stored,,5420
+24868,314,Boeing 757-23APF,OE-LFB,ASL Airlines Belgium,24-May-16,Active,VQ-BOX,lsf Kahala Aviation Leasing
+24587,315,Boeing 757-223(WL),N629AA,American Airlines,28-Sep-90,Stored,,629
+24588,316,Boeing 757-223(WL),N630AA,American Airlines,4-Oct-90,Scrapped,,630
+24589,317,Boeing 757-223(WL),N631AA,American Airlines,9-Oct-90,Stored,,631
+23903,318,Boeing 757-24APF,N416UP,United Parcel Service (UPS),11-Oct-90,Active,,416
+,,,,,,,,
+24891,319,Boeing 757-222,N68087,Federal Express (FedEx),3-Sep-14,Stored,N521UA,
+24931,320,Boeing 757-222,N522UA,United Airlines,19-Oct-90,Stored,,5422
+24590,321,Boeing 757-223(WL),N632AA,American Airlines,26-Oct-90,Scrapped,,632
+23904,322,Boeing 757-24APF,N417UP,United Parcel Service (UPS),26-Oct-90,Active,,417
+24882,323,Boeing 757-236(SF),N947FD,Federal Express (FedEx),1-Jul-10,Active,G-BPEC,"Giovanna, 947"
+24591,324,Boeing 757-223(WL),N633AA,American Airlines,16-Nov-90,Scrapped,,"633, lsf Pacific Airfinance"
+24884,325,Boeing 757-258(SF),N964FD,Federal Express (FedEx),1-Sep-11,Active,4X-EBS,"Brooke, 964"
+23905,326,Boeing 757-24APF,N418UP,United Parcel Service (UPS),14-Nov-90,Active,,418
+24592,327,Boeing 757-223(WL),N634AA,American Airlines,19-Nov-90,Scrapped,,"634, lsf Pacific Airfinance"
+24593,328,Boeing 757-223(WL),N635AA,American Airlines,28-Nov-90,Scrapped,,"635, lsf Pacific Airfinance"
+24932,329,Boeing 757-222,N523UA,United Airlines,29-Nov-90,Scrapped,,"5423, lsf PMCC Leasing"
+23906,330,Boeing 757-24APF,N419UP,United Parcel Service (UPS),4-Dec-90,Active,,419
+24977,331,Boeing 757-222,N524UA,United Airlines,10-Dec-90,Scrapped,,5424
+24923,332,Boeing 757-23A(WL),N757CJ,Private,7-Dec-18,Stored,VQ-BTF,
+24924,333,Boeing 757-23A(SF),N921FD,Federal Express (FedEx),9-Sep-09,Stored,N924AW,"Maggie, 921"
+23907,334,Boeing 757-24APF,N420UP,United Parcel Service (UPS),20-Dec-90,Active,,420
+24972,335,Boeing 757-232,N661DN,Delta Air Lines,23-Dec-90,Stored,,661
+24594,336,Boeing 757-223(WL),TF-ISY,Icelandair,8-Apr-15,Stored,N636AM,Torfajökull
+24595,337,Boeing 757-223(WL),TF-ISF,Icelandair,9-Jan-13,Stored,N637AM,Laki
+24978,338,Boeing 757-222(WL),N525UA,United Airlines,15-Jan-91,Scrapped,,5325
+24994,339,Boeing 757-222,N526UA,United Airlines,22-Jan-91,Stored,,"5426, lsf Aviator Capital"
+24971,340,Boeing 757-23APF,G-DHKX,DHL Air,23-May-16,Active,D-ALEJ,
+24995,341,Boeing 757-222(SF),N786FD,Federal Express (FedEx),26-Mar-14,Active,N527UA,"Kai, 786"
+24991,342,Boeing 757-232,N662DN,Delta Air Lines,28-Jan-91,Stored,,662
+24992,343,Boeing 757-232,N663DN,Delta Air Lines,7-Feb-91,Stored,,663
+24596,344,Boeing 757-223(WL),TF-ISD,Icelandair,9-Apr-14,Stored,N638AA,Snæfellsjökull
+24597,345,Boeing 757-223(WL),N639AA,Jetran,16-Feb-18,Stored,,
+25018,346,Boeing 757-222,N528UA,United Airlines,19-Feb-91,Stored,,5428
+25012,347,Boeing 757-232,N664DN,Delta Air Lines,21-Feb-91,Stored,,664
+25014,348,Boeing 757-260(PCF),N755CS,CSDS Aircraft Sales and Leasing,4-Feb-19,Stored,ET-AJX,
+25013,349,Boeing 757-232(WL),N665DN,Delta Air Lines,1-Mar-91,Stored,,665
+24598,350,Boeing 757-223(WL),N640A,Strategic Air Finance (SAF),1-Oct-19,Stored,,
+24599,351,Boeing 757-223(WL),N641AA,American Airlines,25-Mar-91,Scrapped,,641
+25019,352,Boeing 757-222,N529UA,United Airlines,22-Mar-91,Scrapped,,"5429, lsf Aviator Capital"
+25043,353,Boeing 757-222(SF),N775FD,Federal Express (FedEx),16-Oct-14,Active,N530UA,"Amanda, 775"
+25034,354,Boeing 757-232,N666DN,Delta Air Lines,22-Mar-91,Stored,,666
+25035,355,Boeing 757-232(WL),N667DN,Delta Air Lines,27-Mar-91,Active,,667
+25036,356,Boeing 757-258,N68084,Federal Express (FedEx),10-Dec-12,Stored,4X-EBT,
+24600,357,Boeing 757-223(WL),TF-ISZ,Icelandair,12-May-15,Scrapped,N642AA,Eiríksjökull
+25053,358,Boeing 757-236(WL),N253CL,Federal Express (FedEx),30-Aug-10,Stored,C-GMYH,
+25083,359,Boeing 757-21B,UP-B5702,Sunday Airlines,May-13,Active,N508AG,opby SCAT Airlines
+24601,360,Boeing 757-223(WL),N643AA,American Airlines,19-Apr-91,Scrapped,,643
+25042,361,Boeing 757-222(PCF),N531UA,Air Transport International,11-Mar-13,Stored,,lsf CAM
+25054,362,Boeing 757-236(SF),N910FD,Federal Express (FedEx),1-May-08,Active,G-OOOK,"Jiatian, 910"
+25059,363,Boeing 757-236(SF),N948FD,Federal Express (FedEx),17-Aug-10,Active,G-BPED,"Anissa, 948"
+25060,364,Boeing 757-236(SF),N949FD,Federal Express (FedEx),21-Oct-10,Active,G-BPEE,"Ashlynn, 949"
+24602,365,Boeing 757-223,N644AA,American Airlines,8-May-91,Written Off,,
+25072,366,Boeing 757-222(WL),N532UA,United Airlines,15-May-91,Scrapped,,"5332, lsf Residco"
+25073,367,Boeing 757-222,N533UA,United Airlines,16-May-91,Scrapped,,"5433, lsf Citicorp Leasing"
+25085,368,Boeing 757-208(WL),TF-FIJ,Icelandair,18-Feb-10,Stored,G-BTEJ,Surtsey
+25044,369,Boeing 757-2Q8(WL),09-0015,USAF United States Air Force,Aug-10,Active,N440AN,90015
+24603,370,Boeing 757-223(WL),N645AA,American Airlines,30-May-91,Scrapped,,5BR
+25155,371,Boeing 757-2J4(WL),N757AF,DJT Operations,1-Jun-11,Active,N115FS,
+,,,,,,,,
+25129,372,Boeing 757-222(SF),N776FD,Federal Express (FedEx),16-Oct-14,Stored,N534UA,"Keirsten, 776"
+25130,373,Boeing 757-222,N535UA,United Airlines,12-Jun-91,Scrapped,,"5435, lsf First Star Aviation"
+25133,374,Boeing 757-236(SF),N959FD,Federal Express (FedEx),4-Jan-11,Active,N522NA,"Kylie, 959"
+24604,375,Boeing 757-223(WL),N646AA,Jetran,19-Apr-18,Stored,,
+25141,376,Boeing 757-232,N668DN,Delta Air Lines,26-Jun-91,Stored,,668
+25142,377,Boeing 757-232(WL),N669DN,Delta Air Lines,28-Jun-91,Stored,,669
+24605,378,Boeing 757-223(PCF)(WL),C-GCJT,Cargojet Airways,26-Apr-17,Active,N647AM,
+24606,379,Boeing 757-223(WL),TF-ISK,Icelandair,5-Mar-13,Stored,N648AA,Eldfell
+25156,380,Boeing 757-222,N536UA,United Airlines,31-Jul-91,Scrapped,,5436
+25157,381,Boeing 757-222,N537UA,United Airlines,18-Jul-91,Preserved,,5437
+25140,382,Boeing 757-230(PCF)(WL),N688SL,Asia Pacific Airlines,21-Jul-19,Active,N752AL,
+24607,383,Boeing 757-223(PCF)(WL),C-GVAJ,Cargojet Airways,26-Sep-18,Active,N649AA,
+24608,384,Boeing 757-223(WL),N567CA,National Airlines,23-May-13,Active,N650AA,567
+25222,385,Boeing 757-222(SF),N777FD,Federal Express (FedEx),16-Oct-14,Stored,N538UA,"Halston, 777"
+25223,386,Boeing 757-222(SF),N778FD,Federal Express (FedEx),16-Oct-14,Active,N539UA,"Lili, 778"
+25220,387,Boeing 757-2J4(WL),N770BB,The Yucaipa Companies,28-Apr-98,Active,VP-CAU,
+25240,388,Boeing 757-2Y0(SF),N930FD,Federal Express (FedEx),9-Sep-09,Active,N240MQ,"Piet, 930"
+25258,389,Boeing 757-21B(PCF),B-2817,SF Airlines (ShunFeng Airlines),30-Oct-13,Active,N852AG,
+24609,390,Boeing 757-223,N651AA,American Airlines,27-Aug-91,Written Off,,
+24610,391,Boeing 757-223(WL),N652AA,Sundown Aircraft,17-May-17,Stored,,
+25259,392,Boeing 757-21B,UP-B5703,Sunday Airlines,May-14,Active,B-2818,
+25252,393,Boeing 757-222(SF),N779FD,Federal Express (FedEx),19-May-14,Stored,N540UA,"Abraham, 779"
+25253,394,Boeing 757-222(SF),N780FD,Federal Express (FedEx),12-Nov-13,Active,N541UA,"Harvey, 780"
+25281,395,Boeing 757-24APF,N421UP,United Parcel Service (UPS),27-Sep-91,Active,,421
+25276,396,Boeing 757-222,N542UA,United Airlines,4-Oct-91,Stored,,"5442, lsf GA Telesis, The Oprah Winfrey Show cs"
+24611,397,Boeing 757-223(WL),N653A,Strategic Air Finance (SAF),1-Oct-19,Stored,,
+24612,398,Boeing 757-223(WL),N654A,American Airlines,10-Oct-91,Stored,,5CB
+25324,399,Boeing 757-24APF,N422UP,United Parcel Service (UPS),25-Oct-91,Stored,,422
+25268,400,Boeing 757-2Y0(SF),N961FD,Federal Express (FedEx),28-Oct-11,Active,G-CPEP,"Byanca, 961"
+25698,401,Boeing 757-222,N543UA,United Airlines,29-Oct-91,Scrapped,,5543
+24613,402,Boeing 757-223(PCF)(WL),EC-NHF,Cygnus Air,12-Dec-19,Active,N655AA,
+25325,403,Boeing 757-24APF,N423UP,United Parcel Service (UPS),31-Oct-91,Stored,,423
+24614,404,Boeing 757-223(PCF)(WL),EC-NIV,Swiftair,21-Apr-20,Active,N656AA,
+25322,405,Boeing 757-222(WL),N544UA,Aviation Partners Boeing,1-Feb-16,Stored,,lsf United Airlines
+25323,406,Boeing 757-222,N545UA,United Airlines,13-Nov-91,Stored,,5545
+25369,407,Boeing 757-24APF,N424UP,United Parcel Service (UPS),15-Nov-91,Active,,424
+25353,408,Boeing 757-260,ET-AKC,Ethiopian Airlines,18-Nov-91,Stored,,
+24615,409,Boeing 757-223(WL),N657AM,Strategic Air Finance (SAF),1-Oct-19,Stored,,
+24616,410,Boeing 757-223(WL),N658AA,Strategic Air Finance (SAF),1-Oct-19,Stored,,
+25370,411,Boeing 757-24APF,N425UP,United Parcel Service (UPS),5-Dec-91,Active,,425
+25345,412,Boeing 757-23A,EZ-A010,Turkmenistan Airlines,1-Dec-93,Stored,N58AW,
+25367,413,Boeing 757-222(WL),N546UA,United Airlines,13-Dec-91,Stored,,5946
+25368,414,Boeing 757-222(PCF),VP-BHM,E-Cargo,2-Jul-18,Active,N547UA,
+25331,415,Boeing 757-232,N670DN,Delta Air Lines,9-Jan-92,Stored,,670
+25332,416,Boeing 757-232,N671DN,Delta Air Lines,10-Jan-92,Stored,,671
+24617,417,Boeing 757-223(PCF)(WL),EC-NFN,Cygnus Air,9-Jul-19,Active,N659AA,lsf Airwork
+25294,418,Boeing 757-223(PCF)(WL),SX-AMJ,Olympus Airways,27-Dec-19,Active,N660AM,
+25436,419,Boeing 757-230,N757MQ,Asia Pacific Airlines,5-Jan-15,Stored,RA-73008,
+25396,420,Boeing 757-222,N548UA,United Airlines,30-Jan-92,Scrapped,,5548
+25397,421,Boeing 757-222(PCF)(WL),OO-TFC,ASL Airlines Belgium,24-May-16,Stored,N549UA,
+25437,422,Boeing 757-230,RA-73009,VIM Airlines,Nov-10,Stored,D-ABNI,
+25295,423,Boeing 757-223(WL),TF-ISL,Icelandair,26-Mar-12,Stored,N661AA,Öræfajökull
+24964,424,Boeing 757-2Q8,EY-751,Tajik Air,13-Nov-08,Active,N926JS,
+,,,,,,,,
+25296,425,Boeing 757-223(WL),N662AA,Jetran,1-Mar-18,Stored,,
+25398,426,Boeing 757-222,N550UA,United Airlines,11-Feb-92,Scrapped,,5550
+25399,427,Boeing 757-222,N551UA,Unical Aviation,26-Jun-16,Scrapped,,
+25438,428,Boeing 757-230,RA-73010,VIM Airlines,28-Sep-04,Scrapped,D-ABNK,lsf Center Capital
+25977,429,Boeing 757-232(WL),N672DL,Delta Air Lines,21-Feb-92,Stored,,672
+25978,430,Boeing 757-232,N673DL,Delta Air Lines,24-Feb-92,Stored,,673
+26641,431,Boeing 757-222,N552UA,Unical Aviation,12-Oct-16,Stored,,
+25297,432,Boeing 757-223(PCF)(WL),N633AM,Texas Aviation Group,31-May-17,Stored,N663AM,
+25298,433,Boeing 757-223(PCF)(WL),C-FGKJ,Cargojet Airways,30-Dec-14,Active,N664AA,
+25277,434,Boeing 757-222,N553UA,United Airlines,10-Mar-92,Stored,,"5453, lsf PMCC Leasing"
+26644,435,Boeing 757-222(WL),N554UA,Unical Aviation,6-Sep-16,Stored,,
+25299,436,Boeing 757-223(WL),N665AA,Strategic Air Finance (SAF),1-Oct-19,Stored,,
+25439,437,Boeing 757-230,RA-73011,VIM Airlines,Dec-08,Stored,D-ABNL,lsf Center Capital
+24965,438,Boeing 757-2Q8(SF),N993FD,Federal Express (FedEx),23-Nov-09,Active,SU-BPY,"Jasmine, 993"
+25979,439,Boeing 757-232,N674DL,Delta Air Lines,25-Mar-92,Stored,,674
+26962,440,Boeing 757-204(PCF),VT-BDO,Blue Dart Aviation,13-Jul-12,Active,N226EA,
+25597,441,Boeing 757-236(PCF),VQ-BPY,Aviastar,Nov-18,Active,N597AG,lsf ACG
+26647,442,Boeing 757-222(WL),N758SS,Juliet Romeo Aviation,25-Jun-16,Active,N555UA,
+25440,443,Boeing 757-230,RA-73012,VIM Airlines,14-Jan-14,Stored,D-ABNM,
+26057,444,Boeing 757-260,ET-AKE,Ethiopian Airlines,22-Apr-92,Stored,,
+25598,445,Boeing 757-236(PCF),B-2835,China Postal Airlines,11-Apr-16,Active,N5573P,
+25441,446,Boeing 757-230(PCF)(WL),N888LT,Asia Pacific Airlines,12-Apr-17,Active,N302AT,
+26650,447,Boeing 757-222,N556UA,United Airlines,23-Apr-92,Scrapped,,"5456, lsf PMCC Leasing"
+25980,448,Boeing 757-232,N675DL,Delta Air Lines,29-Apr-92,Stored,,675
+25620,449,Boeing 757-236(PCF),G-DHKZ,DHL Air,23-Oct-18,Active,VH-TCA,
+26963,450,Boeing 757-204(WL),N901NV,Allegiant Air,17-Apr-12,Scrapped,OH-AFL,901
+25300,451,Boeing 757-223(WL),N666A,American Airlines,7-May-92,Scrapped,,"5CP, lsf Castlelake"
+26964,452,Boeing 757-204(WL),N902NV,Allegiant Air,10-May-10,Scrapped,N964BV,902
+25592,453,Boeing 757-236(SF),N979FD,Federal Express (FedEx),4-Oct-12,Active,N169CA,"Jackie, 979"
+26653,454,Boeing 757-222,N557UA,Unical Aviation,15-Nov-16,Stored,,
+25981,455,Boeing 757-232,N676DL,Delta Air Lines,28-May-92,Stored,,676
+25982,456,Boeing 757-232,N677DL,Delta Air Lines,22-May-92,Stored,,677
+25621,457,Boeing 757-28A,EI-ETR,ILFC,23-Jan-12,Scrapped,G-STRX,
+25131,458,Boeing 757-2Q8(SF),N995FD,Federal Express (FedEx),6-Jan-11,Active,N594BC,"Risa, 995"
+25301,459,Boeing 757-223(WL),N7667A,Strategic Air Finance (SAF),1-Oct-19,Stored,,
+25333,460,Boeing 757-223(WL),N668AA,Jetran,19-Apr-18,Scrapped,,
+25884,461,Boeing 757-21B,UP-B5704,Sunday Airlines,20-Mar-13,Active,B-2822,opby SCAT Airlines
+26654,462,Boeing 757-222,N558UA,United Airlines,17-Jun-92,Scrapped,,"5458, lsf PMCC Leasing"
+25334,463,Boeing 757-223(WL),N669AA,American Airlines,24-Jun-92,Stored,,5CT
+25901,464,Boeing 757-230,RA-73015,VIM Airlines,3-Feb-10,Scrapped,D-ABNO,
+25983,465,Boeing 757-232,N678DL,Delta Air Lines,26-Jun-92,Stored,,678
+25593,466,Boeing 757-236(SF),N960FD,Federal Express (FedEx),25-Jan-11,Active,G-OOOZ,"Brenna, 960"
+26657,467,Boeing 757-222,N559UA,Unical Aviation,25-Jan-17,Stored,,
+25335,468,Boeing 757-223(WL),N670AA,American Airlines,10-Jul-92,Stored,,5CU
+26660,469,Boeing 757-222,N560UA,Unical Aviation,12-Dec-16,Stored,,
+25487,470,Boeing 757-23A,T-01,Fuerza Aérea Argentina,22-Jul-92,Stored,,Virgen de Lujan
+25488,471,Boeing 757-23A(WL),G-LSAC,Jet2,22-May-06,Stored,N254DG,
+26151,472,Boeing 757-2Y0(SF),N973FD,Federal Express (FedEx),11-Oct-11,Active,TF-FIK,"Abigaile, 973"
+25336,473,Boeing 757-223(WL),N671AA,Strategic Air Finance (SAF),2-Oct-19,Stored,,
+25337,474,Boeing 757-223(WL),N672AA,Strategic Air Finance (SAF),1-Oct-19,Stored,,
+25898,475,Boeing 757-25C(PCF),VT-BDN,Blue Dart Aviation,4-Nov-08,Active,N7273,lsf EAT Leipzig
+25885,476,Boeing 757-2Z0(PCF),B-2820,SF Airlines (ShunFeng Airlines),14-Jan-16,Active,,
+25457,477,Boeing 757-24APF,N426UP,United Parcel Service (UPS),13-Aug-92,Active,,426
+,,,,,,,,
+26152,478,Boeing 757-2Y0(C),N753CX,Air Transport International,18-Apr-13,Active,N259CA,lsf CAM
+26661,479,Boeing 757-222,N561UA,Unical Aviation,1-Feb-17,Scrapped,,
+25886,480,Boeing 757-2Z0(PCF),B-2821,SF Airlines (ShunFeng Airlines),15-May-15,Active,,
+25458,481,Boeing 757-24APF,N427UP,United Parcel Service (UPS),3-Sep-92,Stored,,427
+26153,482,Boeing 757-2Y0(PCF),B-2831,China Postal Airlines,9-Oct-16,Active,,
+25338,483,Boeing 757-223(WL),N681AA,American Airlines,28-Aug-92,Stored,,5CX
+25339,484,Boeing 757-223(WL),N682AA,Jetran,19-Apr-18,Stored,,
+25459,485,Boeing 757-24APF,N428UP,United Parcel Service (UPS),10-Sep-92,Stored,,428
+26154,486,Boeing 757-2Y0(C),N754CX,Air Transport International,14-Aug-13,Stored,N763CA,lsf CAM
+26664,487,Boeing 757-222,N562UA,United Airlines,28-Sep-92,Scrapped,,"5462, lsf PMCC Leasing"
+26665,488,Boeing 757-222,N563UA,Unical Aviation,26-Sep-16,Stored,,
+25460,489,Boeing 757-24APF,N429UP,United Parcel Service (UPS),8-Oct-92,Active,,429
+26666,490,Boeing 757-222,N564UA,Unical Aviation,4-Nov-16,Stored,,
+25340,491,Boeing 757-223(WL),N683A,American Airlines,14-Oct-92,Scrapped,,5DA
+26669,492,Boeing 757-222,N565UA,Unical Aviation,27-Jul-16,Stored,,
+25461,493,Boeing 757-24APF,N430UP,United Parcel Service (UPS),22-Oct-92,Active,,430
+26670,494,Boeing 757-222,N566UA,Unical Aviation,4-Nov-16,Stored,,
+26155,495,Boeing 757-2Y0(PCF),B-2826,SF Airlines (ShunFeng Airlines),1-Dec-14,Active,,
+26058,496,Boeing 757-260,N752LT,L-3 Communications Advanced Aviation LLC,30-Nov-18,Stored,ET-AKF,
+26673,497,Boeing 757-222(SF),N781FD,Federal Express (FedEx),16-Oct-14,Active,N567UA,"Kira, 781"
+26674,498,Boeing 757-222(WL),N568UA,United Airlines,5-Nov-92,Stored,,5468
+26677,499,Boeing 757-222(SF),N782FD,Federal Express (FedEx),11-Mar-15,Active,N569UA,"Brooklyn, 782"
+26955,500,Boeing 757-232,N679DA,Delta Air Lines,12-Nov-92,Stored,,679
+26678,501,Boeing 757-222(SF),N783FD,Federal Express (FedEx),6-Feb-14,Active,N570UA,"Haiden, 783"
+26956,502,Boeing 757-232,N680DA,Delta Air Lines,19-Nov-92,Stored,,680
+26156,503,Boeing 757-2Y0(PCF),B-2827,China Postal Airlines,3-Nov-16,Active,,
+25341,504,Boeing 757-223(WL),N684AA,Jet Midwest Group,13-May-15,Scrapped,,
+25489,505,Boeing 757-23A,N52AW,Aeroperú,28-Feb-95,Written Off,XA-SME,lsf AWAS
+26681,506,Boeing 757-222(SF),N784FD,Federal Express (FedEx),16-Oct-14,Active,N571UA,"Neave, 784"
+25342,507,Boeing 757-223(WL),N685AA,Jet Midwest Group,13-May-15,Scrapped,,
+26682,508,Boeing 757-222(SF),N785FD,Federal Express (FedEx),18-Dec-13,Active,N572UA,"Rj, 785"
+25343,509,Boeing 757-223(WL),N686AA,American Airlines,16-Dec-92,Stored,,5DD
+25490,510,Boeing 757-23A(SF),N994FD,Federal Express (FedEx),12-Jun-08,Active,SP-FVR,"Lindora, 994"
+25491,511,Boeing 757-23A,N226G,COMCO,6-Feb-03,Active,N38383,lsf L-3 Capital LLC
+26685,512,Boeing 757-222(SF),N787FD,Federal Express (FedEx),16-Oct-14,Active,N573UA,"Gage, 787"
+26686,513,Boeing 757-222(SF),N788FD,Federal Express (FedEx),16-Oct-14,Active,N574UA,788
+26266,514,Boeing 757-204(SF),N923FD,Federal Express (FedEx),8-May-08,Active,G-BYAF,"Raquel, 923"
+26689,515,Boeing 757-222(SF),N789FD,Federal Express (FedEx),11-Mar-15,Active,N575UA,"Evie, 789"
+26957,516,Boeing 757-232,N681DA,Delta Air Lines,23-Jan-93,Stored,,681
+26965,517,Boeing 757-204,G-BYAG,Britannia Airways,22-Jan-93,Written Off,,
+26958,518,Boeing 757-232,N682DA,Delta Air Lines,15-Jan-93,Stored,,682
+26633,519,Boeing 757-2K2,NZ7571,Royal New Zealand Air Force,8-Apr-03,Active,PH-TKA,
+26966,520,Boeing 757-204(WL),N903NV,Allegiant Air,1-Nov-12,Stored,G-LSAM,903
+26433,521,Boeing 757-230,RA-73016,VIM Airlines,30-Jul-04,Stored,D-ABNP,lsf Center Capital
+26967,522,Boeing 757-204(WL),N904NV,Allegiant Air,25-Oct-12,Scrapped,G-LSAL,904
+25493,523,Boeing 757-23A,Feb-52,USAF United States Air Force,Mar-04,Active,N84WA,
+26690,524,Boeing 757-222,N576UA,Strategic Air Finance (SAF),29-Apr-15,Scrapped,,
+27122,525,Boeing 757-2B7(SF),N901FD,Federal Express (FedEx),9-May-07,Active,N610AU,"Tucker, 901"
+26158,526,Boeing 757-2Y0(SF),N974FD,Federal Express (FedEx),12-Dec-12,Active,G-OOOX,"Eva, 974"
+26693,527,Boeing 757-222(SF),N790FD,Federal Express (FedEx),6-Jul-15,Active,N577UA,"Mattia, 790"
+25623,528,Boeing 757-204(PCF)(WL),B-1578,SF Airlines (ShunFeng Airlines),14-Nov-16,Active,N563SG,
+26053,529,Boeing 757-258,4X-EBU,El Al Israel Airlines,8-Mar-93,Scrapped,,506
+25622,530,Boeing 757-28A(C),N757AS,Altavair AirFinance,22-Jan-19,Stored,OO-TFA,
+,,,,,,,,
+26694,531,Boeing 757-222(SF),N791FD,Federal Express (FedEx),16-Oct-14,Active,N578UA,"Carlie, 791"
+26434,532,Boeing 757-230,RA-73017,VIM Airlines,30-Jun-04,Stored,D-ABNR,lsf Center Capital
+27103,533,Boeing 757-232,N683DA,Delta Air Lines,18-Mar-93,Active,,683
+27123,534,Boeing 757-2B7(SF),C-FMEK,Morningstar Air Express,27-Jan-11,Active,N902FD,"Hannah, 902, lsf Federal Express (FedEx)"
+27104,535,Boeing 757-232,N684DA,Delta Air Lines,1-May-06,Stored,,684
+25695,536,Boeing 757-223(WL),2-CCEA,Loftleidir Icelandic,25-Mar-20,Stored,N687AA,
+26435,537,Boeing 757-230,RA-73018,VIM Airlines,Jul-04,Stored,D-ABNS,lsf Center Capital
+26267,538,Boeing 757-204(SF),N924FD,Federal Express (FedEx),7-Aug-09,Active,G-BYAK,"Carah, 924"
+26697,539,Boeing 757-222(SF),N792FD,Federal Express (FedEx),11-Mar-15,Active,N579UA,"Naomi, 792"
+27124,540,Boeing 757-2B7(SF),N903FD,Federal Express (FedEx),19-Sep-07,Active,N928UW,"Makayla, 903"
+25624,541,Boeing 757-2Q8(WL),N624AG,Delta Air Lines,27-Jan-11,Stored,F-GTIP,6818
+26698,542,Boeing 757-222(SF),N793FD,Federal Express (FedEx),11-Mar-15,Active,N580UA,"Cade, 793"
+26701,543,Boeing 757-222(SF),N794FD,Federal Express (FedEx),18-Sep-13,Active,N581UA,"Rubyrose, 794"
+27144,544,Boeing 757-2B7(SF),C-FMEP,Morningstar Air Express,25-Oct-10,Active,N904FD,"Rachel, 904, lsf Federal Express (FedEx)"
+26634,545,Boeing 757-2K2,NZ7572,Royal New Zealand Air Force,8-Jun-03,Active,PH-TKB,
+27145,546,Boeing 757-2B7(SF),C-FMEQ,Morningstar Air Express,28-Oct-15,Active,N905FD,"Katarina, 905, lsf Federal Express (FedEx)"
+26054,547,Boeing 757-258,N320AT,AeroTurbine,23-Apr-13,Scrapped,4X-EBV,
+25730,548,Boeing 757-223(PCF)(WL),C-GTCJ,Cargojet Airways,21-Jun-18,Active,N688AA,
+25626,549,Boeing 757-204(SF),N966FD,Federal Express (FedEx),24-May-12,Active,G-BYAL,"Kiana, 966"
+26702,550,Boeing 757-222,N68085,Federal Express (FedEx),24-Oct-12,Stored,N582UA,
+27146,551,Boeing 757-2B7(SF),C-FMHA,Morningstar Air Express,8-Jan-19,Active,N975FD,"975, lsf Federal Express (FedEx)"
+27147,552,Boeing 757-2B7(SF),N976FD,Federal Express (FedEx),7-May-13,Active,G-OOBJ,"Cassidy, 976"
+26239,553,Boeing 757-256(PCF),EC-FTR,Cygnus Air,27-May-13,Active,EC-420,
+25887,554,Boeing 757-2Z0(PCF),B-2832,SF Airlines (ShunFeng Airlines),16-Apr-10,Active,,
+26160,555,Boeing 757-2Y0(WL),EI-CJX,ASL Airlines Ireland,20-Mar-20,Stored,N135CA,
+26705,556,Boeing 757-222(SF),N988FD,Federal Express (FedEx),30-Apr-12,Active,N583UA,"Sofia, 988"
+26161,557,Boeing 757-2Y0,EI-CJY,Icelandair,28-Aug-19,Scrapped,N153CA,
+26270,558,Boeing 757-2Q8(SF),N996FD,Federal Express (FedEx),6-Jan-11,Active,N595BC,"Savannah, 996"
+26706,559,Boeing 757-222(SF),N795FD,Federal Express (FedEx),23-Jan-14,Active,N584UA,"Shane, 795"
+27152,560,Boeing 757-26D,N331AT,Aircastle,15-Jul-13,Scrapped,B-2833,
+26240,561,Boeing 757-256(WL),N801DM,MLW Aviation LLC,29-Dec-00,Active,N286CD,
+25731,562,Boeing 757-223(SF)(WL),VQ-BKK,Aviastar,11-Jul-18,Active,N689AA,lsf Airwork
+26709,563,Boeing 757-222(SF),N774FD,Federal Express (FedEx),14-Jan-15,Active,N585UA,"Jack, 774"
+27148,564,Boeing 757-2B7(SF),C-FMOC,Morningstar Air Express,19-Jul-17,Active,N906FD,"906, lsf Federal Express (FedEx)"
+25899,565,Boeing 757-25C(PCF),B-2828,SF Airlines (ShunFeng Airlines),31-Oct-11,Active,,
+25696,566,Boeing 757-223(PCF)(WL),VQ-BBU,Aviastar,12-Dec-18,Active,N690AA,
+26710,567,Boeing 757-222(SF),N796FD,Federal Express (FedEx),4-Mar-14,Active,N586UA,"Miranda, 796"
+25697,568,Boeing 757-223(WL),N691AA,American Airlines,11-Aug-93,Stored,,5DJ
+25462,569,Boeing 757-24APF,N431UP,United Parcel Service (UPS),11-Apr-05,Active,OY-USA,431
+26713,570,Boeing 757-222(WL),N587UA,United Airlines,11-Aug-93,Stored,,5687
+26717,571,Boeing 757-222(WL),N588UA,United Airlines,16-Aug-93,Stored,,5688
+26241,572,Boeing 757-256,EC-ISY,Privilege Style,11-Sep-15,Active,N26ND,
+25463,573,Boeing 757-24APF,N432UP,United Parcel Service (UPS),18-Apr-05,Active,OY-USB,432
+25900,574,Boeing 757-25C(PCF),B-2829,SF Airlines (ShunFeng Airlines),23-Nov-11,Active,,
+25888,575,Boeing 757-21B(PCF),B-2823,China Postal Airlines,31-Aug-16,Active,,
+27183,576,Boeing 757-26D,N345AT,Aircastle,30-Jul-13,Scrapped,B-2834,
+25464,577,Boeing 757-24APF,N433UP,United Parcel Service (UPS),2-Nov-04,Active,OY-USC,433
+26972,578,Boeing 757-223(WL),N692AA,American Airlines,8-Oct-93,Stored,,5DK
+25465,579,Boeing 757-24APF,N434UP,United Parcel Service (UPS),9-Aug-05,Active,OY-USD,434
+26973,580,Boeing 757-223(WL),N693AA,Strategic Air Finance (SAF),1-Oct-19,Stored,,
+25466,581,Boeing 757-24APF,N435UP,United Parcel Service (UPS),21-Oct-93,Active,,435
+26974,582,Boeing 757-223(WL),N694AN,Texas Aviation Group,16-May-18,Stored,,
+25889,583,Boeing 757-21B(PCF),B-2824,China Postal Airlines,8-Jun-16,Active,,
+,,,,,,,,
+27198,584,Boeing 757-2B7(SF),C-FMFG,Morningstar Air Express,21-Jul-10,Active,N907FD,"Megan, 907, lsf Federal Express (FedEx)"
+25890,585,Boeing 757-21B(PCF),B-2825,China Postal Airlines,13-Sep-16,Active,,
+27199,586,Boeing 757-2B7(SF),C-FMAI,Morningstar Air Express,22-Jul-10,Active,N908FD,"Abby, 908, lsf Federal Express (FedEx)"
+26436,587,Boeing 757-230,RA-73019,VIM Airlines,28-Jul-04,Stored,D-ABNT,lsf Center-Capital
+27203,588,Boeing 757-29J(PCF)(WL),N757QM,Asia Pacific Airlines,19-Dec-14,Active,VQ-BKM,
+27200,589,Boeing 757-2B7(SF),C-FMEU,Morningstar Air Express,25-Jan-11,Active,N909FD,"Reagan, 909, lsf Federal Express (FedEx)"
+26268,590,Boeing 757-2Q8(WL),VQ-BKF,Azur Air,20-Jan-15,Stored,TC-SND,lsf Azex Leasing
+27204,591,Boeing 757-29J,N410JR,Boeing Capital Corporation (BCC),15-Nov-10,Scrapped,SX-BTH,
+26271,592,Boeing 757-2Q8(WL),VQ-BKB,Azur Air,19-Jan-15,Stored,TC-SNB,lsf Azex Leasing
+26242,593,Boeing 757-256(WL),TF-FIR,Icelandair,Jun-05,Stored,EC-FYJ,"Vatnajökull, Vatnajökull cs"
+26272,594,Boeing 757-2Q8(WL),09-0017,USAF United States Air Force,31-Jul-12,Active,N805AM,
+27258,595,Boeing 757-2Z0(PCF),B-2836,Air China Cargo,22-Apr-14,Active,,
+27219,596,Boeing 757-204(WL),HB-JJE,Privatair,17-Dec-15,Stored,G-OOBR,
+26273,597,Boeing 757-2Q8(PCC)(WL),N751CX,Air Transport International,28-Jun-13,Active,N556CM,lsf CAM
+27235,598,Boeing 757-204(WL),N905NV,Allegiant Air,15-Mar-12,Stored,G-BYAO,905
+25495,599,Boeing 757-23A,HZ-HMED,Saudi Arabian Government,Mar-95,Active,N275AW,
+27236,600,Boeing 757-204(WL),N906NV,Allegiant Air,3-Apr-12,Stored,G-BYAP,906
+25806,601,Boeing 757-236(SF),N950FD,Federal Express (FedEx),12-Jan-11,Active,G-BPEI,"Mia, 950"
+27237,602,Boeing 757-204,UP-B5705,Sunday Airlines,May-18,Active,LY-FLG,
+26243,603,Boeing 757-256(WL),TF-FIU,Icelandair,May-05,Stored,PH-ITA,"Hekla Aurora, Aurora (Northern Lights) cs"
+27238,604,Boeing 757-204(SF),N925FD,Federal Express (FedEx),15-Jun-09,Active,G-BYAS,"Micah, 925"
+27201,605,Boeing 757-2B7(PCF)(WL),B-1173,SF Airlines (ShunFeng Airlines),2-May-18,Active,N935UW,
+27208,606,Boeing 757-204(WL),N757AL,Aerolease,28-Feb-20,Stored,F-HCIE,
+27244,607,Boeing 757-2B7(PCF)(WL),B-208Q,SF Airlines (ShunFeng Airlines),26-Nov-18,Active,N936UW,
+26635,608,Boeing 757-2K2(WL),G-LSAN,Jet2,30-May-12,Stored,HC-CIY,
+27259,609,Boeing 757-2Z0(C),N168CA,National Airlines,9-Sep-10,Stored,B-2837,
+25807,610,Boeing 757-236(WL),TN-AJR,ECAir,Oct-18,Stored,HB-JJD,
+25494,611,Boeing 757-23A,00-9001,USAF United States Air Force,2-Nov-00,Active,N987AN,
+26269,612,Boeing 757-28A(SF),N967FD,Federal Express (FedEx),26-Jun-12,Active,OH-AFJ,"Jessi, 967"
+27260,613,Boeing 757-2Z0(PCF),B-1463,SF Airlines (ShunFeng Airlines),10-Apr-17,Active,N574BC,
+27291,614,Boeing 757-224(WL),N58101,United Airlines,1-Oct-10,Stored,,101
+27269,615,Boeing 757-2Z0(PCF),B-2839,SF Airlines (ShunFeng Airlines),14-Jan-11,Active,,
+26244,616,Boeing 757-256(WL),TF-FIT,Icelandair,2-May-14,Stored,VP-BFG,Helgafell
+26245,617,Boeing 757-256(WL),TF-FIS,Icelandair,2-May-14,Stored,VQ-BCK,"Grímsvötn, National Geographic cs"
+27220,618,Boeing 757-204(SF),N927FD,Federal Express (FedEx),18-May-12,Active,G-BYAU,"Elisa, 927"
+27292,619,Boeing 757-224(WL),N14102,United Airlines,1-Oct-10,Stored,,"0102, Her Art Here: Corinne Antonelli (New York / New Jersey) cs"
+26246,620,Boeing 757-256,4K-AZ38,AZAL Azerbaijan Airlines,28-Oct-03,Stored,N262CT,
+26975,621,Boeing 757-223(WL),N695AN,Jet Midwest Group,13-May-15,Scrapped,,
+27270,622,Boeing 757-2Z0(PCF),B-2840,SF Airlines (ShunFeng Airlines),13-Nov-12,Active,,
+27293,623,Boeing 757-224(WL),N33103,United Airlines,1-Oct-10,Stored,,103
+27367,624,Boeing 757-2Z0(PCF),B-2841,Air China Cargo,30-Dec-13,Active,,
+25467,625,Boeing 757-24APF,N436UP,United Parcel Service (UPS),7-Jul-94,Active,,436
+27342,626,Boeing 757-26D,N292AT,Aircastle,29-Aug-14,Scrapped,B-2842,
+26976,627,Boeing 757-223(WL),N696AN,Jet Midwest Group,7-Mar-16,Stored,,
+25468,628,Boeing 757-24APF,N437UP,United Parcel Service (UPS),21-Jul-94,Active,,437
+27294,629,Boeing 757-224(WL),N17104,United Airlines,1-Oct-10,Stored,,104
+27245,630,Boeing 757-2B7(PCF)(WL),B-207Y,SF Airlines (ShunFeng Airlines),10-Dec-18,Active,N937UW,
+25469,631,Boeing 757-24APF,N438UP,United Parcel Service (UPS),11-Aug-94,Active,,438
+27295,632,Boeing 757-224(WL),N17105,United Airlines,1-Oct-10,Stored,,105
+26977,633,Boeing 757-223(WL),N697AN,American Airlines,17-Aug-94,Stored,,5DR
+25470,634,Boeing 757-24APF,N439UP,United Parcel Service (UPS),25-Aug-94,Active,,439
+26980,635,Boeing 757-223(WL),N698AN,American Airlines,30-Aug-94,Stored,,5DS
+25471,636,Boeing 757-24APF,N440UP,United Parcel Service (UPS),26-Sep-94,Active,,440
+,,,,,,,,
+27296,637,Boeing 757-224(WL),N14106,United Airlines,1-Oct-10,Active,,"0106, Her Art Here: Tsungwei Moo (California) cs"
+27386,638,Boeing 757-24APF,N441UP,United Parcel Service (UPS),29-Sep-94,Active,,441
+27351,639,Boeing 757-2Q8(PCF),D-ALER,EAT Leipzig,21-Sep-16,Active,N273DH,
+27387,640,Boeing 757-24APF,N442UP,United Parcel Service (UPS),13-Oct-94,Active,,442
+27297,641,Boeing 757-224(WL),N14107,United Airlines,1-Oct-10,Stored,,107
+27388,642,Boeing 757-24APF,N443UP,United Parcel Service (UPS),27-Oct-94,Active,,443
+27246,643,Boeing 757-2B7(WL),N938UW,American Airlines,9-Dec-13,Stored,N625VJ,"938, lsf ORIX Aviation"
+27389,644,Boeing 757-24APF,N444UP,United Parcel Service (UPS),3-Nov-94,Active,,444
+27298,645,Boeing 757-224(WL),N21108,United Airlines,1-Oct-10,Stored,,108
+27390,646,Boeing 757-24APF,N445UP,United Parcel Service (UPS),18-Nov-94,Active,,445
+27303,647,Boeing 757-2B7(WL),N939UW,American Airlines,9-Dec-13,Stored,N626AU,939
+27299,648,Boeing 757-224(WL),N12109,United Airlines,1-Oct-10,Active,,109
+27735,649,Boeing 757-24APF,N446UP,United Parcel Service (UPS),2-Dec-94,Active,,446
+27300,650,Boeing 757-224(WL),N13110,United Airlines,1-Oct-10,Stored,,110
+27736,651,Boeing 757-24APF,N447UP,United Parcel Service (UPS),13-Dec-94,Active,,447
+27301,652,Boeing 757-224(WL),N57111,United Airlines,1-Oct-10,Stored,,111
+27302,653,Boeing 757-224(WL),N18112,United Airlines,1-Oct-10,Stored,,112
+27737,654,Boeing 757-24APF,N448UP,United Parcel Service (UPS),13-Jan-95,Active,,448
+27805,655,Boeing 757-2B7(PCF)(WL),B-1145,SF Airlines (ShunFeng Airlines),2-Apr-18,Active,N940UW,
+27738,656,Boeing 757-24APF,N449UP,United Parcel Service (UPS),19-Jan-95,Active,,449
+27806,657,Boeing 757-2B7(PCF)(WL),B-205S,SF Airlines (ShunFeng Airlines),16-Aug-18,Active,N941UW,
+26277,658,Boeing 757-28A(SF),N971FD,Federal Express (FedEx),10-Oct-12,Active,N750NA,"Darcy, 971"
+25472,659,Boeing 757-24APF,N450UP,United Parcel Service (UPS),9-Feb-95,Active,,450
+27051,660,Boeing 757-223(WL),N699AN,Texas Aviation Group,25-Apr-18,Stored,,
+27052,661,Boeing 757-223(PCF)(WL),B-1177,SF Airlines (ShunFeng Airlines),2-May-18,Active,N601AN,
+27807,662,Boeing 757-2B7(PCF)(WL),B-1257,SF Airlines (ShunFeng Airlines),28-Apr-18,Active,N942UW,
+27234,663,Boeing 757-204(WL),G-BYAW,TUI Airways,2-Oct-17,Stored,,
+27053,664,Boeing 757-223(WL),N602AN,Texas Aviation Group,16-May-18,Stored,,
+25808,665,Boeing 757-236(WL),D4-CCF,TACV Cabo Verde Airlines,13-Jul-18,Stored,F-GPEK,Praia de Santa Maria
+27808,666,Boeing 757-2B7(WL),N206UW,American Airlines,9-Dec-13,Stored,N630AU,206
+27588,667,Boeing 757-232(WL),N685DA,Delta Air Lines,1-May-06,Stored,,685
+27555,668,Boeing 757-224(WL),N13113,United Airlines,1-Oct-10,Stored,,113
+27511,669,Boeing 757-2Z0(PCF),B-2844,SF Airlines (ShunFeng Airlines),11-Dec-14,Active,,
+27054,670,Boeing 757-223(WL),N603AA,Texas Aviation Group,25-Apr-18,Stored,,
+26278,671,Boeing 757-2G5(PCF),B-7342,SF Airlines (ShunFeng Airlines),16-Nov-15,Active,N167CR,
+26275,672,Boeing 757-28A(PCF),G-DHKH,DHL Air,13-Jun-16,Active,G-FCLI,lsf AerCap
+27809,673,Boeing 757-2B7(WL),N200UU,American Airlines,9-Dec-13,Stored,N631AU,200
+27512,674,Boeing 757-2Z0(PCF),B-2845,SF Airlines (ShunFeng Airlines),9-Aug-12,Active,,
+27739,675,Boeing 757-24APF,N451UP,United Parcel Service (UPS),1-Jun-95,Active,,451
+26274,676,Boeing 757-28A(SF),N968FD,Federal Express (FedEx),10-Apr-13,Active,G-FCLH,"Taytem, 968"
+27055,677,Boeing 757-223(WL),N604AA,Texas Aviation Group,16-May-18,Stored,,
+27810,678,Boeing 757-2B7(WL),N201UU,American Airlines,9-Dec-13,Stored,N632AU,"201, lsf ORIX Aviation"
+25473,679,Boeing 757-24APF,N452UP,United Parcel Service (UPS),6-Jul-95,Active,,452
+27056,680,Boeing 757-223(WL),N605AA,Texas Aviation Group,25-Apr-18,Stored,,
+27811,681,Boeing 757-2B7(WL),N202UW,American Airlines,9-Dec-13,Stored,N633AU,"202, lsf ORIX Aviation"
+27556,682,Boeing 757-224(WL),N12114,United Airlines,1-Oct-10,Active,,114
+25474,683,Boeing 757-24APF,N453UP,United Parcel Service (UPS),3-Aug-95,Active,,453
+27681,684,Boeing 757-26D,N313AT,Wahoo Aviation,21-Dec-17,Scrapped,B-2843,
+27513,685,Boeing 757-25C(PCF),B-2848,China Air Cargo,19-Aug-16,Stored,,
+27557,686,Boeing 757-224(WL),N14115,United Airlines,1-Oct-10,Stored,,115
+25475,687,Boeing 757-24APF,N454UP,United Parcel Service (UPS),7-Sep-95,Active,,454
+26332,688,Boeing 757-2Q8(PCF),D-ALEQ,EAT Leipzig,13-May-16,Active,N332DH,
+27589,689,Boeing 757-232(WL),N686DA,Delta Air Lines,20-Sep-95,Stored,,686
+,,,,,,,,
+27971,690,Boeing 757-23N(WL),P4-KCU,Air Astana,17-Nov-11,Stored,N558AX,lsf Elevate Capital Partners
+25476,691,Boeing 757-24APF,N455UP,United Parcel Service (UPS),28-Sep-95,Active,,455
+27598,692,Boeing 757-23N(PCF),VT-BDM,Blue Dart Aviation,26-Oct-07,Active,EI-LTA,Vision VIII
+26482,693,Boeing 757-251(WL),N535US,Delta Air Lines,29-Oct-08,Stored,,5635
+27972,694,Boeing 757-23N(WL),M-RISE,Talos Aviation,30-Oct-13,Active,N757LL,
+26483,695,Boeing 757-251(WL),N536US,Delta Air Lines,29-Oct-08,Stored,,5636
+27599,696,Boeing 757-2Q8,EP-TBI,Taban Airlines,27-Jul-16,Stored,EY-752,
+26484,697,Boeing 757-251(WL),N537US,Delta Air Lines,29-Oct-08,Stored,,5637
+27517,698,Boeing 757-25C,B-2849,Xiamen Airlines,8-Feb-96,Stored,,
+26485,699,Boeing 757-251(WL),N538US,Delta Air Lines,29-Oct-08,Stored,,5638
+26486,700,Boeing 757-251(WL),N539US,Delta Air Lines,29-Oct-08,Stored,,5639
+26487,701,Boeing 757-251(WL),N540US,Delta Air Lines,29-Oct-08,Stored,,5640
+27558,702,Boeing 757-224(WL),N12116,United Airlines,1-Oct-10,Stored,,116
+26488,703,Boeing 757-251(WL),N541US,Delta Air Lines,29-Oct-08,Active,,5641
+26276,704,Boeing 757-28A(PCF),VT-BDQ,Blue Dart Aviation,23-Jan-14,Active,N391LF,
+26489,705,Boeing 757-251(WL),N542US,Delta Air Lines,29-Oct-08,Active,,5642
+27559,706,Boeing 757-224(WL),N19117,United Airlines,1-Oct-10,Stored,,117
+27057,707,Boeing 757-223(WL),N606AA,Strategic Air Finance (SAF),16-Jan-20,Stored,,
+28112,708,Boeing 757-2G5(WL),P4-GAS,Air Astana,13-Feb-04,Stored,D-AMUI,lsf Castlelake
+26490,709,Boeing 757-251(WL),N543US,Delta Air Lines,29-Oct-08,Stored,,5643
+26491,710,Boeing 757-251(WL),N544US,Delta Air Lines,29-Oct-08,Stored,,5644
+26492,711,Boeing 757-251(WL),N545US,Delta Air Lines,29-Oct-08,Stored,,5645
+27058,712,Boeing 757-223(WL),N607AM,Texas Aviation Group,12-Sep-18,Stored,,
+26493,713,Boeing 757-251(WL),N546US,Delta Air Lines,29-Oct-08,Stored,,5646
+26494,714,Boeing 757-251(WL),N547US,Delta Air Lines,29-Oct-08,Stored,,5647
+26495,715,Boeing 757-251(WL),N548US,Delta Air Lines,29-Oct-08,Stored,,5648
+26496,716,Boeing 757-251(WL),N549US,Delta Air Lines,29-Oct-08,Stored,,5649
+26330,717,Boeing 757-2K2(WL),G-TCSX,TAG Aviation (UK) Ltd,11-Aug-14,Active,YA-AQT,lsf AerCap
+28142,718,Boeing 757-222,N591UA,United Airlines,28-Jun-96,Written Off,,5491
+28143,719,Boeing 757-222(SF),N797FD,Federal Express (FedEx),15-Apr-14,Active,N592UA,"Jackie, 797"
+27446,720,Boeing 757-223(WL),N608AA,American Airlines,16-Jul-96,Scrapped,,5EC
+28160,721,Boeing 757-2Q8(WL),09-0016,USAF United States Air Force,Mar-11,Active,N701TW,
+27447,722,Boeing 757-223(WL),TF-ISS,Icelandair,25-May-16,Active,N609AA,Dyngjufjöll
+28161,723,Boeing 757-28A(PCF),D-ALEV,EAT Leipzig,28-Mar-19,Active,G-DHKI,
+28144,724,Boeing 757-222(SF),N798FD,Federal Express (FedEx),7-Nov-13,Active,N593UA,"Ava Grace, 798"
+28336,725,Boeing 757-22K,EZ-A011,Turkmenistan Airlines,29-Aug-96,Active,,
+28337,726,Boeing 757-22K,EZ-A012,Turkmenistan Airlines,18-Sep-98,Stored,,
+28145,727,Boeing 757-222(SF),N799FD,Federal Express (FedEx),11-Mar-15,Active,N594UA,"Elizabeth, 799"
+25477,728,Boeing 757-24APF,N456UP,United Parcel Service (UPS),13-Sep-96,Active,,456
+25478,729,Boeing 757-24APF,N457UP,United Parcel Service (UPS),25-Sep-96,Active,,457
+25479,730,Boeing 757-24APF,N458UP,United Parcel Service (UPS),3-Oct-96,Active,,458
+28338,731,Boeing 757-23P,7O-VIP,Yemen Government,5-Sep-16,Active,UK75700,
+28162,732,Boeing 757-2Q8(WL),N702TW,Delta Air Lines,16-Jul-07,Active,,6801
+25480,733,Boeing 757-24APF,N459UP,United Parcel Service (UPS),31-Oct-96,Active,,459
+25481,734,Boeing 757-24APF,N460UP,United Parcel Service (UPS),14-Nov-96,Active,,460
+27973,735,Boeing 757-23N(WL),G-LSAK,Jet2,2-Jun-12,Stored,N517AT,
+27620,736,Boeing 757-2Q8(WL),N703TW,Delta Air Lines,17-Jul-07,Stored,,6802
+27974,737,Boeing 757-23N(PCF)(WL),VT-BDB,Blue Dart Aviation,16-Mar-16,Active,N274DH,
+27621,738,Boeing 757-28A(PCF),B-7689,SF Airlines (ShunFeng Airlines),25-Apr-16,Active,N166CR,
+28463,739,Boeing 757-24Q,N757MA,Mid East Jet,27-Jan-97,Active,,
+28446,740,Boeing 757-26D(WL),N900PC,Delta Air Lines,21-Jan-97,Stored,,691
+28163,741,Boeing 757-2Q8(WL),N704X,Delta Air Lines,14-Sep-07,Active,,6803
+28479,742,Boeing 757-231(WL),N705TW,Delta Air Lines,25-Jan-08,Active,,"6811, SkyTeam cs"
+,,,,,,,,
+28165,743,Boeing 757-2Q8(WL),N706TW,Delta Air Lines,14-Aug-07,Stored,,6804
+27625,744,Boeing 757-2Q8(WL),N707TW,Delta Air Lines,15-Aug-07,Active,,6805
+27622,745,Boeing 757-258(SF),N965FD,Federal Express (FedEx),7-Nov-11,Active,G-STRZ,"Ellie, 965"
+28674,746,Boeing 757-21K(PCF),B-1432,SF Airlines (ShunFeng Airlines),10-Apr-17,Active,N553CC,
+28665,747,Boeing 757-236(SF),N951FD,Federal Express (FedEx),15-Apr-11,Active,G-CPEM,"Riley, 951"
+27560,748,Boeing 757-224(WL),N14118,United Airlines,1-Oct-10,Stored,,118
+28164,749,Boeing 757-28A(SF),N969FD,Federal Express (FedEx),25-Apr-13,Active,G-FCLB,"Skylar, 969"
+28480,750,Boeing 757-231(SF),N989FD,Federal Express (FedEx),22-Sep-11,Active,N592SH,"Martyjo, 989"
+28666,751,Boeing 757-236(SF),N952FD,Federal Express (FedEx),31-May-11,Active,G-CPEN,"Roxanna, 952"
+28718,752,Boeing 757-25F(SF),VT-BDA,Blue Dart Aviation,20-Oct-14,Active,G-FCLD,
+27561,753,Boeing 757-224(WL),N18119,United Airlines,1-Oct-10,Stored,,119
+28168,754,Boeing 757-2Q8(WL),N709TW,Delta Air Lines,14-Sep-07,Stored,,"Mariano Rivera, 6806"
+28265,755,Boeing 757-24APF,N461UP,United Parcel Service (UPS),30-May-97,Active,,461
+28166,756,Boeing 757-28A(SF),N970FD,Federal Express (FedEx),24-Oct-12,Active,G-FCLC,"Jordyn, 970"
+28169,757,Boeing 757-2Q8(WL),N710TW,Delta Air Lines,16-Oct-07,Active,,6807
+28481,758,Boeing 757-231(WL),N711ZX,Delta Air Lines,17-Jan-08,Active,,"6814, lsf AerCap"
+28266,759,Boeing 757-24APF,N462UP,United Parcel Service (UPS),19-Jun-97,Active,,462
+27624,760,Boeing 757-2Q8(WL),N712TW,Delta Air Lines,15-Oct-07,Stored,,6808
+27562,761,Boeing 757-224(WL),N14120,United Airlines,1-Oct-10,Stored,,"0120, Star Alliance cs"
+28667,762,Boeing 757-236(SF),N953FD,Federal Express (FedEx),10-Aug-11,Active,G-CPEO,"Gia, 953"
+28267,763,Boeing 757-24APF,N463UP,United Parcel Service (UPS),17-Jul-97,Active,,463
+28173,764,Boeing 757-2Q8(WL),N713TW,Delta Air Lines,15-Nov-07,Stored,,6809
+28268,765,Boeing 757-24APF,N464UP,United Parcel Service (UPS),9-Sep-97,Active,,464
+27563,766,Boeing 757-224(WL),N14121,United Airlines,1-Oct-10,Stored,,121
+28269,767,Boeing 757-24APF,N465UP,United Parcel Service (UPS),16-Sep-97,Active,,465
+27564,768,Boeing 757-224(WL),N17122,United Airlines,1-Oct-10,Stored,,122
+25482,769,Boeing 757-24APF,N466UP,United Parcel Service (UPS),30-Sep-97,Active,,466
+28482,770,Boeing 757-231(SF),N986FD,Federal Express (FedEx),25-Feb-13,Active,N595SH,"Tanner, 986"
+25483,771,Boeing 757-24APF,N467UP,United Parcel Service (UPS),29-Sep-97,Active,,467
+28172,772,Boeing 757-2Q8(WL),09-0018,USAF United States Air Force,3-Jul-18,Active,N903TB,90018
+28707,773,Boeing 757-222(WL),N589UA,United Airlines,3-Nov-97,Stored,N3509J,5989
+25484,774,Boeing 757-24APF,N468UP,United Parcel Service (UPS),14-Oct-97,Active,,468
+28167,775,Boeing 757-2Q8(WL),EI-LBR,ASL Airlines Ireland,15-May-15,Stored,OH-LBR,lsf AerCap
+25485,776,Boeing 757-24APF,N469UP,United Parcel Service (UPS),29-Oct-97,Active,,469
+28483,777,Boeing 757-231(SF),N987FD,Federal Express (FedEx),30-Oct-13,Active,N596SH,"James, 987"
+25486,778,Boeing 757-24APF,N470UP,United Parcel Service (UPS),21-Nov-97,Active,,470
+27975,779,Boeing 757-23N(PCF),G-DHKD,DHL Air,17-Jan-17,Active,N975DH,
+28989,780,Boeing 757-208(WL),TF-FIN,Icelandair,5-Sep-04,Active,N1790B,Eldborg
+28966,781,Boeing 757-224(WL),N26123,United Airlines,1-Oct-10,Written Off,,123
+28833,782,Boeing 757-28A(WL),P4-MAS,Air Astana,17-May-06,Stored,B-2852,lsf AerCap
+29025,783,Boeing C-32A (757-2G4),98-0001,USAF United States Air Force,1-Jun-98,Active,N3519L,80001
+29113,784,Boeing 757-236(SF),N954FD,Federal Express (FedEx),2-Dec-11,Active,G-CPER,"Mika, 954"
+28708,785,Boeing 757-222(WL),N590UA,United Airlines,31-Dec-97,Stored,,5990
+27565,786,Boeing 757-224(WL),N29124,United Airlines,1-Oct-10,Stored,,"0124, lsf Castlelake"
+29026,787,Boeing C-32A (757-2G4),98-0002,USAF United States Air Force,29-May-98,Active,N3519M,80002
+28967,788,Boeing 757-224(WL),N12125,United Airlines,1-Oct-10,Stored,N1787B,"0125, lsf Castlelake"
+28748,789,Boeing 757-222(WL),N595UA,United Airlines,4-Feb-98,Stored,,5995
+27566,790,Boeing 757-224(WL),N17126,United Airlines,1-Oct-10,Stored,,126
+28968,791,Boeing 757-224(WL),N48127,United Airlines,1-Oct-10,Stored,,127
+27623,792,Boeing 757-2Q8(WL),N726WN,UMB Bank,26-Dec-19,Stored,EI-LBS,
+29114,793,Boeing 757-236(SF),N955FD,Federal Express (FedEx),6-Jan-12,Active,G-CPES,"Elke, 955"
+28749,794,Boeing 757-222(WL),N596UA,United Airlines,17-Mar-98,Stored,,5996
+27567,795,Boeing 757-224(WL),N17128,United Airlines,1-Oct-10,Stored,,128
+,,,,,,,,
+28969,796,Boeing 757-224(WL),N29129,United Airlines,1-Oct-10,Stored,,129
+29215,797,Boeing 757-28S(PCF),B-2851,YTO Cargo Airlines,25-Apr-18,Active,,
+29115,798,Boeing 757-236(SF),N956FD,Federal Express (FedEx),14-Feb-12,Active,G-CPET,"Maia, 956"
+28970,799,Boeing 757-224(WL),N19130,United Airlines,1-Oct-10,Stored,,130
+27586,800,Boeing 757-232(WL),N687DL,Delta Air Lines,4-May-98,Active,,687
+28170,801,Boeing 757-2Q8(WL),EI-LBT,ASL Airlines Ireland,15-May-15,Stored,OH-LBT,lsf Carlyle Aviation Partners
+28203,802,Boeing 757-28A(SF),N972FD,Federal Express (FedEx),13-Nov-12,Active,G-TCBA,"Keven, 972"
+27587,803,Boeing 757-232(WL),N688DL,Delta Air Lines,21-May-98,Stored,,688
+29016,804,Boeing 757-330(WL),D-ABOA,Condor,6-Mar-04,Stored,N757X,lsf Altavair AirFinance
+28171,805,Boeing 757-28A(WL),VQ-BTR,Royal Flight,19-Mar-14,Active,G-FCLE,lsf AerCap
+28971,806,Boeing 757-224(WL),N34131,United Airlines,1-Oct-10,Stored,,131
+27172,807,Boeing 757-232(WL),N689DL,Delta Air Lines,18-Jun-98,Stored,,689
+27585,808,Boeing 757-232(WL),N690DL,Delta Air Lines,26-Jun-98,Stored,,690
+29281,809,Boeing 757-224(WL),N33132,United Airlines,1-Oct-10,Stored,,132
+29017,810,Boeing 757-330(WL),D-ABOB,Condor,28-May-04,Stored,N6067B,lsf Altavair AirFinance
+29216,811,Boeing 757-28S(PCF),B-2853,YTO Cargo Airlines,4-Apr-18,Active,,
+29423,812,Boeing 757-223(PCF)(WL),B-1378,SF Airlines (ShunFeng Airlines),4-Feb-18,Active,N673AN,
+28842,813,Boeing 757-24APF,N471UP,United Parcel Service (UPS),23-Jul-98,Active,,471
+27976,814,Boeing 757-23N(PCF),G-DHKE,DHL Air,18-Oct-16,Active,N796DH,
+28843,815,Boeing 757-24APF,N472UP,United Parcel Service (UPS),12-Aug-98,Active,,472
+29424,816,Boeing 757-223(PCF)(WL),B-1252,SF Airlines (ShunFeng Airlines),25-Jun-18,Active,N674AN,
+29425,817,Boeing 757-223(PCF)(WL),B-1231,SF Airlines (ShunFeng Airlines),2-May-18,Active,N675AN,
+29015,818,Boeing 757-330(WL),D-ABOC,Condor,28-May-04,Stored,N6069D,lsf Altavair AirFinance
+29442,819,Boeing 757-2Q8(PCF),D-ALES,EAT Leipzig,29-Jun-16,Active,N294DH,
+29724,820,Boeing 757-232(WL),N692DL,Delta Air Lines,4-Sep-98,Stored,N1799B,692
+29443,821,Boeing 757-2Q8(PCF),D-ALEO,EAT Leipzig,26-Feb-16,Active,N293DH,
+29792,822,Boeing 757-2Z0(PCF),B-2855,Air China Cargo,14-Jul-14,Active,,
+28846,823,Boeing 757-24APF,N473UP,United Parcel Service (UPS),22-Sep-98,Active,N5573L,473
+29027,824,Boeing C-32A (757-2G4),99-0003,USAF United States Air Force,20-Nov-98,Active,,90003
+28484,825,Boeing 757-231(WL),VP-BPB,Azur Air,4-Mar-15,Stored,N926LG,lsf FTAI
+29725,826,Boeing 757-232(WL),N693DL,Delta Air Lines,1-May-06,Stored,N1799B,693
+29426,827,Boeing 757-223(PCF)(WL),G-DHKR,DHL Air,3-Oct-18,Active,N676AN,
+29427,828,Boeing 757-223(PCF)(WL),G-DHKS,DHL Air,21-Aug-18,Active,N677AN,
+29028,829,Boeing C-32A (757-2G4(WL)),99-0004,USAF United States Air Force,25-Nov-98,Active,,90004
+29488,830,Boeing 757-2G5(WL),P4-EAS,Air Astana,8-Oct-03,Stored,D-AMUG,lsf PAFCO
+29726,831,Boeing 757-232(WL),N694DL,Delta Air Lines,1-May-06,Active,,"The Spirit of Freedom, 694"
+29607,832,Boeing 757-27A(PCF),HP-1910DAE,DHL Aero Expreso,22-Sep-10,Active,N644AL,"101, lsf Aerolease"
+29793,833,Boeing 757-2Z0(PCF),B-2856,Air China Cargo,8-Nov-13,Active,,
+29489,834,Boeing 757-2G5(WL),P4-FAS,Air Astana,8-Dec-03,Stored,D-AMUH,
+29608,835,Boeing 757-27A,B-27013,Far Eastern Air Transport,10-May-03,Preserved,,
+29380,836,Boeing 757-2Q8(PCF),D-ALEN,EAT Leipzig,2-Dec-15,Active,N380DH,
+29428,837,Boeing 757-223(PCF)(WL),G-DHKT,DHL Air,14-Jan-19,Active,N678AN,
+29727,838,Boeing 757-232(WL),N695DL,Delta Air Lines,1-May-06,Active,N1795B,695
+29012,839,Boeing 757-330(WL),D-ABOE,Condor,5-Feb-18,Stored,G-JMOE,
+29282,840,Boeing 757-224(WL),N17133,United Airlines,1-Oct-10,Stored,N1795B,"0133, lsf Castlelake"
+28750,841,Boeing 757-222(WL),N597UA,United Airlines,11-Jan-99,Stored,,5997
+29589,842,Boeing 757-223(PCF)(WL),G-DHKU,DHL Air,16-Nov-18,Active,N679AN,
+29330,843,Boeing 757-23N(PCF)(WL),D-ALEU,EAT Leipzig,29-Mar-19,Active,G-DHKA,lsf BBAM
+28751,844,Boeing 757-222(WL),N598UA,United Airlines,22-Jan-99,Stored,N1787B,5598
+29728,845,Boeing 757-232(WL),N696DL,Delta Air Lines,1-May-06,Active,N1795B,696
+29013,846,Boeing 757-330(WL),D-ABOF,Condor,17-Jan-18,Active,G-JMOF,
+29590,847,Boeing 757-223(PCF)(WL),G-DHKM,DHL Air,21-Nov-17,Active,N680AN,
+29283,848,Boeing 757-224(WL),N67134,United Airlines,1-Oct-10,Stored,N1800B,134
+,,,,,,,,
+29014,849,Boeing 757-330(WL),D-ABOG,Condor,17-Apr-18,Stored,G-JMOG,lsf Altavair AirFinance
+28834,850,Boeing 757-204(WL),VP-BOO,Royal Flight,23-Apr-14,Stored,G-BYAX,"lsf AerCap, The Land of Legends Theme Park - Antalya cs"
+29284,851,Boeing 757-224(WL),N41135,United Airlines,1-Oct-10,Active,,135
+29591,852,Boeing 757-223(WL),N181AN,American Airlines,27-Feb-99,Stored,N5573L,5EN
+29592,853,Boeing 757-223(WL),N182AN,American Airlines,3-Mar-99,Stored,,5EP
+28485,854,Boeing 757-231(WL),N717TW,Delta Air Lines,15-Feb-08,Stored,,6812
+30030,855,Boeing 757-330(WL),D-ABOH,Condor,28-May-04,Active,N1787B,lsf Altavair AirFinance
+29285,856,Boeing 757-224(WL),N19136,United Airlines,1-Oct-10,Stored,,136
+29377,857,Boeing 757-2Q8(WL),VQ-BEZ,Azur Air,16-Dec-14,Stored,OH-LBU,lsf Azex Leasing
+28835,858,Boeing 757-28A(WL),VQ-BTB,Royal Flight,23-Jan-14,Stored,G-FCLF,lsf AerCap
+29436,859,Boeing 757-208(WL),TF-FIO,Icelandair,20-Apr-99,Stored,,Krafla
+26247,860,Boeing 757-256(WL),TF-ISV,Icelandair,22-Oct-15,Stored,EI-DUA,Grábrók
+28836,861,Boeing 757-204(WL),G-BYAY,TUI Airways,2-Oct-17,Stored,N1786B,lsf AerCap
+29593,862,Boeing 757-223(WL),N183AN,American Airlines,22-Apr-99,Stored,,5ER
+26248,863,Boeing 757-256(WL),TF-ISR,Icelandair,1-Apr-16,Stored,EI-DUC,Ketildyngja
+29941,864,Boeing 757-236(PCF)(WL),B-20AW,SF Airlines (ShunFeng Airlines),25-Mar-19,Active,N496SR,
+28174,865,Boeing 757-28A(PCF),D-ALET,EAT Leipzig,18-Mar-19,Active,G-DHKJ,
+29594,866,Boeing 757-223(WL),N184AN,American Airlines,13-May-99,Stored,N1787B,5ES
+29942,867,Boeing 757-236(PCF)(WL),B-20E9,SF Airlines (ShunFeng Airlines),20-Nov-19,Active,N205SA,
+29217,868,Boeing 757-28S(PCF),B-2859,YTO Cargo Airlines,27-Oct-17,Active,,
+28486,869,Boeing 757-231(WL),N718TW,Delta Air Lines,14-Dec-07,Stored,,6815
+29304,870,Boeing 757-22L,N610G,COMCO,Jan-02,Active,N1018N,lsf L-3 Capital LLC
+29943,871,Boeing 757-236(WL),N223SA,Unknown,4-Dec-19,Stored,G-CPEV,
+29944,872,Boeing 757-236(PCF)(WL),B-20CX,SF Airlines (ShunFeng Airlines),28-May-19,Active,N751AC,
+29945,873,Boeing 757-236(PCF),G-DHKF,DHL Air,20-Apr-16,Active,G-TCBB,lsf BBAM
+29954,874,Boeing 757-231(WL),N721TW,Delta Air Lines,15-Nov-07,Stored,,6810
+30060,875,Boeing 757-23P,UK75701,Uzbekistan Airways,Mar-12,Stored,VP-BUB,Urgench
+29609,876,Boeing 757-27A,B-27015,Far Eastern Air Transport,8-Jul-99,Preserved,N1786B,
+29946,877,Boeing 757-236(PCF),G-DHKG,DHL Air,13-Jun-16,Active,G-TCBC,lsf BBAM
+28487,878,Boeing 757-231,UK75703,Uzbekistan Airways,May-18,Active,VP-BUI,
+28844,879,Boeing 757-24APF,N474UP,United Parcel Service (UPS),29-Jul-99,Active,,474
+30318,880,Boeing 757-232,N697DL,Delta Air Lines,1-May-06,Active,N1795B,697
+26249,881,Boeing 757-256(WL),TF-ISJ,Icelandair,8-Dec-15,Stored,EI-DUD,Keilir
+28845,882,Boeing 757-24APF,N475UP,United Parcel Service (UPS),12-Aug-99,Active,,475
+30319,883,Boeing 757-231,VP-BLB,Royal Flight,23-Mar-17,Active,ET-ALZ,Андрей Карлов / Andrey Karlov
+28488,884,Boeing 757-231,UK75705,Uzbekistan Airways,25-Nov-18,Active,VP-BUJ,
+29911,885,Boeing 757-232,N698DL,Delta Air Lines,1-May-06,Stored,,698
+30061,886,Boeing 757-23P,UK75702,Uzbekistan Airways,Mar-12,Stored,VP-BUD,Shahrisabz
+29970,887,Boeing 757-232(WL),N699DL,Delta Air Lines,1-May-06,Stored,N1795B,699
+30232,888,Boeing 757-23N(WL),SX-RFA,GainJet Aviation,1-Oct-08,Active,EI-LTO,
+26250,889,Boeing 757-256,EI-DUE,KrasAir,16-Jan-07,Stored,N272LF,lsf ILFC
+30337,890,Boeing 757-232(WL),N6700,Delta Air Lines,1-May-06,Stored,N1787B,6700
+30338,891,Boeing 757-231,VP-BYC,Azur Air,5-Apr-17,Stored,EY-757,
+30187,892,Boeing 757-232(WL),N6701,Delta Air Lines,1-May-06,Stored,N1786B,6701
+29385,893,Boeing 757-231(WL),N722TW,Delta Air Lines,26-Dec-07,Active,N1795B,6816
+29305,894,Boeing 757-22L,4K-AZ11,AZAL Azerbaijan Airlines,12-Nov-12,Active,VP-BBR,Garabagh
+30233,895,Boeing 757-23N,N524AT,Fly Jamaica,17-Mar-12,Written Off,M-ABDF,
+30339,896,Boeing 757-231,UK75704,Uzbekistan Airways,26-Jun-18,Stored,VP-BUH,
+26251,897,Boeing 757-256(WL),VQ-BTN,Royal Flight,15-Feb-14,Stored,YL-BDB,lsf AerCap
+30188,898,Boeing 757-232(WL),N6702,Delta Air Lines,1-May-06,Stored,,6702
+30229,899,Boeing 757-224(WL),N34137,United Airlines,1-Oct-10,Stored,,137
+26252,900,Boeing 757-256,EC-HDS,Privilege Style,18-Oct-15,Active,,Milagros Diaz
+30340,901,Boeing 757-231(WL),N727TW,Delta Air Lines,14-Mar-08,Active,,"6813, lsf PAFCO"
+,,,,,,,,
+26253,902,Boeing 757-256(WL),VQ-BTM,Royal Flight,16-Mar-14,Stored,YL-BDC,lsf AerCap
+30351,903,Boeing 757-224(WL),N13138,United Airlines,1-Oct-10,Active,N1795B,138
+29610,904,Boeing 757-27A(PCF),HP-2010DAE,DHL Aero Expreso,5-Nov-10,Active,N645AL,"104, lsf Aerolease"
+26254,905,Boeing 757-256(WL),TF-FIK,Icelandair,18-Mar-15,Stored,EI-ERF,Bláfjall
+30178,906,Boeing 757-3E7(WL),4X-BAU,Arkia - Israeli Airlines,31-Jan-00,Stored,N1003M,
+29378,907,Boeing 757-231(WL),N723TW,Delta Air Lines,26-Dec-07,Stored,,6817
+30234,908,Boeing 757-232(WL),N6703D,Delta Air Lines,1-May-06,Stored,N1795B,6703
+29018,909,Boeing 757-330(WL),D-ABOI,Condor,28-May-04,Stored,N1002R,lsf Altavair AirFinance
+29611,910,Boeing 757-27A(PCF),HP-1810DAE,DHL Aero Expreso,4-Aug-10,Active,N646AL,"105, lsf Aerolease"
+30352,911,Boeing 757-224(WL),N17139,United Airlines,1-Oct-10,Stored,,139
+30179,912,Boeing 757-3E7(WL),TF-ISX,Icelandair,1-Mar-18,Stored,4X-BAW,"Þingvellir, 100 Years Icelandic Independence cs"
+30353,913,Boeing 757-224(WL),N41140,United Airlines,1-Oct-10,Stored,,140
+30396,914,Boeing 757-232(WL),N6704Z,Delta Air Lines,1-May-06,Stored,N1795B,6704
+29019,915,Boeing 757-330(WL),D-ABOJ,Condor,18-Jun-05,Stored,,lsf Altavair AirFinance
+30423,916,Boeing 757-208(WL),TF-FIP,Icelandair,25-Apr-00,Stored,N1006K,Snæfell
+30397,917,Boeing 757-232(WL),N6705Y,Delta Air Lines,1-May-06,Active,N1786B,6705
+29020,918,Boeing 757-330(WL),D-ABOK,Condor,28-May-04,Stored,N1795B,lsf Altavair AirFinance
+29379,919,Boeing 757-2G5(WL),G-OOBN,TUI Airways,2-Oct-17,Stored,HB-IHR,lsf AerCap
+29306,920,Boeing 757-256(WL),N757AG,Validus Aviation,26-Jan-17,Stored,EC-HIP,
+30422,921,Boeing 757-232(WL),N6706Q,Delta Air Lines,1-May-06,Active,,6706
+30394,922,Boeing 757-2G5(WL),G-OOBP,TUI Airways,2-Oct-17,Stored,HB-IHS,lsf AerCap
+29021,923,Boeing 757-330(WL),D-ABOL,Condor,13-Apr-05,Stored,N1795B,lsf Altavair AirFinance
+29307,924,Boeing 757-256(WL),D4-CCH,TACV Cabo Verde Airlines,16-Dec-19,Stored,F-HTAG,"Fontainhas, lsf AirCo"
+30043,925,Boeing 757-28A,VP-BLV,Azur Air,24-Dec-14,Stored,N755NA,lsf AerCap
+29022,926,Boeing 757-330(WL),D-ABOM,Condor,28-May-04,Stored,,lsf Altavair AirFinance
+30395,927,Boeing 757-232(WL),N6707A,Delta Air Lines,19-Jan-06,Active,,6707
+30757,928,Boeing 757-25F(PCF),B-6150,SF Airlines (ShunFeng Airlines),23-Jun-15,Active,N168CR,
+29023,929,Boeing 757-330(WL),D-ABON,Condor,28-May-04,Stored,N1003M,"Willi, lsf Altavair AirFinance, 50th Anniversary cs"
+30548,930,Boeing 757-23N(WL),N203UW,American Airlines,9-Dec-13,Stored,N642UW,203
+30735,931,Boeing 757-23N(WL),TF-FIC,Icelandair,4-Apr-14,Stored,M-ABDG,Magni
+30758,932,Boeing 757-25F(PCF),B-7082,SF Airlines (ShunFeng Airlines),28-Aug-15,Active,N169CR,
+30354,933,Boeing 757-224(WL),N19141,United Airlines,1-Oct-10,Stored,,141
+30480,934,Boeing 757-232(WL),N6708D,Delta Air Lines,1-May-06,Stored,,6708
+29308,935,Boeing 757-256,G-POWH,Titan Airways,24-Sep-18,Active,TC-OGT,lsf Lloyds Bank
+29309,936,Boeing 757-256,G-ZAPX,Titan Airways,27-Sep-10,Active,EC-HIS,lsf Lloyds Bank
+30481,937,Boeing 757-232(WL),N6709,Delta Air Lines,1-May-06,Stored,,6709
+29310,938,Boeing 757-256(WL),TF-FIA,Icelandair,1-May-07,Stored,EC-HIT,Herdubreid
+30482,939,Boeing 757-232(WL),N6710E,Delta Air Lines,1-May-06,Active,,6710
+29311,940,Boeing 757-256(WL),TF-LLX,Icelandair,22-May-11,Active,A6-RKA,Skjaldbreiður
+30483,941,Boeing 757-232(WL),N6711M,Delta Air Lines,1-May-06,Stored,,6711
+30484,942,Boeing 757-232(WL),N6712B,Delta Air Lines,1-May-06,Active,,6712
+29312,943,Boeing 757-256(PCF)(WL),G-DHKB,DHL Air,27-Jul-16,Active,N932DH,lsf BBAM
+30777,944,Boeing 757-232(WL),N6713Y,Delta Air Lines,1-May-06,Stored,,6713
+30886,945,Boeing 757-23N(WL),N204UW,American Airlines,9-Dec-13,Stored,N643UW,204
+30887,946,Boeing 757-23N(WL),N205UW,American Airlines,9-Dec-13,Stored,N644UW,205
+30834,947,Boeing 757-22L,4K-AZ12,AZAL Azerbaijan Airlines,3-Oct-12,Stored,VP-BBS,Nakhchivan
+30052,948,Boeing 757-256(PCF)(WL),G-DHKC,DHL Air,8-Nov-16,Active,N530DH,lsf BBAM
+30485,949,Boeing 757-232(WL),N6714Q,Delta Air Lines,1-May-06,Active,,6714
+32446,950,Boeing 757-28A(WL),G-OOBA,TUI Airways,2-Oct-17,Stored,C-GUBA,lsf GECAS
+32447,951,Boeing 757-28A(WL),G-OOBB,TUI Airways,2-Oct-17,Stored,C-GTBB,lsf GECAS
+30863,952,Boeing 757-22K,EZ-A014,Turkmenistan Airlines,30-Jan-01,Active,,
+30486,953,Boeing 757-232(WL),N6715C,Delta Air Lines,1-May-06,Active,,6715
+30044,954,Boeing 757-2Q8,VQ-BQA,Azur Air,4-Feb-15,Stored,TC-ETE,lsf Azex Leasing
+,,,,,,,,
+30838,955,Boeing 757-232,N6716C,Delta Air Lines,1-May-06,Stored,,"Rev. Dr. Joseph E. Lowery, 6716"
+30424,956,Boeing 757-208(WL),TF-FIV,Icelandair,12-Mar-01,Stored,,Katla
+30045,957,Boeing 757-2Q8,2-STRW,AerCap,17-Apr-18,Stored,D4-CBP,
+29381,958,Boeing 757-28A,VP-BRL,Royal Flight,21-Dec-17,Stored,EI-EWT,lsf AerCap
+30839,959,Boeing 757-232(WL),N67171,Delta Air Lines,1-May-06,Active,,6717
+32241,960,Boeing 757-3CQ(WL),D-ABOP,Condor,3-Apr-19,Stored,G-JMAA,lsf BCC
+32341,961,Boeing 757-28S(PCF),B-2812,YTO Cargo Airlines,18-Dec-17,Active,,
+32379,962,Boeing 757-223(WL),N185AN,American Airlines,16-May-01,Stored,,5ET
+32242,963,Boeing 757-3CQ(WL),D-ABOR,Condor,9-Jan-19,Stored,G-JMAB,lsf BCC
+32380,964,Boeing 757-223(WL),N186AN,American Airlines,16-May-01,Stored,,5EU
+32381,965,Boeing 757-223(WL),N187AN,American Airlines,21-May-01,Stored,,5EV
+32342,966,Boeing 757-28S(PCF),B-2813,China Postal Airlines,24-Jul-17,Active,,
+32448,967,Boeing 757-28A(WL),N207UW,American Airlines,9-Dec-13,Stored,N756NA,207
+26497,968,Boeing 757-251(WL),N550NW,Delta Air Lines,29-Oct-08,Stored,,5650
+32382,969,Boeing 757-223(WL),N188AN,American Airlines,19-Jun-01,Stored,,5EW
+32383,970,Boeing 757-223(WL),N189AN,American Airlines,2-Jul-01,Stored,,5EX
+26498,971,Boeing 757-251(WL),N551NW,Delta Air Lines,29-Oct-08,Stored,,5651
+32584,972,Boeing 757-33N(WL),N73860,United Airlines,1-Oct-10,Stored,N550TZ,"0860, lsf BCC"
+32384,973,Boeing 757-223(WL),N190AA,American Airlines,17-Jul-01,Stored,,5EY
+32449,974,Boeing 757-28A(PCF),G-DHKK,DHL Air,10-Apr-17,Active,N590CB,lsf GECAS
+26499,975,Boeing 757-251(WL),N552NW,Delta Air Lines,29-Oct-08,Stored,,5652
+32585,976,Boeing 757-33N(WL),N75861,United Airlines,1-Oct-10,Stored,N551TZ,"0861, lsf BCC"
+32385,977,Boeing 757-223(WL),N191AN,American Airlines,13-Aug-01,Stored,,5FA
+32586,978,Boeing 757-33N(WL),N57862,United Airlines,1-Oct-10,Active,N552TZ,"0862, lsf BCC"
+32386,979,Boeing 757-223(WL),N192AN,American Airlines,28-Aug-01,Stored,,5FB
+32587,980,Boeing 757-33N(WL),N57863,United Airlines,1-Oct-10,Stored,N553TZ,"0863, lsf BCC"
+32387,981,Boeing 757-223(WL),N193AN,American Airlines,7-Nov-01,Stored,,5FC
+26500,982,Boeing 757-251(WL),N553NW,Delta Air Lines,29-Oct-08,Stored,,5653
+32388,983,Boeing 757-223(WL),N194AA,American Airlines,7-Nov-01,Stored,,5FD
+32389,984,Boeing 757-223(WL),N195AN,American Airlines,14-Nov-01,Stored,,5FE
+32588,985,Boeing 757-33N(WL),N57864,United Airlines,1-Oct-10,Active,N554TZ,"0864, lsf BCC"
+32390,986,Boeing 757-223(WL),N196AA,American Airlines,19-Nov-01,Stored,,5FF
+26501,987,Boeing 757-251(WL),N554NW,Delta Air Lines,29-Oct-08,Stored,,5654
+32391,988,Boeing 757-223(WL),N197AN,American Airlines,30-Nov-01,Stored,,5FG
+32392,989,Boeing 757-223(WL),N198AA,American Airlines,5-Dec-01,Stored,,5FH
+32810,990,Boeing 757-324(WL),N75851,United Airlines,1-Oct-10,Stored,,851
+32393,991,Boeing 757-223(WL),N199AN,American Airlines,14-Dec-01,Stored,,5FJ
+32394,992,Boeing 757-223(WL),N175AN,American Airlines,17-Dec-01,Stored,,5FK
+32941,993,Boeing 757-25C,B-2868,Xiamen Airlines,11-Dec-01,Stored,,
+32395,994,Boeing 757-223(WL),N176AA,American Airlines,11-Jan-02,Stored,,5FL
+32811,995,Boeing 757-324(WL),N57852,United Airlines,1-Oct-10,Stored,,852
+32396,996,Boeing 757-223(WL),N177AN,American Airlines,18-Jan-02,Stored,,5FM
+32812,997,Boeing 757-324(WL),N75853,United Airlines,1-Oct-10,Stored,,853
+31308,998,Boeing 757-223(PCF)(WL),G-DHKN,DHL Air,13-Feb-18,Active,N174AA,
+32813,999,Boeing 757-324(WL),N75854,United Airlines,1-Oct-10,Active,,854
+32397,1000,Boeing 757-223(PCF)(WL),G-DHKO,DHL Air,10-Apr-18,Active,N179AA,
+32982,1001,Boeing 757-351(WL),N581NW,Delta Air Lines,29-Oct-08,Stored,N753JM,5801
+32398,1002,Boeing 757-223(PCF)(WL),G-DHKP,DHL Air,2-Jul-18,Active,N178AA,
+32589,1003,Boeing 757-33N(WL),N77865,United Airlines,1-Oct-10,Stored,N555TZ,"0865, lsf BCC"
+29434,1004,Boeing 757-308(WL),TF-FIX,Icelandair,18-Mar-02,Stored,N60659,Hengill
+32399,1005,Boeing 757-223(WL),N173AN,American Airlines,21-Mar-02,Stored,,5FS
+30046,1006,Boeing 757-2Q8(PCF)(WL),D-ALEP,EAT Leipzig,29-Dec-15,Active,N346DH,
+32591,1007,Boeing 757-33N(WL),N78866,United Airlines,1-Oct-10,Active,N557TZ,"0866, lsf BCC"
+,,,,,,,,
+32592,1008,Boeing 757-33N(WL),N77867,United Airlines,1-Oct-10,Stored,N558TZ,"0867, lsf BCC"
+32942,1009,Boeing 757-25C,B-2869,Xiamen Airlines,8-Apr-02,Stored,,
+29382,1010,Boeing 757-2Q8(WL),VQ-BEY,Azur Air,24-Dec-14,Stored,OH-LBX,lsf Azex Leasing
+33391,1011,Boeing 757-251(WL),N555NW,Delta Air Lines,29-Oct-08,Stored,,5655
+32400,1012,Boeing 757-223(WL),N172AJ,American Airlines,30-Apr-02,Stored,,5FT
+33392,1013,Boeing 757-251(WL),N556NW,Delta Air Lines,29-Oct-08,Active,,5656
+32981,1014,Boeing 757-351(WL),N582NW,Delta Air Lines,29-Oct-08,Stored,,5802
+32343,1015,Boeing 757-28S(PCF),B-2830,YTO Cargo Airlines,15-Jan-18,Active,N60668,
+33393,1016,Boeing 757-251(WL),N557NW,Delta Air Lines,29-Oct-08,Active,,5657
+32590,1017,Boeing 757-33N(WL),N57868,United Airlines,1-Oct-10,Active,N556TZ,"0868, lsf BCC"
+32593,1018,Boeing 757-33N(WL),N57869,United Airlines,1-Oct-10,Stored,N559TZ,"0869, lsf BCC"
+32983,1019,Boeing 757-351(WL),N583NW,Delta Air Lines,29-Oct-08,Stored,,5803
+32984,1020,Boeing 757-351(WL),N584NW,Delta Air Lines,29-Oct-08,Stored,,5804
+32985,1021,Boeing 757-351(WL),N585NW,Delta Air Lines,29-Oct-08,Stored,,5805
+32987,1022,Boeing 757-351(WL),N586NW,Delta Air Lines,29-Oct-08,Stored,,5806
+32986,1023,Boeing 757-351(WL),N587NW,Delta Air Lines,29-Oct-08,Stored,,5807
+32988,1024,Boeing 757-351(WL),N588NW,Delta Air Lines,29-Oct-08,Stored,,5808
+32989,1025,Boeing 757-351(WL),N589NW,Delta Air Lines,29-Oct-08,Stored,,5809
+33098,1026,Boeing 757-28A(WL),G-OOBC,TUI Airways,2-Oct-17,Stored,N1795B,lsf Avolon
+32990,1027,Boeing 757-351(WL),N590NW,Delta Air Lines,29-Oct-08,Stored,N1795B,5810
+33099,1028,Boeing 757-28A(WL),G-OOBD,TUI Airways,2-Oct-17,Stored,,lsf Avolon
+33100,1029,Boeing 757-28A(WL),N236SA,Bank of Utah,20-May-20,Stored,G-OOBE,
+32991,1030,Boeing 757-351(WL),N591NW,Delta Air Lines,29-Oct-08,Stored,,5811
+33525,1031,Boeing 757-33N(WL),N57870,United Airlines,1-Oct-10,Stored,N560TZ,"0870, lsf BCC"
+33526,1032,Boeing 757-33N(WL),N77871,United Airlines,1-Oct-10,Stored,N561TZ,"0871, lsf BCC"
+32992,1033,Boeing 757-351(WL),N592NW,Delta Air Lines,29-Oct-08,Stored,,5812
+32993,1034,Boeing 757-351(WL),N593NW,Delta Air Lines,29-Oct-08,Stored,,5813
+32994,1035,Boeing 757-351(WL),N594NW,Delta Air Lines,29-Oct-08,Active,,5814
+32995,1036,Boeing 757-351(WL),N595NW,Delta Air Lines,29-Oct-08,Stored,N1795B,5815
+32996,1037,Boeing 757-351(WL),N596NW,Delta Air Lines,29-Oct-08,Active,,5816
+32814,1038,Boeing 757-324(WL),N57855,United Airlines,1-Oct-10,Active,,855
+32815,1039,Boeing 757-324(WL),N74856,United Airlines,1-Oct-10,Stored,,856
+32816,1040,Boeing 757-324(WL),N57857,United Airlines,1-Oct-10,Active,,857
+33101,1041,Boeing 757-28A(WL),N237SA,Bank of Utah,12-May-20,Stored,G-OOBF,
+32817,1042,Boeing 757-324(WL),N75858,United Airlines,1-Oct-10,Active,,858
+32818,1043,Boeing 757-324(WL),N56859,United Airlines,1-Oct-10,Stored,,859
+33959,1044,Boeing 757-26D(WL),N819DX,Delta Air Lines,15-Sep-15,Active,N346BC,6819
+33960,1045,Boeing 757-26D(WL),N820DX,Delta Air Lines,15-Sep-15,Active,N393BC,6820
+33961,1046,Boeing 757-26D(WL),N821DX,Delta Air Lines,8-Feb-16,Active,N434BC,6821
+34008,1047,Boeing 757-25C,B-2862,Xiamen Airlines,20-Aug-04,Stored,,
+34009,1048,Boeing 757-25C,B-2866,Xiamen Airlines,20-Sep-04,Stored,,
+33966,1049,Boeing 757-26D(WL),N822DX,Delta Air Lines,4-Apr-16,Active,N762BC,6822
+33967,1050,Boeing 757-26D(WL),N823DX,Delta Air Lines,15-Sep-15,Active,N338BC,6823

@@ -1,0 +1,279 @@
+MSN,Aircraft Type,Reg,Current Operator,Delivered From,Status,Prev Reg,Remark
+,,,,,,,
+5000,Airbus A380-800,-,Airbus Industrie,,Scrapped,,
+5001,Airbus A380-800,-,Airbus Industrie,,Stored,,
+001,Airbus A380-841,F-WWOW,Airbus Industrie,27 Apr 2005,Stored,,001
+002,Airbus A380-841,F-WXXL,Airbus Industrie,3 Nov 2005,Preserved,,
+003,Airbus A380-841,2-DRPA,Dr. Peters Group,5 Dec 2017,Scrapped,9V-SKA,
+004,Airbus A380-861,F-WWDD,Airbus Industrie,18 Oct 2005,Preserved,,
+005,Airbus A380-841,9V-SKB,Singapore Airlines,11 Jan 2008,Scrapped,F-WWSB,lsf Dr. Peters Group
+006,Airbus A380-841,9H-MIP,Hi Fly Malta,4 Jul 2018,Stored,9V-SKC,"lsf Doric Aviation, Save the Coral Reefs cs"
+007,Airbus A380-861,A6-EDF,Emirates,11 Dec 2009,Stored,F-WWJB,
+008,Airbus A380-841,9H-DPD,Dr. Peters Group,Jul 2018,Stored,9V-SKD,
+009,Airbus A380-861,A6-EDJ,Emirates,4 Jun 2010,Stored,F-WWEA,
+010,Airbus A380-841,9H-DPE,Dr. Peters Group,Oct 2018,Stored,9V-SKE,
+011,Airbus A380-861,A6-EDA,Emirates,28 Jul 2008,Stored,D-AXAA,
+012,Airbus A380-841,9V-SKF,Singapore Airlines,17 Sep 2008,Stored,F-WWSI,
+013,Airbus A380-861,A6-EDB,Emirates,24 Oct 2008,Stored,D-AXAB,
+014,Airbus A380-842,VH-OQA,Qantas,19 Sep 2008,Stored,F-WWSK,Nancy-Bird Walton
+015,Airbus A380-842,VH-OQB,Qantas,15 Dec 2008,Stored,F-WWSL,Hudson Fysh
+016,Airbus A380-861,A6-EDC,Emirates,15 Nov 2008,Stored,D-AXAC,lsf Doric Aviation
+017,Airbus A380-861,A6-EDE,Emirates,24 Apr 2009,Stored,D-AXAE,lsf Doric Aviation
+018,Airbus A380-841,-,Malaysia Airlines,,Not Built,F-WWSO,
+019,Airbus A380-841,9V-SKG,Singapore Airlines,3 Jun 2009,Stored,F-WWSP,
+020,Airbus A380-861,A6-EDD,Emirates,30 Dec 2008,Stored,D-AXAD,
+021,Airbus A380-841,9V-SKH,Singapore Airlines,28 May 2009,Stored,F-WWSQ,
+022,Airbus A380-842,VH-OQC,Qantas,27 Dec 2008,Stored,F-WWSR,Paul McGinness
+023,Airbus A380-861,A6-EDG,Emirates,23 Dec 2009,Stored,F-WWST,lsf Doric Aviation
+024,Airbus A380-841,-,Malaysia Airlines,,Not Built,F-WWSU,
+025,Airbus A380-861,A6-EDH,Emirates,15 Jan 2010,Stored,F-WWSV,lsf Doric Aviation
+026,Airbus A380-842,VH-OQD,Qantas,22 Aug 2009,Stored,F-WWSX,Fergus McMaster
+027,Airbus A380-842,VH-OQE,Qantas,18 Dec 2009,Stored,F-WWSY,Lawrence Hargrave
+028,Airbus A380-861,A6-EDI,Emirates,28 May 2010,Stored,F-WWSZ,
+029,Airbus A380-842,VH-OQF,Qantas,7 Jan 2010,Stored,F-WWSA,Charles Kingsford Smith
+030,Airbus A380-861,A6-EDK,Emirates,2 Jul 2010,Stored,F-WWSD,
+031,Airbus A380-841,B-6136,China Southern Airlines,12 Oct 2011,Active,F-WWSF,
+032,Airbus A380-841,-,Malaysia Airlines,,Not Built,,
+033,Airbus A380-861,F-HPJA,Air France,29 Oct 2009,Stored,F-WWSB,lsf Fuyo General Lease (FGL)
+034,Airbus A380-841,9V-SKI,Singapore Airlines,6 Jul 2009,Stored,F-WWSC,
+035,Airbus A380-861,HL7611,Korean Air Lines,31 May 2011,Stored,F-WWAT,
+036,Airbus A380-841,B-6137,China Southern Airlines,16 Dec 2011,Active,F-WWAM,
+037,Airbus A380-863(F),-,Federal Express (FedEx),,Not Built,F-WWAH,
+038,Airbus A380-841,D-AIMA,Lufthansa,19 May 2010,Stored,F-WWSH,Frankfurt am Main
+039,Airbus A380-861,HL7612,Korean Air Lines,13 Jul 2011,Stored,F-WWAZ,
+040,Airbus A380-861,F-HPJB,Air France,10 Feb 2010,Stored,F-WWSE,lsf Dr. Peters Group
+041,Airbus A380-841,D-AIMB,Lufthansa,16 Jul 2010,Stored,F-WWAF,München
+042,Airbus A380-861,A6-EDM,Emirates,28 Sep 2010,Stored,F-WWAO,
+043,Airbus A380-861,F-HPJC,Air France,14 Apr 2010,Stored,F-WWAB,
+044,Airbus A380-841,D-AIMC,Lufthansa,20 Aug 2010,Stored,F-WWAJ,Peking
+045,Airbus A380-841,9V-SKJ,Singapore Airlines,6 Sep 2009,Stored,F-WWSG,
+046,Airbus A380-861,A6-EDL,Emirates,12 Aug 2010,Stored,F-WWAG,
+047,Airbus A380-842,VH-OQG,Qantas,16 Dec 2010,Stored,F-WWAD,Charles Ulm
+048,Airbus A380-841,D-AIMD,Lufthansa,27 Oct 2010,Stored,F-WWAK,Tokio
+049,Airbus A380-861,F-HPJD,Air France,12 Aug 2010,Stored,F-WWAL,lsf Dr. Peters Group
+050,Airbus A380-842,VH-OQH,Qantas,31 Jan 2011,Stored,F-WWAE,Reginald Ansett
+051,Airbus A380-841,9V-SKK,Singapore Airlines,16 Jul 2010,Stored,F-WWAH,
+052,Airbus A380-861,F-HPJE,Air France,17 May 2011,Stored,F-WWAN,lsf Dr. Peters Group
+053,Airbus A380-863(F),-,Federal Express (FedEx),,Not Built,,
+,,,,,,,
+054,Airbus A380-841,B-6138,China Southern Airlines,28 Feb 2012,Active,F-WWAX,
+055,Airbus A380-842,VH-OQI,Qantas,13 Jan 2011,Stored,F-WWAP,David Warren
+056,Airbus A380-861,A6-EDN,Emirates,5 Nov 2010,Stored,F-WWAR,
+057,Airbus A380-861,A6-EDO,Emirates,30 Nov 2010,Stored,F-WWAS,
+058,Airbus A380-841,9V-SKL,Singapore Airlines,16 Jun 2011,Stored,F-WWSI,
+059,Airbus A380-861,HL7613,Korean Air Lines,19 Aug 2011,Stored,F-WWAY,
+060,Airbus A380-864(F),-,Emirates,,Not Built,,
+061,Airbus A380-841,D-AIME,Lufthansa,15 Mar 2011,Stored,F-WWAV,Johannesburg
+062,Airbus A380-842,VH-OQJ,Qantas,8 Apr 2011,Stored,F-WWAQ,Bert Hinkler
+063,Airbus A380-842,VH-OQK,Qantas,25 Nov 2011,Stored,F-WWSK,John Duigan / Reginald Duigan
+064,Airbus A380-861,F-HPJF,Air France,17 Jun 2011,Stored,F-WWAU,
+065,Airbus A380-841,9V-SKM,Singapore Airlines,29 Sep 2011,Stored,F-WWSM,
+066,Airbus A380-841,D-AIMF,Lufthansa,31 Mar 2011,Stored,F-WWSN,Zürich
+067,Airbus A380-861,F-HPJG,Air France,5 Jun 2012,Stored,F-WWSQ,lsf Dr. Peters Group
+068,Airbus A380-861,HL7614,Korean Air Lines,7 Sep 2011,Stored,F-WWSJ,
+069,Airbus A380-841,D-AIMG,Lufthansa,4 May 2011,Stored,F-WWSO,Wien
+070,Airbus A380-841,D-AIMH,Lufthansa,5 Jul 2011,Stored,F-WWSG,New York
+071,Airbus A380-841,9V-SKN,Singapore Airlines,14 Sep 2011,Stored,F-WWSX,
+072,Airbus A380-841,D-AIMI,Lufthansa,14 May 2012,Stored,F-WWSR,Berlin
+073,Airbus A380-841,D-AIMJ,Lufthansa,13 Jun 2012,Stored,F-WWSP,Brüssel
+074,Airbus A380-842,VH-OQL,Qantas,15 Dec 2011,Stored,F-WWSL,Phyllis Arnott
+075,Airbus A380-861,HL7615,Korean Air Lines,28 Nov 2011,Stored,F-WWSS,
+076,Airbus A380-841,9V-SKP,Singapore Airlines,12 Jan 2012,Stored,F-WWSC,
+077,Airbus A380-861,A6-EDP,Emirates,14 Oct 2011,Stored,F-WWSY,lsf Doric Aviation
+078,Airbus A380-841,9M-MNA,Malaysia Airlines,29 May 2012,Stored,F-WWSU,
+079,Airbus A380-841,9V-SKQ,Singapore Airlines,2 Apr 2012,Stored,F-WWST,
+080,Airbus A380-861,A6-EDQ,Emirates,28 Oct 2011,Stored,F-WWSV,
+081,Airbus A380-841,9M-MNB,Malaysia Airlines,27 Jul 2012,Stored,F-WWAJ,
+082,Airbus A380-841,9V-SKR,Singapore Airlines,8 Feb 2012,Stored,F-WWSH,
+083,Airbus A380-861,A6-EDR,Emirates,25 Nov 2011,Stored,F-WWSZ,lsf Doric Aviation
+084,Airbus A380-841,9M-MNC,Malaysia Airlines,26 Oct 2012,Active,F-WWAD,
+085,Airbus A380-841,9V-SKS,Singapore Airlines,31 Jul 2012,Stored,F-WWAH,
+086,Airbus A380-861,A6-EDS,Emirates,16 Dec 2011,Stored,F-WWSB,
+087,Airbus A380-841,HS-TUA,Thai Airways International,26 Sep 2012,Stored,F-WWAO,Si Rattana / ศรีรัตนะ
+088,Airbus A380-841,B-6139,China Southern Airlines,13 Sep 2012,Active,F-WWAR,
+089,Airbus A380-841,9M-MND,Malaysia Airlines,31 Oct 2012,Stored,F-WWSO,
+090,Airbus A380-861,A6-EDT,Emirates,2 Dec 2011,Stored,F-WWSE,lsf Doric Aviation
+091,Airbus A380-842,VH-OQM,Qantas,,Not Built,,Keith and Ross Smith
+092,Airbus A380-841,9V-SKT,Singapore Airlines,6 Sep 2012,Stored,F-WWSA,
+093,Airbus A380-841,HS-TUB,Thai Airways International,28 Nov 2012,Stored,F-WWAN,Mancha Khiri / มัญจาคิรี
+094,Airbus A380-841,9M-MNE,Malaysia Airlines,7 Feb 2013,Stored,F-WWAV,
+095,Airbus A380-841,G-XLEA,British Airways,3 Jul 2013,Stored,F-WWSK,lsf AFS
+096,Airbus A380-861,HL7619,Korean Air Lines,10 Dec 2012,Stored,F-WWAP,
+097,Airbus A380-800,-,Airbus Industrie,,Not Built,,
+098,Airbus A380-861,A6-EDU,Emirates,24 Feb 2012,Stored,F-WWAB,
+099,Airbus A380-861,F-HPJH,Air France,2 May 2012,Stored,F-WWAF,
+100,Airbus A380-841,HS-TUC,Thai Airways International,20 Dec 2012,Stored,F-WWAT,Chaiya / ไชยา
+101,Airbus A380-861,A6-EDV,Emirates,30 Jul 2012,Stored,F-WWAG,
+102,Airbus A380-842,VH-OQN,Qantas,,Not Built,,Lester Brain
+103,Airbus A380-861,A6-EDW,Emirates,29 Aug 2012,Stored,F-WWAL,lsf Doric Aviation
+104,Airbus A380-861,F-HPJI,Air France,,Not Built,,
+105,Airbus A380-861,A6-EDX,Emirates,1 Oct 2012,Stored,F-WWAK,lsf Doric Aviation
+106,Airbus A380-861,A6-EDY,Emirates,1 Oct 2012,Stored,F-WWAS,lsf Doric Aviation
+107,Airbus A380-861,A6-EDZ,Emirates,12 Oct 2012,Stored,F-WWSD,lsf Doric Aviation
+108,Airbus A380-861,A6-EEA,Emirates,19 Dec 2012,Stored,F-WWSI,Expo 2020 (Opportunity / Orange) cs
+,,,,,,,
+109,Airbus A380-861,A6-EEB,Emirates,9 Nov 2012,Stored,F-WWSN,lsf Doric Aviation
+110,Airbus A380-861,A6-EEC,Emirates,30 Nov 2012,Stored,F-WWAE,lsf Doric Aviation
+111,Airbus A380-861,A6-EED,Emirates,28 Dec 2012,Stored,F-WWAQ,
+112,Airbus A380-861,A6-EEE,Emirates,27 Dec 2012,Stored,F-WWAU,
+113,Airbus A380-861,A6-EEF,Emirates,3 May 2013,Stored,F-WWSJ,
+114,Airbus A380-841,9M-MNF,Malaysia Airlines,13 Mar 2013,Stored,F-WWSG,
+115,Airbus A380-861,F-HPJI,Air France,12 Sep 2013,Stored,F-WWSL,
+116,Airbus A380-861,A6-EEG,Emirates,8 May 2013,Stored,F-WWSS,
+117,Airbus A380-861,F-HPJJ,Air France,23 Jun 2014,Stored,F-WWSV,lsf Dr. Peters Group
+118,Airbus A380-841,-,Lufthansa,,Not Built,,
+119,Airbus A380-861,A6-EEH,Emirates,4 Jun 2013,Stored,F-WWSY,The sky is only the beginning cs
+120,Airbus A380-841,B-6140,China Southern Airlines,28 Feb 2013,Active,F-WWSB,lsf CSA Leasing
+121,Airbus A380-841,G-XLEB,British Airways,19 Sep 2013,Stored,F-WWAY,lsf FPG Group
+122,Airbus A380-841,HS-TUD,Thai Airways International,21 Mar 2013,Stored,F-WWSE,Phayuha Khiri / พยุหะคีรี
+123,Airbus A380-861,A6-EEI,Emirates,17 Jun 2013,Stored,F-WWAM,lsf Investec
+124,Airbus A380-841,G-XLEC,British Airways,17 Oct 2013,Stored,F-WWSC,lsf FPG Group
+125,Airbus A380-841,HS-TUE,Thai Airways International,29 Oct 2013,Stored,F-WWSQ,Si Racha / ศรีราชา
+126,Airbus A380-861,HL7621,Korean Air Lines,28 Aug 2013,Stored,F-WWSZ,
+127,Airbus A380-861,A6-EEJ,Emirates,19 Sep 2013,Stored,F-WWAZ,
+128,Airbus A380-861,HL7622,Korean Air Lines,25 Oct 2013,Stored,F-WWAB,
+129,Airbus A380-861,F-,Air Austral,,Not Built,,
+130,Airbus A380-861,HL7627,Korean Air Lines,27 Jun 2014,Stored,F-WWSD,
+131,Airbus A380-841,HS-TUF,Thai Airways International,29 Nov 2013,Stored,F-WWSU,Kamalasai / กมลาไสย
+132,Airbus A380-861,A6-EEK,Emirates,29 Aug 2013,Stored,F-WWSF,lsf Doric Aviation
+133,Airbus A380-861,A6-EEL,Emirates,27 Nov 2013,Stored,F-WWSH,lsf Doric Aviation
+134,Airbus A380-861,A6-EEM,Emirates,14 Nov 2013,Stored,F-WWSP,lsf Doric Aviation
+135,Airbus A380-861,A6-EEN,Emirates,27 Nov 2013,Stored,F-WWSR,lsf Investec
+136,Airbus A380-861,A6-EEO,Emirates,29 Oct 2013,Stored,F-WWAX,lsf Doric Aviation
+137,Airbus A380-861,A7-APA,Qatar Airways,15 Sep 2014,Stored,F-WWST,عذبة (Athba)
+138,Airbus A380-861,A6-EEP,Emirates,12 Dec 2013,Stored,F-WWAF,lsf Seraph Aviation
+139,Airbus A380-861,A6-EER,Emirates,19 Dec 2013,Stored,F-WWSB,lsf Novus Aviation Capital
+140,Airbus A380-861,A6-EES,Emirates,19 Dec 2013,Stored,F-WWAD,lsf Novus Aviation Capital
+141,Airbus A380-861,A6-EEQ,Emirates,14 Feb 2014,Stored,F-WWAG,United for Wildlife cs
+142,Airbus A380-861,A6-EET,Emirates,27 Mar 2014,Stored,F-WWAH,lsf Novus Aviation Capital
+143,Airbus A380-861,A7-APB,Qatar Airways,10 Nov 2014,Stored,F-WWAJ,العصيمية (Al-Aasimia)
+144,Airbus A380-841,G-XLED,British Airways,16 Jan 2014,Stored,F-WWAK,lsf AFS
+145,Airbus A380-861,A7-APC,Qatar Airways,1 Dec 2014,Stored,F-WWAL,الخرارة (Al-Kharrara)
+146,Airbus A380-841,D-AIMK,Lufthansa,28 Mar 2014,Stored,F-WWAO,Düsseldorf
+147,Airbus A380-861,A6-EEU,Emirates,27 Mar 2014,Stored,F-WWAR,
+148,Airbus A380-841,G-XLEE,British Airways,6 Mar 2014,Stored,F-WWAS,lsf Fuyo General Lease (FGL)
+149,Airbus A380-841,D-AIML,Lufthansa,5 May 2014,Stored,F-WWSX,Hamburg
+150,Airbus A380-861,A6-EEV,Emirates,19 May 2014,Stored,F-WWSA,
+151,Airbus A380-841,G-XLEF,British Airways,14 May 2014,Stored,F-WWSI,
+152,Airbus A380-841,HL7625,Asiana Airlines,28 May 2014,Stored,F-WWAP,
+153,Airbus A380-861,A6-EEW,Emirates,27 Jun 2014,Stored,F-WWAE,Expo 2020 (Sustainability / Green) cs
+154,Airbus A380-861,A6-EEX,Emirates,9 Jul 2014,Stored,F-WWAN,
+155,Airbus A380-841,HL7626,Asiana Airlines,24 Jul 2014,Stored,F-WWAQ,
+156,Airbus A380-861,HL7628,Korean Air Lines,28 Jul 2014,Stored,F-WWAT,
+157,Airbus A380-861,A6-EEY,Emirates,4 Sep 2014,Stored,F-WWAV,"lsf Amedeo, Expo 2020 (Opportunity / Orange) cs"
+158,Airbus A380-861,A6-EEZ,Emirates,22 Aug 2014,Stored,F-WWAU,Expo 2020 (Sustainability / Green) cs
+159,Airbus A380-861,A6-EOA,Emirates,26 Sep 2014,Stored,F-WWSE,"lsf BBAM, Expo 2020 (Opportunity / Orange) cs"
+160,Airbus A380-861,A7-APD,Qatar Airways,23 Dec 2014,Stored,F-WWSG,الصخامة (Al-Sakhama)
+161,Airbus A380-841,G-XLEG,British Airways,11 Sep 2014,Active,F-WWSK,lsf FPG Group
+162,Airbus A380-842,A6-EVB,Emirates,16 Nov 2018,Stored,F-WWSL,EK2019 Year of Tolerance cs
+163,Airbus A380-841,G-XLEH,British Airways,16 Oct 2014,Stored,F-WWSM,lsf Fuyo General Lease (FGL)
+,,,,,,,
+164,Airbus A380-861,A6-EOB,Emirates,3 Nov 2014,Stored,F-WWSO,"lsf Amedeo, Expo 2020 (Opportunity / Orange) cs"
+165,Airbus A380-861,A6-EOC,Emirates,26 Nov 2014,Stored,F-WWSJ,Expo 2020 (Mobility / Blue) cs
+166,Airbus A380-861,A6-APA,Etihad Airways,15 Dec 2014,Stored,F-WWSS,
+167,Airbus A380-842,A6-EVA,Emirates,26 Apr 2018,Stored,F-WWSN,
+168,Airbus A380-861,A6-EOD,Emirates,10 Dec 2014,Stored,F-WWSY,Expo 2020 (Mobility / Blue) cs
+169,Airbus A380-861,A6-EOE,Emirates,22 Dec 2014,Stored,F-WWSZ,"lsf BBAM, Expo 2020 (Opportunity / Orange) cs"
+170,Airbus A380-861,A6-APB,Etihad Airways,24 Apr 2015,Stored,F-WWAB,
+171,Airbus A380-861,A6-EOF,Emirates,30 Jan 2015,Stored,F-WWAM,"lsf BBAM, Expo 2020 (Mobility / Blue) cs"
+172,Airbus A380-861,A6-EOG,Emirates,2 Mar 2015,Stored,F-WWAX,
+173,Airbus A380-841,G-XLEI,British Airways,13 Feb 2015,Stored,F-WWSB,
+174,Airbus A380-861,A6-EOH,Emirates,17 Apr 2015,Stored,F-WWSH,
+175,Airbus A380-841,D-AIMM,Lufthansa,11 Mar 2015,Stored,F-WWSP,Delhi
+176,Airbus A380-861,A6-APC,Etihad Airways,29 May 2015,Stored,F-WWAY,ADNOC - Choose the United Kingdom cs
+177,Airbus A380-841,D-AIMN,Lufthansa,7 Apr 2015,Stored,F-WWSR,Deutschland
+178,Airbus A380-861,A6-EOI,Emirates,18 May 2015,Stored,F-WWAD,
+179,Airbus A380-841,HL7634,Asiana Airlines,7 May 2015,Stored,F-WWAF,
+180,Airbus A380-861,A6-APD,Etihad Airways,7 Aug 2015,Stored,F-WWAZ,ADNOC - Choose South Korea cs
+181,Airbus A380-861,A7-APE,Qatar Airways,11 Jun 2015,Stored,F-WWSC,
+182,Airbus A380-861,A6-EOJ,Emirates,9 Jun 2015,Stored,F-WWSF,Expo 2020 (Sustainability / Green) cs
+183,Airbus A380-841,HL7635,Asiana Airlines,8 Jun 2015,Stored,F-WWSQ,
+184,Airbus A380-861,A6-EOK,Emirates,14 Jul 2015,Stored,F-WWSU,Expo 2020 (Sustainability / Green) cs
+185,Airbus A380-841,JA380C,Skymark Airlines,,Not Built,,
+186,Airbus A380-861,A6-EOL,Emirates,16 Jul 2015,Stored,F-WWAG,"lsf BBAM, Expo 2020 (Sustainability / Green) cs"
+187,Airbus A380-861,A6-EOM,Emirates,3 Aug 2015,Stored,F-WWAH,"lsf Amedeo, United for Wildlife cs"
+188,Airbus A380-861,A6-EON,Emirates,1 Sep 2015,Stored,F-WWAK,"lsf BBAM, Expo 2020 (Sustainability / Green) cs"
+189,Airbus A380-861,A7-APF,Qatar Airways,9 Oct 2015,Stored,F-WWAO,
+190,Airbus A380-861,A6-EOO,Emirates,17 Sep 2015,Stored,F-WWAR,
+191,Airbus A380-861,A6-APE,Etihad Airways,19 Oct 2015,Stored,F-WWSA,ADNOC - Choose the United Kingdom cs
+192,Airbus A380-841,G-XLEJ,British Airways,10 Nov 2015,Stored,F-WWAE,
+193,Airbus A380-861,A7-APG,Qatar Airways,16 Dec 2016,Stored,F-WWSD,
+194,Airbus A380-841,G-XLEK,British Airways,3 Feb 2016,Stored,F-WWSG,lsf FPG Group
+195,Airbus A380-861,A6-APF,Etihad Airways,4 Mar 2016,Stored,F-WWSB,
+196,Airbus A380-861,-,Transaero Airlines,,Not Built,F-WWSI,
+197,Airbus A380-861,A7-APH,Qatar Airways,5 May 2017,Stored,F-WWAS,
+198,Airbus A380-861,A6-APG,Etihad Airways,12 Apr 2016,Stored,F-WWSK,ADNOC - Choose South Korea cs
+199,Airbus A380-861,A6-APH,Etihad Airways,12 May 2016,Stored,F-WWSS,
+200,Airbus A380-861,A6-EOP,Emirates,4 Nov 2015,Stored,F-WWSV,lsf BBAM
+201,Airbus A380-861,A6-EOQ,Emirates,27 Nov 2015,Stored,F-WWAN,"lsf Amedeo, Expo 2020 (Mobility / Blue) cs"
+202,Airbus A380-861,A6-EOR,Emirates,3 Dec 2015,Stored,F-WWAP,lsf BBAM
+203,Airbus A380-861,A6-EOS,Emirates,11 Dec 2015,Stored,F-WWAQ,"lsf Seraph Aviation, Expo 2020 (Mobility / Blue) cs"
+204,Airbus A380-861,A6-EOT,Emirates,23 Dec 2015,Stored,F-WWAT,Expo 2020 (Mobility / Blue) cs
+205,Airbus A380-861,A6-EOU,Emirates,26 Jan 2016,Stored,F-WWSX,"lsf Investec, Expo 2020 (Opportunity / Orange) cs"
+206,Airbus A380-861,A6-EOV,Emirates,19 Feb 2016,Stored,F-WWSE,"lsf Amedeo, Expo 2020 (Opportunity / Orange) cs"
+207,Airbus A380-861,A6-EOW,Emirates,25 Mar 2016,Stored,F-WWSJ,Expo 2020 (Sustainability / Green) cs
+208,Airbus A380-861,A6-EOX,Emirates,13 Apr 2016,Stored,F-WWSM,lsf Amedeo
+209,Airbus A380-861,A6-EOY,Emirates,22 Apr 2016,Stored,F-WWSO,lsf Investec
+210,Airbus A380-861,A6-EOZ,Emirates,20 May 2016,Stored,F-WWST,lsf BBAM
+211,Airbus A380-861,A6-EUA,Emirates,31 May 2016,Stored,F-WWSY,lsf Seraph Aviation
+212,Airbus A380-861,-,Transaero Airlines,,Not Built,,
+213,Airbus A380-861,A6-EUB,Emirates,17 Jun 2016,Stored,F-WWSZ,lsf Seraph Aviation
+214,Airbus A380-861,A6-EUC,Emirates,9 Sep 2016,Stored,F-WWAJ,lsf Investec
+215,Airbus A380-841,G-XLEL,British Airways,22 Jun 2016,Stored,F-WWAL,lsf FPG Group
+216,Airbus A380-861,A6-EUD,Emirates,30 Jun 2016,Stored,F-WWAM,lsf BBAM
+217,Airbus A380-861,A6-EUE,Emirates,19 Aug 2016,Stored,F-WWAU,
+218,Airbus A380-861,A6-EUF,Emirates,5 Oct 2016,Stored,F-WWAV,lsf Investec
+,,,,,,,
+219,Airbus A380-861,A6-EUG,Emirates,25 Oct 2016,Stored,F-WWAB,
+220,Airbus A380-861,A6-EUH,Emirates,18 Nov 2016,Stored,F-WWAD,
+221,Airbus A380-861,A6-EUI,Emirates,21 Feb 2017,Stored,F-WWAF,lsf Seraph Aviation
+222,Airbus A380-861,A6-EUJ,Emirates,30 Nov 2016,Stored,F-WWAX,
+223,Airbus A380-861,A6-EUK,Emirates,9 Dec 2016,Stored,F-WWSH,
+224,Airbus A380-861,A6-EUL,Emirates,20 Dec 2016,Stored,F-WWSP,lsf Seraph Aviation
+225,Airbus A380-842,A6-EUM,Emirates,28 Dec 2016,Stored,F-WWSQ,
+226,Airbus A380-842,A6-EUN,Emirates,29 Dec 2016,Stored,F-WWSR,lsf Investec
+227,Airbus A380-842,A6-EUO,Emirates,29 Dec 2016,Stored,F-WWSA,lsf Amedeo
+228,Airbus A380-842,A6-EUP,Emirates,24 Mar 2017,Stored,F-WWSC,lsf Amedeo
+229,Airbus A380-842,A6-EUQ,Emirates,12 May 2017,Stored,F-WWSF,lsf Veling
+230,Airbus A380-841,HL7640,Asiana Airlines,25 Oct 2016,Stored,F-WWSU,lsf MSFL
+231,Airbus A380-841,HL7641,Asiana Airlines,22 Dec 2016,Stored,F-WWSV,lsf MSFL
+232,Airbus A380-842,A6-EUR,Emirates,16 Mar 2018,Stored,F-WWAE,lsf Veling
+233,Airbus A380-861,A6-API,Etihad Airways,24 Mar 2017,Stored,F-WWAK,lsf Amedeo
+234,Airbus A380-842,A6-EUS,Emirates,30 Nov 2017,Stored,F-WWAN,
+235,Airbus A380-861,A7-API,Qatar Airways,18 Dec 2017,Stored,F-WWAO,
+236,Airbus A380-842,A6-EUT,Emirates,1 Nov 2017,Stored,F-WWAP,
+237,Airbus A380-861,A6-APJ,Etihad Airways,24 May 2017,Stored,F-WWAR,lsf Amedeo
+238,Airbus A380-842,A6-EUU,Emirates,30 Jun 2018,Stored,F-WWAY,lsf Veling
+239,Airbus A380-842,A6-EUV,Emirates,6 Nov 2017,Stored,F-WWSB,lsf Investec
+240,Airbus A380-842,A6-EUW,Emirates,14 Sep 2018,Stored,F-WWSE,
+241,Airbus A380-842,A6-EUX,Emirates,28 Jul 2017,Stored,F-WWSG,lsf Veling
+242,Airbus A380-842,A6-EUY,Emirates,29 Aug 2017,Stored,F-WWSX,lsf Investec
+243,Airbus A380-841,9V-SKU,Singapore Airlines,6 Oct 2017,Stored,F-WJKF,
+244,Airbus A380-842,A6-EUZ,Emirates,29 Sep 2017,Stored,F-WWAT,lsf Veling
+245,Airbus A380-842,A6-,Emirates,,Not Built,,
+246,Airbus A380-842,A6-,Emirates,,Not Built,,
+247,Airbus A380-841,9V-SKV,Singapore Airlines,22 Nov 2017,Stored,F-WWSJ,
+248,Airbus A380-842,A6-EVC,Emirates,7 May 2019,Stored,F-WWSK,
+249,Airbus A380-842,A6-EVD,Emirates,19 Jul 2019,Stored,F-WWSM,
+250,Airbus A380-842,A6-EVE,Emirates,28 Nov 2018,Stored,F-WWSU,
+251,Airbus A380-841,9V-SKW,Singapore Airlines,11 Apr 2018,Stored,F-WWSS,
+252,Airbus A380-842,A6-EVF,Emirates,7 Dec 2018,Stored,F-WWSY,
+253,Airbus A380-841,9V-SKY,Singapore Airlines,15 Jun 2018,Stored,F-WWAB,
+254,Airbus A380-861,A7-APJ,Qatar Airways,24 Apr 2018,Stored,F-WWAJ,
+255,Airbus A380-841,9V-SKZ,Singapore Airlines,26 Jul 2018,Stored,F-WWAM,
+256,Airbus A380-842,A6-EVG,Emirates,18 Jun 2019,Stored,F-WWAD,
+257,Airbus A380-842,A6-EVH,Emirates,14 Dec 2018,Stored,F-WWAX,Expo 2020 (Mobility / Blue) cs
+258,Airbus A380-842,A6-EVI,Emirates,12 Dec 2019,Stored,F-WWST,
+259,Airbus A380-842,A6-EVJ,Emirates,8 Nov 2019,Stored,F-WWSA,
+260,Airbus A380-842,A6-EVK,Emirates,20 Dec 2019,Stored,F-WWSD,
+261,Airbus A380-842,A6-EVL,Emirates,,On Order,F-WWSO,
+262,Airbus A380-841,JA381A,All Nippon Airways,14 Mar 2019,Stored,F-WWSH,
+263,Airbus A380-841,JA382A,All Nippon Airways,15 May 2019,Stored,F-WWAF,
+264,Airbus A380-842,A6-EVM,Emirates,,On Order,F-WWSZ,
+266,Airbus A380-841,JA383A,All Nippon Airways,,On Order,F-WWAL,
+267,Airbus A380-842,A6-EVN,Emirates,,On Order,F-WWAU,
+268,Airbus A380-842,A6-,Emirates,,On Order,,
+269,Airbus A380-842,A6-,Emirates,,On Order,,
+270,Airbus A380-842,A6-,Emirates,,On Order,,
+271,Airbus A380-842,A6-,Emirates,,On Order,,
+272,Airbus A380-842,A6-,Emirates,,On Order,,

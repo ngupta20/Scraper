@@ -1,0 +1,2002 @@
+MSN,Aircraft Type,Reg,Current Operator,Delivered From,Status,Prev Reg,Remark
+,,,,,,,
+001,Airbus A340-311,F-WWAI,Airbus Industrie,Oct 1991,Stored,,
+002,Airbus A340-311,EP-APA,Iran Aseman Airlines,Jan 2012,Stored,M-YRGU,Persian Gulf
+003,Airbus A340-311,M-YRGV,GMT Holdings,9 Dec 2011,Scrapped,G-VSEA,
+004,Airbus A340-213,HZ-124,Saudi Royal Flight,Sep 2014,Active,F-WWBA,
+005,Airbus A340-311,EC-KCL,Iberia,14 Mar 2007,Scrapped,F-GLZA,"Juan Ramon Jimenez, lsf ILFC"
+006,Airbus A340-212,ZS-SLF,South African Airways,24 Jun 2004,Preserved,D-AIBF,lsf GMT Holdings
+007,Airbus A340-312,EI-ELH,Amentum Capital,30 Dec 2009,Scrapped,EC-KHU,
+008,Airbus A340-212,ZS-SLA,South African Airways,8 Apr 2003,Preserved,D-AIBA,lsf GMT Holdings
+009,Airbus A340-212,HZ-SKY1,Sky Prime,Jan 2016,Active,HZ-A1,Saudi Vision 2030 cs
+010,Airbus A340-211,F-GNIA,Air France,13 May 1993,Written Off,F-WWJC,lsf Sabena
+011,Airbus A340-212,F-WTBG,GMT Holdings,2 Feb 2012,Scrapped,ZS-SLB,
+012,Airbus A330-342,B-HLJ,Cathay Dragon,21 Nov 2016,Stored,VR-HLJ,
+013,Airbus A340-311,EC-KCF,Air Comet,8 Mar 2007,Scrapped,G-VBUS,lsf GMT Holdings
+014,Airbus A340-212,JY-AIC,Royal Jordanian,3 Jul 2007,Scrapped,F-OHLP,"Princess Salma Bint Abdullah, lsf GA Telesis"
+015,Airbus A340-311,F-WTBA,Airbus Financial Services (AFS),29 Sep 2011,Scrapped,YA-TTB,
+016,Airbus A340-311,D-AIEL,Lufthansa Technik,Mar 2007,Scrapped,9Y-JIL,
+017,Airbus A330-342,B-HLK,Cathay Dragon,21 Nov 2016,Stored,VR-HLK,
+018,Airbus A340-212,F-WTDB,GMT Holdings,15 Feb 2013,Scrapped,ZS-SLC,
+019,Airbus A340-212,ZS-SLD,South African Airways,27 Aug 2003,Scrapped,D-AIBE,lsf AFS
+020,Airbus A340-311,EP-MMA,Mahan Airlines,Feb 2013,Stored,HS-CHA,
+021,Airbus A340-212,ZS-SLE,South African Airways,22 Sep 2003,Scrapped,D-AIBH,
+022,Airbus A340-212,JY-AID,Royal Jordanian,3 Jul 2007,Scrapped,F-OHLQ,"Queen Rania Alabdulah, lsf GA Telesis"
+023,Airbus A340-311,TC-JDJ,Turkish Airlines,22 Jul 1993,Scrapped,F-WWJN,İstanbul
+024,Airbus A340-311,D-AIGB,Lufthansa,30 Nov 1993,Scrapped,F-WWJO,Recklinghausen
+025,Airbus A340-311,TC-JDK,Turkish Airlines,10 Aug 1993,Preserved,F-WWJP,Diyarbakır
+026,Airbus A340-211,A7-HHK,Qatar Amiri Flight,28 May 1993,Active,F-WWJQ,
+027,Airbus A340-311,D-AIGC,Lufthansa,2 Dec 1993,Scrapped,F-WWJR,"Wilhelmshaven, Star Alliance cs"
+028,Airbus A340-311,D-AIGD,Lufthansa,28 Jan 1994,Scrapped,F-WWJS,Remscheid
+029,Airbus A340-311,F-GLZC,Air France,30 Sep 1993,Scrapped,,lsf BBAM
+030,Airbus A330-301,OO-SFM,Brussels Airlines,25 Mar 2007,Scrapped,F-GMDA,
+031,Airbus A340-211,YV1004,Conviasa,Oct 2007,Active,F-WQTN,Simòn Bolívar El Libertador
+032,Airbus A340-311,4R-ADA,SriLankan Airlines,15 Jul 1999,Scrapped,F-WWJT,lsf Veling
+033,Airbus A340-311,4R-ADB,SriLankan Airlines,15 Jul 1999,Scrapped,F-WWJU,lsf Veling
+034,Airbus A340-311,4R-ADC,SriLankan Airlines,15 Jul 1999,Scrapped,F-WWJY,lsf Veling
+035,Airbus A340-311,D-AIGF,Lufthansa,16 May 1994,Scrapped,F-WWJV,Göttingen
+036,Airbus A340-312,4R-ADD,SriLankan Airlines,12 Jul 1999,Written Off,F-OHPZ,lsf debis AirFinance
+037,Airbus A330-301,OO-SFN,Brussels Airlines,25 Mar 2007,Stored,F-GMDB,lsf AerCap
+038,Airbus A340-212,JY-AIA,Royal Jordanian,16 Jul 2002,Scrapped,F-GLZE,Prince Hussein bin Abdullah / الأمير حسين بن عبدالله
+039,Airbus A340-312,A9C-LB,Gulf Air,13 Sep 2007,Scrapped,A4O-LB,402
+040,Airbus A340-312,A9C-LC,Gulf Air,2 Oct 2007,Scrapped,A4O-LC,"Doha, 403"
+041,Airbus A340-312,CS-TOA,TAP - Air Portugal,22 Dec 1994,Stored,F-WWJB,Fernão Mendes Pinto
+042,Airbus A330-321,F-WWKH,Airbus Industrie,14 Oct 1993,Written Off,,
+043,Airbus A340-212,JY-AIB,Royal Jordanian,9 Aug 2002,Scrapped,F-GLZF,Princess Iman Bint Abdullah
+044,Airbus A340-312,CS-TOB,TAP - Air Portugal,22 Dec 1994,Stored,F-WWJN,D. Joao de Castro
+045,Airbus A330-301,OO-SFO,Brussels Airlines,25 Mar 2007,Scrapped,F-GMDC,lsf AerCap
+046,Airbus A340-212,V8-001,Brunei Government,1 Aug 2014,Stored,V8-BKH,
+047,Airbus A340-311,V5-NMF,Air Namibia,6 Sep 2006,Scrapped,D-AIMF,lsf BCI Aircraft Leasing
+048,Airbus A340-312,LV-BMT,Aerolineas Argentinas,5 Dec 2007,Scrapped,C-FDRO,lsf ILFC
+049,Airbus A340-311,PZ-TCP,Surinam Airways,9 Dec 2009,Scrapped,F-GLZG,"Palulu, lsf AerCap"
+050,Airbus A330-321,HS-TEA,Thai Airways International,20 Jan 1995,Stored,F-WWKI,Manorom
+051,Airbus A340-311,V5-NME,Air Namibia,20 Nov 2005,Scrapped,D-AIMG,lsf BCI Aircraft Leasing
+052,Airbus A340-311,D-AIGH,Lufthansa,12 Aug 1994,Scrapped,F-WWJQ,Koblenz
+,,,,,,,
+053,Airbus A340-311,D-AIGI,Lufthansa,31 Oct 1994,Scrapped,F-WWJJ,Worms
+054,Airbus A330-301,9M-XAA,AirAsia X,11 Sep 2007,Scrapped,N54AN,"Semangat Sir Freddie, lsf Kahala Aviation Leasing"
+055,Airbus A330-301,AP-BKL,Shaheen Air,Oct 2012,Scrapped,VQ-BEU,lsf AerCap
+056,Airbus A340-311,EP-MMB,Mahan Airlines,Feb 2013,Stored,EX-34002,
+057,Airbus A340-311,TC-JDL,Turkish Airlines,28 Jul 1994,Preserved,F-WWJF,"Ankara, Star Alliance cs"
+058,Airbus A340-311,OH-LQA,Finnair,12 Jun 2006,Scrapped,G-VFLY,lsf AerSale Inc
+059,Airbus A330-301,EI-ORD,Aer Lingus,27 Mar 1997,Scrapped,F-GMDD,St Maeve / Maedbh
+060,Airbus A330-321,HS-TEB,Thai Airways International,9 Dec 1994,Stored,F-WWKQ,Si Sakhon
+061,Airbus A340-211,SU-GGG,Egypt Government,22 Feb 1995,Active,F-WWJI,
+062,Airbus A330-321,HS-TEC,Thai Airways International,14 Dec 1994,Stored,F-WWKR,Bang Rachan
+063,Airbus A340-211,LV-ZPO,Aerolineas Argentinas,15 Jun 1999,Stored,F-OHPF,lsf AFS
+064,Airbus A330-321,HS-TED,Thai Airways International,3 Feb 1995,Stored,F-WWKS,Donchedi
+065,Airbus A330-321,HS-TEE,Thai Airways International,30 Jan 1995,Scrapped,F-WWKT,Kusuman
+066,Airbus A330-321,HS-TEF,Thai Airways International,24 Mar 1995,Preserved,F-WWKJ,Song Dao
+067,Airbus A330-322,9M-MKA,Malaysia Airlines,1 Mar 1995,Scrapped,F-WWKK,
+068,Airbus A330-322,9M-MKB,Malaysia Airlines,23 Feb 1995,Written Off,F-WWKL,
+069,Airbus A330-322,9M-MKC,Malaysia Airlines,10 Feb 1995,Scrapped,F-WWKM,
+070,Airbus A330-301,AP-BKM,Shaheen Air,10 Jul 2012,Scrapped,VQ-BCW,lsf AerCap
+071,Airbus A330-342,B-HLA,Cathay Dragon,21 Nov 2016,Stored,VR-HLA,lsf Arena Aviation Capital
+072,Airbus A330-322,TC-OCA,Onur Air,13 Oct 2015,Stored,EC-IJH,lsf AerCap
+073,Airbus A330-322,9M-MKD,Malaysia Airlines,24 Mar 1995,Scrapped,F-WWKN,
+074,Airbus A340-211,LV-ZPJ,Aerolineas Argentinas,4 Jun 1999,Stored,F-OHPG,lsf AFS
+075,Airbus A340-212,F-RAJA,Armée de l'Air (French Air Force),8 Dec 2006,Active,OE-LAG,
+076,Airbus A340-312,3B-NAU,Air Mauritius,28 Oct 1994,Stored,F-WWJG,"Pink Pigeon, lsf Aero Capital Solutions (ACS)"
+077,Airbus A330-322,9M-MKE,Malaysia Airlines,2 Apr 1995,Scrapped,F-WWKO,
+078,Airbus A340-311,F-GLZH,Air France,18 Jul 1995,Scrapped,,
+079,Airbus A340-312,CS-TOC,TAP - Air Portugal,24 Apr 1995,Stored,F-WWJS,Venceslau de Moraes
+080,Airbus A340-211,LV-ZPX,Aerolineas Argentinas,12 Jul 1999,Stored,F-OHPH,lsf AFS
+081,Airbus A340-212,F-RAJB,Armée de l'Air (French Air Force),11 May 2006,Active,OE-LAH,
+082,Airbus A330-322,OO-SFW,Brussels Airlines,11 May 2007,Stored,EI-DVB,lsf Carlyle Aviation Partners
+083,Airbus A330-342,B-HLB,Cathay Dragon,21 Nov 2016,Stored,VR-HLB,lsf Arena Aviation Capital
+084,Airbus A340-311,F-GLZI,Air France,7 Aug 1995,Scrapped,,
+085,Airbus A340-211,LV-ZRA,Aerolineas Argentinas,12 Aug 1999,Stored,F-OHPI,lsf Airbus
+086,Airbus A330-301,AP-BKN,Shaheen Air,31 Jan 2013,Scrapped,VQ-BEQ,
+087,Airbus A330-322,TC-OCD,Onur Air,16 Jan 2016,Stored,VN-A368,lsf AerCap
+088,Airbus A340-313,EC-KOU,Iberia,20 Feb 2008,Scrapped,C-FTNQ,"La Dama de Elche, lsf ILFC, opby Audeli Air Service"
+089,Airbus A340-313,9K-ANA,Kuwait Airways,29 Mar 1995,Stored,F-WWJA,Warba
+090,Airbus A340-313,9K-ANB,Kuwait Airways,7 Apr 1995,Stored,F-WWJZ,Bayan
+091,Airbus A340-312,CS-TOD,TAP - Air Portugal,24 Apr 1995,Stored,F-WWJA,D. Francisco de Almeida
+092,Airbus A340-300,-,Airbus Industrie,,Not Built,,
+093,Airbus A340-313,N349AT,AeroTurbine,28 Jul 2014,Scrapped,LV-BIT,
+094,Airbus A340-312,N691SB,Aircraft and Engine Support LLC,9 Dec 2016,Scrapped,LV-CEK,
+095,Airbus A330-322,OO-SFV,Brussels Airlines,29 Jun 2010,Scrapped,9M-MKR,lsf AerCap
+096,Airbus A330-322,9H-AGU,Hi Fly Malta,14 Jun 2018,Stored,EI-FSP,lsf Carlyle Aviation Partners
+097,Airbus A340-312,A9C-LD,Gulf Air,4 Oct 2007,Scrapped,A4O-LD,404
+098,Airbus A330-342,TC-OCB,Onur Air,1 Jan 2016,Preserved,B-HYA,
+099,Airbus A330-342,B-HLC,Cathay Dragon,21 Nov 2016,Stored,VR-HLC,lsf Arena Aviation Capital
+100,Airbus A330-322,9M-MKF,Malaysia Airlines,9 Jun 1995,Scrapped,F-WWKZ,
+101,Airbus A340-313,9K-ANC,Kuwait Airways,Apr 1999,Stored,F-WWJE,Meskan
+102,Airbus A330-342,B-HLD,Cathay Pacific,14 Nov 1997,Stored,VR-HLD,lsf Arena Aviation Capital
+103,Airbus A340-312,A9C-LE,Gulf Air,16 Nov 2007,Scrapped,A4O-LE,405
+104,Airbus A340-313,9K-AND,Kuwait Airways,5 Jul 1995,Stored,F-WWJJ,Al-Riggah
+,,,,,,,
+105,Airbus A340-300,-,Airbus Industrie,,Not Built,,
+106,Airbus A330-342,B-HYB,Cathay Dragon,21 Nov 2016,Active,VR-HYB,The Spirit of Hong Kong cs
+107,Airbus A330-322,9M-MKG,Malaysia Airlines,9 Aug 1995,Scrapped,F-WWKV,
+108,Airbus A340-300,-,Airbus Industrie,,Not Built,,
+109,Airbus A330-342,B-HLE,Cathay Dragon,21 Nov 2016,Stored,VR-HLE,
+110,Airbus A330-322,9M-MKH,Malaysia Airlines,29 Aug 1995,Scrapped,F-WWKE,
+111,Airbus A330-342,C-GKTS,Air Transat,21 Oct 1999,Stored,B-HYC,"001, lsf AerCap, 30 Years cs"
+112,Airbus A330-321,HS-TEG,Thai Airways International,12 Oct 1995,Scrapped,F-WWKM,Lam Plai Mat
+113,Airbus A330-342,B-HLF,Cathay Pacific,9 Oct 1997,Stored,VR-HLF,
+114,Airbus A340-313,G-VSUN,Virgin Atlantic Airways,6 Sep 2007,Scrapped,F-WWJI,Rainbow Lady
+115,Airbus A340-311,2-AVRA,Avro Global,16 May 2019,Stored,TC-JDM,
+116,Airbus A330-322(F),B-LDO,Air Hong Kong,3 Jan 2020,Active,EI-HEA,
+117,Airbus A340-313,CS-TKX,Hi Fly,Nov 2018,Stored,9H-TQM,
+118,Airbus A330-342,B-HLG,Cathay Dragon,21 Nov 2016,Stored,VR-HLG,
+119,Airbus A330-322,9M-MKJ,Malaysia Airlines,13 Dec 1995,Scrapped,F-WWKJ,
+120,Airbus A330-322,EI-FBU,I-Fly,7 May 2013,Stored,D-AERK,
+121,Airbus A330-342,B-HLH,Cathay Pacific,14 Oct 1997,Stored,VR-HLH,
+122,Airbus A330-321,HS-TEH,Thai Airways International,20 Dec 1995,Stored,F-WWKG,Sai Buri
+123,Airbus A340-313,LV-CSD,Aerolineas Argentinas,12 Dec 2011,Stored,B-HXM,
+124,Airbus A340-311,-,Airbus Industrie,,Not Built,,
+125,Airbus A340-313,EC-GGS,Iberia,23 Jun 1996,Scrapped,EC-154,Concha Espina
+126,Airbus A340-313,LV-CSE,Aerolineas Argentinas,3 Jan 2012,Scrapped,B-HXN,
+127,Airbus A330-322(F),EI-HEB,ASL Airlines Ireland,1 Mar 2018,Active,D-AAEB,
+128,Airbus A340-313,N128XX,Unical Aviation,9 May 2018,Stored,LV-CSF,
+129,Airbus A340-313,B-2380,China Eastern Airlines,15 May 1996,Scrapped,F-WWJQ,lsf ICBC
+130,Airbus A340-313,-,Airbus Industrie,,Not Built,,
+131,Airbus A340-313,B-2381,China Eastern Airlines,29 May 1996,Scrapped,F-WWJO,
+132,Airbus A330-342,C-GTSO,Air Transat,4 Mar 2011,Stored,B-HYD,"003, lsf AerCap"
+133,Airbus A340-312,CS-TQL,Hi Fly,15 Sep 2011,Scrapped,M-YRGQ,lsf Apollo Aviation
+134,Airbus A340-313,EC-GHX,Iberia,15 Nov 1996,Stored,EC-155,Rosalía de Castro
+135,Airbus A340-313,D-AIGL,Lufthansa,10 May 1996,Stored,F-WWJS,Herne
+136,Airbus A340-313,B-HXA,Cathay Pacific,26 Sep 1997,Scrapped,VR-HXA,
+137,Airbus A340-313,B-HXB,Cathay Pacific,13 Sep 1997,Scrapped,VR-HXB,
+138,Airbus A330-341,PK-GPA,Garuda Indonesia,16 Dec 1996,Active,F-WWKH,
+139,Airbus A340-313,N139WL,Willis Lease,16 May 2013,Scrapped,A6-ERS,
+140,Airbus A330-341,PK-GPC,Garuda Indonesia,23 Dec 1996,Stored,F-WWKU,
+141,Airbus A340-313,B-2382,China Eastern Airlines,25 Jul 1996,Scrapped,F-WWJC,
+142,Airbus A340-313,B-HXC,Cathay Pacific,21 Nov 1997,Scrapped,VR-HXC,
+143,Airbus A330-322,TC-OCC,Onur Air,17 Oct 2016,Stored,9M-MKS,lsf AerCap
+144,Airbus A330-341,PK-GPD,Garuda Indonesia,24 Jan 1997,Stored,F-WWKG,
+145,Airbus A340-313,EC-GJT,Iberia,15 Nov 1996,Scrapped,EC-156,Rosa Chacel
+146,Airbus A340-313,N746CS,Aero Capital Solutions (ACS),22 Mar 2017,Scrapped,2-CGLE,
+147,Airbus A340-313,B-HXD,Cathay Pacific,9 Dec 1997,Scrapped,VR-HXD,
+148,Airbus A330-341,PK-GPE,Garuda Indonesia,25 Feb 1997,Active,F-WWKD,
+149,Airbus A340-313,N149WC,Willis Lease,26 Jun 2013,Scrapped,A6-ERT,
+150,Airbus A340-313,HB-JMJ,Swiss,3 May 2007,Scrapped,C-FYKX,"Zug, lsf Castlelake"
+151,Airbus A340-213,5A-ONE,Libya Government,2 Sep 2013,Stored,HZ-WBT4,
+152,Airbus A340-313,3B-NAY,Air Mauritius,13 Nov 1996,Stored,F-WWJX,"Cardinal, lsf AerCap"
+153,Airbus A330-341,PK-GPF,Garuda Indonesia,19 Mar 1997,Active,F-WWKY,
+154,Airbus A340-313,HB-JMM,Swiss,4 Feb 2008,Scrapped,C-FYKZ,"Solothurn, lsf Castlelake"
+155,Airbus A330-342,B-HLI,Cathay Dragon,21 Nov 2016,Stored,VR-HLI,
+156,Airbus A340-212,SU-GBM,EgyptAir,22 Oct 2018,Stored,F-WWJK,
+,,,,,,,
+157,Airbus A340-313,B-HXE,Cathay Pacific,4 Nov 1997,Scrapped,VR-HXE,
+158,Airbus A340-313,D-AIGM,Lufthansa,28 Jan 1997,Stored,F-WWJN,Görlitz
+159,Airbus A340-212,SU-GBN,EgyptAir,22 Oct 2018,Stored,F-WWJV,
+160,Airbus A340-313,B-HXF,Cathay Pacific,11 Nov 1997,Scrapped,VR-HXF,
+161,Airbus A340-313,B-2383,China Eastern Airlines,12 Mar 1997,Scrapped,F-WWJQ,lsf ICBC
+162,Airbus A330-322,HL7550,Korean Air Lines,3 Mar 1997,Active,F-WWKK,
+163,Airbus A340-313,9H-AGJ,Hi Fly Malta,14 Jun 2017,Scrapped,EI-FXR,
+164,Airbus A340-313,EP-MMD,Mahan Airlines,5 May 2015,Active,YI-,
+165,Airbus A330-341,PK-GPG,Garuda Indonesia,14 Apr 1997,Stored,F-WWKL,
+166,Airbus A340-313,9H-AGK,Hi Fly Malta,13 Jul 2017,Scrapped,EI-GAB,
+167,Airbus A340-313,LN-RKP,SAS Scandinavian Airlines,5 Nov 2013,Stored,CC-CQG,Torfinn Viking
+168,Airbus A340-313,N6381S,Universal Asset Management,15 Dec 2015,Scrapped,OH-LQF,
+169,Airbus A340-313,HB-JMK,Swiss,17 Dec 2007,Scrapped,OE-LAK,"Aarau, lsf GOAL"
+170,Airbus A340-313,LV-FPU,Aerolineas Argentinas,23 Dec 2013,Stored,G-CHSJ,lsf Kahala Aviation Leasing
+171,Airbus A330-322,EI-ETI,I-Fly,5 Dec 2011,Scrapped,D-AERS,lsf Aircastle
+172,Airbus A330-322,HL7551,Korean Air Lines,30 May 1997,Stored,F-WWKI,
+173,Airbus A340-313,RP-C3430,Philippine Airlines,15 Jan 2008,Scrapped,F-OHPJ,
+174,Airbus A340-313,N537SK,Universal Asset Management,22 Dec 2015,Scrapped,OH-LQG,
+175,Airbus A340-313,2-HJMN,Airbus Financial Services (AFS),14 Jul 2016,Scrapped,HB-JMN,
+176,Airbus A340-313,RP-C3431,Philippine Airlines,30 Jul 2008,Stored,F-OHPK,
+177,Airbus A330-342,C-GCTS,Air Transat,1 Jul 2009,Stored,B-HYE,"002, lsf AerCap"
+178,Airbus A340-212,SU-GBO,EgyptAir,22 Oct 2018,Stored,F-WWJD,
+179,Airbus A340-313,2-HJMO,Airbus Financial Services (AFS),12 May 2016,Stored,HB-JMO,
+180,Airbus A340-313,2-AVRB,Avro Global,16 May 2019,Stored,TC-JDN,
+181,Airbus A330-223,CS-TOH,TAP - Air Portugal,20 Jun 2007,Scrapped,OE-LAO,"Nuno Gonçalves, Star Alliance cs"
+182,Airbus A340-313,B-2384,China Eastern Airlines,30 Jun 1997,Scrapped,F-WWJM,lsf ICBC
+183,Airbus A330-301,RP-C3330,Philippine Airlines,24 Jun 2008,Stored,F-OHZM,
+184,Airbus A330-301,RP-C3331,Philippine Airlines,10 Jun 2008,Scrapped,F-OHZN,
+185,Airbus A340-313,9H-FOX,Hi Fly Malta,2 Jun 2017,Stored,EI-GAC,lsf Castlelake
+186,Airbus A340-313,F-GLZJ,Air France,16 Sep 1997,Scrapped,,
+187,Airbus A340-313,RP-C3432,Philippine Airlines,11 Feb 2008,Scrapped,F-OHPL,
+188,Airbus A330-301,RP-C3332,Philippine Airlines,25 Mar 2008,Scrapped,F-OHZO,
+189,Airbus A330-301,RP-C3335,Philippine Airlines,15 Jul 2008,Scrapped,F-OHZQ,
+190,Airbus A340-313,CS-TQY,Hi Fly,2 Sep 2013,Active,A6-ERQ,lsf AerCap
+191,Airbus A330-301,RP-C3333,Philippine Airlines,4 Mar 2008,Scrapped,F-OHZP,
+192,Airbus A340-313,F-WJKH,Airbus Financial Services (AFS),Jan 2015,Scrapped,B-2385,
+193,Airbus A340-313,LV-FPV,Aerolineas Argentinas,12 Oct 2013,Stored,EC-GPB,"lsf Kahala Aviation Leasing, SkyTeam cs"
+194,Airbus A340-313,3B-NBD,Air Mauritius,22 Oct 1997,Active,F-WWJP,Parakeet
+195,Airbus A330-223,CS-TOI,TAP - Air Portugal,12 Jul 2007,Stored,OE-LAN,Damião de Góis
+196,Airbus A340-313,RP-C3434,Philippine Airlines,7 Jul 2008,Scrapped,F-OHPM,
+197,Airbus A340-313,ZS-SXH,South African Airways,29 Nov 2010,Stored,F-WJKP,
+198,Airbus A330-301,RP-C3336,Philippine Airlines,17 Jun 2008,Stored,F-OHZR,
+199,Airbus A340-313,YV3292,Avior Airlines,Sep 2016,Stored,F-WTDH,lsf Aircraft Engine Lease Finance
+200,Airbus A330-301,RP-C3337,Philippine Airlines,1 Jul 2008,Scrapped,F-OHZS,
+201,Airbus A340-313,F-WTDI,Airbus Financial Services (AFS),Aug 2016,Stored,F-WJKM,
+202,Airbus A340-313,CS-TQZ,Hi Fly,1 Dec 2014,Stored,A6-ERR,
+203,Airbus A330-301,RP-C3340,Philippine Airlines,20 Feb 2008,Scrapped,F-OHZT,
+204,Airbus A340-213,HZ-HMS2,Saudi Arabian Government,Dec 2010,Active,HZ-HMS,
+205,Airbus A330-202,EI-FAO,ILFC,19 Mar 2013,Scrapped,PK-YVJ,
+206,Airbus A330-322,HL7524,Korean Air Lines,24 Jan 1999,Stored,HL7552,
+207,Airbus A340-313,F-GLZK,Air France,26 Jun 2019,Stored,,
+208,Airbus A340-313,2-BHXG,European Aviation Group,12 Feb 2019,Stored,B-HXG,
+,,,,,,,
+209,Airbus A330-322,2-STEJ,AerCap,18 Oct 2017,Stored,HS-TEJ,
+210,Airbus A340-313,TF-EAB,Air Madagascar,19 Mar 2013,Stored,F-GLZL,"lsf Air France, opby Air Atlanta Icelandic"
+211,Airbus A330-202,CS-TQP,Hi Fly,8 Sep 2019,Active,N272LF,lsf AerCap
+212,Airbus A340-313,EC-MFA,Plus Ultra,2 Mar 2015,Stored,EC-MDG,"Virgen de la Guía - Portugalete, lsf Novus Aviation Capital"
+213,Airbus A340-313,D-AIGN,Lufthansa,12 Mar 1998,Stored,F-WWJM,"Solingen, Star Alliance cs"
+214,Airbus A340-313,G-VELD,Virgin Atlantic Airways,16 Mar 1998,Scrapped,F-WWJY,"African Queen, lsf AerCap"
+215,Airbus A340-313,EC-MFB,Plus Ultra,2 Mar 2015,Stored,A9C-LH,"Virgen de la Macarena - Portugalete, lsf Novus Aviation Capital"
+216,Airbus A340-313,N282AT,Apollo Aviation,27 Jun 2014,Scrapped,AP-EDE,
+217,Airbus A340-313,EC-GUP,Iberia,26 May 1998,Scrapped,F-WWJG,Agustina de Aragon
+218,Airbus A340-313,B-HXH,Cathay Pacific,31 Mar 1998,Scrapped,F-WWJT,
+219,Airbus A330-322,HL7525,Korean Air Lines,26 Jun 1998,Stored,F-WWKO,
+220,Airbus A340-313,B-HXI,Cathay Pacific,23 Jun 1998,Scrapped,F-WWJO,
+221,Airbus A340-313,EC-GUQ,Iberia,25 Jun 1998,Scrapped,F-WWJA,Beatriz Galindo
+222,Airbus A330-223,HL7538,Korean Air Lines,31 Aug 1998,Stored,F-WWKP,
+223,Airbus A330-223,CS-TOJ,TAP - Air Portugal,31 Jul 2007,Stored,OE-LAM,"D. Joao II, O Principe Perfeito, lsf Castlelake"
+224,Airbus A330-322,HS-TEK,Thai Airways International,30 Dec 1998,Stored,F-WWKD,Srichulak
+225,Airbus A340-313,G-VFAR,Virgin Atlantic Airways,12 Jun 1998,Scrapped,F-WWJZ,Molly
+226,Airbus A330-223,HL7539,Korean Air Lines,8 Sep 1998,Stored,F-WWKR,
+227,Airbus A340-313,B-HXJ,Cathay Pacific,28 Jul 1998,Scrapped,F-WWJL,
+228,Airbus A340-313,B-HXK,Cathay Pacific,6 Aug 1998,Scrapped,F-WWJI,
+229,Airbus A330-223,OO-SFY,Brussels Airlines,31 Jan 2012,Stored,HB-IQA,lsf Arena Aviation Capital
+230,Airbus A330-223,OY-GRN,Air Greenland,6 Aug 2002,Active,F-WIHL,Norsaq
+231,Airbus A330-322(F),EI-HEC,Air Hong Kong,18 Oct 2019,Active,D-AAEC,opby ASL Airlines Ireland
+232,Airbus A330-223,PT-MVA,TAM Linhas Aéreas,23 Aug 2006,Scrapped,A6-EYX,
+233,Airbus A340-313,D-AIGO,Lufthansa,7 Aug 1998,Stored,F-WWJJ,Offenbach
+234,Airbus A330-342,B-HYF,Cathay Dragon,21 Nov 2016,Stored,F-WWKF,
+235,Airbus A340-313,SX-DFA,Olympic Airlines,12 Dec 2003,Scrapped,F-WWJN,Olympia
+236,Airbus A340-313,9H-JAI,Hi Fly Malta,25 Jan 2020,Active,EI-GAD,lsf Castlelake
+237,Airbus A340-313,F-GLZM,Air France,23 Oct 1998,Scrapped,,
+238,Airbus A330-223,PT-MVB,TAM Linhas Aéreas,1 Apr 2005,Scrapped,A6-EYY,
+239,Airbus A340-313,SX-DFB,Olympic Airlines,12 Dec 2003,Scrapped,F-WWJC,Delphi
+240,Airbus A330-223,F-RARF,Armée de l'Air (French Air Force),4 Nov 2010,Active,F-ZWUG,
+241,Airbus A330-322,HL7540,Korean Air Lines,30 Nov 1998,Stored,F-WWKF,
+242,Airbus A340-313,PZ-TCR,Surinam Airways,23 Dec 2015,Stored,F-WJKN,lsf AFS
+243,Airbus A340-313,F-WJKO,Airbus Financial Services (AFS),Sep 2015,Stored,B-2389,
+244,Airbus A330-342,B-HLL,Cathay Dragon,21 Nov 2016,Stored,F-WWKG,lsf Arena Aviation Capital
+245,Airbus A340-313,F-GLZN,Air France,26 Jun 2019,Stored,,
+246,Airbus A340-313,F-GLZO,Air France,26 Jun 2019,Stored,,
+247,Airbus A330-223,PT-MVC,TAM Linhas Aéreas,22 Dec 1998,Scrapped,F-WWKH,
+248,Airbus A330-243,C-GJDA,Air Transat,8 May 2019,Stored,G-TCCF,106
+249,Airbus A330-223,OO-SFZ,Brussels Airlines,17 Feb 2012,Stored,HB-IQC,lsf Arena Aviation Capital
+250,Airbus A330-243,C-GGTS,Air Transat,8 Nov 2014,Stored,F-WWKK,"101, lsf AerCap"
+251,Airbus A330-243,C-GUFR,Air Transat,2 May 2019,Stored,G-TCCG,"107, lsf DAE Capital"
+252,Airbus A340-313,D-AIGP,Lufthansa,30 Dec 1998,Stored,F-WWJM,"opby Lufthansa CityLine, Star Alliance cs"
+253,Airbus A330-223,F-OFDF,Air Caraïbes,26 Jan 2004,Stored,HB-IQD,
+254,Airbus A330-243,G-MLJL,Thomas Cook Airlines,29 Nov 2012,Stored,F-WWKT,
+255,Airbus A330-223,LZ-AWA,Balkan Holidays Air (BH Air),4 Jun 2014,Scrapped,JY-JAJ,lsf AWAS
+256,Airbus A330-323,HL7554,Korean Air Lines,30 Aug 1999,Active,F-WWKN,
+257,Airbus A340-313,EP-IGA,Islamic Republic of Iran,Jun 2018,Active,EP-DAA,
+258,Airbus A330-223,HL7552,Korean Air Lines,12 Mar 1999,Stored,F-WWKQ,
+259,Airbus A330-223,PT-MVD,TAM Linhas Aéreas,26 Jul 2006,Scrapped,A6-EYB,
+260,Airbus A340-313,F-GLZP,Air France,26 Jun 2019,Stored,,
+,,,,,,,
+261,Airbus A330-243,EC-MNY,Wamos Air,16 Sep 2019,Active,G-GGEN,lsf Altavair AirFinance
+262,Airbus A330-223,CS-TQW,Hi Fly,16 Sep 2019,Stored,VN-A370,Turn the Tide on Plastic cs
+263,Airbus A340-313,HB-JML,Swiss,6 Aug 2007,Scrapped,OE-LAL,"Stans, lsf GOAL"
+264,Airbus A340-313,B-2390,Air China,3 Aug 2003,Stored,F-WWJY,
+265,Airbus A330-243,EC-MJS,Wamos Air,15 Sep 2019,Stored,G-EOMA,lsf Altavair AirFinance
+266,Airbus A330-243,G-MDBD,Thomas Cook Airlines,11 Dec 2011,Stored,F-WWKG,
+267,Airbus A330-323,HL7553,Korean Air Lines,4 Jun 1999,Active,F-WWKZ,
+268,Airbus A340-313,3B-NBE,Air Mauritius,16 Apr 1999,Active,F-WWJG,Paille en Queue
+269,Airbus A330-202,EI-LAX,Aer Lingus,29 Apr 1999,Stored,F-WWKV,St Mella / Mella
+270,Airbus A340-313,2-AVRC,Avro Global,16 May 2019,Stored,TC-JIH,
+271,Airbus A330-243,C-GITS,Air Transat,15 Apr 2019,Stored,OY-VKK,"102, lsf AerCap"
+272,Airbus A330-202,EI-DIR,Alitalia,13 Jan 2009,Stored,A6-EYV,"Filippo Brunelleschi, lsf Carlyle Aviation Partners, SkyTeam cs"
+273,Airbus A340-313,9M-XAB,AirAsia X,28 Nov 2013,Scrapped,C-GDVW,lsf ORIX Aviation
+274,Airbus A340-313,16+01,German Air Force,30 Mar 2011,Active,98+47,Konrad Adenauer
+275,Airbus A330-223,2-AERD,AerCap,20 Oct 2017,Scrapped,VN-A371,
+276,Airbus A330-243,A9C-KA,Gulf Air,10 Dec 2007,Scrapped,A4O-KA,501
+277,Airbus A330-343,C-GFAF,Air Canada,13 Jan 2000,Active,F-WWKO,931
+278,Airbus A340-313,YA-KMT,Kam Air,3 Feb 2017,Stored,N278TA,Parwiz
+279,Airbus A330-343,C-GFAH,Air Canada,15 Oct 1999,Active,F-WWYB,932
+280,Airbus A340-313,YK-AZB,Syrian Arab Airlines,16 Mar 2020,Active,UP-A4002,
+281,Airbus A330-243,A9C-KB,Gulf Air,7 Dec 2007,Scrapped,A4O-KB,"502, Bahrain F1 Grand Prix cs"
+282,Airbus A340-313,EP-MMC,Mahan Airlines,Aug 2014,Active,EX-34004,
+283,Airbus A330-243,EI-FNX,I-Fly,14 Jul 2017,Stored,A6-EKS,lsf DAE Capital
+284,Airbus A330-343,C-GFAJ,Air Canada,2 Nov 1999,Active,F-WWYA,933
+285,Airbus A330-243,F-HCAT,Corsair,30 Jun 1999,Stored,F-WWKB,lsf Carlyle Aviation Partners
+286,Airbus A330-243,A9C-KC,Gulf Air,6 Jan 2008,Scrapped,A4O-KC,503
+287,Airbus A330-243,A9C-KD,Gulf Air,19 Dec 2007,Stored,A4O-KD,504
+288,Airbus A330-223,OE-IGD,GECAS,19 Dec 2017,Stored,D-ABXA,
+289,Airbus A340-313,F-GLZQ,Air France,7 Sep 1999,Written Off,,
+290,Airbus A330-223,LV-FNI,Aerolineas Argentinas,3 Sep 2013,Stored,P4-TWM,lsf Carlyle Aviation Partners
+291,Airbus A330-223,OO-SFT,Brussels Airlines,31 Jan 2017,Stored,HB-IQI,lsf GECAS
+292,Airbus A340-313,EP-MMT,Mahan Airlines,Feb 2017,Stored,UP-A4003,
+293,Airbus A330-243,EI-FSE,I-Fly,22 Jun 2017,Stored,A6-EKT,lsf DAE Capital
+294,Airbus A330-223,VN-A372,Vietnam Airlines,19 Nov 2009,Scrapped,HB-IQJ,lsf GECAS
+295,Airbus A330-243,EI-FSF,I-Fly,May 2017,Stored,A6-EKU,lsf DAE Capital
+296,Airbus A330-223,LZ-AWP,DAE Capital,25 Jan 2018,Scrapped,UR-WRQ,
+297,Airbus A340-313,D-AIGS,Lufthansa,13 Oct 1999,Stored,F-WWJK,Bergisch-Gladbach
+298,Airbus A330-343,-,Airbus Industrie,,Not Built,,
+299,Airbus A330-223,VN-A374,Vietnam Airlines,10 Dec 2009,Scrapped,HB-IQK,lsf GECAS
+300,Airbus A330-223,LV-FNJ,Aerolineas Argentinas,7 Jun 2014,Stored,P4-DLK,lsf Castlelake
+301,Airbus A330-243,G-OMYT,Thomas Cook Airlines,11 Dec 2011,Stored,G-MOJO,
+302,Airbus A340-313,YA-KMU,Kam Air,6 Jun 2019,Stored,N302FH,
+303,Airbus A330-243,4R-ALA,SriLankan Airlines,26 Oct 1999,Active,F-WWYH,lsf Carlyle Aviation Partners
+304,Airbus A340-313,D-AIGT,Lufthansa,20 Dec 1999,Active,F-WWYJ,Viersen
+305,Airbus A330-223,CS-TOE,TAP - Air Portugal,28 Mar 2006,Scrapped,D-AIMA,Pedro Alvares Cabral
+306,Airbus A330-243,4R-ALB,SriLankan Airlines,15 Nov 1999,Active,F-WWYL,lsf Carlyle Aviation Partners
+307,Airbus A340-313,F-GLZR,Air France,10 Nov 1999,Scrapped,,
+308,Airbus A330-223,N308AE,AerSale Inc,10 Mar 2020,Stored,CS-TOF,
+309,Airbus A330-243,OY-VKF,Sunclass Airlines,31 Oct 2019,Stored,G-CSJS,
+310,Airbus A340-313,F-GLZS,Air France,23 Dec 1999,Stored,,
+311,Airbus A330-243,4R-ALC,SriLankan Airlines,10 Dec 1999,Active,F-WWYN,lsf Carlyle Aviation Partners
+312,Airbus A330-223,CS-TOG,TAP - Air Portugal,28 Apr 2006,Stored,D-ARNO,Bartolomeu de Gusmao
+,,,,,,,
+313,Airbus A330-243,OE-IKV,Carlyle Aviation Partners,18 Dec 2019,Stored,4R-ALD,
+314,Airbus A330-243,C-GUBF,Air Transat,9 Jan 2018,Stored,F-WTBA,110
+315,Airbus A330-323,N270AY,American Airlines,9 Dec 2013,Stored,N670UW,270
+316,Airbus A330-243,TC-OCL,Onur Air,1 Oct 2019,Active,2-RLAE,lsf Carlyle Aviation Partners
+317,Airbus A330-223,CS-TOK,TAP - Air Portugal,26 Sep 2007,Stored,OE-LAP,Padre Antonio Vieira
+318,Airbus A340-313,YA-KME,Kam Air,25 Apr 2018,Active,N318MK,
+319,Airbus A340-313,5R-EAA,Air Madagascar,29 Jun 2012,Stored,F-GLZT,lsf Air France
+320,Airbus A330-243,F-HBIL,Corsair,31 Mar 2000,Stored,,
+321,Airbus A340-313,D-AIGU,Lufthansa,18 Feb 2000,Active,F-WWJM,Castrop-Rauxel
+322,Airbus A330-223,G-VLNM,Virgin Atlantic Airways,11 May 2018,Stored,D-ABXB,"Strawberry Fields, lsf GA Telesis"
+323,Airbus A330-323,N271AY,American Airlines,9 Dec 2013,Stored,N671UW,271
+324,Airbus A330-223,OO-SFU,Brussels Airlines,26 Apr 2013,Stored,M-ABFL,lsf Aircastle
+325,Airbus A340-313,D-AIGV,Lufthansa,25 Feb 2000,Active,F-WWJN,"Dinslaken, Star Alliance cs"
+326,Airbus A330-243,SU-ALA,Air Leisure,27 Sep 2018,Stored,EI-FSG,lsf DAE Capital
+327,Airbus A340-313,D-AIGW,Lufthansa,10 Mar 2000,Stored,F-WWJO,"Gladbeck, opby Lufthansa CityLine, Star Alliance cs"
+328,Airbus A330-243,SU-ALB,CIAF Leasing,29 Dec 2019,Active,EI-FSH,lsf DAE Capital
+329,Airbus A340-313,EC-HGV,Iberia,11 Apr 2000,Scrapped,F-WWJP,Maria Guerrero
+330,Airbus A330-202,EI-EWR,AerCap,1 May 2020,Stored,9M-XAD,
+331,Airbus A340-313,2-AVRD,Avro Global,16 May 2019,Stored,TC-JII,
+332,Airbus A340-313,N332FY,80C2 Partners,8 Jul 2019,Stored,RP-C3437,
+333,Airbus A330-323,N272AY,American Airlines,9 Dec 2013,Stored,N672UW,"272, lsf Altavair AirFinance"
+334,Airbus A330-243,A9C-KE,Gulf Air,13 Dec 2007,Stored,A4O-KE,505
+335,Airbus A340-313,D-AIGY,Lufthansa,9 Oct 2019,Stored,OO-SCW,Dorsten
+336,Airbus A330-243,4R-ALE,SriLankan Airlines,28 Apr 2000,Written Off,F-WWKY,
+337,Airbus A330-323,N273AY,American Airlines,9 Dec 2013,Stored,N673UW,"273, lsf Carlyle Aviation Partners"
+338,Airbus A330-323,HL7584,Korean Air Lines,31 May 2000,Active,F-WWKP,
+339,Airbus A330-202,EI-DIP,Alitalia,13 Jan 2009,Active,A6-EYW,"Gian Lorenzo Bernini, lsf Castlelake"
+340,Airbus A330-243,A9C-KF,Gulf Air,3 Dec 2007,Stored,A4O-KF,"Aldafra, 506"
+341,Airbus A330-243,4R-ALF,SriLankan Airlines,15 Jun 2000,Written Off,F-WWYD,
+342,Airbus A330-323,N274AY,American Airlines,9 Dec 2013,Stored,N674UW,"274, lsf Carlyle Aviation Partners"
+343,Airbus A330-223,F-HHUB,Air Caraïbes Atlantique,24 Mar 2017,Active,F-WTAX,lsf Elevate Capital Partners
+344,Airbus A330-343,C-GFUR,Air Canada,30 Jun 2000,Stored,F-WWYC,"934, lsf ORIX Aviation"
+345,Airbus A330-243,TC-OCG,Onur Air,2 Jan 2019,Stored,F-WHUS,lsf AFS
+346,Airbus A330-323,HS-TEM,Thai Airways International,19 Jul 2000,Stored,F-WWYE,Jiraprabra
+347,Airbus A340-313,D-AIGZ,Lufthansa,8 Jun 2015,Active,F-WWJT,Villingen-Schwenningen
+348,Airbus A330-243,9H-NAW,Aerotron,Mar 2019,Scrapped,HC-COH,
+349,Airbus A330-343,OY-VKG,Sunclass Airlines,31 Oct 2019,Active,F-WWYG,
+350,Airbus A330-323,HL7585,Korean Air Lines,26 Jul 2000,Active,F-WWYF,
+351,Airbus A330-323,HL7586,Korean Air Lines,10 Aug 2000,Stored,F-WWYH,
+352,Airbus A340-313,D-AIFA,Lufthansa,25 Aug 2000,Written Off,F-WWJU,"Dorsten, opby Lufthansa CityLine, Star Alliance cs"
+353,Airbus A330-223,TC-OCE,Onur Air,23 Oct 2018,Stored,G-CINP,lsf Carlyle Aviation Partners
+354,Airbus A340-313,D-AIGX,Lufthansa,25 Jun 2019,Active,OO-SCX,Rheine
+355,Airbus A340-313,16+02,German Air Force,4 Jul 2011,Active,D-AIFB,Theodor Heuss
+356,Airbus A330-343,OY-VKH,Sunclass Airlines,31 Oct 2019,Stored,F-WWYJ,
+357,Airbus A330-343,OY-VKI,Sunclass Airlines,31 Oct 2019,Active,C-GVKI,lsf GKL
+358,Airbus A330-223,LV-FNK,Aerolineas Argentinas,25 Nov 2013,Stored,EI-CXF,lsf DVB Bank
+359,Airbus A340-313,CC-CQA,LAN Airlines,8 Sep 2004,Scrapped,F-WWJY,
+360,Airbus A340-642,F-WWCA,Airbus Industrie,23 Apr 2001,Preserved,F-WWTA,001
+361,Airbus A330-223,PT-MVE,TAM Linhas Aéreas,19 Oct 2006,Stored,A6-EYA,
+362,Airbus A330-223,N137AR,Wyatt Aerospace,6 Apr 2020,Stored,TC-OCF,
+363,Airbus A340-313,CC-CQC,LAN Airlines,8 Sep 2004,Scrapped,F-WWJZ,
+364,Airbus A330-223,LV-FNL,Aerolineas Argentinas,20 Dec 2013,Stored,EI-CXG,lsf Carlyle Aviation Partners
+,,,,,,,
+365,Airbus A330-243,PR-AIY,Azul Linhas Aéreas Brasileiras,30 Nov 2017,Active,CS-TOS,"Don't Worry Be Azul, lsf Deucalion Aviation Funds"
+366,Airbus A330-223,N366SA,Apollo Aviation,30 Jul 2018,Stored,VN-A375,
+367,Airbus A340-312,9H-SUN,Hi Fly Malta,9 Sep 2018,Active,4R-ADE,lsf Castlelake
+368,Airbus A330-323,HL7587,Korean Air Lines,29 Nov 2000,Stored,F-WWKF,lsf AAR Corporation
+369,Airbus A330-243,C-GTSN,Air Transat,1 Apr 2017,Stored,HB-IQZ,"104, lsf Avolon"
+370,Airbus A330-323,N275AY,American Airlines,9 Dec 2013,Stored,N675US,"275, lsf Carlyle Aviation Partners"
+371,Airbus A340-642,EP-MME,Mahan Airlines,30 Aug 2015,Stored,YI-NAA,
+372,Airbus A330-243,PR-AIX,Azul Linhas Aéreas Brasileiras,Jun 2017,Stored,CS-TOT,"I ♥ Azul, lsf DVB Bank"
+373,Airbus A340-313,N373UA,Unical Aviation,19 Oct 2017,Scrapped,LV-CSX,
+374,Airbus A340-312,9H-BIG,AIR X Charter,16 Sep 2016,Active,M-VVIP,lsf Avmax Group
+375,Airbus A330-323,N276AY,American Airlines,9 Dec 2013,Stored,N676UW,"276, lsf Carlyle Aviation Partners"
+376,Airbus A340-642,EP-MMF,Mahan Airlines,19 Aug 2015,Stored,YI-NAB,
+377,Airbus A340-313,F-GLZU,Air France,15 Dec 2000,Scrapped,,
+378,Airbus A340-313,ZS-SXG,South African Airways,27 Oct 2010,Stored,F-WJKF,lsf AFS
+379,Airbus A340-313,D-AIFC,Lufthansa,26 Jan 2001,Stored,F-WWJJ,Gander/Halifax
+380,Airbus A330-323,N277AY,American Airlines,9 Dec 2013,Stored,N677UW,277
+381,Airbus A340-312,YK-AZA,Syrian Arab Airlines,Feb 2017,Active,TT-WAG,
+382,Airbus A330-243,A6-EAD,Emirates,26 Jan 2001,Scrapped,F-WWYR,
+383,Airbus A340-642,EP-MMG,Mahan Airlines,10 Sep 2015,Stored,YI-NAC,
+384,Airbus A330-243,A6-EAE,Emirates,31 Jan 2001,Scrapped,F-WWYS,
+385,Airbus A340-313,F-OJGF,Air Tahiti Nui,28 Dec 2001,Scrapped,F-WWJC,Mangareva
+386,Airbus A330-343,B-HLM,Cathay Dragon,30 Jul 2019,Active,F-WWYT,
+387,Airbus A340-313,YA-KMH,Kam Air,13 Jul 2018,Active,N387MR,
+388,Airbus A330-323,N278AY,American Airlines,9 Dec 2013,Stored,N678US,278
+389,Airbus A330-343,B-HLN,Cathay Dragon,25 Oct 2019,Active,F-WWYV,
+390,Airbus A340-313,D-AIFD,Lufthansa,16 Mar 2001,Stored,F-WWJE,Gießen
+391,Airbus A340-642,EP-MMH,Mahan Airlines,5 May 2015,Active,9H-TEP,
+392,Airbus A330-243,SU-ALC,Air Leisure,17 Oct 2018,Stored,EI-FSI,lsf DAE Capital
+393,Airbus A330-343,B-HLO,Cathay Dragon,10 Jan 2020,Active,F-WWYY,lsf Arena Aviation Capital
+394,Airbus A340-541,A6-ERF,Emirates,30 Jul 2004,Scrapped,F-WWTE,
+395,Airbus A340-313,F-OJTN,Air Tahiti Nui,18 Jan 2002,Stored,C-GZIA,"Bora Bora, lsf AerCap"
+396,Airbus A330-243,B-LHA,Hong Kong Airlines,12 Feb 2018,Stored,OE-IEG,lsf Avolon
+397,Airbus A330-202,EI-DAA,Aer Lingus,17 Apr 2001,Stored,F-WWKK,St Keeva / Caoimhe
+398,Airbus A330-243,N839AG,Aviation Capital Group (ACG),15 May 2020,Stored,G-CHTZ,
+399,Airbus A340-313,EC-MQM,Plus Ultra,21 Jun 2017,Active,F-GNII,Santa María Portugalete
+400,Airbus A330-343,C-GHKR,Air Canada,16 May 2001,Active,F-WWKM,935
+401,Airbus A330-243,G-WWBD,bmi British Midland,10 May 2007,Scrapped,F-WWKN,lsf Novus Aviation Capital
+402,Airbus A340-313,N402XA,AerSale Inc,18 Apr 2018,Scrapped,B-18801,
+403,Airbus A330-223,G-VMNK,Virgin Atlantic Airways,2 Feb 2018,Stored,D-ALPA,"Daydream Believer, lsf BBAM"
+404,Airbus A330-243,TC-OCK,Onur Air,21 Mar 2020,Stored,4R-ALG,lsf AerCap
+405,Airbus A330-343,B-HYG,Cathay Dragon,21 Nov 2016,Active,F-WWKQ,
+406,Airbus A340-313,3DC-SDF,Kingdom of Swaziland,12 Apr 2018,Active,B-18802,
+407,Airbus A330-343,C-GTSD,Air Transat,2 May 2017,Stored,TC-SGJ,"004, lsf AerCap"
+408,Airbus A330-343,C-GHKW,Air Canada,19 Jun 2001,Stored,F-WWKS,936
+409,Airbus A330-243,JY-JVA,Jordan Aviation,6 Sep 2016,Active,2-RLAI,
+410,Airbus A340-642,ZS-SNA,South African Airways,24 Dec 2002,Stored,F-WWCE,
+411,Airbus A340-313,N411XA,AerSale Inc,18 Apr 2018,Stored,B-18803,
+412,Airbus A330-343,C-GHKX,Air Canada,28 Jun 2001,Active,F-WWKU,937
+413,Airbus A340-313,LN-RKF,SAS Scandinavian Airlines,28 Nov 2001,Stored,SE-REA,Godfred Viking
+414,Airbus A340-313,EC-LKS,Iberia,3 Mar 2011,Scrapped,OE-IAN,"Plácido Domingo, lsf GECAS"
+415,Airbus A340-313,N415XA,AerSale Inc,18 Apr 2018,Stored,B-18805,
+416,Airbus A340-642,EP-MMI,Mahan Airlines,5 May 2015,Active,YI-NAD,
+,,,,,,,
+417,Airbus A340-642,ZS-SNB,South African Airways,20 Dec 2002,Stored,F-WWCG,
+418,Airbus A330-343,B-HLP,Cathay Pacific,10 Aug 2001,Active,F-WWKV,
+419,Airbus A330-343,C-GHLM,Air Canada,16 Aug 2001,Stored,F-WWYA,"938, Star Alliance cs"
+420,Airbus A330-343,B-HLQ,Cathay Pacific,31 Aug 2001,Active,F-WWYB,
+421,Airbus A330-343,B-HLR,Cathay Pacific,28 Sep 2001,Active,F-WWYC,
+422,Airbus A330-203,F-GZCA,Air France,20 Dec 2001,Stored,,
+423,Airbus A330-343,B-HLS,Cathay Pacific,5 Oct 2001,Active,F-WWYD,
+424,Airbus A340-313,LN-RKG,SAS Scandinavian Airlines,30 Nov 2001,Stored,SE-REB,Gudrod Viking
+425,Airbus A330-323,OK-YBA,Czech Airlines (CSA),14 May 2013,Stored,HL7701,lsf Korean Air Lines
+426,Airbus A340-642,ZS-SNC,South African Airways,11 Feb 2003,Active,F-WWCH,Star Alliance cs
+427,Airbus A330-243,C-GTSI,Air Transat,8 Apr 2019,Stored,OK-GBB,"105, lsf Zephyrus Aviation Capital"
+428,Airbus A330-323,HL7702,Korean Air Lines,25 Oct 2001,Active,F-WWYF,
+429,Airbus A340-313,CC-CQE,LAN Airlines,8 Sep 2004,Scrapped,F-WWJO,
+430,Airbus A340-313,OY-KBI,SAS Scandinavian Airlines,15 Nov 2001,Stored,F-WWJR,Rurik Viking
+431,Airbus A340-642,EC-INO,Iberia,24 Jun 2003,Stored,F-WWCI,Gaudí
+432,Airbus A330-223,G-VMIK,Virgin Atlantic Airways,29 Jan 2018,Stored,D-ALPB,"Honky Tonk Woman, lsf DVB Bank"
+433,Airbus A340-313,B-18806,China Airlines,31 Oct 2001,Stored,F-WWJS,
+434,Airbus A340-313,D-AIFE,Lufthansa,29 Oct 2001,Stored,F-WWJT,"Passau, opby Lufthansa CityLine, Star Alliance cs"
+435,Airbus A340-313,OY-KBA,SAS Scandinavian Airlines,16 Nov 2001,Stored,F-WWJU,Adalstein Viking
+436,Airbus A340-642,N711LF,AerCap,14 Nov 2014,Scrapped,B-6508,
+437,Airbus A330-243,TC-OCH,Saudi Arabian Airlines,29 Mar 2016,Written Off,F-WJKF,lsf Onur Air
+438,Airbus A340-313,F-OSEA,Air Tahiti Nui,27 Dec 2002,Stored,F-WWJV,Rangiroa
+439,Airbus A330-343,B-HLT,Cathay Dragon,3 Sep 2019,Active,F-WWYJ,
+440,Airbus A340-642,EC-IOB,Iberia,27 Aug 2003,Stored,F-WWCL,Julio Romero de Torres
+441,Airbus A330-202,EI-GEY,Aer Lingus,6 Apr 2018,Stored,A7-ACH,"St Benan / Beineón, lsf Castlelake"
+442,Airbus A340-313,CC-CQF,LAN Airlines,8 Sep 2004,Scrapped,F-WWJY,
+443,Airbus A330-203,F-GZCB,Air France,17 Dec 2001,Stored,,lsf ALC
+444,Airbus A330-223,F-HTIC,Aigle Azur,14 Jun 2018,Stored,EI-GFD,lsf AerCap
+445,Airbus A340-541,PT-MSN,TAM Linhas Aéreas,13 Nov 2007,Scrapped,C-GKOL,lsf Air Canada
+446,Airbus A340-313,F-OSUN,Air Tahiti Nui,27 Dec 2002,Scrapped,F-WWJA,Moorea
+447,Airbus A340-313,D-AIFF,Lufthansa,21 Dec 2001,Stored,F-WWJB,"Delmenhorst, opby Lufthansa CityLine, Star Alliance cs"
+448,Airbus A330-203,F-GZCC,Air France,29 Jan 2002,Stored,,lsf AAR Corporation
+449,Airbus A340-642,EP-MMQ,Mahan Airlines,5 May 2015,Stored,YI-NAE,
+450,Airbus A340-313,OY-KBM,SAS Scandinavian Airlines,19 Jan 2012,Stored,F-WWJD,"Astrid Viking, Star Alliance cs"
+451,Airbus A330-243,P4-MLO,Comlux Aruba,May 2019,Active,9H-CLX,
+452,Airbus A330-243,B-LHB,Hong Kong Airlines,18 Jun 2018,Stored,OE-IFL,lsf Avolon
+453,Airbus A340-642,N171LF,AerCap,8 Oct 2014,Scrapped,B-6509,
+454,Airbus A330-223,EC-MTT,Wamos Air,5 Mar 2018,Active,EI-GFE,lsf AerCap
+455,Airbus A330-243,C-GUBH,Air Transat,18 Sep 2017,Stored,F-WTAX,"111, lsf Aircraft Engine Lease Finance"
+456,Airbus A330-243,4R-ALJ,SriLankan Airlines,9 Mar 2012,Stored,G-OJMC,lsf ALC
+457,Airbus A340-541,F-WHUG,Airbus Financial Services (AFS),1 Dec 2014,Stored,A6-ERA,
+458,Airbus A330-203,F-GZCD,Air France,19 Mar 2002,Stored,F-WWKI,lsf Carlyle Aviation Partners
+459,Airbus A340-313,EC-NBU,Plus Ultra,3 Apr 2019,Active,OE-IAL,
+460,Airbus A340-642,EC-IQR,Iberia,6 Oct 2003,Stored,F-WWCO,Salvador Dalí
+461,Airbus A330-243,EC-LVL,Air Europa,30 Apr 2013,Stored,EC-LKE,"Ramon Llull, lsf Avolon"
+462,Airbus A330-243,PR-AIW,Azul Linhas Aéreas Brasileiras,11 Dec 2014,Stored,2-LYSE,"Welcome to Azul, lsf AerCap"
+463,Airbus A330-203,EI-DDU,GECAS,31 Aug 2017,Stored,TC-JNF,
+464,Airbus A340-541,D-AAAL,European Aviation Group,28 Feb 2018,Stored,PT-MSL,
+465,Airbus A330-203,F-GZCE,Air France,28 Mar 2002,Stored,F-WWKM,lsf Castlelake
+466,Airbus A330-203,N478DM,Aircraft Engine Lease Finance,24 Oct 2019,Stored,PT-MVF,
+467,Airbus A340-313,OY-KBC,SAS Scandinavian Airlines,10 Apr 2002,Stored,F-WWJE,Freydis Viking
+468,Airbus A340-642,D-AAAU,European Aviation Group,28 Feb 2019,Scrapped,B-6050,
+,,,,,,,
+469,Airbus A330-223,EC-MTU,Wamos Air,9 Apr 2018,Stored,EI-GFF,lsf AerCap
+470,Airbus A340-313,OY-KBD,SAS Scandinavian Airlines,29 Apr 2002,Active,F-WWJF,Toste Viking
+471,Airbus A340-541,F-WXAE,Airbus Financial Services (AFS),5 Apr 2015,Stored,A6-ERB,
+472,Airbus A330-203,EI-GEW,I-Fly,4 Aug 2018,Stored,PT-MVG,lsf CDB Aviation
+473,Airbus A330-202,9H-AGP,Castlelake,12 Nov 2019,Stored,A7-ACA,
+474,Airbus A340-313,N474JS,80C2 Partners,7 Nov 2019,Stored,RP-C3441,
+475,Airbus A340-642,N371LF,AerCap,23 May 2014,Scrapped,B-6510,
+476,Airbus A330-223,G-VWND,Virgin Atlantic Airways,23 Mar 2018,Stored,D-ALPF,"Scarlet o'Hara, lsf DVB Bank"
+477,Airbus A330-203,CS-TOQ,TAP - Air Portugal,4 Jun 2014,Stored,PT-MVH,"Pedro Teixeira, lsf GECAS"
+478,Airbus A340-541,F-WJKJ,Airbus Financial Services (AFS),10 Jan 2014,Stored,9V-SGC,
+479,Airbus A330-343,B-HYI,Cathay Dragon,21 Nov 2016,Active,F-WWKU,
+480,Airbus A330-243,C-GPTS,Air Transat,20 Nov 2013,Stored,F-WWKV,"Barbara Stewart, 103, lsf AerCap"
+481,Airbus A330-203,F-GZCF,Air France,28 Jun 2002,Stored,,lsf AerCap
+482,Airbus A340-642,D-AIHA,Lufthansa,23 Dec 2003,Stored,F-WWCS,lsf Mitsui Bussan Aerospace
+483,Airbus A340-313,9H-SOL,Hi Fly Malta,26 Feb 2018,Active,T7-MAN,
+484,Airbus A330-323,HL7709,Korean Air Lines,8 Aug 2002,Active,F-WWKD,
+485,Airbus A340-541,F-WHUH,Airbus Financial Services (AFS),8 Dec 2014,Stored,A6-ERC,
+486,Airbus A330-203,CS-TOR,TAP - Air Portugal,24 Apr 2014,Stored,PT-MVK,"Bartolomeu Dias, lsf GECAS"
+487,Airbus A330-202,A7-HJJ,Qatar Amiri Flight,27 Aug 2002,Active,F-WWYM,Musheireb
+488,Airbus A340-642,D-AAAV,European Aviation Group,28 Feb 2019,Scrapped,B-6051,
+489,Airbus A330-202,9H-PTN,Luke Air,7 Mar 2020,Stored,EI-GGN,lsf Castlelake
+490,Airbus A330-323,HL7710,Korean Air Lines,4 Oct 2002,Stored,F-WWKF,
+491,Airbus A330-243,TC-OCM,Onur Air,19 Mar 2020,Stored,OE-IEQ,lsf Bellinger Aviation Services
+492,Airbus A340-541,F-WJKK,Airbus Financial Services (AFS),10 Jan 2014,Stored,9V-SGA,
+493,Airbus A330-223,F-HUNO,Air Caraïbes,4 Dec 2019,Stored,F-HTAC,lsf FTAI
+494,Airbus A330-243,PR-AIU,Azul Linhas Aéreas Brasileiras,23 Sep 2015,Active,EI-EYO,"Red, White and Azul, lsf Avolon, Azul Viagens cs"
+495,Airbus A340-541,A7-HHH,Qatar Amiri Flight,15 Sep 2003,Active,F-WWTQ,Qatar
+496,Airbus A330-343,LN-RKM,SAS Scandinavian Airlines,16 Oct 2012,Stored,OY-KBN,Eystein Viking
+497,Airbus A330-343,LN-RKH,SAS Scandinavian Airlines,1 Oct 2002,Stored,F-WWYP,"Emund Viking, lsf Aviator Capital"
+498,Airbus A330-203,F-GZCG,Air France,20 Dec 2002,Stored,F-WWKI,
+499,Airbus A340-541,F-WJKL,Airbus Financial Services (AFS),8 Jan 2014,Stored,9V-SGB,
+500,Airbus A330-203,F-GZCH,Air France,18 Oct 2002,Stored,,lsf DVB Bank
+501,Airbus A330-243,TC-OCV,Onur Air,9 Apr 2020,Active,F-GRSQ,lsf AerCap
+502,Airbus A330-203,F-GZCI,Air France,20 Dec 2002,Stored,F-WWKJ,
+503,Airbus A330-203,F-GZCJ,Air France,22 Nov 2002,Stored,,lsf DVB Bank
+504,Airbus A330-203,D-AXGG,Eurowings,10 Nov 2017,Stored,TC-JNG,"lsf GECAS, opby SunExpress Germany"
+505,Airbus A330-243,EC-LQO,Air Europa,24 Apr 2012,Stored,5B-DBS,lsf Carlyle Aviation Partners
+506,Airbus A330-202,VH-EBC,Qantas,21 Jul 2014,Stored,F-WWYU,Surfers Paradise
+507,Airbus A330-202,2-FOHS,GA Telesis,21 Oct 2019,Stored,F-OHSD,
+508,Airbus A330-202,VH-EBA,Qantas,24 Aug 2014,Stored,F-WWKM,Cradle Mountain
+509,Airbus A330-243,TC-OCK,Onur Air,20 Mar 2020,Stored,TC-OCN,lsf Bellinger Aviation Services
+510,Airbus A330-202,2-OJSE,GA Telesis,29 Apr 2020,Stored,F-OJSE,
+511,Airbus A330-202,EI-GGO,Air Italy,3 Sep 2018,Stored,A7-ACC,lsf Castlelake
+512,Airbus A330-343,B-HYJ,Cathay Dragon,21 Nov 2016,Stored,F-WWYR,
+513,Airbus A330-202,VH-EBD,Qantas,4 Sep 2014,Stored,F-WWYV,Traralgon
+514,Airbus A340-642,D-AAAZ,European Aviation Group,26 Sep 2018,Stored,B-6052,
+515,Airbus A330-343,LN-RKO,SAS Scandinavian Airlines,11 Jan 2013,Stored,SE-REE,Sigrid Viking
+516,Airbus A330-203,F-GZCK,Air France,4 Mar 2003,Stored,,lsf AerCap
+517,Airbus A340-642,D-AIHB,Lufthansa,25 Nov 2003,Stored,F-WWCR,Bremerhaven
+518,Airbus A330-243,C-GUBC,Air Transat,13 Jul 2017,Stored,F-WTAY,"108, lsf Aircraft Engine Lease Finance"
+519,Airbus A330-203,F-GZCL,Air France,24 Mar 2003,Active,,lsf AerCap
+520,Airbus A340-541,2-RLBC,Global Aviation,7 Nov 2018,Stored,F-WHUJ,
+,,,,,,,
+521,Airbus A330-202,EI-GGP,Air Italy,1 Jun 2018,Stored,A7-ACD,lsf Castlelake
+522,Airbus A330-202,VH-EBB,Qantas,29 May 2014,Stored,F-WWYQ,Albany
+523,Airbus A340-642,D-AIHC,Lufthansa,8 Dec 2003,Stored,F-WWCV,lsf Mitsui Bussan Aerospace
+524,Airbus A330-323,N801NW,Delta Air Lines,29 Oct 2008,Stored,F-WWYZ,3301
+525,Airbus A330-243,TC-OCO,Onur Air,21 Mar 2020,Stored,OE-IER,lsf Bellinger Aviation Services
+526,Airbus A330-243,EC-LQP,Air Europa,11 Apr 2012,Stored,5B-DBT,"lsf Aircastle, Skyteam cs"
+527,Airbus A330-243,PR-AIZ,Azul Linhas Aéreas Brasileiras,1 Jul 2014,Stored,EI-FEL,"América Azul, lsf AerCap"
+528,Airbus A340-313,A7-AAH,Qatar Amiri Flight,6 Aug 2007,Active,B-18851,
+529,Airbus A330-243,PR-AIT,Azul Linhas Aéreas Brasileiras,23 Jun 2015,Stored,2-CJNV,"Big Blue Bus, lsf Carlyle Aviation Partners, Tudo Azul cs"
+530,Airbus A330-203,D-AXGA,Eurowings,30 Sep 2015,Stored,B-16301,"lsf GECAS, opby SunExpress Germany, Cuba cs"
+531,Airbus A340-642,ZS-SND,South African Airways,7 Nov 2003,Active,F-WWCX,
+532,Airbus A330-243,PR-AIV,Azul Linhas Aéreas Brasileiras,13 Aug 2014,Stored,EI-FFR,"Nação Azul, lsf AerCap, Brazilian Flag cs"
+533,Airbus A330-323,N802NW,Delta Air Lines,29 Oct 2008,Stored,F-WWYD,3302
+534,Airbus A340-642,ZS-SNE,South African Airways,18 Nov 2003,Stored,F-WWCY,lsf AerCap
+535,Airbus A330-203,OE-IFW,Genesis Aircraft Services,27 Aug 2018,Stored,VP-BDV,
+536,Airbus A330-243,C-GUBD,Air Transat,12 May 2017,Stored,F-WTBF,"109, lsf Aircraft Engine Lease Finance"
+537,Airbus A340-642,D-AIHD,Lufthansa,16 Dec 2003,Stored,F-WWCZ,lsf Mitsui Bussan Aerospace
+538,Airbus A340-313,HB-JMA,Swiss,30 Jun 2003,Stored,F-WWJJ,Frauenfeld
+539,Airbus A330-343,B-HLU,Cathay Pacific,8 Sep 2003,Stored,F-WWYG,oneworld cs
+540,Airbus A340-642,D-AIHE,Lufthansa,16 Jan 2004,Stored,F-WWCF,Leverkusen
+541,Airbus A340-313,B-18807,China Airlines,11 Jul 2003,Stored,F-WWJK,
+542,Airbus A330-323,N803NW,Delta Air Lines,29 Oct 2008,Active,F-WWYH,3303
+543,Airbus A340-642,D-AIHF,Lufthansa,6 Feb 2004,Stored,F-WWCE,Lübeck
+544,Airbus A340-313,ZS-SXA,South African Airways,8 Mar 2004,Stored,F-WWJS,
+545,Airbus A340-313,HB-JMB,Swiss,26 Sep 2003,Active,F-WWJL,Zürich
+546,Airbus A340-313,HB-JMC,Swiss,6 Oct 2003,Active,F-WWJM,Basel
+547,Airbus A340-642,ZS-SNF,South African Airways,28 Jan 2004,Active,F-WWCI,
+548,Airbus A330-343,B-HLV,Cathay Pacific,26 Sep 2003,Stored,F-WWYI,
+549,Airbus A330-323,N804NW,Delta Air Lines,29 Oct 2008,Active,F-WWYJ,3304
+550,Airbus A330-323,HL7720,Korean Air Lines,15 Oct 2003,Stored,F-WWKP,
+551,Airbus A330-243,EC-LNH,Wamos Air,1 Aug 2017,Stored,EI-EON,lsf AerCap
+552,Airbus A330-323,N805NW,Delta Air Lines,29 Oct 2008,Stored,F-WWKQ,3305
+553,Airbus A330-303,VH-QPA,Qantas,26 Nov 2003,Active,F-WWKS,Kununurra
+554,Airbus A340-313,A9C-LI,Gulf Air,13 Nov 2007,Scrapped,A4O-LI,lsf BCC
+555,Airbus A330-203,D-AXGC,Eurowings,13 Apr 2016,Stored,B-16303,"lsf GECAS, opby SunExpress Germany"
+556,Airbus A340-313,HB-JMD,Edelweiss Air,14 Sep 2018,Stored,F-WWJN,Glacier 3000
+557,Airbus A340-642,ZS-SNG,South African Airways,28 Jan 2004,Active,F-WWCG,
+558,Airbus A330-303,VH-QPB,Qantas,12 Dec 2003,Active,F-WWYO,Tennant Creek
+559,Airbus A340-313,HB-JME,Edelweiss Air,19 Feb 2018,Stored,F-WWJP,Pilatus
+560,Airbus A340-541,VP-BMS,Las Vegas Sands Corporation,5 Jul 2014,Active,F-WJKM,
+561,Airbus A340-313,HB-JMF,Edelweiss Air,Mar 2017,Stored,F-WWJQ,Belalp
+562,Airbus A340-313,HB-JMG,Edelweiss Air,1 Oct 2016,Stored,F-WWJR,Melchsee-Frutt
+563,Airbus A340-541,T7-SAU,Private,22 May 2014,Stored,F-WJKN,
+564,Airbus A330-303,VH-QPC,Qantas,22 Jan 2004,Active,F-WWYQ,Broken Hill
+565,Airbus A330-343,B-HLW,Cathay Pacific,12 Dec 2003,Stored,F-WWYR,
+566,Airbus A340-642,D-AIHH,Lufthansa,12 Mar 2004,Stored,F-WWCJ,Wiesbaden
+567,Airbus A330-203,F-GZCM,Air France,30 Jan 2004,Stored,F-WWYT,
+568,Airbus A330-343,LN-RKN,SAS Scandinavian Airlines,13 Nov 2012,Stored,SE-REF,Erik Viking
+569,Airbus A340-642,D-AIHI,Lufthansa,27 Apr 2004,Stored,F-WWCB,Mönchengladbach
+570,Airbus A330-343,OO-SFK,Eurowings,1 Apr 2019,Stored,D-AIKA,opby Brussels Airlines
+571,Airbus A330-202,EI-GFX,Air Italy,4 May 2018,Stored,A7-ACE,lsf Castlelake
+572,Airbus A340-541,A6-ERE,Emirates,21 May 2004,Stored,F-WWTV,
+,,,,,,,
+573,Airbus A330-203,D-AXGD,Eurowings,13 May 2016,Stored,B-16305,"lsf GECAS, opby SunExpress Germany"
+574,Airbus A330-303,VH-QPD,Qantas,27 Oct 2004,Active,F-WWYU,Port Macquarie
+575,Airbus A340-642,N575UA,Unical Aviation,26 May 2016,Scrapped,G-VEIL,
+576,Airbus A330-343,D-AIKB,Lufthansa,19 Mar 2004,Stored,F-WWKN,Cuxhaven
+577,Airbus A340-642,D-AAAR,Boeing Aircraft Holding Company,Jul 2015,Stored,B-6053,
+578,Airbus A330-323,N806NW,Delta Air Lines,29 Oct 2008,Active,F-WWKD,3306
+579,Airbus A330-343,OO-SFL,Eurowings,3 Jul 2019,Stored,D-AIKC,opby Brussels Airlines
+580,Airbus A340-642,D-AIHK,Lufthansa,5 May 2004,Stored,F-WWCN,Mainz
+581,Airbus A330-343,B-HYQ,Cathay Dragon,21 Nov 2016,Active,F-WWKK,lsf AerCap
+582,Airbus A340-313,ZS-SXB,South African Airways,7 Apr 2004,Stored,F-WWJT,
+583,Airbus A340-642,D-AIHL,Lufthansa,28 May 2004,Stored,F-WWCQ,
+584,Airbus A330-203,F-GZCN,Air France,30 Mar 2004,Stored,,lsf AerCap
+585,Airbus A340-313,HB-JMH,Swiss,28 Apr 2004,Stored,F-WWJV,Chur
+586,Airbus A340-642,D-AAAS,European Aviation Group,7 Dec 2017,Stored,B-6055,
+587,Airbus A330-203,LV-GKO,Aerolineas Argentinas,12 Sep 2016,Stored,N587CC,lsf Aircastle
+588,Airbus A330-323,N807NW,Delta Air Lines,29 Oct 2008,Active,F-WWKM,3307
+589,Airbus A340-642,ZS-SNJ,South African Airways,,Not Built,F-WWCT,
+590,Airbus A340-313,ZS-SXC,South African Airways,27 Apr 2004,Stored,F-WWJY,
+591,Airbus A330-323,N808NW,Delta Air Lines,29 Oct 2008,Active,F-WWKO,3308
+592,Airbus A340-642,C-GKOO,Air Canada,,Not Built,F-WWCU,
+593,Airbus A330-303,VH-QPE,Qantas,28 Jun 2004,Active,F-WWKP,Port Lincoln
+595,Airbus A330-303,VH-QPF,Qantas,18 Jun 2004,Active,F-WWKR,Esperance
+597,Airbus A330-243,F-HXXL,XL Airways France,16 Jun 2017,Stored,EC-LMN,lsf Aviator Capital
+598,Airbus A340-313,HB-JMI,Swiss,22 Jun 2004,Active,F-WWJX,Schaffhausen
+600,Airbus A330-243(P2F),SU-GCE,EgyptAir Cargo,4 Aug 2018,Active,F-WWYK,
+601,Airbus A340-642,EC-IZX,Iberia,6 Oct 2004,Stored,F-WWCS,Mariano Benlliure
+602,Airbus A330-302,B-18301,China Airlines,29 Jun 2004,Stored,F-WWYM,lsf Altavair AirFinance
+603,Airbus A330-303,VH-QPG,Qantas,22 Jul 2004,Active,F-WWYN,Mt. Gambier
+604,Airbus A340-642,EC-IZY,Iberia,9 Nov 2004,Stored,F-WWCH,Ignacio de Zuloaga
+605,Airbus A330-202,A7-HHM,Qatar Amiri Flight,3 Aug 2004,Active,F-WWYX,
+606,Airbus A340-642,EC-JBA,Iberia,24 Nov 2004,Active,F-WWCV,Joaquin Rodrigo
+607,Airbus A330-302,B-18302,China Airlines,8 Jul 2004,Active,F-WWYY,lsf Altavair AirFinance
+608,Airbus A340-541,F-WJKI,Airbus Financial Services (AFS),29 Oct 2014,Stored,A6-ERG,
+609,Airbus A330-223,N851NW,Delta Air Lines,29 Oct 2008,Stored,F-WWYZ,3351
+610,Airbus A330-243(P2F),SU-GCF,EgyptAir Cargo,9 Nov 2019,Active,F-WWKS,
+611,Airbus A340-541,ZS-GAU,Global Aviation,21 Jun 2019,Stored,2-RLAW,
+612,Airbus A330-203,D-AXGE,Eurowings,29 Nov 2016,Stored,A7-AFL,"lsf GECAS, opby SunExpress Germany"
+614,Airbus A330-223,N852NW,Delta Air Lines,29 Oct 2008,Stored,F-WWKU,3352
+615,Airbus A340-642,EP-MMR,Mahan Airlines,5 May 2015,Active,YI-,
+616,Airbus A330-203,D-AXGF,Eurowings,3 Nov 2016,Stored,A7-AFM,"lsf GECAS, opby SunExpress Germany, Las Vegas cs"
+617,Airbus A340-642,EC-JCY,Iberia,27 Jan 2005,Scrapped,F-WWCL,"Andrés Segovia, lsf Universal Asset Management"
+618,Airbus A330-223,N853NW,Delta Air Lines,29 Oct 2008,Stored,F-WWKN,3353
+619,Airbus A340-642,EC-JCZ,Iberia,25 Feb 2005,Stored,F-WWCP,Vicente Aleixandre
+620,Airbus A330-223,N854NW,Delta Air Lines,29 Oct 2008,Stored,F-WWYA,3354
+621,Airbus A330-223,N855NW,Delta Air Lines,29 Oct 2008,Stored,F-WWYB,3355
+622,Airbus A340-642,9H-EAL,Maleth-Aero,16 Apr 2020,Active,G-VNAP,"lsf European Aviation Group, Thank You NHS ❤️ cs"
+623,Airbus A330-302,A7-AEA,Qatar Airways,25 Oct 2004,Stored,F-WWYC,"Al Muntazah, lsf Castlelake"
+624,Airbus A340-541,HS-TLA,Thai Airways International,6 Apr 2005,Stored,F-WWTN,Chiang Kam
+625,Airbus A330-243,TC-OCI,Onur Air,21 Mar 2020,Stored,EI-FLB,lsf AerCap
+626,Airbus A340-642,ZS-SNH,South African Airways,14 Apr 2005,Stored,F-WWCF,lsf AerCap
+627,Airbus A330-243,4R-ALH,SriLankan Airlines,8 Dec 2011,Active,EI-EOK,oneworld cs
+628,Airbus A340-541,HS-TLB,Thai Airways International,29 Apr 2005,Stored,F-WWTO,Uttaradit
+,,,,,,,
+629,Airbus A330-343,D-AIKD,Lufthansa,12 Oct 2004,Active,F-WWYF,"Siegen, lsf Mitsui Bussan Aerospace"
+630,Airbus A340-642,ZS-SNI,South African Airways,16 May 2005,Stored,F-WWCG,lsf AerCap
+631,Airbus A330-223,N856NW,Delta Air Lines,29 Oct 2008,Stored,F-WWYG,3356
+632,Airbus A330-243,TC-OCJ,Onur Air,21 Mar 2020,Stored,EI-FLC,lsf AerCap
+633,Airbus A330-223,N857NW,Delta Air Lines,29 Oct 2008,Stored,F-WWYI,3357
+634,Airbus A330-203,LV-GKP,Aerolineas Argentinas,6 Feb 2017,Active,N753AC,lsf Aircastle
+635,Airbus A330-243,F-WTAG,Carlyle Aviation Partners,4 Feb 2020,Stored,F-GSEU,
+636,Airbus A330-343,D-AIKE,Lufthansa,3 Dec 2004,Stored,F-WWYL,"Landshut, lsf Mitsui Bussan Aerospace"
+637,Airbus A330-302,A7-AEB,Qatar Airways,16 Dec 2004,Stored,F-WWYP,"Al Sayliyah, lsf AerCap"
+638,Airbus A330-202,EI-GGR,Air Italy,30 Oct 2018,Stored,A7-ACF,lsf Castlelake
+639,Airbus A340-642,G-VGAS,Virgin Atlantic Airways,9 May 2005,Scrapped,F-WWCI,"Varga Girl, lsf BBAM"
+640,Airbus A330-323,HL7736,Asiana Airlines,20 Dec 2004,Stored,F-WWYR,lsf DAE Capital
+641,Airbus A330-302,B-18303,China Airlines,10 Dec 2004,Active,F-WWYS,lsf Altavair AirFinance
+642,Airbus A330-343,D-AIKF,Lufthansa,17 Dec 2004,Active,F-WWKV,"Witten, lsf Mitsui Bussan Aerospace"
+643,Airbus A340-313,ZS-SXD,South African Airways,30 May 2007,Stored,VT-JWA,"Siyanqoba, Team South Africa 2012 cs"
+644,Airbus A330-202,7T-VJV,Air Algérie,26 Jan 2005,Stored,F-WWKD,Tinhinan
+645,Airbus A330-343,OO-SFP,Eurowings,5 Oct 2019,Stored,D-AIKG,opby Brussels Airlines
+646,Airbus A340-313,ZS-SXE,South African Airways,26 Jun 2007,Stored,VT-JWB,
+647,Airbus A330-202,7T-VJW,Air Algérie,14 Feb 2005,Active,F-WWKF,Lalla Setti
+648,Airbus A330-343,D-AIKH,Lufthansa,11 Feb 2005,Stored,F-WWKG,
+649,Airbus A330-243,B-6056,China Southern Airlines,25 Feb 2005,Active,F-WWKI,
+650,Airbus A330-202,7T-VJX,Air Algérie,25 Feb 2005,Stored,F-WWKK,Mers el Kebir
+651,Airbus A340-313,ZS-SXF,South African Airways,10 Jul 2007,Stored,VT-JWC,
+652,Airbus A330-243,B-6057,China Southern Airlines,16 Mar 2005,Stored,F-WWKL,
+653,Airbus A330-202,7T-VJY,Air Algérie,15 Mar 2005,Stored,F-WWYK,Monts des Beni Chougrane / جبال بني شقران
+654,Airbus A330-343,PK-XRC,Indonesia AirAsia X,18 Dec 2014,Stored,9M-XXR,lsf DVB Bank
+655,Airbus A330-203,VQ-BMI,VIM Airlines,18 May 2017,Stored,B-16308,lsf WNG Capital LLC
+656,Airbus A330-243,B-6058,China Southern Airlines,22 Apr 2005,Active,F-WWYV,
+657,Airbus A330-203,F-GZCO,Air France,4 Apr 2005,Stored,,
+658,Airbus A330-243,A6-EYD,Etihad Airways,27 May 2005,Stored,F-WWYN,
+659,Airbus A330-302,A7-AEC,Qatar Airways,25 Apr 2005,Stored,F-WWYX,"Al Markhiya, lsf Castlelake"
+660,Airbus A330-203,F-GZCP,Air France,18 Apr 2005,Written Off,,
+661,Airbus A330-203,SU-TCH,AlMasria Universal Airlines,16 Feb 2018,Active,B-16309,lsf CDB Aviation
+662,Airbus A330-343,HS-XTA,Thai AirAsia X,15 Jan 2014,Active,9M-XXL,lsf DVB Bank
+663,Airbus A330-323,N809NW,Delta Air Lines,29 Oct 2008,Stored,F-WWKM,3309
+664,Airbus A330-243,B-6059,China Southern Airlines,9 Jun 2005,Active,F-WWKP,
+665,Airbus A330-223,9M-MTU,Malaysia Airlines,29 Mar 2018,Stored,EI-GFH,lsf AerCap
+666,Airbus A330-243,SU-GCG,EgyptAir,17 Jun 2005,Stored,F-WWKQ,
+667,Airbus A330-202,7T-VJZ,Air Algérie,1 Jun 2005,Active,F-WWKR,Teddis
+668,Airbus A340-313,F-OLOV,Air Tahiti Nui,13 Jun 2005,Stored,F-WWJD,Nuku Hiva
+669,Airbus A330-342,B-LAA,Cathay Dragon,21 Nov 2016,Stored,F-WWKS,lsf AerCap
+670,Airbus A330-343,EC-LXA,Evelop Airlines,Jun 2017,Active,OE-ICB,lsf Avolon
+671,Airbus A330-302,B-18305,China Airlines,16 Jun 2005,Active,F-WWKN,lsf Altavair AirFinance
+672,Airbus A340-642,EC-JFX,Iberia,10 Jun 2005,Stored,F-WWCB,Jacinto Benavente
+673,Airbus A330-342,B-LAB,Cathay Dragon,21 Nov 2016,Stored,F-WWKZ,lsf AerCap
+674,Airbus A330-323,N810NW,Delta Air Lines,29 Oct 2008,Active,F-WWKT,"3310, lsf Q Aviation"
+675,Airbus A330-302,B-18306,China Airlines,8 Jul 2005,Stored,F-WWYU,lsf Altavair AirFinance
+676,Airbus A330-323,HL7740,Asiana Airlines,13 Jul 2005,Active,F-WWYA,lsf Castlelake
+677,Airbus A340-642,HS-TNA,Thai Airways International,29 Jun 2005,Stored,F-WWCJ,Watthana Nakhon
+678,Airbus A330-203,B-16310,EVA Airways,22 Jul 2005,Active,F-WWYB,
+679,Airbus A330-342,OO-SFH,Brussels Airlines,8 Nov 2019,Stored,B-LAC,
+680,Airbus A330-302,A7-AED,Qatar Airways,29 Aug 2005,Stored,F-WWYD,"Al Nu’uman, lsf Castlelake"
+,,,,,,,
+681,Airbus A340-642,HS-TNB,Thai Airways International,26 Jul 2005,Stored,F-WWCK,Saraburi
+682,Airbus A330-203,PH-AOA,KLM Royal Dutch Airlines,25 Aug 2005,Stored,F-WWYE,"Dam - Amsterdam, OA-501"
+683,Airbus A330-243,SU-GCH,EgyptAir,13 Aug 2005,Stored,F-WWYF,
+684,Airbus A330-203,D-AXGB,Eurowings,30 Nov 2015,Stored,A7-AFP,"lsf GECAS, opby SunExpress Germany"
+685,Airbus A340-541,F-WHUK,Airbus Financial Services (AFS),6 Feb 2015,Stored,A6-ERI,
+686,Airbus A330-203,PH-AOB,KLM Royal Dutch Airlines,29 Sep 2005,Stored,F-WWYH,"Potsdamer Platz - Berlin, OB-502"
+687,Airbus A330-343,D-AIKI,Lufthansa,9 Sep 2005,Stored,F-WWYI,Jena
+688,Airbus A330-243,A6-EYE,Etihad Airways,30 Sep 2005,Stored,F-WWYJ,Manchester City Football Club cs
+689,Airbus A340-642,HS-TNC,Thai Airways International,5 Oct 2005,Stored,F-WWCN,Chon Buri
+690,Airbus A330-323,N811NW,Delta Air Lines,29 Oct 2008,Active,F-WWKV,"3311, lsf Q Aviation"
+691,Airbus A330-302,B-18307,China Airlines,21 Sep 2005,Active,F-WWYL,
+692,Airbus A330-343,HS-XTC,Thai AirAsia X,23 Feb 2015,Stored,9M-XXO,lsf Carlyle Aviation Partners
+693,Airbus A330-203,B-16311,EVA Airways,3 Oct 2005,Active,F-WWYP,
+694,Airbus A340-541,2-RLAV,Global Aviation,22 Feb 2018,Stored,F-WXAA,
+695,Airbus A330-303,VH-QPH,Qantas,12 Oct 2005,Active,F-WWYQ,Noosa
+696,Airbus A330-243,SU-GCI,EgyptAir,Sep 2012,Stored,F-WWYR,
+697,Airbus A330-203,TC-JNA,Turkish Airlines,12 Dec 2005,Stored,F-WWYS,Gaziantep
+698,Airbus A340-541,HS-TYV,Royal Thai Air Force,24 Nov 2016,Active,60204,60204
+699,Airbus A330-302,B-18308,China Airlines,20 Oct 2005,Active,F-WWKA,
+700,Airbus A330-203,TC-AGL,AtlasGlobal,12 Dec 2018,Stored,EI-GEX,lsf CDB Aviation
+701,Airbus A330-343,OO-SFJ,Eurowings,30 Nov 2018,Stored,D-AIKJ,opby Brussels Airlines
+702,Airbus A340-642,EC-JLE,Iberia,18 Oct 2005,Stored,F-WWCM,Santiago Ramón y Cajal
+703,Airbus A330-203,PH-AOC,KLM Royal Dutch Airlines,21 Nov 2005,Stored,F-WWKE,"Place de la Concorde - Paris, OC-503"
+704,Airbus A330-203,TC-JNB,Turkish Airlines,21 Dec 2005,Active,F-WWKF,Konya
+705,Airbus A330-303,VH-QPI,Qantas,16 Nov 2005,Active,F-WWKG,Cairns
+706,Airbus A340-642,G-VWKD,Virgin Atlantic Airways,28 Nov 2005,Scrapped,F-WWCQ,"Miss Behavin, lsf AerCap"
+707,Airbus A330-302,B-18309,China Airlines,8 Dec 2005,Active,F-WWKI,
+708,Airbus A330-323,HL7741,Asiana Airlines,12 Dec 2005,Active,F-WWKJ,lsf Castlelake
+709,Airbus A330-243(P2F),SU-GCJ,EgyptAir Cargo,2 Feb 2019,Active,F-WWKK,
+710,Airbus A340-642,HS-TND,Thai Airways International,28 Nov 2005,Stored,F-WWCX,Phetchaburi
+711,Airbus A330-302,A7-AEE,Qatar Airways,23 Dec 2005,Active,F-WWYK,"Semaisma, lsf Castlelake"
+712,Airbus A330-303,VH-QPJ,Qantas,19 Dec 2005,Active,F-WWYM,Port Stephens
+713,Airbus A330-343,9M-XBD,AirAsia X,19 Oct 2018,Stored,M-ABLJ,lsf Stratos Aircraft Management
+714,Airbus A330-302,B-18310,China Airlines,20 Jan 2006,Active,F-WWYV,
+715,Airbus A340-642,A7-AGB,Qatar Airways,29 Sep 2006,Stored,F-WWCR,Ras Dukhan
+716,Airbus A330-343,PK-XRA,Indonesia AirAsia X,16 Jul 2014,Stored,9M-XXQ,lsf Aviator Capital
+717,Airbus A330-243,A6-EYF,Etihad Airways,27 Feb 2006,Stored,F-WWYN,
+718,Airbus A330-223,N858NW,Delta Air Lines,29 Oct 2008,Stored,F-WWYY,3358
+719,Airbus A340-642,HS-TNE,Thai Airways International,9 Dec 2005,Stored,F-WWCH,Nonthaburi
+720,Airbus A330-343,HS-XTG,Thai AirAsia X,12 Apr 2018,Stored,B-6120,lsf Zephyrus Aviation Capital
+721,Airbus A330-302,A7-AEF,Qatar Airways,17 Feb 2006,Active,F-WWKJ,"Al Rumeilah, lsf Castlelake"
+722,Airbus A330-223,N859NW,Delta Air Lines,29 Oct 2008,Stored,F-WWKM,3359
+723,Airbus A340-642,G-VBLU,Virgin Atlantic Airways,30 Jan 2006,Scrapped,F-WWCS,"Soul Sister, lsf AerCap"
+724,Airbus A330-243,A6-EYG,Etihad Airways,29 Mar 2006,Stored,F-WWKN,
+725,Airbus A330-302,B-18351,China Airlines,10 Feb 2006,Active,F-WWKO,lsf Carlyle Aviation Partners
+726,Airbus A330-243,SU-GCK,EgyptAir,27 Feb 2006,Stored,F-WWKP,Star Alliance cs
+727,Airbus A340-642,EC-JNQ,Iberia,10 Feb 2006,Stored,F-WWCV,Antonio Machado
+728,Airbus A330-243,C-GUBL,Air Transat,3 May 2019,Stored,G-TCCI,204
+729,Airbus A330-243,A6-EYH,Etihad Airways,24 Apr 2006,Stored,F-WWKR,
+730,Airbus A330-243,A6-EYI,Etihad Airways,20 Jun 2006,Stored,F-WWKS,
+731,Airbus A340-642,EC-JOH,Iberia,27 Mar 2006,Written Off,F-WWCE,Miguel de Unamuno
+732,Airbus A330-243,C-GUBT,Air Transat,17 May 2018,Stored,B-6122,"205, lsf DAE Capital"
+,,,,,,,
+733,Airbus A330-202,EC-JPF,Air Europa,31 Mar 2006,Stored,F-WWKU,lsf Carlyle Aviation Partners
+734,Airbus A330-302,A7-AEG,Qatar Airways,13 Mar 2006,Stored,F-WWYU,"Al Duheil, lsf Castlelake"
+735,Airbus A330-243,M-ABLK,Aerotron,21 Jun 2018,Scrapped,B-6123,
+736,Airbus A340-642,9H-NHS,Maleth-Aero,7 May 2020,Active,G-VWIN,"lsf European Aviation Group, Protect Our NHS ❤️ cs"
+737,Airbus A330-243,A6-EYJ,Etihad Airways,29 Jun 2006,Stored,F-WWYB,
+738,Airbus A330-203,PH-AOD,KLM Royal Dutch Airlines,25 Apr 2006,Active,F-WWYC,"Piazza del Duomo - Milano, OD-504"
+739,Airbus A330-223,EI-GCZ,I-Fly,21 Apr 2018,Stored,D-ALPH,lsf Carlyle Aviation Partners
+740,Airbus A340-642,A7-AGA,Qatar Airways,8 Sep 2006,Preserved,F-WWCP,
+741,Airbus A330-343,HS-XTD,Thai AirAsia X,19 Aug 2015,Stored,9M-XXM,"lsf AerCap, Lotte World cs"
+742,Airbus A330-203,TC-JNC,Turkish Airlines,11 May 2006,Stored,F-WWYF,"Kushimoto, Retro cs"
+743,Airbus A330-202,A7-ACG,Qatar Airways,28 Apr 2006,Active,F-WWKV,"Al Wabra, lsf Altavair AirFinance"
+744,Airbus A340-642,EC-JPU,Iberia,24 Apr 2006,Active,F-WWCF,Pío Baroja
+745,Airbus A330-202,OE-IEX,GECAS,10 Jan 2020,Stored,EC-JQG,
+746,Airbus A330-202,A7-ACI,Qatar Airways,17 May 2006,Stored,F-WWYH,"Muaither, lsf Altavair AirFinance"
+747,Airbus KC-30A (A330-203MRTT),A39-001,Royal Australian Air Force,29 Dec 2011,Active,MRTT001,
+748,Airbus A340-541,I-TALY,Aeronautica Militare (Italian Air Force),Jul 2016,Stored,A6-EHA,
+749,Airbus A330-202,OE-IGR,GECAS,2 Dec 2019,Stored,EC-JQQ,
+750,Airbus A330-243,B-6070,Air China,6 Jun 2006,Stored,F-WWKA,
+751,Airbus A330-243,DQ-FJO,Fiji Airways,28 Apr 2018,Stored,S7-ADB,"Island of Beqa, lsf Etihad Airways"
+752,Airbus A330-302,B-18311,China Airlines,20 Jun 2006,Active,F-WWKZ,SkyTeam cs
+753,Airbus A340-642,G-VFIT,Virgin Atlantic Airways,24 May 2006,Stored,F-WWCG,Dancing Queen
+754,Airbus A330-203,TC-JND,Turkish Airlines,28 Jun 2006,Stored,F-WWYL,Antalya
+755,Airbus A330-203,B-16312,EVA Airways,30 May 2006,Stored,F-WWYP,
+756,Airbus A330-243,B-6071,Air China,20 Jun 2006,Active,F-WWYQ,
+757,Airbus A340-541,A6-EHB,Etihad Airways,13 Jul 2006,Stored,F-WWTU,
+758,Airbus A330-323,F-ORLY,Air Caraïbes,26 Jun 2006,Stored,F-WWYR,lsf Aviator Capital
+759,Airbus A330-243,B-6072,Air China,7 Jul 2006,Active,F-WWYK,
+760,Airbus A330-202,A7-ACJ,Qatar Airways,4 Aug 2006,Stored,F-WWYO,"Zikreet, lsf Castlelake"
+761,Airbus A340-541,A6-EHC,Etihad Airways,15 Sep 2006,Stored,F-WWTV,
+762,Airbus A340-642,D-AIHM,Lufthansa,5 Sep 2006,Scrapped,F-WWCI,Wuppertal
+763,Airbus A340-642,D-AIHN,Lufthansa,27 Sep 2006,Stored,F-WWCJ,Gummersbach
+764,Airbus A340-642,F-HHIT,European Aviation Group,12 Mar 2019,Stored,G-VFIZ,
+765,Airbus A340-642,2-EALJ,European Aviation Group,4 Nov 2019,Stored,G-VYOU,
+766,Airbus A340-642,2-AGCC,Castlelake,31 May 2019,Scrapped,A7-AGC,
+767,Airbus A340-642,D-AIHO,Lufthansa,31 Oct 2006,Scrapped,F-WWCN,
+768,Airbus A340-642,2-EALK,European Aviation Group,10 Mar 2020,Stored,G-VRED,
+769,Airbus A330-302,LY-LEO,GetJet Airlines,31 Jan 2019,Stored,B-18312,lsf World Star Aviation
+770,Airbus A330-203,PH-AOE,KLM Royal Dutch Airlines,28 Aug 2006,Stored,F-WWKD,"Parliament Square - Edinburgh, OE-505"
+771,Airbus A340-642,D-AIHP,Lufthansa,28 Nov 2006,Stored,F-WWCQ,
+772,Airbus A330-323,HL7746,Asiana Airlines,12 Jul 2006,Active,F-WWKE,lsf DAE Capital
+773,Airbus A330-343,HS-XTH,Thai AirAsia X,14 Dec 2018,Stored,M-ABLM,lsf Seraph Aviation
+774,Airbus A330-203,TC-JNE,Turkish Airlines,28 Jul 2006,Stored,F-WWKG,Kayseri
+775,Airbus A340-541,HS-TLD,Thai Airways International,11 Apr 2007,Stored,F-WWTX,Kamphaengphet
+776,Airbus A330-342,B-LAD,Cathay Pacific,25 Aug 2006,Active,F-WWKI,lsf AerCap
+777,Airbus A330-343(F),M-BLGR,DHL,27 Jun 2019,Stored,B-6126,
+778,Airbus A330-223,N860NW,Delta Air Lines,29 Oct 2008,Active,F-WWKL,3360
+779,Airbus A340-642,4K-AI08,AZAL Azerbaijan Airlines,1 Nov 2013,Active,VP-CCC,"Baku-8, lsf AJW Capital Partners"
+780,Airbus A330-243,B-6073,Air China,26 Sep 2006,Active,F-WWYM,
+781,Airbus A330-343,M-BELR,DHL,9 Jul 2019,Stored,B-6127,
+782,Airbus A330-343,9M-XBE,AirAsia X,22 Nov 2018,Stored,M-ABLO,lsf BOC
+783,Airbus A340-541,2-EALG,European Aviation Group,24 Sep 2018,Stored,A6-EHD,
+784,Airbus A330-323,N812NW,Delta Air Lines,29 Oct 2008,Stored,F-WWYX,3312
+,,,,,,,
+785,Airbus A330-243,B-6075,Air China,8 Nov 2006,Active,F-WWYY,Star Alliance cs
+786,Airbus A330-343,HS-XTB,Thai AirAsia X,2 May 2014,Stored,9M-XXN,lsf AerCap
+787,Airbus A340-642,2-EALL,European Aviation Group,24 Jan 2020,Stored,G-VWEB,
+788,Airbus A330-243,A6-EYK,Etihad Airways,24 Nov 2006,Stored,F-WWKM,
+789,Airbus A330-302,EI-EIK,Aer Lingus,13 May 2020,Stored,A7-AEH,"St. Began / Begain, lsf Castlelake"
+790,Airbus A340-642,D-AIHQ,Lufthansa,26 Jan 2007,Stored,F-WWCE,
+791,Airbus A330-343,HS-XTJ,Thai AirAsia X,8 Jan 2019,Stored,M-ABLL,lsf CDB Aviation
+792,Airbus A330-202,A7-ACK,Qatar Airways,23 Nov 2006,Stored,F-WWKP,lsf Aergo Capital
+793,Airbus A340-313,3B-NBI,Air Mauritius,29 Nov 2006,Stored,F-WWJE,Le Flamboyant
+794,Airbus A340-642,D-AIHR,Lufthansa,23 Feb 2007,Scrapped,F-WWCF,
+795,Airbus A330-243,C-GTSJ,Air Transat,20 Nov 2011,Stored,G-TCXA,"203, lsf Avolon"
+796,Airbus A330-223,N861NW,Delta Air Lines,29 Oct 2008,Active,F-WWKT,3361
+797,Airbus A330-243,B-6076,Air China,6 Dec 2006,Stored,F-WWKU,Star Alliance cs
+798,Airbus A340-642,2-AGDD,Castlelake,18 Jun 2019,Scrapped,A7-AGD,
+799,Airbus A330-323,N813NW,Delta Air Lines,29 Oct 2008,Stored,F-WWKV,3313
+800,Airbus A340-313,3B-NBJ,Air Mauritius,14 Dec 2006,Stored,F-WWJF,Le Chamarel
+801,Airbus A330-203,PH-AOF,KLM Royal Dutch Airlines,15 Dec 2006,Active,F-WWYC,"Federation Square - Melbourne, OF-506"
+802,Airbus A330-223,EC-MTY,Evelop Airlines,15 Mar 2018,Active,D-ABXG,lsf Avolon
+803,Airbus A330-323,HL7747,Asiana Airlines,18 Dec 2006,Active,F-WWYE,lsf DAE Capital
+804,Airbus A340-642,G-VBUG,Virgin Atlantic Airways,28 Feb 2007,Scrapped,F-WWCV,"Lady Bird, lsf AerCap"
+805,Airbus A330-302,B-18352,China Airlines,8 Feb 2007,Stored,F-WWYG,lsf Carlyle Aviation Partners
+806,Airbus A330-323,N814NW,Delta Air Lines,29 Oct 2008,Stored,F-WWYN,3314
+807,Airbus A330-243,DQ-FJP,Fiji Airways,26 Jun 2018,Stored,S7-VDM,lsf Etihad Airways
+808,Airbus A330-302,-,Airbus Industrie,,Not Built,,
+809,Airbus A330-243,A6-EYL,Etihad Airways,31 Jan 2007,Stored,F-WWYB,
+810,Airbus A330-243,B-6079,Air China,23 Jan 2007,Active,F-WWYF,
+811,Airbus A330-203,2-PAOH,Aircastle,12 Oct 2018,Stored,AP-BMI,
+812,Airbus A340-642,D-AIHS,Lufthansa,27 Mar 2007,Scrapped,F-WWCX,
+813,Airbus A330-302,A7-AEI,Qatar Airways,7 Feb 2007,Stored,F-WWYI,lsf Castlelake
+814,Airbus A330-202,EC-JZL,Air Europa,22 Feb 2007,Stored,F-WWYJ,"David Bisbal, lsf DVB Bank"
+815,Airbus A330-243,B-6080,Air China,16 Feb 2007,Active,F-WWYL,
+816,Airbus A330-203,-,Airbus Industrie,,Not Built,,
+817,Airbus A330-323,N815NW,Delta Air Lines,29 Oct 2008,Stored,F-WWYP,3315
+818,Airbus A330-243,EC-NBN,Wamos Air,20 Mar 2019,Active,OE-IBP,lsf CDB Aviation
+819,Airbus A330-203,F-WTAV,Carlyle Aviation Partners,Mar 2020,Stored,TC-AGD,
+820,Airbus A330-202,A7-ACL,Qatar Airways,14 Mar 2007,Stored,F-WWKA,lsf Castlelake
+821,Airbus A330-243,B-6082,China Eastern Airlines,23 Mar 2007,Active,F-WWKB,
+822,Airbus A330-223,9M-MTV,Malaysia Airlines,23 Mar 2018,Stored,EI-GFI,lsf AerCap
+823,Airbus A330-302,B-18315,China Airlines,23 Mar 2007,Active,F-WWKS,
+824,Airbus A330-243,A6-EYM,Etihad Airways,3 May 2007,Stored,F-WWKD,
+825,Airbus A330-202,I-EJGA,Alitalia,1 Jun 2015,Stored,A6-AGA,Artemisia Gentileschi
+826,Airbus A330-302,A7-AEJ,Qatar Airways,22 Mar 2007,Stored,F-WWKF,"Alda'ayen, lsf Arena Aviation Capital"
+827,Airbus A330-323,N816NW,Delta Air Lines,29 Oct 2008,Active,F-WWKG,3316
+828,Airbus A330-223,9M-MTW,Malaysia Airlines,25 Jun 2018,Active,EI-GFJ,lsf AerCap
+829,Airbus A340-642,2-EALF,European Aviation Group,26 Nov 2018,Stored,A6-EHE,
+830,Airbus A330-343,B-6083,Shanghai Airlines,16 Dec 2019,Active,F-WWKK,
+831,Airbus A330-202,I-EJGB,Alitalia,5 Jun 2015,Stored,A6-AGB,Francesco Borromini
+832,Airbus A330-243,A6-EYN,Etihad Airways,18 Jun 2007,Stored,F-WWKN,
+833,Airbus A330-343,CS-TRH,Orbest,20 Mar 2016,Active,EC-KCP,lsf Macquarie AirFinance
+834,Airbus A330-203,JY-JVB,Jordan Aviation,20 Feb 2020,Active,2-PAOK,lsf Aergo Capital
+835,Airbus A340-313,OO-ABA,Air Belgium,16 Feb 2018,Active,F-WXAB,lsf AFS
+836,Airbus A330-343,B-6085,China Eastern Airlines,11 Jun 2007,Active,F-WWYK,
+,,,,,,,
+837,Airbus A340-642,2-EALB,European Aviation Group,31 May 2018,Stored,A6-EHF,
+838,Airbus A330-302,B-18316,China Airlines,16 May 2007,Active,F-WWYM,
+839,Airbus A330-243,B-6081,Air China,15 May 2007,Active,F-WWYO,
+840,Airbus A330-243,EC-NCK,Wamos Air,22 Jun 2019,Active,OE-IBQ,lsf CDB Aviation
+841,Airbus A330-202,EI-DUO,Aer Lingus,25 May 2007,Active,F-WWYT,St Columba / Colum
+842,Airbus A330-202,VH-EBE,Qantas,16 Oct 2015,Stored,F-WWYV,Kangaroo Valley
+843,Airbus A330-323,N817NW,Delta Air Lines,29 Oct 2008,Stored,F-WWYX,3317
+844,Airbus A340-313,OO-ABB,Air Belgium,16 Feb 2018,Active,F-WXAG,"lsf AFS, Martinique / Guadeloupe cs"
+845,Airbus A330-323,HL7754,Asiana Airlines,11 Jul 2007,Active,F-WWYZ,lsf Bellinger Aviation Services
+846,Airbus A340-642,D-AIHT,Lufthansa,29 Apr 2008,Stored,F-WWCH,
+847,Airbus A330-302,EI-DUZ,Aer Lingus,26 Jun 2007,Active,F-WWKM,St Aoife / Aoife
+848,Airbus A340-642,D-AIHU,Lufthansa,29 May 2008,Stored,F-WWCI,
+849,Airbus A330-202,A7-ACM,Qatar Airways,13 Jun 2007,Stored,F-WWKP,lsf Castlelake
+850,Airbus A330-342,B-LAE,Cathay Pacific,27 Jul 2007,Stored,F-WWKQ,
+851,Airbus A330-343,B-6095,China Eastern Airlines,16 Jul 2007,Active,F-WWKR,
+852,Airbus A330-243,A6-EYO,Etihad Airways,20 Sep 2007,Stored,F-WWKT,
+853,Airbus A330-202,VH-EBF,Qantas,26 Aug 2015,Stored,F-WWYU,King Valley
+854,Airbus A330-243,A6-EYP,Etihad Airways,6 Dec 2019,Active,F-WWYY,
+855,Airbus A330-342,B-LAF,Cathay Pacific,31 Aug 2007,Stored,F-WWYC,
+856,Airbus A340-642,F-WWCJ,Airbus Industrie,,Written Off,,
+857,Airbus A330-323,N818NW,Delta Air Lines,29 Oct 2008,Stored,F-WWYD,3318
+858,Airbus A330-323,N819NW,Delta Air Lines,29 Oct 2008,Stored,F-WWYE,3319
+859,Airbus A330-323,N820NW,Delta Air Lines,29 Oct 2008,Stored,F-WWYF,3320
+860,Airbus A330-243,B-6090,Air China,4 Sep 2007,Active,F-WWYN,
+861,Airbus A330-302,B-18317,China Airlines,1 Oct 2007,Active,F-WWYA,
+862,Airbus A330-343,B-6096,Shanghai Airlines,25 Oct 2013,Active,F-WWYG,
+863,Airbus A330-243 Prestige,UP-A3001,Government of Kazakhstan,9 Mar 2010,Active,3B-TSL,opby Berkut Air
+865,Airbus A330-323,N821NW,Delta Air Lines,29 Oct 2008,Stored,F-WWYJ,3321
+866,Airbus A330-343,B-6097,Shanghai Airlines,1 Nov 2013,Active,F-WWYL,
+867,Airbus A330-243,B-6091,Air China,22 Oct 2007,Active,F-WWYP,Star Alliance (2002) cs
+868,Airbus A330-243,A6-EYQ,Etihad Airways,6 Dec 2019,Stored,F-WWYQ,
+869,Airbus A330-223,TC-JIO,Turkish Airlines,26 Jun 2014,Stored,OE-ICX,"Eskişehir, lsf AerCap"
+870,Airbus A340-642,2-EALD,European Aviation Group,12 Sep 2018,Stored,A6-EHH,
+871,Airbus A330-203,F-WWCB,Airbus Industrie,Jul 2013,Stored,MRTT006,
+873,Airbus A330-243,B-6092,Air China,31 Oct 2007,Active,F-WWKV,
+874,Airbus A330-223,LZ-AWZ,DAE Capital,15 May 2020,Stored,TC-LNA,
+875,Airbus A330-243,B-6116,Hainan Airlines,13 Nov 2007,Active,F-WWKB,lsf CDB Aviation
+876,Airbus A330-223,TC-JIP,Turkish Airlines,14 Aug 2014,Stored,OE-IDC,"Lale (Tulip), lsf AerCap"
+877,Airbus A330-202,CS-TOL,TAP - Air Portugal,26 Nov 2007,Stored,F-WWKF,"Joao Gonçalves Zarco, lsf TrueAero"
+879,Airbus A330-343,B-6086,China Southern Airlines,13 Dec 2007,Active,F-WWKG,lsf BOC
+881,Airbus A330-243,B-6118,Hainan Airlines,11 Dec 2007,Stored,F-WWKI,lsf CDB Aviation
+882,Airbus A330-203,TC-JIL,Turkish Airlines,4 Apr 2014,Stored,VT-JWH,"Yedigöller, lsf TrueAero"
+883,Airbus A330-202,3B-NBM,Air Mauritius,7 Dec 2007,Active,F-WWKK,"Trochetia, lsf Doric Aviation"
+884,Airbus A330-243,B-6093,Air China,3 Dec 2007,Active,F-WWKO,Star Alliance (2002) cs
+885,Airbus A330-202,YU-ARA,Air Serbia,11 May 2016,Active,A6-EYC,"Nikola Tesla, lsf Etihad Airways, Serbia Creates cs"
+886,Airbus A340-542,4K-AZ85,AZAL Azerbaijan Airlines,24 Dec 2012,Stored,F-WWTG,"Karabakh, lsf AJW Capital Partners"
+887,Airbus A330-203,VH-EBG,Qantas,13 Dec 2007,Stored,F-WWKD,"Barossa Valley, lsf Macquarie AirFinance"
+888,Airbus A330-202,VT-JWW,Jet Airways,Jun 2015,Stored,A6-EYA,
+889,Airbus A330-343,B-6087,China Southern Airlines,19 Dec 2007,Active,F-WWKZ,lsf BOC
+890,Airbus A330-243,B-6113,Air China,11 Jan 2008,Active,F-WWYM,
+891,Airbus A330-223,EI-EWH,Pembroke,26 Sep 2017,Stored,5N-JIC,
+892,Airbus KC-30A (A330-203MRTT),A39-006,Royal Australian Air Force,1 Sep 2017,Active,MRTT039,
+,,,,,,,
+893,Airbus A330-302,A7-AEM,Qatar Airways,28 Jan 2008,Stored,F-WWYK,lsf Castlelake
+894,Airbus A340-542,4K-AZ86,AZAL Azerbaijan Airlines,22 Dec 2012,Active,F-WWTH,"Nakhchivan, lsf AJW Capital Partners"
+895,Airbus A330-342,OO-SFC,Brussels Airlines,15 Mar 2018,Stored,B-LAG,
+896,Airbus A330-343,D-AIKK,Lufthansa,31 Jan 2008,Active,F-WWYX,Fürth
+897,Airbus A340-642,D-AIHV,Lufthansa,28 Mar 2008,Stored,F-WWTI,
+898,Airbus KC-30A (A330-203MRTT),A39-007,Royal Australian Air Force,16 May 2019,Active,MRTT040,
+899,Airbus A330-202,CS-TOM,TAP - Air Portugal,5 Feb 2008,Stored,F-WWKN,"Vasco da Gama, lsf TrueAero"
+900,Airbus A330-203,F-WTAU,Carlyle Aviation Partners,Mar 2020,Stored,TC-AGF,
+901,Airbus A330-203,TC-JIM,Turkish Airlines,22 Apr 2014,Stored,VT-JWL,"Erenköy, lsf TrueAero"
+902,Airbus A340-542,TC-CAN,Turkey Government,Apr 2017,Active,TC-TRK,Can
+903,Airbus A330-243,B-6117,Air China,20 Feb 2008,Active,F-WWKR,
+904,Airbus A330-202,CS-TON,TAP - Air Portugal,19 Feb 2008,Stored,F-WWKT,"João XXI, lsf Aviator Capital"
+905,Airbus A330-343,D-AIKL,Lufthansa,5 Mar 2008,Stored,F-WWYC,Ingolstadt
+906,Airbus A330-243,B-6088,Hainan Airlines,11 Mar 2008,Active,F-WWYD,lsf AerCap
+907,Airbus A330-302,A7-AEN,Qatar Airways,3 Mar 2008,Stored,F-WWYE,lsf Arena Aviation Capital
+908,Airbus A330-343,TC-OCS,Onur Air,24 Nov 2019,Active,B-6098,lsf CDB Aviation
+909,Airbus A330-243,B-6115,Air China,11 Mar 2008,Active,F-WWYG,
+910,Airbus A340-542,CS-TFW,Arik Air,11 Dec 2008,Stored,F-WJKH,"Our Lady of Perpetual Help, lsf Hi Fly"
+911,Airbus A330-223,9M-MTX,Malaysia Airlines,22 May 2018,Stored,EI-GFK,"lsf AerCap, Malaysia Negaraku cs"
+912,Airbus A340-542,CS-TFX,Hi Fly,8 Jun 2015,Stored,F-WJKI,
+913,Airbus A330-343,D-AIKM,Lufthansa,19 Mar 2008,Stored,F-WWYJ,
+914,Airbus A330-202,CS-TOO,TAP - Air Portugal,2 Apr 2008,Stored,F-WWYL,"Fernão de Magalhães, lsf TrueAero"
+915,Airbus A330-342,OO-SFB,Brussels Airlines,31 Mar 2019,Stored,B-LAH,
+916,Airbus A330-243,B-6099,China Eastern Airlines,3 Apr 2008,Active,F-WWYP,
+917,Airbus A340-541,7T-VPP,Government of Algeria,10 Jun 2008,Active,F-WWTM,
+918,Airbus A330-302,A7-AEO,Qatar Airways,14 Apr 2008,Stored,F-WWYQ,"Shadeedah, lsf Castlelake"
+919,Airbus A330-243,B-6089,Hainan Airlines,15 Apr 2008,Stored,F-WWYS,lsf AerCap
+920,Airbus A330-302,B-18353,China Airlines,2 May 2008,Active,F-WWYU,lsf AerCap
+921,Airbus A340-313,OO-ABD,Air Belgium,1 Aug 2018,Active,F-WXAI,lsf AFS
+922,Airbus A330-343,D-AIKN,Lufthansa,21 May 2008,Stored,F-WWYY,
+923,Airbus A330-202,VT-JWV,Jet Airways,12 May 2014,Stored,A6-EYB,
+924,Airbus A340-642,HZ-SKY,Sky Prime,2 Feb 2016,Active,HZ-AA,
+925,Airbus A330-203,PH-AON,KLM Royal Dutch Airlines,11 Apr 2013,Stored,MRTT007,"Museumplein - Amsterdam, ON-512, lsf ALC"
+926,Airbus A330-243,OD-MED,MEA - Middle East Airlines,13 May 2013,Stored,F-ORMA,
+927,Airbus A330-223,EI-EWG,Pembroke,28 Sep 2017,Stored,5N-JID,
+928,Airbus A330-343,B-6100,China Eastern Airlines,25 Jul 2008,Active,F-WWKJ,
+929,Airbus A340-642,2-EALC,European Aviation Group,20 Jul 2018,Stored,A6-EHI,
+930,Airbus A330-243,B-6130,Air China,23 Jun 2008,Active,F-WWKS,
+931,Airbus A330-202,EC-KOM,Air Europa,30 Mar 2013,Stored,F-WWKU,lsf Zephyrus Aviation Capital
+932,Airbus A330-203,TC-JIN,Turkish Airlines,13 May 2014,Stored,VT-JWN,"Tarabya, lsf TrueAero"
+933,Airbus A340-642,EC-NFP,Plus Ultra,20 Nov 2019,Active,9H-AHL,
+934,Airbus A330-202,CS-TOP,TAP - Air Portugal,18 Jun 2008,Stored,F-WWKZ,"Pedro Nunes, lsf Aviator Capital"
+935,Airbus A330-343,OE-IEA,CDB Aviation,4 Mar 2020,Stored,B-6111,
+936,Airbus A330-343,B-6506,China Eastern Airlines,31 Jul 2008,Active,F-WWKG,
+937,Airbus A330-343,B-6112,China Southern Airlines,17 Jul 2008,Stored,F-WWKI,lsf CDB Aviation
+938,Airbus A340-313,OO-ABE,Air Belgium,26 Jun 2018,Active,F-WXAH,lsf AFS
+939,Airbus A330-223,TC-LNB,Turkish Airlines,Sep 2015,Stored,D-ALAB,"lsf DAE Capital, Star Alliance cs"
+940,Airbus A330-202,VH-EBJ,Qantas,26 Feb 2015,Stored,F-WWKL,"Margaret River, lsf Macquarie AirFinance"
+941,Airbus A330-243,B-6131,Air China,25 Jul 2008,Active,F-WWKO,
+942,Airbus A330-343,B-6507,China Eastern Airlines,8 Aug 2008,Active,F-WWYK,Shanghai Disney Resort: Minnie and Mickey Mouse cs
+943,Airbus A330-223,2-RLAX,Macquarie AirFinance,22 Aug 2018,Stored,VN-A376,
+944,Airbus A330-243,B-6132,Air China,25 Aug 2008,Active,F-WWYT,
+,,,,,,,
+945,Airbus A330-202,VH-EBK,Qantas,13 Aug 2015,Stored,F-WWYV,Savannah Way
+946,Airbus A330-223,EI-GCU,I-Fly,8 Dec 2017,Stored,VN-A383,lsf DAE Capital
+947,Airbus A330-202,2-ACUA,Altavair AirFinance,2 May 2019,Stored,VT-JWP,
+948,Airbus A330-243,VP-CCO,Aviation Capital Group (ACG),21 Feb 2020,Stored,G-TCXB,
+949,Airbus A330-223,TC-JIR,Turkish Airlines,24 Jul 2014,Stored,OE-ICY,"Çatalhöyük, lsf AerCap"
+950,Airbus A330-202,EC-KTG,Air Europa,30 Mar 2012,Stored,F-WWKQ,lsf Carlyle Aviation Partners
+951,Airbus KC-30A (A330-203MRTT),A39-002,Royal Australian Air Force,22 Jun 2011,Active,MRTT002,
+952,Airbus A330-343,9M-XXA,AirAsia X,1 Nov 2015,Stored,F-WWKR,"Xuberance, lsf ICBC, AirAsia X Turns 9 cs"
+953,Airbus A340-642,HS-TNF,Thai Airways International,29 Oct 2008,Stored,F-WWCM,Mae Hong Son
+954,Airbus A330-343,B-6500,China Southern Airlines,24 Sep 2008,Stored,F-WWKT,lsf CDB Aviation
+955,Airbus A340-313,M-IABU,Klaret Aviation,18 Dec 2009,Active,M-ABUS,
+956,Airbus A330-202,2-ACUB,Altavair AirFinance,2 May 2019,Stored,VT-JWQ,
+957,Airbus A330-243,B-6505,Air China,15 Oct 2008,Active,F-WWYC,
+958,Airbus A330-343,B-6502,China Southern Airlines,21 Oct 2008,Active,F-WWYD,lsf CDB Aviation
+959,Airbus A330-342,OO-SFD,Brussels Airlines,17 May 2018,Active,B-LAI,
+960,Airbus A340-642,EC-LEU,Iberia,1 Jul 2009,Stored,F-WWCG,Río Amazonas
+961,Airbus A330-223,TC-JIS,Turkish Airlines,11 Sep 2014,Stored,OE-ICZ,lsf AerCap
+962,Airbus A330-223,2-RLAY,Macquarie AirFinance,22 Oct 2018,Stored,VN-A377,
+963,Airbus A330-243,VP-BLX,Aeroflot - Russian Airlines,19 Nov 2008,Stored,F-WWYJ,"E. Svetlanov / Е. Светланов, lsf AerCap"
+964,Airbus A330-343,B-6501,China Southern Airlines,12 Nov 2008,Active,F-WWYK,lsf CDB Aviation
+965,Airbus A330-323,EI-GPJ,I-Fly,28 Nov 2019,Stored,F-OONE,lsf ALC
+966,Airbus A330-243,C-GTSR,Air Transat,2 Mar 2017,Stored,XA-MXP,"201, lsf Avolon"
+967,Airbus A330-243,VP-CCP,Aviation Capital Group (ACG),16 Apr 2020,Stored,G-TCXC,
+968,Airbus A330-223,9M-MTY,Malaysia Airlines,26 Dec 2018,Stored,EI-GFL,"lsf AerCap, Malaysia Negaraku cs"
+969,Airbus KC-30A (A330-203MRTT),A39-003,Royal Australian Air Force,1 Jun 2011,Active,MRTT003,
+970,Airbus A330-223,CS-TRY,Azores Airlines,3 Feb 2016,Stored,EI-EJY,"Ciprião de Figueiredo, lsf FPG Group, Sperm Whale cs"
+971,Airbus A330-243,C-GTSZ,Air Transat,14 Apr 2018,Stored,XA-MXQ,"202, lsf Tokyo Century Corporation"
+972,Airbus A340-642,D-AIHW,Lufthansa,22 Dec 2008,Stored,F-WWCL,
+973,Airbus A330-243,VP-BLY,Aeroflot - Russian Airlines,18 Dec 2008,Stored,F-WWKA,"V. Visotsky / В. Высоцкий, lsf AerCap"
+974,Airbus A330-343,9M-XXB,AirAsia X,18 Dec 2008,Stored,F-WWKD,"Xhilaration!, lsf ICBC, Girls' Frontline (少女前线) cs"
+975,Airbus A330-243,A6-EYR,Etihad Airways,13 Jan 2009,Stored,F-WWKS,lsf Avolon
+976,Airbus A330-203,VH-EBL,Qantas,12 Dec 2008,Stored,F-WWKU,Whitsundays
+977,Airbus A330-223,TC-JIT,Turkish Airlines,29 Sep 2014,Stored,OE-IDA,lsf AerCap
+978,Airbus A330-343,HS-XTI,Thai AirAsia X,28 Sep 2018,Stored,9V-STA,lsf DAE Capital
+979,Airbus A330-223,VP-BUA,Nordwind Airlines,22 Jun 2018,Stored,EI-EJZ,lsf TrueAero
+980,Airbus A330-202MRTT,2401,Royal Saudi Air Force,25 Jun 2013,Active,MRTT010,
+981,Airbus A340-642,D-AIHX,Lufthansa,25 Feb 2009,Stored,F-WWCN,
+982,Airbus A330-243,B-6133,Hainan Airlines,18 Feb 2009,Active,F-WWYY,lsf AerCap
+983,Airbus A330-343,OO-SFG,Brussels Airlines,5 Nov 2018,Active,9V-STB,
+984,Airbus A330-243,OD-MEA,MEA - Middle East Airlines,5 Feb 2009,Stored,F-WWKE,
+985,Airbus A330-302,EI-EAV,Aer Lingus,27 Feb 2009,Active,F-WWKF,St Ronan / Ronán
+986,Airbus A330-343,9V-STC,Singapore Airlines,24 Feb 2009,Stored,F-WWKG,lsf DAE Capital
+987,Airbus A340-642,D-AIHY,Lufthansa,24 Mar 2009,Stored,F-WWCQ,
+988,Airbus A330-243,B-8549,Capital Airlines,29 Jul 2016,Stored,EI-FNK,lsf AerCap
+989,Airbus A330-343,D-AIKO,Lufthansa,18 Feb 2009,Stored,F-WWKJ,Koblenz
+990,Airbus A330-343,HS-TEN,Thai Airways International,1 Apr 2009,Stored,F-WWKK,Suchada / สุชาดา
+991,Airbus A330-243,A6-EYS,Etihad Airways,4 Mar 2009,Stored,F-WWKM,lsf Avolon
+992,Airbus A330-243,EC-MAJ,Air Europa,21 Mar 2014,Stored,A9C-KJ,"Vicente del Bosque, lsf AerCap"
+993,Airbus A340-642,EC-LCZ,Iberia,29 Sep 2009,Stored,F-WWCK,Miguel Servet
+994,Airbus A330-302,OH-LTM,Finnair,26 Mar 2009,Stored,F-WWKO,lsf GECAS
+995,Airbus A330-243,OD-MEC,MEA - Middle East Airlines,20 May 2009,Stored,F-WWKQ,
+996,Airbus A330-202MRTT,2402,Royal Saudi Air Force,15 Feb 2013,Active,MRTT011,
+,,,,,,,
+997,Airbus A330-343,C-GEFA,Air Canada,12 Apr 2019,Active,CS-TOU,"939, lsf Aircastle"
+998,Airbus A330-243,OD-MEB,MEA - Middle East Airlines,25 Mar 2009,Stored,F-WWYT,
+999,Airbus A330-202,5A-ONF,Afriqiyah Airways,11 Aug 2009,Destroyed,F-WWYV,
+1000,Airbus A330-343,HB-JHA,Swiss,15 Apr 2009,Stored,F-WWYX,Schwyz
+1001,Airbus A330-323,HL7792,Asiana Airlines,23 Apr 2009,Active,F-WWKL,lsf Aviator Capital
+1002,Airbus A330-223,VP-BUB,Nordwind Airlines,24 Jul 2018,Stored,EI-ESA,lsf TrueAero
+1003,Airbus A330-343,HS-TEO,Thai Airways International,7 May 2009,Active,F-WWKR,Chutamat / จุฑามาศ
+1004,Airbus A330-243F,TC-JDO,Turkish Airlines,29 Sep 2010,Active,F-WWYE,Meriç
+1005,Airbus A340-642,D-AIHZ,Lufthansa,6 May 2009,Stored,F-WWCR,"Leipzig, lsf ORIX Aviation"
+1006,Airbus A330-343,C-GEGC,Air Canada,23 May 2019,Active,CS-TOV,"940, lsf Aircastle"
+1007,Airbus A330-302,OH-LTN,Finnair,24 Apr 2009,Stored,F-WWYC,lsf DVB Bank
+1008,Airbus A330-243,4R-ALS,SriLankan Airlines,Oct 2018,Stored,CS-TFZ,lsf AerCap
+1009,Airbus A330-243,N968AV,Avianca,29 Apr 2009,Stored,F-WWYE,
+1010,Airbus A330-343,OO-SFE,Brussels Airlines,9 May 2018,Active,9V-STF,
+1011,Airbus A330-243,N279AY,American Airlines,9 Dec 2013,Stored,F-WWYG,279
+1012,Airbus A330-343,C-GEGI,Air Canada,11 Sep 2019,Active,CS-TOW,"941, lsf Aircastle, Star Alliance cs"
+1013,Airbus A330-302,OH-LTO,Finnair,15 May 2009,Stored,F-WWKD,"lsf ORIX Aviation, Marimekko Unikko cs"
+1014,Airbus A330-243,VQ-BBE,Aeroflot - Russian Airlines,11 Jun 2009,Active,F-WWKU,"I. Brodsky / И. Бродский, lsf Avolon"
+1015,Airbus A330-343,C-GEGP,Air Canada,8 Oct 2019,Stored,CS-TOX,"942, lsf Aircastle, Star Alliance cs"
+1016,Airbus A330-243,N819CA,National Airlines,30 Mar 2020,Active,OE-IEJ,"819, lsf ALC"
+1017,Airbus A340-642,EC-KZI,Iberia,29 Jun 2009,Stored,F-WWCS,Miguel Hernández
+1018,Airbus A330-343,HB-JHB,Swiss,10 Jun 2009,Stored,F-WWYJ,Sion
+1019,Airbus A330-223,F-WTBU,Archway Aviation,Jun 2018,Stored,VN-A378,
+1020,Airbus A330-243,B-8019,Capital Airlines,9 Jul 2015,Stored,EI-FLG,lsf AerCap
+1021,Airbus A330-323,EI-GOT,I-Fly,11 Jun 2019,Active,F-GOTO,lsf ALC
+1022,Airbus A330-243,N280AY,American Airlines,9 Dec 2013,Stored,F-WWYP,"280, lsf Q Aviation"
+1023,Airbus A330-302,OH-LTP,Finnair,18 Jun 2009,Stored,F-WWYQ,
+1024,Airbus A330-202,5A-ONG,Afriqiyah Airways,8 Sep 2009,Written Off,F-WWYS,
+1025,Airbus A330-302,EI-EDY,Aer Lingus,12 Jun 2009,Active,F-WWYU,St Munchin / Maincín
+1026,Airbus A330-343,HB-JHD,Swiss,26 Aug 2009,Stored,F-WWYY,St. Gallen
+1027,Airbus A340-642,-,China Sonangol International,,Not Built,F-WWTN,
+1028,Airbus A330-243,B-8550,Capital Airlines,15 Nov 2016,Stored,EI-FNL,lsf Carlyle Aviation Partners
+1029,Airbus A330-343,HB-JHC,Swiss,29 Jul 2009,Stored,F-WWKE,Bellinzona
+1030,Airbus A340-642,9H-PGS,Maleth-Aero,1 Mar 2019,Stored,2-FIXP,lsf European Aviation Group
+1031,Airbus A330-223,B-LNC,Hong Kong Airlines,21 Jun 2010,Stored,F-WWKF,
+1032,Airbus A330-243F,EI-HEE,ASL Airlines Ireland,13 Mar 2020,Active,D-ALMC,
+1033,Airbus KC3 Voyager (A330-243MRTT),ZZ334,Royal Air Force,13 Aug 2014,Active,G-VYGE,
+1034,Airbus A330-223,B-LNI,Hong Kong Airlines,30 Jun 2011,Stored,B-6521,
+1035,Airbus A330-343,HS-TEP,Thai Airways International,29 Jul 2009,Stored,F-WWKS,Srianocha / ศรีอโนชา
+1036,Airbus KC-30A (A330-203MRTT),A39-004,Royal Australian Air Force,8 Nov 2011,Active,MRTT004,
+1037,Airbus A330-343,HS-TEQ,Thai Airways International,24 Dec 2009,Stored,F-WWYA,Si Ayutthaya / ศรีอยุธยา
+1038,Airbus A330-243,A4O-DA,Oman Air,14 Sep 2009,Stored,F-WWYM,
+1039,Airbus A330-223,B-LNE,Hong Kong Airlines,21 Oct 2010,Active,F-WJKJ,
+1040,Airbus A340-642,EC-NFQ,Plus Ultra,21 Jan 2020,Active,9H-PSI,
+1041,Airbus A330-243,N281AY,American Airlines,9 Dec 2013,Stored,F-WWYT,281
+1042,Airbus A330-223,B-LND,Hong Kong Airlines,4 Jun 2010,Stored,F-WWKK,
+1043,Airbus A330-202,5A-ONH,Afriqiyah Airways,1 Oct 2009,Stored,F-WWKM,
+1044,Airbus A330-343,A4O-DB,Oman Air,1 Oct 2009,Stored,F-WWKA,
+1045,Airbus A330-243,VQ-BBF,Aeroflot - Russian Airlines,8 Sep 2009,Stored,F-WWYB,"A. Griboedov / А. Грибоедов, lsf Avolon"
+1046,Airbus KC2 Voyager (A330-243MRTT),ZZ330,Royal Air Force,5 Apr 2012,Active,G-VYGA,
+1047,Airbus A330-243,VQ-BBG,Aeroflot - Russian Airlines,18 Sep 2009,Stored,F-WWKD,"N. Gogol / Н. Гоголь, lsf AerCap"
+1048,Airbus A330-343,9M-XXC,AirAsia X,30 Sep 2009,Stored,F-WWKI,"Midnight Xcapade, lsf Plane Business Leasing"
+,,,,,,,
+1049,Airbus A330-243,A4O-DC,Oman Air,26 Oct 2009,Stored,F-WWKL,
+1050,Airbus A340-541,VT-VJF,Kingfisher Airlines,,Not Built,,
+1051,Airbus A330-243F,B-LNZ,Hong Kong Airlines,3 Sep 2010,Active,F-WWKU,lsf HKIAL
+1052,Airbus A330-243,B-8221,Capital Airlines,26 Nov 2015,Active,PK-GPI,lsf AerCap
+1053,Airbus A330-243,VP-CAC,Midroc Aviation,19 Nov 2009,Stored,F-WWKR,
+1054,Airbus A330-223,B-LNG,Hong Kong Airlines,28 Oct 2010,Stored,F-WWYC,
+1055,Airbus A330-323,HL7793,Asiana Airlines,27 Oct 2009,Active,F-WWYD,lsf Aircastle
+1056,Airbus A330-202,VT-JWR,Jet Airways,,Not Built,,
+1057,Airbus A330-202,3B-NBL,Air Mauritius,28 Oct 2009,Active,F-WWYF,Nenuphar
+1058,Airbus A330-343,HS-XTK,Thai AirAsia X,9 Dec 2019,Stored,VQ-BCQ,lsf AerCap
+1059,Airbus A330-223,B-LNF,Hong Kong Airlines,16 Dec 2010,Stored,F-WJKF,
+1060,Airbus A330-343,HS-TER,Thai Airways International,23 Dec 2009,Stored,F-WWYQ,U Thong / อู่ทอง
+1061,Airbus A330-202,VH-EBM,Qantas,23 Nov 2009,Stored,F-WWKU,"Tamar Valley, lsf Avolon"
+1062,Airbus A330-243F,B-LNY,Hong Kong Air Cargo,Oct 2016,Active,F-WWKD,lsf HKIAL
+1063,Airbus A330-343,A4O-DD,Oman Air,30 Nov 2009,Active,F-WWYN,
+1064,Airbus A330-202,-,Airbus Industrie,,Not Built,,
+1065,Airbus A330-343,HS-XTL,Thai AirAsia X,24 Jan 2020,Stored,VQ-BCU,lsf AerCap
+1066,Airbus A330-343,9M-XXD,AirAsia X,18 Nov 2009,Stored,F-WWYI,"Soaring Xpectations, lsf Plane Business Leasing, Ultimate Fighting Championship (UFC) cs"
+1067,Airbus A330-302,OH-LTR,Finnair,17 Dec 2009,Stored,F-WWKY,
+1068,Airbus A330-223,-,TAM Linhas Aéreas,,Not Built,,
+1069,Airbus A330-243,N282AY,American Airlines,9 Dec 2013,Stored,F-WWYG,282
+1070,Airbus A330-243F,D-ALMD,EAT Leipzig,6 Sep 2018,Stored,A6-DCB,
+1071,Airbus A330-343,A6-AFA,Etihad Airways,23 Dec 2009,Stored,F-WWYP,Visit Abu Dhabi cs
+1072,Airbus A330-343,VQ-BCV,Aeroflot - Russian Airlines,10 Dec 2009,Stored,F-WWYK,"B. Pasternak / Б. Пастернак, lsf AerCap"
+1073,Airbus A330-243,N973AV,Avianca,7 Dec 2009,Stored,F-WWKZ,lsf Aircastle
+1074,Airbus A330-343,HS-TES,Thai Airways International,23 Dec 2009,Stored,F-WWKJ,Sukhothai / สุโขทัย
+1075,Airbus A330-343,9M-XXE,AirAsia X,22 Dec 2009,Active,F-WWKS,"Pioneering Xpedition, lsf Plane Business Leasing"
+1076,Airbus A330-243,N283AY,American Airlines,9 Dec 2013,Stored,F-WWKP,283
+1077,Airbus A330-343,F-HJAZ,Corsair,14 Feb 2020,Active,VQ-BEK,lsf AerCap
+1078,Airbus A330-302,OH-LTS,Finnair,11 Feb 2010,Active,F-WWYU,
+1079,Airbus A340-642,EC-LEV,Iberia,26 Mar 2010,Stored,F-WWCE,Isaac Albéniz
+1080,Airbus A330-243MRTT,1300,United Arab Emirates Air Force,31 Jul 2013,Active,MRTT013,
+1081,Airbus A330-343,A6-AFB,Etihad Airways,28 Jan 2010,Stored,F-WWYL,
+1082,Airbus A330-243,B-6518,Sichuan Airlines,4 Feb 2010,Stored,F-WWYZ,lsf Aviator Capital
+1083,Airbus A340-642,-,Iberia,,Not Built,,
+1084,Airbus A330-343,HB-JHE,Swiss,29 Jan 2010,Stored,F-WWKE,Fribourg
+1085,Airbus A330-343,OO-SFX,Brussels Airlines,9 Mar 2016,Active,LZ-AWE,lsf DAE Capital
+1086,Airbus A330-343,HS-TET,Thai Airways International,30 Mar 2010,Stored,F-WWYV,Kirimas / คีรีมาศ
+1087,Airbus A330-343,B-6512,Air China,9 Mar 2010,Active,F-WWKD,lsf CDB Aviation
+1088,Airbus A330-302,OH-LTT,Finnair,15 Apr 2010,Active,F-WWKH,
+1089,Airbus A330-343,HB-JHF,Swiss,16 Apr 2010,Active,F-WWKI,Bern
+1090,Airbus A330-343,HS-TEU,Thai Airways International,29 Mar 2010,Stored,F-WWYB,Chai Buri / ชัยบุรี
+1091,Airbus A340-541,9K-GBA,State of Kuwait,17 Apr 2013,Active,F-WJKH,
+1092,Airbus A330-243F,TC-JDP,Turkish Airlines,22 Jun 2011,Active,F-WWKS,Firat
+1093,Airbus A330-343,A4O-DE,Oman Air,23 Mar 2010,Stored,F-WWYM,
+1094,Airbus A330-202,VH-EBN,Qantas,23 Feb 2010,Stored,F-WWKM,"Clare Valley, lsf Zephyrus Aviation Capital"
+1095,Airbus A330-243,N284AY,American Airlines,9 Dec 2013,Stored,F-WWYS,284
+1096,Airbus A330-223,B-6135,China Southern Airlines,31 Mar 2010,Active,F-WWYT,
+1097,Airbus A330-343,EC-LXR,Air Europa,5 Mar 2014,Stored,EI-FBE,lsf Macquarie AirFinance
+1098,Airbus A330-343,TC-LOL,Turkish Airlines,18 Dec 2019,Stored,OE-IDU,lsf ICBC
+1099,Airbus A330-343,B-LNR,Hong Kong Airlines,8 Jul 2016,Active,LZ-AWF,lsf DAE Capital
+1100,Airbus A330-243,N285AY,American Airlines,9 Dec 2013,Stored,F-WWYF,285
+,,,,,,,
+1101,Airbus A330-343,HB-JHG,Swiss,16 Jun 2010,Stored,F-WWYI,Glarus
+1102,Airbus A340-541,9K-GBB,State of Kuwait,9 Nov 2013,Active,F-WJKI,
+1103,Airbus A330-343,VQ-BEL,Aeroflot - Russian Airlines,13 Apr 2010,Stored,F-WWYR,"F. Tyutchev / Ф. Тютчев, lsf AerCap"
+1104,Airbus A330-243,N380HA,Hawaiian Airlines,27 Apr 2010,Stored,F-WWYX,"Makali‘i, 380, lsf Avolon"
+1105,Airbus A330-343,B-LNS,Hong Kong Airlines,20 Jul 2016,Stored,LZ-AWG,lsf DAE Capital
+1106,Airbus A330-302,EI-ELA,Aer Lingus,7 Apr 2010,Stored,F-WWYH,"St Patrick / Padraig, lsf AerCap"
+1107,Airbus A330-343,B-LNT,Hong Kong Airlines,14 Sep 2016,Stored,9V-STM,lsf Merced Capital
+1108,Airbus A330-343,HZ-AQA,Saudi Arabian Airlines,10 May 2010,Stored,F-WWKZ,
+1109,Airbus A340-642,-,Airbus Industrie,,Not Built,,
+1110,Airbus A330-343,B-6511,Air China,10 May 2010,Active,F-WWYG,lsf CDB Aviation
+1111,Airbus A330-243,N286AY,US Airways,,Not Built,,
+1112,Airbus A330-223,9M-MTZ,Malaysia Airlines,10 Jul 2018,Stored,EI-GFM,"lsf AerCap, Malaysia Negaraku cs"
+1113,Airbus A340-542,-,Airbus Industrie,,Not Built,,
+1114,Airbus A330-243,N381HA,Hawaiian Airlines,27 May 2010,Stored,F-WWYN,"Hokūle‘a, 381, lsf Macquarie AirFinance"
+1115,Airbus A330-243F,B-LNX,Hong Kong Air Cargo,9 Nov 2017,Active,F-WWKO,lsf HKIAL
+1116,Airbus A330-223,B-6515,China Southern Airlines,11 May 2010,Stored,F-WWKJ,
+1117,Airbus A330-243,-,Airbus Industrie,,Not Built,,
+1118,Airbus A330-223,TC-JIZ,Turkish Airlines,14 Jul 2015,Stored,PT-MVT,"Alacahöyük, lsf Aviator Capital, Invest in Turkey cs"
+1119,Airbus A330-200,-,Airbus Industrie,,Not Built,,
+1120,Airbus A330-243,A4O-DF,Oman Air,9 Jun 2010,Stored,F-WWYA,
+1121,Airbus A330-343,-,Airbus Industrie,,Not Built,,
+1122,Airbus A340-642,EC-LFS,Iberia,16 Jul 2010,Stored,F-WWCF,Ciudad de México
+1123,Airbus A330-202,EI-EJG,Alitalia,6 Jul 2010,Stored,F-WWKY,"Raffaello Sanzio, lsf Voyager"
+1124,Airbus A330-343,D-AAED,EAT Leipzig,Mar 2020,Stored,B-LNU,
+1125,Airbus A330-302,-,Airbus Industrie,,Not Built,,
+1126,Airbus A330-343,9M-XXF,AirAsia X,12 Jul 2010,Stored,F-WWYQ,"Northern Xposure, lsf MSFL, 10 Xciting Years cs"
+1127,Airbus A330-343,HZ-AQB,Saudi Arabian Airlines,28 Jun 2010,Stored,F-WWYP,
+1128,Airbus A330-223,-,Airbus Industrie,,Not Built,,
+1129,Airbus A330-223,B-6516,China Southern Airlines,19 Jun 2010,Active,F-WWKE,
+1130,Airbus A330-343,B-6513,Air China,22 Jun 2010,Stored,F-WWKN,lsf CDB Aviation
+1131,Airbus A330-343,9M-XXG,AirAsia X,24 Sep 2010,Stored,F-WWYY,"Southern Xross, lsf MSFL"
+1132,Airbus A330-343,OO-SFF,Brussels Airlines,18 Jul 2019,Stored,9V-STO,lsf DVB Bank
+1133,Airbus A330-223,HL8211,Korean Air Lines,26 Jul 2010,Stored,F-WWKA,
+1134,Airbus A330-223,-,Airbus Industrie,,Not Built,,
+1135,Airbus A330-202,EI-EJH,Alitalia,23 Jul 2010,Active,F-WWYU,"Sandro Botticelli, lsf Voyager"
+1136,Airbus A330-223F,9M-MUA,Malaysia Airlines,14 Sep 2011,Active,F-WWYZ,
+1137,Airbus A330-343,HZ-AQC,Saudi Arabian Airlines,15 Jul 2010,Stored,F-WWKM,
+1138,Airbus A330-243,B-6517,Sichuan Airlines,23 Jul 2010,Active,F-WWYZ,lsf ALC
+1139,Airbus A330-200,-,Airbus Industrie,,Not Built,,
+1140,Airbus A330-200F,-,Airbus Industrie,,Not Built,,
+1141,Airbus A330-343,HZ-AQD,Saudi Arabian Airlines,23 Aug 2010,Active,F-WWKL,
+1142,Airbus A340-542,-,Airbus Industrie,,Not Built,,
+1143,Airbus A330-343,SU-GDS,EgyptAir,28 Aug 2010,Active,F-WWKQ,
+1144,Airbus A330-200,-,Airbus Industrie,,Not Built,,
+1145,Airbus A330-343,HB-JHH,Swiss,13 Aug 2010,Active,F-WWYD,Neuchâtel
+1146,Airbus A330-343,B-LHD,Hong Kong Airlines,18 Aug 2017,Stored,OE-IEY,lsf DVB Bank
+1147,Airbus A330-343,HZ-AQE,Saudi Arabian Airlines,27 Sep 2010,Stored,F-WWYB,Saudi National Day cs
+1148,Airbus A330-223F,9M-MUB,Malaysia Airlines,14 Nov 2011,Active,F-WWYL,
+1149,Airbus A330-343,C-GKUG,Air Canada,26 Feb 2020,Stored,9V-STQ,lsf AerCap
+1150,Airbus A330-343,TC-JNH,Turkish Airlines,28 Sep 2010,Stored,F-WWYM,Topkapı
+1151,Airbus A330-323,HL7794,Asiana Airlines,27 Sep 2010,Active,F-WWYS,lsf AerCap
+1153,Airbus A330-343,HZ-AQF,Saudi Arabian Airlines,25 Oct 2010,Stored,F-WWYT,
+,,,,,,,
+1154,Airbus A330-200,-,Airbus Industrie,,Not Built,,
+1155,Airbus A330-223,HL8212,Korean Air Lines,29 Sep 2010,Stored,F-WWKI,SkyTeam cs
+1156,Airbus A330-343,C-GKUH,Air Canada,18 Oct 2019,Stored,9V-STR,"945, lsf AerCap"
+1157,Airbus A330-343,OE-IEZ,Global Knafaim Leasing,21 Dec 2016,Stored,B-22105,
+1158,Airbus A330-200F,-,Airbus Industrie,,Not Built,,
+1159,Airbus A330-243,B-6519,Hainan Airlines,15 Oct 2010,Stored,F-WWKF,lsf CDB Aviation
+1160,Airbus A330-343,TC-JNI,Turkish Airlines,13 Oct 2010,Stored,F-WWKH,Konak
+1161,Airbus A330-203,PH-AOM,KLM Royal Dutch Airlines,22 Oct 2010,Stored,F-WWKP,"Piazza San Marco - Venezia, OM-511, lsf Fuyo General Lease (FGL)"
+1162,Airbus A330-200,-,Airbus Industrie,,Not Built,,
+1163,Airbus A330-342,B-LAJ,Cathay Pacific,22 Oct 2010,Stored,F-WWKR,
+1164,Airbus A330-223F,TC-JOO,Turkish Airlines,19 Sep 2018,Active,OE-IFJ,
+1165,Airbus A330-343,9M-XXH,AirAsia X,22 Nov 2010,Stored,F-WWYG,"Xtraordinary 1000, lsf ICBC, A Truly Passionate Allstar (Anaz Ahmad Tajuddin) cs"
+1166,Airbus A330-200F,-,Intrepid Aviation Partners (IAP),,Not Built,,
+1167,Airbus A330-343,A6-AFC,Etihad Airways,10 Nov 2010,Stored,F-WWYR,
+1168,Airbus A330-343,B-6520,Hainan Airlines,6 Dec 2010,Stored,F-WWYJ,lsf HKIAL
+1169,Airbus A330-202,VH-EBO,Qantas,15 Nov 2010,Stored,F-WWKJ,"Kimberley, lsf DAE Capital"
+1170,Airbus A330-343,TC-JNJ,Turkish Airlines,30 Nov 2010,Stored,F-WWKZ,Kapadokya
+1171,Airbus A330-243,N382HA,Hawaiian Airlines,10 Nov 2010,Stored,F-WWYA,"Iwakeli'i, 382, lsf Macquarie AirFinance"
+1172,Airbus A330-343,TC-JNK,Turkish Airlines,30 Nov 2010,Stored,F-WWYK,Şanlıurfa
+1173,Airbus A330-302,OH-LTU,Finnair,26 Nov 2010,Stored,F-WWYN,lsf BBAM
+1174,Airbus A330-202,VH-EBP,Qantas,14 Dec 2010,Stored,F-WWKS,"Ningaloo Reef, lsf Avolon"
+1175,Airbus A330-243F,B-LNV,Hong Kong Air Cargo,12 Dec 2017,Active,B-5900,lsf HKIAL
+1176,Airbus A330-200,-,Airbus Industrie,,Not Built,,
+1177,Airbus A330-302,B-18355,China Airlines,19 Nov 2010,Active,F-WWYI,lsf MSFL
+1178,Airbus A330-343,B-6527,Hainan Airlines,24 Jan 2011,Stored,F-WWKE,lsf HKIAL
+1179,Airbus A330-200,-,Airbus Industrie,,Not Built,,
+1180,Airbus A330-223F,9M-MUD,Malaysia Airlines,11 Apr 2012,Active,F-WWYR,
+1181,Airbus A330-343,HB-JHI,Swiss,16 Dec 2010,Stored,F-WWKM,Geneve
+1182,Airbus A330-200,-,Airbus Industrie,,Not Built,,
+1183,Airbus KC-30A (A330-203MRTT),A39-005,Royal Australian Air Force,30 Nov 2012,Active,MRTT005,
+1184,Airbus A330-243,PK-GPL,Garuda Indonesia,16 Dec 2010,Stored,F-WWKT,lsf Avolon
+1185,Airbus A330-200,-,Airbus Industrie,,Not Built,,
+1186,Airbus A330-243MRTT,1301,United Arab Emirates Air Force,6 Feb 2013,Active,MRTT014,
+1187,Airbus A330-343,B-6523,Air China,26 Jan 2011,Active,F-WWYP,
+1188,Airbus A330-343,HB-JHJ,Swiss,21 Jan 2011,Active,F-WWYQ,Appenzell
+1189,Airbus A330-343,HZ-AQH,Saudi Arabian Airlines,12 Jan 2011,Active,F-WWKA,
+1190,Airbus A330-343,B-6529,Hainan Airlines,25 Jan 2011,Stored,F-WWKG,lsf HKIAL
+1191,Airbus A330-243,ZS-SXZ,South African Airways,7 Feb 2011,Stored,F-WWKL,"Charlotte Maxeke, 201, lsf Aircastle"
+1192,Airbus A330-343,HZ-AQG,Saudi Arabian Airlines,7 Feb 2011,Active,F-WWKO,
+1193,Airbus A330-343,HB-JHQ,Edelweiss Air,18 Feb 2011,Stored,F-WWKQ,Pizol
+1194,Airbus A330-200,-,Airbus Industrie,,Not Built,,
+1195,Airbus A330-343,G-VSXY,Virgin Atlantic Airways,24 Feb 2011,Stored,F-WWKY,"Beauty Queen, lsf Aviator Capital"
+1196,Airbus A330-343,B-LAK,Cathay Pacific,25 Feb 2011,Stored,F-WWYD,
+1197,Airbus A330-200,-,Airbus Industrie,,Not Built,,
+1198,Airbus A330-202,VH-EBQ,Qantas,23 Jan 2014,Stored,F-WWYZ,"Wolgan Valley, lsf Avolon"
+1199,Airbus A330-343,B-6525,Air China,22 Feb 2011,Active,F-WWYU,
+1200,Airbus A330-223,HL8227,Korean Air Lines,14 Feb 2011,Stored,F-WWKI,
+1201,Airbus A330-343,G-VKSS,Virgin Atlantic Airways,28 Feb 2011,Stored,F-WWKU,"Mademoiselle Rouge, lsf AerCap"
+1202,Airbus A330-223,B-6528,China Southern Airlines,23 Feb 2011,Active,F-WWYB,
+1203,Airbus A330-223,HL8228,Korean Air Lines,7 Mar 2011,Stored,F-WWYE,
+1204,Airbus A330-343,TC-JNL,Turkish Airlines,30 Mar 2011,Active,F-WWYF,Trabzon
+1205,Airbus A330-343,A6-AFD,Etihad Airways,31 May 2011,Stored,F-WWKN,
+,,,,,,,
+1206,Airbus A330-343,G-VLUV,Virgin Atlantic Airways,30 Nov 2012,Stored,B-18391,"Lady Love, lsf AerCap"
+1207,Airbus A330-200,-,Airbus Industrie,,Not Built,,
+1208,Airbus A330-243,N974AV,Avianca,26 Mar 2019,Stored,PR-OBS,lsf CDB Aviation
+1209,Airbus A330-323,9M-MTA,Malaysia Airlines,4 Apr 2011,Active,F-WWYO,lsf Pembroke
+1210,Airbus A330-243,ZS-SXY,South African Airways,23 Mar 2011,Stored,F-WWYS,"202, lsf Aircastle"
+1211,Airbus A330-323,HL7795,Asiana Airlines,23 Mar 2011,Active,F-WWYV,lsf AerCap
+1212,Airbus A330-343,TC-JNM,Turkish Airlines,24 Mar 2011,Stored,F-WWYY,Samsun
+1213,Airbus A330-223,TC-LOH,Turkish Airlines,Jun 2018,Stored,VP-BYU,lsf AerCap
+1214,Airbus A330-243,PK-GPM,Garuda Indonesia,14 Apr 2011,Stored,F-WWKH,lsf DAE Capital
+1215,Airbus A330-343,G-VGEM,Virgin Atlantic Airways,30 Oct 2012,Stored,B-18392,"Diamond Girl, lsf Aviator Capital"
+1216,Airbus A330-343,B-6530,Air China,7 Apr 2011,Active,F-WWKP,
+1217,Airbus A330-243,N383HA,Hawaiian Airlines,12 Apr 2011,Active,F-WWKR,"Hanaiakamalama, 383"
+1218,Airbus A330-202,EI-EJI,Alitalia,15 Apr 2011,Stored,F-WWYT,"Canaletto, lsf ALC"
+1219,Airbus A330-323,9M-MTB,Malaysia Airlines,4 May 2011,Stored,F-WWYX,lsf Pembroke
+1220,Airbus A330-223,B-6526,China Southern Airlines,30 Apr 2011,Active,F-WWKD,
+1221,Airbus A330-223,TC-LOI,Turkish Airlines,2 Aug 2018,Stored,VP-BYV,lsf Aviator Capital
+1222,Airbus A330-343,B-LAL,Cathay Pacific,13 May 2011,Stored,F-WWYC,
+1223,Airbus A330-243,ZS-SXX,South African Airways,6 May 2011,Stored,F-WWYL,"203, lsf Aircastle"
+1224,Airbus A330-243,N975AV,Avianca,19 May 2011,Stored,F-WWKJ,lsf Merx Aviation
+1225,Airbus A330-202,EI-EJJ,Alitalia,19 May 2011,Active,F-WWKV,"Michelangelo Merisi Da Caravaggio, lsf ALC"
+1226,Airbus A330-343,A6-AFE,Etihad Airways,29 Jun 2011,Stored,F-WWKM,
+1227,Airbus A330-243,A4O-DG,Oman Air,25 May 2011,Stored,F-WWYG,
+1228,Airbus A330-343,TC-JNN,Turkish Airlines,16 May 2011,Stored,F-WWKZ,Selçuklu
+1229,Airbus A330-323,9M-MTC,Malaysia Airlines,10 Jun 2011,Active,F-WWYJ,lsf Jackson Square Aviation (JSA)
+1230,Airbus A330-343,SU-GDT,EgyptAir,23 Nov 2011,Stored,F-WWYR,
+1231,Airbus A330-343,G-VINE,Virgin Atlantic Airways,13 Aug 2012,Stored,N771RD,"Champagne Belle, lsf Avolon"
+1232,Airbus A330-343,VQ-BQX,Aeroflot - Russian Airlines,24 Jun 2011,Active,F-WWYI,О. Mandelshtam / О. Мандельштам
+1233,Airbus A330-223,B-6531,China Southern Airlines,22 Jun 2011,Active,F-WWYK,
+1234,Airbus A330-323,9M-MTD,Malaysia Airlines,24 Jun 2011,Active,F-WWYN,lsf Jackson Square Aviation (JSA)
+1235,Airbus A330-202MRTT,2403,Royal Saudi Air Force,23 Jan 2013,Active,MRTT012,
+1236,Airbus A330-243,ZS-SXW,South African Airways,1 Jul 2011,Stored,F-WWKA,"204, lsf Aircastle"
+1237,Airbus A330-243,B-6533,Air China,12 Jul 2011,Active,F-WWKG,lsf ALC
+1238,Airbus A330-343,SU-GDU,EgyptAir,25 Nov 2011,Stored,F-WWKI,
+1239,Airbus A330-343,B-LAM,Cathay Pacific,29 Jul 2011,Stored,F-WWKL,
+1240,Airbus A330-243 Prestige,TC-TUR,Turkey Government,6 Oct 2011,Active,F-WWKQ,
+1241,Airbus A330-243,B-6535,Sichuan Airlines,29 Jul 2011,Stored,F-WWYB,lsf Bocomm Leasing
+1243,Airbus A330-323,9M-MTE,Malaysia Airlines,3 Aug 2011,Stored,F-WWYP,oneworld cs
+1244,Airbus A330-223,B-6532,China Southern Airlines,30 Aug 2011,Active,F-WWYU,
+1245,Airbus A330-343,A6-AFF,Etihad Airways,22 Aug 2011,Stored,F-WWKU,
+1246,Airbus A330-343,SU-GDV,EgyptAir,20 Dec 2011,Active,F-WWKY,
+1247,Airbus A330-343,VQ-BQY,Aeroflot - Russian Airlines,31 Aug 2011,Active,F-WWYQ,М. Sholokhov / М. Шолохов
+1248,Airbus KC2 Voyager (A330-243MRTT),ZZ331,Royal Air Force,21 Feb 2013,Active,G-VYGB,
+1249,Airbus A330-243,VP-CGI,Tokyo Century Corporation,17 Apr 2020,Stored,ZS-SXV,
+1250,Airbus A330-243MRTT,1302,United Arab Emirates Air Force,16 May 2013,Active,MRTT015,
+1251,Airbus A330-202,VH-EBR,Qantas,19 Feb 2014,Stored,F-WWKK,"Lockyer Valley, lsf DAE Capital"
+1252,Airbus A330-202,EI-EJK,Alitalia,15 Sep 2011,Stored,F-WWKP,"Giotto, lsf ALC"
+1253,Airbus A330-202,5A-,Libyan Airlines,,Not Built,F-WWKR,
+1254,Airbus A330-302,B-16331,EVA Airways,20 Oct 2011,Active,F-WWYF,"lsf Avolon, Bad Badtz-Maru cs"
+1255,Airbus A330-343,B-6539,Hainan Airlines,21 Dec 2011,Stored,F-WWYM,lsf AVIC Leasing
+1256,Airbus A330-223,OE-IKY,Air Lease Corporation (ALC),5 Mar 2020,Stored,VN-A379,
+1258,Airbus A330-202,VH-EBS,Qantas,19 Apr 2013,Stored,F-WWYS,"Swan Valley, lsf Avolon"
+1259,Airbus A330-243,N384HA,Hawaiian Airlines,5 Oct 2011,Stored,F-WWYV,"Hōkūpa‘a, 384"
+,,,,,,,
+1260,Airbus A330-243,B-6536,Air China,17 Oct 2011,Active,F-WWYY,lsf ALC
+1261,Airbus A330-243,PK-GPN,Garuda Indonesia,10 Nov 2011,Stored,F-WWKF,lsf Carlyle Aviation Partners
+1262,Airbus A330-243,B-6537,China Eastern Airlines,17 Nov 2011,Active,F-WWKT,
+1263,Airbus A330-343,HS-TBA,Thai Airways International,16 Nov 2011,Stored,F-WWYC,Amnat Charoen / อำนาจเจริญ
+1264,Airbus A330-343,VQ-BNS,Aeroflot - Russian Airlines,16 Nov 2011,Stored,F-WWYT,"A. Bakulev / А. Бакулев, lsf Goshawk Aviation"
+1265,Airbus A330-323,F-HPTP,Air Caraïbes,25 Nov 2011,Stored,F-WWKZ,
+1266,Airbus A330-223,VN-A381,Vietnam Airlines,28 Nov 2011,Stored,F-WWKR,lsf ALC
+1267,Airbus A330-243,B-6538,China Eastern Airlines,5 Dec 2011,Active,F-WWKH,SkyTeam cs
+1268,Airbus A330-302,B-16332,EVA Airways,29 Nov 2011,Active,F-WWKN,"lsf Avolon, Sanrio Characters Joyful Dream cs"
+1269,Airbus A330-343,HS-TBB,Thai Airways International,6 Dec 2011,Stored,F-WWKV,Phrae / แพร่
+1270,Airbus A330-343,VQ-BQZ,Aeroflot - Russian Airlines,12 Dec 2011,Active,F-WWYG,N. Burdenko / Н. Бурденко
+1271,Airbus A330-243,ZS-SXU,South African Airways,7 Dec 2011,Stored,F-WWYX,"206, lsf Avolon"
+1272,Airbus A330-302,B-18356,China Airlines,14 Dec 2011,Active,F-WWKD,lsf DVB Bank
+1273,Airbus A330-202,5A-,Libyan Airlines,,Not Built,,
+1274,Airbus A330-302,B-16333,EVA Airways,15 Dec 2011,Active,F-WWKE,"lsf Avolon, Hello Kitty - Sanrio Characters cs"
+1275,Airbus KC3 Voyager (A330-243MRTT),ZZ332,Royal Air Force,13 Sep 2013,Active,G-VYGC,
+1276,Airbus A330-343,HB-JHK,Swiss,11 Jan 2012,Stored,F-WWYI,Herisau
+1277,Airbus A330-243,B-LNJ,Hong Kong Airlines,29 Mar 2014,Stored,F-WWYJ,
+1278,Airbus A330-302,B-18357,China Airlines,19 Jan 2012,Active,F-WWYK,lsf DVB Bank
+1279,Airbus A330-243,N279AV,Avianca Perú,28 May 2013,Stored,F-WWYN,"lsf CDB Aviation, Star Alliance cs"
+1280,Airbus A330-243,B-6543,China Eastern Airlines,19 Jan 2012,Active,F-WWKM,
+1281,Airbus A330-323,9M-MTF,Malaysia Airlines,23 Jan 2012,Active,F-WWKO,lsf Novus Aviation Capital
+1282,Airbus A330-243,B-6540,Air China,17 Jan 2012,Active,F-WWKS,
+1283,Airbus A330-202,EI-EJL,Alitalia,30 Jan 2012,Stored,F-WWKA,"Piero Della Francesca, lsf ALC"
+1284,Airbus A330-343,VQ-BMV,Aeroflot - Russian Airlines,1 Feb 2012,Stored,F-WWYA,"P. Kapitsa / П. Капица, lsf AerCap"
+1285,Airbus A330-343,B-LAN,Cathay Pacific,24 Feb 2012,Stored,F-WWYE,
+1286,Airbus A330-243,B-LNK,Hong Kong Airlines,26 Oct 2013,Stored,F-WWYH,
+1287,Airbus A330-303,PH-AKA,KLM Royal Dutch Airlines,29 Feb 2012,Stored,F-WWYP,"Times Square - New York, KA-551, lsf ALC"
+1288,Airbus A330-243,PK-GPO,Garuda Indonesia,22 Feb 2012,Stored,F-WWKL,lsf ALC
+1289,Airbus A330-343,HS-TBC,Thai Airways International,23 Feb 2012,Stored,F-WWKP,Kanchanaburi / กาญจนบุรี
+1290,Airbus A330-343,HB-JHL,Swiss,24 Feb 2012,Active,F-WWKU,Sarnen
+1291,Airbus A330-243,B-6545,China Eastern Airlines,16 Mar 2019,Active,F-WWYB,
+1292,Airbus A330-343,D-AIKP,Lufthansa,5 Apr 2012,Stored,F-WWYQ,Bottrop
+1293,Airbus A330-243,VH-XFC,Virgin Australia,5 Apr 2012,Stored,F-WWYU,"Mooloolaba Beach, lsf GKL"
+1294,Airbus A330-303,PH-AKB,KLM Royal Dutch Airlines,20 Mar 2012,Stored,F-WWKK,"Piazza Navona - Roma, KB-552, lsf CDB Aviation"
+1295,Airbus A330-243,N385HA,Hawaiian Airlines,9 Mar 2012,Stored,F-WWYD,"Manaiakalani, 385"
+1296,Airbus A330-343,G-VRAY,Virgin Atlantic Airways,30 Mar 2012,Stored,F-WWKF,"Miss Sunshine, lsf AerCap"
+1297,Airbus A330-223,B-6542,China Southern Airlines,29 Mar 2012,Active,F-WWYZ,
+1298,Airbus A330-343,TC-JNO,Turkish Airlines,16 Mar 2012,Stored,F-WWKG,Boğaziçi
+1299,Airbus A330-343,VQ-BMX,Aeroflot - Russian Airlines,29 Mar 2012,Stored,F-WWKQ,"A. Sakharov / А. Сахаров, lsf VTB Leasing"
+1300,Airbus A330-303,PH-AKD,KLM Royal Dutch Airlines,18 Apr 2012,Stored,F-WWYC,"Plaza de la Cathedral - Habana, KD-553, lsf BBAM"
+1301,Airbus A330-343,VQ-BMY,Aeroflot - Russian Airlines,12 Apr 2012,Active,F-WWYL,"I. Frank / И. Франк, lsf GECAS"
+1302,Airbus A330-243,N386HA,Hawaiian Airlines,26 Apr 2012,Active,F-WWYO,"Heiheionakeiki, 386"
+1303,Airbus A330-243,B-6546,China Eastern Airlines,3 Mar 2019,Active,F-WWYS,
+1304,Airbus A330-243,B-6541,Air China,24 Apr 2012,Active,F-WWYT,lsf CALC
+1305,Airbus A330-343,D-AIKQ,Lufthansa,27 Apr 2012,Stored,F-WWYV,Zwickau
+1306,Airbus A330-243,VH-XFD,Virgin Australia,25 Apr 2012,Stored,F-WWYY,Bells Beach
+1307,Airbus A330-343,TC-JNP,Turkish Airlines,26 Apr 2012,Stored,F-WWYX,Gökçeada
+1308,Airbus A330-202,EI-EJM,Alitalia,14 May 2012,Stored,F-WWKH,"Giovanni Battista Tiepolo, lsf DVB Bank"
+1309,Airbus A330-223,B-6547,China Southern Airlines,10 May 2012,Active,F-WWKI,
+1310,Airbus A330-243,N388HA,Hawaiian Airlines,11 May 2012,Stored,F-WWKN,"Nahiku, 388, lsf Doric Aviation"
+1311,Airbus A330-343,TC-JNR,Turkish Airlines,9 May 2012,Stored,F-WWKY,Haliç Golden Horn
+,,,,,,,
+1312,Airbus KC2 Voyager (A330-243MRTT),ZZ333,Royal Air Force,15 Aug 2013,Active,G-VYGD,
+1313,Airbus A330-202,EI-EJN,Alitalia,29 May 2012,Active,F-WWYM,"Il Tintoretto, lsf APC"
+1314,Airbus A330-343,D-AIKR,Lufthansa,31 May 2012,Active,F-WWKD,Oldenburg
+1315,Airbus A330-343,G-VNYC,Virgin Atlantic Airways,28 Jun 2012,Stored,F-WWKE,"Uptown Girl, lsf CDB Aviation"
+1316,Airbus A330-243,N389HA,Hawaiian Airlines,15 Jun 2012,Stored,F-WWKJ,"Keali'iokonaikalewa, 389, lsf ALC"
+1317,Airbus A330-343,B-LAO,Cathay Pacific,15 Jun 2012,Active,F-WWKR,
+1318,Airbus A330-323,9M-MTG,Malaysia Airlines,31 May 2012,Active,F-WWYI,
+1319,Airbus A330-243,VH-XFE,Virgin Australia,18 Jun 2012,Stored,F-WWTE,"Manly Beach, lsf ORIX Aviation"
+1320,Airbus A330-243F,B-LNW,Hong Kong Air Cargo,23 Mar 2017,Active,F-WWKL,lsf HKIAL
+1321,Airbus A330-202,VP-CKQ,Skytrooper,17 May 2019,Active,VP-CBE,
+1322,Airbus A330-243,B-LNL,Hong Kong Airlines,16 Nov 2013,Active,F-WWTI,
+1323,Airbus A330-343,VQ-BPI,Aeroflot - Russian Airlines,11 Jul 2012,Stored,F-WWTJ,L. Yashin / Л. Яшин
+1324,Airbus A330-243,B-5902,China Eastern Airlines,26 Jun 2012,Active,F-WWTK,Greenland Group cs
+1325,Airbus A330-343,B-5905,Hainan Airlines,9 Jul 2012,Active,F-WWTL,lsf HKIAL
+1326,Airbus A330-323,HL8258,Asiana Airlines,3 Jul 2012,Active,F-WWTM,lsf ALC
+1327,Airbus A330-202,EI-EJO,Alitalia,12 Jul 2012,Active,F-WWTN,"Tiziano, lsf DVB Bank"
+1328,Airbus A330-343,VQ-BPJ,Aeroflot - Russian Airlines,16 Jul 2012,Active,F-WWTO,V. Brumel / В. Брумель
+1329,Airbus A330-343,G-VGBR,Virgin Atlantic Airways,24 Aug 2012,Stored,F-WWTP,"Golden Girl, lsf CDB Aviation"
+1330,Airbus A330-243,B-6549,Air China,13 Jul 2012,Active,F-WWTQ,lsf CALC
+1331,Airbus A330-243,B-5903,China Eastern Airlines,23 Jul 2012,Active,F-WWTR,
+1332,Airbus A330-243F,TC-MCZ,MNG Airlines,19 Sep 2013,Active,F-WWTS,Murathan
+1333,Airbus A330-343,B-6503,Air China,10 Aug 2012,Active,F-WWTU,lsf ICBC
+1334,Airbus KC2 Voyager (A330-243MRTT),ZZ335,Royal Air Force,15 Aug 2013,Active,G-VYGF,
+1335,Airbus A330-223,B-6548,China Southern Airlines,30 Aug 2012,Active,F-WWTX,lsf Bocomm Leasing
+1336,Airbus A330-323,9M-MTH,Malaysia Airlines,30 Jul 2012,Active,F-WWTY,
+1337,Airbus A330-323,9M-MTI,Malaysia Airlines,31 Aug 2012,Active,F-WWTZ,
+1338,Airbus A330-343,HS-TBD,Thai Airways International,18 Sep 2012,Stored,F-WWCB,"Phayao / พะเยา, Star Alliance cs"
+1339,Airbus A330-202,YI-AQY,Iraqi Airways,30 Nov 2012,Stored,F-WWCC,
+1340,Airbus A330-323,HL8259,Asiana Airlines,12 Sep 2012,Stored,F-WWCE,lsf ALC
+1341,Airbus A330-343,G-VWAG,Virgin Atlantic Airways,15 Oct 2012,Stored,F-WWCG,"Miss England, lsf AerCap"
+1342,Airbus A330-243,N342AV,Avianca,17 Sep 2012,Stored,F-WWCK,"lsf Avolon, Star Alliance cs"
+1343,Airbus A330-343,B-LAP,Cathay Pacific,28 Sep 2012,Stored,F-WWCH,
+1344,Airbus A330-243F,TC-JDR,Turkish Airlines,9 Oct 2012,Active,F-WWCJ,Gediz
+1345,Airbus A330-343,VQ-BPK,Aeroflot - Russian Airlines,24 Sep 2012,Active,F-WWCI,I. Kulibin / И. Кулибин
+1346,Airbus A330-302,B-18358,China Airlines,15 Oct 2012,Active,F-WWCL,lsf Castlelake
+1347,Airbus A330-323,9M-MTJ,Malaysia Airlines,21 Sep 2012,Active,F-WWCM,
+1348,Airbus A330-343,HS-TBE,Thai Airways International,19 Oct 2012,Stored,F-WWCN,Sakon Nakhon / สกลนคร
+1349,Airbus A330-343,B-LAQ,Cathay Pacific,17 Oct 2012,Active,F-WWCO,
+1350,Airbus A330-243F,B-308L,Sichuan Airlines,11 Jul 2019,Active,D-ALAA,lsf BOC
+1351,Airbus A330-302,2-VJWR,GECAS,2 May 2019,Stored,VT-JWR,
+1352,Airbus A330-343,G-VUFO,Virgin Atlantic Airways,15 Nov 2012,Stored,F-WWCR,"Lady Stardust, lsf AerCap"
+1353,Airbus A330-343,B-5901,Air China,30 Oct 2012,Active,F-WWCS,lsf Bocomm Leasing
+1354,Airbus A330-202,EI-EJP,Alitalia,22 Oct 2012,Stored,F-WWCT,"Michelangelo Buonarroti, lsf Aergo Capital"
+1355,Airbus A330-343,HB-JHM,Swiss,31 Oct 2012,Stored,F-WWCU,
+1356,Airbus A330-343,VP-BDD,Aeroflot - Russian Airlines,30 Oct 2012,Active,F-WWCV,A. Moschaiski / A. Можайский
+1357,Airbus A330-343,N803AV,Avianca,23 Jan 2018,Active,B-22101,lsf GOAL
+1358,Airbus A330-343,B-LNM,Hong Kong Airlines,30 Nov 2012,Active,F-WWCY,
+1359,Airbus A330-343,F-HSKY,Corsair,16 Nov 2012,Stored,F-WWCZ,
+1360,Airbus A330-303,F-HXLF,XL Airways France,6 Nov 2014,Stored,F-WWKA,lsf GECAS
+1361,Airbus A330-302,M-ABLV,CDB Aviation,23 Apr 2019,Stored,VT-JWS,
+1362,Airbus A330-343,B-LAR,Cathay Pacific,26 Nov 2012,Active,F-WWKG,
+1363,Airbus KC3 Voyager (A330-243MRTT),ZZ336,Royal Air Force,21 Sep 2015,Active,G-VYGG,
+,,,,,,,
+1364,Airbus A330-243,PK-GPP,Garuda Indonesia,30 Nov 2012,Stored,F-WWKK,lsf Aircastle
+1365,Airbus A330-202,VH-EBV,Qantas,23 Nov 2012,Stored,F-WWKN,"Kangaroo Island, oneworld cs"
+1366,Airbus A330-343,B-LAX,Cathay Pacific,7 Dec 2012,Stored,F-WWKO,
+1367,Airbus A330-302,B-18359,China Airlines,6 Dec 2012,Active,F-WWKP,lsf Castlelake
+1368,Airbus A330-243F,N330QT,Avianca Cargo,28 May 2013,Active,F-WWKQ,
+1369,Airbus A330-343,B-LNN,Hong Kong Airlines,4 Feb 2016,Active,B-5910,
+1370,Airbus A330-302,M-ABLW,CDB Aviation,23 Apr 2019,Stored,VT-JWT,
+1371,Airbus A330-343,VP-BDE,Aeroflot - Russian Airlines,13 Dec 2012,Stored,F-WWKY,L. Kantorovich / Л. Канторович
+1372,Airbus A330-243,B-5908,China Eastern Airlines,20 Dec 2012,Active,F-WWYA,SkyTeam cs
+1373,Airbus A330-343,B-5906,Air China,21 Dec 2012,Active,F-WWYB,lsf ICBC
+1374,Airbus A330-343,HS-TBF,Thai Airways International,16 Jan 2013,Stored,F-WWYC,Sa Kaeo / สระแก้ว
+1375,Airbus A330-243,B-5920,China Eastern Airlines,11 Jan 2013,Active,F-WWYD,
+1376,Airbus A330-343,F-HZEN,Corsair,15 Jan 2013,Active,F-WWYE,lsf AMCK Aviation
+1377,Airbus A330-302,EC-LUB,Iberia,5 Feb 2013,Stored,F-WWYG,"Tikal, lsf ORIX Aviation"
+1378,Airbus A330-343,N804AV,Avianca,23 Jan 2018,Stored,B-22102,lsf GOAL
+1379,Airbus A330-202MRTT,2404,Royal Saudi Air Force,23 Apr 2014,Active,MRTT030,
+1380,Airbus A330-243F,N331QT,Avianca Cargo,28 May 2013,Active,F-WWYK,
+1381,Airbus A330-303,PH-AKE,KLM Royal Dutch Airlines,27 Feb 2013,Stored,F-WWYL,"Praça de Rossio - Lisboa, KE-554, lsf DVB Bank"
+1382,Airbus A330-343,EC-NBP,Evelop Airlines,29 Apr 2019,Active,9V-STT,lsf CDB Aviation
+1383,Airbus A330-343,B-5916,Air China,6 Feb 2013,Active,F-WWYO,lsf ICBC
+1384,Airbus A330-343,B-LNO,Hong Kong Airlines,5 Feb 2013,Active,F-WWYP,
+1385,Airbus A330-302,EC-LUK,Iberia,19 Feb 2013,Active,F-WWYQ,"Costa Rica, lsf AMCK Aviation"
+1386,Airbus A330-243F,B-308P,Sichuan Airlines,21 Nov 2019,Active,D-ALAB,lsf BOC
+1387,Airbus A330-343,B-LAZ,Cathay Pacific,25 Feb 2013,Stored,F-WWYS,
+1388,Airbus A330-323,9M-MTK,Malaysia Airlines,15 Feb 2013,Active,F-WWYT,
+1389,Airbus A330-243,N390HA,Hawaiian Airlines,25 Feb 2013,Stored,F-WWYU,"Nāmāhoe, 390, lsf ORIX Aviation"
+1390,Airbus KC2 Voyager (A330-243MRTT),ZZ337,Royal Air Force,26 Feb 2014,Active,G-VYGH,
+1391,Airbus A330-302,2-VJWU,GECAS,2 May 2019,Stored,VT-JWU,
+1392,Airbus A330-323,B-5917,China Southern Airlines,11 Mar 2013,Active,F-WWYY,lsf CMB Financial Leasing
+1393,Airbus A330-223,HL8276,Korean Air Lines,8 Mar 2013,Stored,F-WWYZ,
+1394,Airbus A330-243,DQ-FJT,Fiji Airways,27 Jun 2013,Stored,F-WWKD,Island of Taveuni
+1395,Airbus A330-323,9M-MTL,Malaysia Airlines,18 Mar 2013,Active,F-WWKH,
+1396,Airbus A330-243,B-5918,Air China,18 Mar 2013,Active,F-WWKJ,lsf Bocomm Leasing
+1397,Airbus A330-343,B-5923,Sichuan Airlines,28 Mar 2013,Active,F-WWKL,"lsf ALC, Wuliangye cs"
+1398,Airbus A330-343,B-LNP,Hong Kong Airlines,22 Mar 2013,Active,F-WWKR,
+1399,Airbus A330-243,N391HA,Hawaiian Airlines,9 Apr 2013,Active,F-WWKT,"Hokulei, 391"
+1400,Airbus A330-243,N280AV,Avianca,21 Mar 2013,Stored,F-WWKV,"lsf Wings Capital Partners, Star Alliance cs"
+1401,Airbus A330-343,9H-HFC,Hi Fly Malta,Dec 2019,Stored,9V-STU,lsf Merced Capital
+1402,Airbus A330-243,B-5921,China Eastern Airlines,26 Apr 2013,Active,F-WWYF,
+1403,Airbus A330-343,HB-JHN,Swiss,15 Apr 2013,Active,F-WWYI,Altdorf
+1404,Airbus A330-243,N392HA,Hawaiian Airlines,11 Apr 2013,Stored,F-WWYM,"Hikianalia, 392, lsf ORIX Aviation"
+1405,Airbus A330-302,EC-LUX,Iberia,19 Apr 2013,Stored,F-WWTO,"Panamá, lsf ORIX Aviation"
+1406,Airbus A330-243F,B-308Q,Sichuan Airlines,12 Sep 2019,Active,D-ALAC,lsf BOC
+1407,Airbus A330-243,VH-XFG,Virgin Australia,19 Apr 2013,Stored,F-WWTU,"Terrigal Beach, lsf Floreat Aviation"
+1408,Airbus A330-343,HS-TBG,Thai Airways International,22 Apr 2013,Stored,F-WWTI,Samut Prakan / สมุทรปราการ
+1409,Airbus A330-343,B-LBA,Cathay Pacific,26 Apr 2013,Stored,F-WWTV,
+1410,Airbus A330-243,PK-GPQ,Garuda Indonesia,30 Apr 2013,Active,F-WWTZ,
+1411,Airbus A330-343,9M-XXI,AirAsia X,22 Apr 2013,Stored,F-WWCM,"Xakura Blossom, lsf Aircastle"
+1412,Airbus A330-202,5A-LAR,Libyan Airlines,15 Jul 2013,Active,F-WWCK,
+1413,Airbus A330-343,B-5919,Air China,17 May 2013,Active,F-WWTJ,lsf ICBC
+1414,Airbus A330-243F,B-LDP,Air Hong Kong,9 Mar 2020,Active,EI-HED,
+1415,Airbus A330-243,N286AY,American Airlines,9 Dec 2013,Stored,F-WWTM,286
+,,,,,,,
+1416,Airbus A330-243,DQ-FJU,Fiji Airways,27 Jun 2013,Stored,F-WWTK,Island of Namuka-i-Lau
+1417,Airbus A330-243,N287AY,American Airlines,9 Dec 2013,Stored,F-WWCE,287
+1418,Airbus A330-243F,TC-JDS,Turkish Airlines,30 May 2013,Active,F-WWCB,Trakya
+1419,Airbus KC2 Voyager (A330-243MRTT),ZZ338,Royal Air Force,6 Jun 2014,Active,G-VYGI,
+1420,Airbus A330-343,RP-C3341,Cebu Pacific,13 Jun 2013,Stored,F-WWTR,lsf Macquarie AirFinance
+1421,Airbus A330-243,B-5926,China Eastern Airlines,4 Jun 2013,Active,F-WWTQ,
+1422,Airbus A330-243,N393HA,Hawaiian Airlines,17 Jun 2013,Stored,F-WWTX,"Lehuakona, 393"
+1423,Airbus A330-343,9M-XXJ,AirAsia X,10 Jun 2013,Active,F-WWTY,"Harmonious DiverXity, Noise Cancelling - Sony cs"
+1424,Airbus A330-202,5A-LAS,Libyan Airlines,27 Jun 2013,Written Off,F-WWTP,
+1425,Airbus A330-323,B-5922,China Southern Airlines,20 Jun 2013,Active,F-WWKM,lsf CMB Financial Leasing
+1426,Airbus A330-302,EC-LXK,Iberia,27 Jun 2013,Stored,F-WWCG,"El Salvador, lsf BOC"
+1427,Airbus A330-343,A4O-DZ,Oman Air,31 Aug 2019,Stored,9V-STV,lsf Merced Capital
+1428,Airbus A330-243F,N332QT,Avianca Cargo,1 Jul 2013,Active,F-WWCI,
+1429,Airbus A330-243,B-5930,China Eastern Airlines,1 Jul 2013,Active,F-WWCJ,
+1430,Airbus A330-323,B-5928,China Southern Airlines,23 Jul 2013,Active,F-WWCL,lsf Comsys Aviation Leasing
+1431,Airbus A330-323,9M-MTM,Malaysia Airlines,31 Jul 2013,Active,F-WWCN,
+1432,Airbus A330-343,B-5929,Sichuan Airlines,19 Jul 2013,Active,F-WWCO,"lsf Voyager, Wuliangye cs"
+1433,Airbus A330-343,9M-XXK,AirAsia X,10 Nov 2015,Stored,F-WWCS,Xklusive
+1434,Airbus A330-243,B-5925,Air China,1 Aug 2013,Active,F-WWCT,lsf CALC
+1435,Airbus A330-323,HL8282,Asiana Airlines,15 Jul 2013,Stored,F-WWCU,lsf ALC
+1436,Airbus A330-343,B-LBB,Cathay Pacific,19 Jul 2013,Stored,F-WWCV,
+1437,Airbus A330-302,EC-LYF,Iberia,13 Nov 2013,Stored,F-WWKA,"Juan Carlos I, lsf BOC"
+1438,Airbus A330-343,B-5935,Hainan Airlines,6 Aug 2013,Stored,F-WWKE,
+1439,Airbus A330-243,G-VYGJ,AirTanker,15 Aug 2014,Active,MRTT025,
+1440,Airbus A330-243,B-5931,China Eastern Airlines,2 Mar 2019,Active,F-WWKG,People's Daily Online cs
+1441,Airbus A330-243,N288AY,American Airlines,9 Dec 2013,Stored,F-WWKI,288
+1442,Airbus A330-243F,TC-JCI,Turkish Airlines,27 Aug 2013,Active,F-WWKK,Kervan
+1443,Airbus A330-343,B-LBC,Cathay Pacific,19 Aug 2013,Stored,F-WWKN,
+1444,Airbus A330-243,B-5927,Air China,4 Sep 2013,Stored,F-WWKO,lsf CALC
+1445,Airbus A330-343,RP-C3342,Cebu Pacific,3 Sep 2013,Active,F-WWKP,lsf Avolon
+1446,Airbus A330-343,PK-GPR,Garuda Indonesia,25 Sep 2013,Stored,F-WWKQ,Skyteam cs
+1447,Airbus A330-343,OE-IED,Seraph Aviation,26 Sep 2019,Stored,9V-STW,
+1448,Airbus A330-243F,N334QT,Avianca Cargo,29 Oct 2013,Active,F-WWKU,
+1449,Airbus A330-343,RP-C8782,Philippine Airlines,26 Sep 2013,Stored,F-WWKY,
+1450,Airbus A330-302,B-18360,China Airlines,2 Dec 2013,Active,F-WWYA,lsf Goshawk Aviation
+1451,Airbus A330-243,V5-ANO,Air Namibia,25 Sep 2013,Stored,F-WWYC,lsf Voyager
+1452,Airbus A330-243,VH-XFH,Virgin Australia,25 Sep 2013,Stored,F-WWYD,"Duranbah Beach, lsf Avolon"
+1453,Airbus A330-343,9H-TAJ,Hi Fly Malta,24 Dec 2019,Stored,9H-STY,lsf Merced Capital
+1454,Airbus A330-343,HZ-AQI,Saudi Arabian Airlines,28 Oct 2013,Stored,F-WWYG,
+1455,Airbus A330-243,N289AY,American Airlines,9 Dec 2013,Stored,F-WWYH,289
+1456,Airbus A330-343,RP-C8780,Philippine Airlines,11 Oct 2013,Stored,F-WWYJ,
+1457,Airbus A330-343,B-HWM,Cathay Dragon,21 Nov 2016,Stored,F-WWYO,
+1458,Airbus A330-303,TC-JNS,Turkish Airlines,20 Nov 2013,Stored,F-WWYP,"Hattuşaş, lsf SMBC"
+1459,Airbus A330-243,B-5932,Air China,17 Oct 2013,Active,F-WWCC,
+1460,Airbus A330-343,RP-C8781,Philippine Airlines,21 Oct 2013,Active,F-WWCP,
+1461,Airbus A330-243,B-5936,China Eastern Airlines,23 Oct 2013,Stored,F-WWCQ,
+1462,Airbus A330-343,HZ-AQK,Saudi Arabian Airlines,5 Nov 2013,Stored,F-WWCR,
+1463,Airbus A330-343,RP-C8783,Philippine Airlines,4 Nov 2013,Stored,F-WWCX,
+1464,Airbus A330-323,HL8286,Asiana Airlines,13 Nov 2013,Active,F-WWCY,lsf Avolon
+1465,Airbus A330-243,DQ-FJV,Fiji Airways,4 Nov 2013,Active,F-WWCZ,Island of Yasawa-i-Rara
+1466,Airbus A330-243,V5-ANP,Air Namibia,22 Nov 2013,Active,F-WWCD,lsf Voyager
+1467,Airbus A330-343,RP-C8784,Philippine Airlines,27 Nov 2013,Stored,F-WWKL,lsf BBAM
+,,,,,,,
+1468,Airbus A330-243,B-5937,China Eastern Airlines,11 Dec 2013,Active,F-WWKT,
+1469,Airbus A330-243,N395HA,Hawaiian Airlines,18 Nov 2013,Stored,F-WWKZ,"'A'a, 395"
+1470,Airbus A330-323,9M-MTN,Malaysia Airlines,2 Dec 2013,Active,F-WWYF,lsf Novus Aviation Capital
+1471,Airbus A330-243,B-5933,Air China,2 Dec 2013,Stored,F-WWYI,
+1472,Airbus A330-202,5A-ONP,Afriqiyah Airways,30 Dec 2013,Stored,F-WWYK,
+1473,Airbus A330-343,HZ-AQJ,Saudi Arabian Airlines,16 Dec 2013,Active,F-WWYL,
+1474,Airbus A330-243,PK-GPS,Garuda Indonesia,16 Dec 2013,Stored,F-WWYM,lsf CMIG Aviation Leasing
+1475,Airbus A330-343,RP-C8785,Philippine Airlines,6 Dec 2013,Stored,F-WWYQ,lsf BBAM
+1476,Airbus A330-303,TC-JNT,Turkish Airlines,3 Dec 2013,Stored,F-WWYR,"Bursa, lsf SMBC"
+1477,Airbus A330-343,9H-HFD,Hi Fly Malta,Feb 2020,Stored,9V-STZ,
+1478,Airbus A330-202MRTT,2405,Royal Saudi Air Force,27 Mar 2015,Active,MRTT031,
+1479,Airbus A330-243,B-5938,China Eastern Airlines,9 Dec 2013,Active,F-WWYU,
+1480,Airbus A330-243,N290AY,American Airlines,17 Dec 2013,Stored,F-WWYV,290
+1481,Airbus A330-343,9M-XXP,AirAsia X,9 Jan 2014,Stored,F-WWYX,"Xiao Long Bao, lsf Aircastle"
+1482,Airbus A330-343,RP-C8786,Philippine Airlines,21 Jan 2014,Stored,F-WWCM,lsf BBAM
+1483,Airbus A330-343,TC-LOA,Turkish Airlines,9 Mar 2017,Active,EI-FNY,lsf Voyager
+1484,Airbus A330-243,B-5941,China Eastern Airlines,27 Jan 2014,Active,F-WWKJ,
+1485,Airbus A330-343,C-GOFW,Air Canada,18 Mar 2020,Stored,9V-SSA,lsf DVB Bank
+1486,Airbus A330-243,A6-EYT,Etihad Airways,31 Jan 2014,Stored,F-WWYN,
+1487,Airbus A330-303,TC-JNZ,Turkish Airlines,14 Jan 2014,Active,F-WWYY,"Kartalkaya, lsf SMBC"
+1488,Airbus A330-243,N396HA,Hawaiian Airlines,29 Jan 2014,Active,F-WWYZ,"Keoe, 396"
+1489,Airbus A330-323,9M-MTO,Malaysia Airlines,30 Jan 2014,Stored,F-WWTI,oneworld cs
+1490,Airbus A330-302,EC-LZJ,Iberia,24 Jan 2014,Stored,F-WWTJ,"Miami, lsf BOC"
+1491,Airbus A330-343,TC-LOB,Turkish Airlines,15 May 2017,Active,EI-FNZ,lsf Voyager
+1492,Airbus A330-243,PR-AIS,Azul Linhas Aéreas Brasileiras,22 Jul 2019,Stored,N941AV,"Voa Azul, lsf Aircastle"
+1493,Airbus A330-343,B-5912,Air China,14 Feb 2014,Active,F-WWTM,
+1494,Airbus A330-323,B-5939,China Southern Airlines,14 Feb 2014,Active,F-WWTN,lsf CMB Financial Leasing
+1495,Airbus A330-343,RP-C3343,Cebu Pacific,19 Feb 2014,Active,F-WWTO,lsf Avolon
+1496,Airbus A330-243,N399HA,Hawaiian Airlines,26 Feb 2014,Active,F-WWTP,"Kūmau, 399"
+1497,Airbus A330-343,D-AIKS,Lufthansa,12 Mar 2014,Stored,F-WWTQ,
+1498,Airbus A330-243,G-VYGK,AirTanker,21 Mar 2020,Active,MRTT026,
+1499,Airbus A330-302,TC-JOM,Turkish Airlines,30 Apr 2015,Stored,F-WXAK,"Efes (Ephesus), lsf Afriqiyah Airways"
+1500,Airbus A330-243,B-5942,China Eastern Airlines,3 Mar 2014,Active,F-WWTU,
+1501,Airbus A330-303,TC-JOA,Turkish Airlines,4 Mar 2014,Active,F-WWTV,"Pamukkale, lsf SMBC"
+1502,Airbus A330-243,N291AY,American Airlines,17 Mar 2014,Stored,F-WWTX,291
+1503,Airbus A330-343,B-LBD,Cathay Dragon,21 Nov 2016,Stored,F-WWTY,
+1504,Airbus A330-343,RP-C8789,Philippine Airlines,11 Mar 2014,Active,F-WWTZ,
+1505,Airbus A330-202,5A-LAT,Libyan Airlines,30 Dec 2014,Active,F-WWKE,
+1506,Airbus A330-243F,N336QT,Avianca Cargo,9 May 2019,Active,PR-ONV,
+1507,Airbus A330-302,EC-LZX,Iberia,17 Mar 2014,Stored,F-WWKG,"Madrid, lsf BOC"
+1508,Airbus A330-243,OE-IDV,Avolon,22 Aug 2019,Stored,N508AV,
+1509,Airbus A330-343,B-5913,Air China,28 Mar 2014,Active,F-WWKK,
+1510,Airbus A330-343,RP-C8760,Philippine Airlines,17 Apr 2014,Active,F-WWKM,lsf Stratos Aircraft Management
+1511,Airbus A330-243,N370HA,Hawaiian Airlines,1 Apr 2014,Active,F-WWKN,"Kuamoʻo, 370"
+1512,Airbus A330-243,N292AY,American Airlines,1 Apr 2014,Stored,F-WWKO,292
+1513,Airbus A330-343,HZ-AQL,Saudi Arabian Airlines,23 Apr 2014,Stored,F-WWKP,SkyTeam cs
+1514,Airbus A330-303,TC-JOB,Turkish Airlines,22 Apr 2014,Stored,F-WWKQ,Bozcaada
+1515,Airbus A330-302,EC-MAA,Iberia,22 Apr 2014,Stored,F-WWKR,"Rio de Janeiro, lsf BOC"
+1516,Airbus A330-202MRTT,2406,Royal Saudi Air Force,15 Jun 2015,Active,MRTT032,
+1517,Airbus A330-343,9V-SSB,Singapore Airlines,29 Apr 2014,Stored,F-WWYC,lsf Dragon Aviation Leasing
+1518,Airbus A330-323,HL8293,Asiana Airlines,17 Apr 2014,Active,F-WWYD,lsf Doric Aviation
+1519,Airbus A330-323,B-5940,China Southern Airlines,17 Apr 2014,Active,F-WWYE,lsf Comsys Aviation Leasing
+,,,,,,,
+1520,Airbus A330-243,B-5943,China Eastern Airlines,24 Apr 2014,Active,F-WWYJ,"lsf CCB Financial Leasing, eastday.com cs"
+1521,Airbus A330-243,A6-EYU,Etihad Airways,19 May 2014,Stored,F-WWKA,
+1522,Airbus A330-303,TC-JOC,Turkish Airlines,27 May 2014,Written Off,F-WWKU,"Göbeklitepe, lsf Yamasa Aircraft Leasing"
+1523,Airbus A330-343,B-LBE,Cathay Dragon,24 Dec 2016,Stored,F-WWKZ,
+1524,Airbus A330-243F,D-ALMA,EAT Leipzig,14 Aug 2018,Active,A6-DCD,
+1525,Airbus A330-343,B-5946,Air China,23 May 2014,Active,F-WWYG,lsf CITIC Financial Leasing
+1526,Airbus A330-243,N293AY,American Airlines,23 May 2014,Stored,F-WWYH,293
+1527,Airbus A330-343,RP-C3344,Cebu Pacific,16 May 2014,Active,F-WWYO,lsf Avolon
+1528,Airbus A330-343,B-5945,Sichuan Airlines,23 May 2014,Active,F-WWYP,"lsf Castlelake, 31st Summer Universiade 2021 Chengdu cs"
+1529,Airbus A330-303,TC-JOD,Turkish Airlines,27 Jun 2014,Stored,F-WWCC,Malazgirt
+1530,Airbus A330-243,N373HA,Hawaiian Airlines,16 Jun 2014,Active,F-WWCE,"Kūkalani'ehu, 373"
+1531,Airbus A330-343,RP-C8762,Philippine Airlines,18 Jun 2014,Stored,F-WWCG,lsf DAE Capital
+1532,Airbus A330-343,B-5950,Hainan Airlines,7 Jul 2014,Stored,F-WWCH,
+1533,Airbus A330-343,9M-XXS,AirAsia X,6 Jun 2014,Stored,F-WWCI,"Xhaolin Spirit, lsf DAE Capital"
+1534,Airbus A330-243F,N335QT,Avianca Cargo,31 Dec 2014,Active,F-WWCJ,
+1535,Airbus A330-302,5A-ONR,Afriqiyah Airways,30 Dec 2014,Stored,F-WHUT,
+1536,Airbus A330-323,B-5951,China Southern Airlines,24 Jun 2014,Active,F-WWCL,
+1537,Airbus A330-243,B-5949,China Eastern Airlines,25 Jun 2014,Active,F-WWCN,"lsf ICBC, SkyTeam cs"
+1538,Airbus A330-343,B-5947,Air China,30 Jun 2014,Active,F-WWCO,lsf CITIC Financial Leasing
+1539,Airbus A330-302,B-18361,China Airlines,27 Jun 2014,Active,F-WWCP,"lsf Jade Aviation, Cloud Gate Dance Theatre (雲門舞集) cs"
+1540,Airbus A330-243,EP-IJA,Iran Air,11 Mar 2017,Active,F-WXAJ,
+1541,Airbus A330-343,B-5948,Air China,29 Jul 2014,Active,F-WWCR,lsf ICBC
+1542,Airbus A330-343,TC-LOC,Turkish Airlines,28 Mar 2017,Stored,EI-FSC,lsf Voyager
+1543,Airbus A330-202,5A-LAU,Libyan Airlines,25 Aug 2015,Stored,F-WWCT,
+1544,Airbus A330-343,9V-SSC,Singapore Airlines,15 Jul 2014,Stored,F-WWCU,lsf BBAM
+1545,Airbus A330-343,B-LBF,Cathay Dragon,4 Feb 2017,Active,F-WWCV,
+1546,Airbus A330-343,RP-C8763,Philippine Airlines,18 Jul 2014,Active,F-WWCX,lsf GECAS
+1547,Airbus A330-243,B-5952,China Eastern Airlines,22 Jul 2014,Active,F-WWCY,
+1548,Airbus A330-343,PK-GPT,Garuda Indonesia,18 Aug 2014,Stored,F-WWCZ,lsf Avolon
+1549,Airbus A330-343,9M-XXT,AirAsia X,14 Aug 2014,Stored,F-WWKD,"lsf DAE Capital, Xcintillating PhoeniX cs"
+1550,Airbus A330-243F,TC-JOU,Turkish Airlines,17 Apr 2015,Stored,F-WWKL,Ceyhan
+1551,Airbus A330-343,B-5953,China Eastern Airlines,25 Aug 2014,Active,F-WWKT,
+1552,Airbus A330-343,RP-C3345,Cebu Pacific,30 Aug 2014,Active,F-WWKV,lsf Voyager
+1553,Airbus A330-343,RP-C8764,Philippine Airlines,29 Aug 2014,Stored,F-WWYA,lsf Avolon
+1554,Airbus A330-343,TC-LOD,Turkish Airlines,6 Apr 2017,Active,EI-FSD,lsf Aviator Capital
+1555,Airbus A330-243,G-VYGL,AirTanker,19 Mar 2020,Active,ZZ341,
+1556,Airbus A330-323,HL8001,Korean Air Lines,29 Sep 2014,Active,F-WWYK,
+1557,Airbus A330-343,B-LBG,Cathay Dragon,13 Mar 2017,Stored,F-WWYL,
+1558,Airbus A330-243,B-5955,Hainan Airlines,30 Sep 2014,Active,F-WWYM,lsf HKIAL
+1559,Airbus A330-343,RP-C8765,Philippine Airlines,17 Oct 2014,Stored,F-WWYQ,lsf DVB Bank
+1560,Airbus A330-343,PK-GPU,Garuda Indonesia,22 Sep 2014,Stored,F-WWYR,lsf Avolon
+1561,Airbus A330-243,VH-XFJ,Virgin Australia,22 Sep 2014,Stored,F-WWYS,"Gnaraloo Bay, lsf CBA"
+1562,Airbus A330-343,9V-SSD,Singapore Airlines,19 Sep 2014,Stored,F-WWYU,lsf BBAM
+1563,Airbus A330-343,B-5956,Air China,29 Sep 2014,Active,F-WWYV,lsf SPDB Financial Leasing
+1564,Airbus A330-343,4R-ALL,SriLankan Airlines,29 Oct 2014,Stored,F-WWYX,"City of Sri Jayawardenapura, lsf ALC"
+1565,Airbus A330-243,N374HA,Hawaiian Airlines,14 Oct 2014,Active,F-WWYY,"Melemele, 374"
+1566,Airbus A330-343,RP-C8766,Philippine Airlines,21 Nov 2014,Active,F-WWKG,lsf Avolon
+1567,Airbus A330-343,B-LBH,Cathay Dragon,17 Jul 2017,Active,F-WWKH,
+1568,Airbus A330-343,RP-C8771,Philippine Airlines,28 Nov 2014,Active,F-WWKJ,lsf Avolon
+1569,Airbus A330-243,B-5961,China Eastern Airlines,30 Oct 2014,Active,F-WWKK,
+1570,Airbus A330-343,B-5957,Air China,24 Oct 2014,Stored,F-WWKN,lsf SinoSinga Aircraft Leasing
+1571,Airbus A330-303,TC-JOE,Turkish Airlines,20 Nov 2014,Stored,F-WWKO,Diyarbakır
+,,,,,,,
+1572,Airbus A330-343,A4O-DH,Oman Air,25 Nov 2014,Stored,F-WWKP,
+1573,Airbus A330-243,B-5963,Hainan Airlines,7 Nov 2014,Stored,F-WWKQ,lsf HKIAL
+1574,Airbus A330-343,EC-MHL,Air Europa,30 Jul 2015,Stored,OE-IDI,"Francisca Acera, lsf Avolon"
+1575,Airbus A330-323,B-5959,China Southern Airlines,19 Nov 2014,Active,F-WWKS,lsf CMB Financial Leasing
+1576,Airbus A330-323,HL8002,Korean Air Lines,28 Nov 2014,Active,F-WWYD,
+1577,Airbus A330-343,PK-GPV,Garuda Indonesia,18 Nov 2014,Stored,F-WWYN,lsf Jackson Square Aviation (JSA)
+1578,Airbus A330-243F,A7-AFF,Qatar Airways Cargo,24 Nov 2014,Active,F-WWYT,
+1579,Airbus A330-343,B-5960,Sichuan Airlines,25 Nov 2014,Active,F-WWYZ,lsf Voyager
+1580,Airbus A330-303,PH-AKF,KLM Royal Dutch Airlines,4 Dec 2014,Stored,F-WWCD,"Hofplein - Rotterdam, KF-555"
+1581,Airbus A330-343,9M-XXU,AirAsia X,24 Nov 2014,Stored,F-WWCM,"Rhythmic Xperience, lsf APALG, X-Men: Apocalypse cs"
+1582,Airbus A330-343,A4O-DI,Oman Air,11 Dec 2014,Stored,F-WWKA,
+1583,Airbus A330-343,4R-ALM,SriLankan Airlines,18 Dec 2014,Active,F-WWKF,"City of Sihagiri, lsf Avolon"
+1584,Airbus A330-243F,A7-AFG,Qatar Airways Cargo,9 Dec 2014,Active,F-WWKM,
+1585,Airbus A330-343,PK-GPW,Garuda Indonesia,8 Dec 2014,Stored,F-WWKU,lsf ORIX Aviation
+1586,Airbus A330-243,EP-IJB,Iran Air,25 Mar 2017,Active,F-WHUR,
+1587,Airbus A330-343,B-5958,Air China,10 Dec 2014,Written Off,F-WWCE,lsf CITIC Financial Leasing
+1588,Airbus A330-243,B-5962,China Eastern Airlines,17 Dec 2014,Active,F-WWCG,
+1589,Airbus A330-343,9M-XXV,AirAsia X,23 Dec 2014,Stored,F-WWCI,"Global Xpansion, lsf BOC"
+1590,Airbus A330-323,HL8003,Korean Air Lines,22 Dec 2014,Active,F-WWCL,
+1591,Airbus A330-243,B-5979,Hainan Airlines,27 Jan 2015,Stored,F-WWCN,lsf HKIAL
+1592,Airbus A330-343,TC-LOE,Turkish Airlines,22 Dec 2016,Active,EI-FLT,lsf Voyager
+1593,Airbus A330-323,B-5965,China Southern Airlines,29 Jan 2015,Active,F-WWYG,
+1594,Airbus A330-243F,A7-AFH,Qatar Airways Cargo,13 Feb 2015,Active,F-WWYH,
+1595,Airbus A330-343,B-5969,China Eastern Airlines,30 Jan 2015,Active,F-WWYJ,
+1596,Airbus A330-343,9M-XXW,AirAsia X,26 Jan 2015,Active,F-WWYO,lsf CMIG Aviation Leasing
+1597,Airbus A330-343,9V-SSE,Singapore Airlines,28 Jan 2015,Stored,F-WWYP,lsf AerCap
+1598,Airbus A330-343,B-LBI,Cathay Dragon,24 Feb 2017,Active,F-WWKI,
+1599,Airbus A330-343,A4O-DJ,Oman Air,10 Feb 2015,Active,F-WWKY,
+1600,Airbus A330-343,9M-XXY,AirAsia X,3 Feb 2015,Stored,F-WWYC,lsf Seraph Aviation
+1601,Airbus A330-243,G-VYGM,AirTanker,8 Nov 2019,Active,MRTT028,
+1602,Airbus A330-343,RP-C3346,Cebu Pacific,6 Mar 2015,Active,F-WWCH,lsf Voyager
+1603,Airbus A330-243,B-5968,China Eastern Airlines,17 Feb 2015,Stored,F-WWCO,
+1604,Airbus A330-343,4R-ALN,SriLankan Airlines,2 Mar 2017,Active,F-WWCP,"City of Kolomtota, lsf Avolon"
+1605,Airbus A330-202,LV-FVH,Aerolineas Argentinas,27 Feb 2015,Active,F-WWKQ,
+1606,Airbus A330-243,N375HA,Hawaiian Airlines,24 Feb 2015,Stored,F-WWCR,"Humu, 375, lsf Jackson Square Aviation (JSA)"
+1607,Airbus A330-343,TC-LOJ,Turkish Airlines,31 May 2019,Stored,OE-IIU,lsf Avolon
+1608,Airbus A330-243,N203SA,Synergy Aerospace,22 May 2019,Stored,PR-OCG,
+1609,Airbus A330-343,9V-SSF,Singapore Airlines,30 Mar 2015,Stored,F-WWCV,lsf BBAM
+1610,Airbus KC2 Voyager (A330-243MRTT),ZZ343,Royal Air Force,6 Sep 2016,Active,G-VYGN,
+1611,Airbus A330-323,HL8025,Korean Air Lines,27 Mar 2015,Active,F-WWCY,
+1612,Airbus A330-343,9M-XXZ,AirAsia X,30 Apr 2015,Stored,F-WWKS,"Son of Xcalibur, lsf Macquarie AirFinance"
+1613,Airbus A330-202,7T-VJA,Air Algérie,30 Mar 2015,Stored,F-WWCZ,
+1614,Airbus A330-343,B-5971,Hainan Airlines,10 Mar 2018,Active,F-WWKD,lsf Bohai Leasing
+1615,Airbus A330-243,N378HA,Hawaiian Airlines,14 May 2015,Stored,F-WWYN,"Kaukamalama, 378, lsf Goshawk Aviation"
+1616,Airbus A330-303,TC-JOF,Turkish Airlines,7 Apr 2015,Active,F-WWKT,Sakarya
+1617,Airbus A330-243,B-5973,China Eastern Airlines,22 May 2015,Active,F-WWKV,
+1618,Airbus A330-343,B-LBJ,Cathay Pacific,30 Apr 2015,Active,F-WWYA,
+1619,Airbus A330-343,HS-XTE,Thai AirAsia X,7 Oct 2015,Stored,F-WWYI,"Poetic Xcellence, lsf Macquarie AirFinance"
+1620,Airbus A330-303,TC-JOG,Turkish Airlines,16 Apr 2015,Stored,F-WWKK,"Truva (Troy), Year of Troy cs"
+1621,Airbus A330-343,B-LBK,Cathay Dragon,17 Dec 2018,Active,F-WWKN,
+1622,Airbus A330-303,TC-JOH,Turkish Airlines,21 Apr 2015,Stored,F-WWYF,
+1623,Airbus A330-202,LV-FVI,Aerolineas Argentinas,29 Apr 2015,Active,F-WWYQ,
+,,,,,,,
+1624,Airbus A330-343,TC-LOK,Turkish Airlines,25 Jun 2019,Stored,OE-IIV,lsf Avolon
+1625,Airbus A330-323,B-5966,China Southern Airlines,30 Apr 2015,Active,F-WWYU,lsf CCB Financial Leasing
+1626,Airbus A330-243,9K-APA,Kuwait Airways,22 Jun 2015,Active,F-WWYV,"Dasman / دسمان, lsf IAFC"
+1627,Airbus A330-302,N822NW,Delta Air Lines,27 May 2015,Active,F-WWYX,3322
+1628,Airbus A330-302,N823NW,Delta Air Lines,25 Aug 2015,Active,F-WWYY,3323
+1629,Airbus A330-303,TC-JOI,Turkish Airlines,22 May 2015,Stored,F-WWKH,Kızılcahamam
+1630,Airbus A330-202,7T-VJB,Air Algérie,29 May 2015,Stored,F-WWKP,
+1631,Airbus A330-243,TS-IFM,Tunisair,8 Jun 2015,Active,F-WWKR,Tunis / تونس‎
+1632,Airbus A330-343,B-5976,China Eastern Airlines,19 Jun 2015,Active,F-WWYD,Shanghai Disney Resort: Toy Story cs
+1633,Airbus A330-343,9V-SSG,Singapore Airlines,22 Jun 2015,Stored,F-WWYK,lsf BBAM
+1634,Airbus A330-343,B-5972,Hainan Airlines,28 Aug 2015,Stored,F-WWYL,
+1635,Airbus A330-343,TC-LOF,Turkish Airlines,9 Feb 2017,Active,EI-FMH,lsf Voyager
+1636,Airbus A330-323,B-5967,China Southern Airlines,12 Jun 2015,Active,F-WWYS,
+1637,Airbus A330-302,N824NW,Delta Air Lines,24 Jun 2015,Active,F-WWYT,3324
+1638,Airbus A330-323,HL8026,Korean Air Lines,24 Jun 2015,Active,F-WWYZ,
+1639,Airbus A330-243,B-5975,China Eastern Airlines,30 Jun 2015,Active,F-WWCD,lsf CES Leasing
+1640,Airbus A330-303,TC-JOJ,Turkish Airlines,29 Jun 2015,Stored,F-WWCM,
+1641,Airbus A330-243,TS-IFN,Tunisair,24 Aug 2015,Active,F-WWKA,Sidi Bou Saïd / سيدي بو سعيد
+1642,Airbus A330-303,TC-JOK,Turkish Airlines,10 Jul 2015,Stored,F-WWKE,
+1643,Airbus A330-243,9K-APB,Kuwait Airways,30 Jun 2015,Active,F-WWKF,"Al Fintas / الفنطاس, lsf IAFC"
+1644,Airbus A330-303,TC-JOL,Turkish Airlines,30 Jun 2015,Stored,F-WWKG,Aydın
+1645,Airbus A330-323,B-5970,China Southern Airlines,20 Jul 2015,Active,F-WWKJ,
+1646,Airbus A330-343,HS-XTF,Thai AirAsia X,1 Mar 2016,Stored,F-WWKM,lsf BOC
+1647,Airbus A330-323,HL8027,Korean Air Lines,31 Aug 2015,Active,F-WWKO,
+1648,Airbus A330-343,9V-SSH,Singapore Airlines,21 Aug 2015,Stored,F-WWKU,lsf AFS
+1649,Airbus A330-202,7T-VJC,Air Algérie,30 Jun 2015,Active,F-WWKZ,
+1650,Airbus A330-343,4R-ALO,SriLankan Airlines,14 Aug 2015,Active,F-WWYO,"City of Senkadagalapura, lsf Avolon"
+1651,Airbus A330-343,TC-LOG,Turkish Airlines,19 Apr 2017,Stored,EI-FMI,lsf Voyager
+1652,Airbus A330-300,-,Airbus Industrie,,Not Built,,
+1653,Airbus A330-243,9K-APC,Kuwait Airways,12 Aug 2015,Active,F-WWCI,"Al Sabahiya / الصبحية, lsf IAFC"
+1654,Airbus A330-343,PK-GPX,Garuda Indonesia,14 Aug 2015,Active,F-WWCJ,lsf ORIX Aviation
+1655,Airbus A330-243,B-8226,China Eastern Airlines,30 Sep 2015,Active,F-WWCK,lsf CES Leasing
+1656,Airbus A330-343,B-8015,Hainan Airlines,31 Aug 2015,Active,F-WWCL,
+1657,Airbus A330-243,N204SA,Synergy Aerospace,22 May 2019,Stored,PR-OCX,
+1658,Airbus A330-343,B-5977,Air China,29 Sep 2015,Active,F-WWYC,
+1659,Airbus A330-343,9M-XBC,AirAsia X,23 Dec 2015,Stored,F-WWYG,lsf BOC
+1660,Airbus A330-343,LN-RKR,SAS Scandinavian Airlines,15 Sep 2015,Stored,F-WWYJ,"Tore Viking, lsf AVIC Leasing"
+1661,Airbus A330-300,-,Airbus Industrie,,Not Built,,
+1662,Airbus A330-243,B-8332,Sichuan Airlines,11 Sep 2015,Active,F-WWCQ,lsf Avolon
+1663,Airbus A330-343,B-8016,Lucky Air,7 Nov 2019,Active,F-WWYP,lsf Bohai Leasing
+1664,Airbus A330-243,B-8231,China Eastern Airlines,17 Sep 2015,Active,F-WWKI,lsf CES Leasing
+1665,Airbus A330-343,LN-RKS,SAS Scandinavian Airlines,25 Sep 2015,Active,F-WWKQ,"Frithiof Viking, lsf Bocomm Leasing"
+1666,Airbus A330-343,9V-SSI,Singapore Airlines,29 Sep 2015,Stored,F-WWKY,lsf AFS
+1667,Airbus A330-243MRTT,760,Singapore Air Force,10 Dec 2018,Active,MRTT033,
+1668,Airbus A330-343,B-LNQ,Hong Kong Airlines,13 Nov 2015,Stored,F-WWCC,
+1669,Airbus A330-343,4R-ALP,SriLankan Airlines,9 Nov 2015,Active,F-WWCO,"City of Hasthi Shailapura, lsf Avolon"
+1670,Airbus A330-343,9M-XBA,AirAsia X,13 May 2016,Stored,F-WXAH,lsf BOC
+1671,Airbus A330-343,PK-GPY,Garuda Indonesia,14 Oct 2015,Active,F-WWTJ,lsf Avolon
+1672,Airbus A330-243,N379HA,Hawaiian Airlines,29 Oct 2015,Active,F-WWTK,"Pau-ahi, 379, lsf Jackson Square Aviation (JSA)"
+1673,Airbus A330-343,B-5978,Air China,30 Oct 2015,Active,F-WWTL,lsf SPDB Financial Leasing
+1674,Airbus A330-343,9M-XBB,AirAsia X,27 May 2016,Stored,F-WXAG,lsf BOC
+1675,Airbus A330-343,PK-LEF,Lion Air,26 Oct 2015,Stored,F-WWTN,lsf Jackson Square Aviation (JSA)
+,,,,,,,
+1676,Airbus A330-243 Prestige,HZ-SKY2,Sky Prime,Dec 2016,Active,HZ-AB,
+1677,Airbus A330-343,B-8117,Hainan Airlines,27 Nov 2015,Active,F-WWTP,lsf Bohai Leasing
+1678,Airbus A330-243,9K-APD,Kuwait Airways,29 Oct 2015,Active,F-WWTQ,"Al Sho'ei / الشوعي, lsf IAFC"
+1679,Airbus A330-302,N825NW,Delta Air Lines,18 Nov 2015,Active,F-WWTR,3325
+1680,Airbus A330-343,PK-LEG,Lion Air,16 Nov 2015,Stored,F-WWTS,lsf AMCK Aviation
+1681,Airbus A330-243,9K-APE,Kuwait Airways,27 Nov 2015,Active,F-WWKH,"Al Jahra / الجهراء, lsf IAFC"
+1682,Airbus A330-300,-,Airbus Industrie,,Not Built,,
+1683,Airbus A330-343,PK-,Lion Air,,Not Built,,
+1684,Airbus A330-302,B-16335,EVA Airways,24 Nov 2015,Active,F-WWKN,lsf AVAP
+1685,Airbus A330-343,B-6101,Air China,27 Nov 2015,Active,F-WWKS,lsf Yamasa Aircraft Leasing
+1686,Airbus A330-343,B-8118,Hainan Airlines,29 Dec 2015,Active,F-WWKT,lsf Bohai Leasing
+1687,Airbus A330-343,4R-ALQ,SriLankan Airlines,21 Dec 2015,Active,F-WWKV,lsf Avolon
+1688,Airbus A330-243F,A7-AFI,Qatar Airways Cargo,21 Dec 2015,Active,F-WWYA,
+1689,Airbus A330-343,4R-ALR,SriLankan Airlines,29 Dec 2015,Active,F-WWYF,lsf Avolon
+1690,Airbus A330-302,B-16336,EVA Airways,22 Dec 2015,Active,F-WWYN,lsf Voyager
+1691,Airbus A330-343,EC-MII,Evelop Airlines,18 Dec 2015,Active,F-WWYQ,lsf GOAL
+1692,Airbus A330-343,DQ-FJW,Fiji Airways,23 Dec 2015,Stored,F-WWYU,"Island of Rotuma, lsf Avolon"
+1693,Airbus A330-343,PK-LEH,Lion Air,15 Dec 2015,Stored,F-WWCG,lsf AMCK Aviation
+1694,Airbus A330-202,EC-MIL,Iberia,28 Dec 2015,Stored,F-WWCH,Oaxaca
+1695,Airbus A330-343,B-6102,Air China,23 Dec 2015,Active,F-WWCR,lsf CDB Aviation
+1696,Airbus A330-303,TC-LNC,Turkish Airlines,4 Feb 2016,Stored,F-WWCV,Refahiye
+1697,Airbus A330-343,LN-RKT,SAS Scandinavian Airlines,27 Jan 2016,Active,F-WWCX,"Bele Viking, lsf Bocomm Leasing"
+1698,Airbus A330-343,PK-GPZ,Garuda Indonesia,29 Jan 2016,Stored,F-WWCY,lsf ORIX Aviation
+1699,Airbus A330-323,B-8358,China Southern Airlines,26 Feb 2016,Active,F-WWCZ,lsf CCB Financial Leasing
+1700,Airbus A330-202,EC-MJA,Iberia,18 Feb 2016,Stored,F-WWKD,Buenos Aires
+1701,Airbus A330-302,N826NW,Delta Air Lines,29 Jan 2016,Stored,F-WWKF,3326
+1702,Airbus A330-300,-,Airbus Industrie,,Not Built,,
+1703,Airbus A330-343,B-8287,Hainan Airlines,29 Jan 2016,Active,F-WWKP,lsf HKIAL
+1704,Airbus A330-303,TC-LND,Turkish Airlines,26 Feb 2016,Active,F-WWKR,
+1705,Airbus A330-300,-,Airbus Industrie,,Not Built,,
+1706,Airbus A330-303,TC-LNE,Turkish Airlines,31 Mar 2016,Stored,F-WWYD,Göbeklitepe
+1707,Airbus A330-300,-,Airbus Industrie,,Not Built,,
+1708,Airbus A330-243F,A7-AFJ,Qatar Airways Cargo,22 Feb 2016,Active,F-WWYL,
+1709,Airbus A330-343,PK-GHA,Garuda Indonesia,25 Mar 2016,Stored,F-WWYS,lsf ORIX Aviation
+1710,Airbus A330-202,EC-MJT,Iberia,22 Mar 2016,Stored,F-WWYT,La Habana
+1711,Airbus A330-343,HB-JHR,Edelweiss Air,23 Mar 2016,Stored,F-WWYV,Chäserrugg
+1712,Airbus A330-343,RP-C3347,Cebu Pacific,12 Dec 2016,Active,F-WWYX,
+1713,Airbus A330-303,TC-LNF,Turkish Airlines,15 Apr 2016,Active,F-WWYZ,Kocaeli
+1714,Airbus A330-323,B-8359,China Southern Airlines,13 Apr 2016,Active,F-WWKE,lsf Everbright Financial Leasing
+1715,Airbus A330-343,LN-RKU,SAS Scandinavian Airlines,5 Apr 2016,Stored,F-WWKJ,"Helge Viking, lsf Bocomm Leasing"
+1716,Airbus A330-302,N827NW,Delta Air Lines,27 Apr 2016,Stored,F-WWYE,"3327, lsf Altavair AirFinance"
+1717,Airbus A330-300,-,Airbus Industrie,,Not Built,,
+1718,Airbus A330-303,TC-LNG,Turkish Airlines,9 Jun 2016,Active,F-WWCD,Mersin
+1719,Airbus A330-202,EC-MKI,Iberia,28 Apr 2016,Stored,F-WWKO,Puerto Rico
+1720,Airbus A330-302,N828NW,Delta Air Lines,31 May 2016,Stored,F-WWYO,"3328, lsf Altavair AirFinance"
+1721,Airbus A330-302,N829NW,Delta Air Lines,23 Jun 2016,Stored,F-WWYY,"3329, lsf Altavair AirFinance"
+1722,Airbus A330-243F,TC-JOV,Turkish Airlines,28 Apr 2016,Active,F-WWCI,Çoruh
+1723,Airbus A330-343,PK-GHC,Garuda Indonesia,23 May 2016,Active,F-WWCJ,lsf Bocomm Leasing
+1724,Airbus A330-343,HZ-AQ11,Saudi Arabian Airlines,17 Aug 2016,Active,F-WWCL,lsf IAFC
+1725,Airbus A330-243,OD-MEE,MEA - Middle East Airlines,24 May 2016,Stored,F-WWCM,
+1726,Airbus A330-343,HZ-AQ12,Saudi Arabian Airlines,29 Aug 2016,Active,F-WWCT,lsf IAFC
+1727,Airbus A330-323,F-HPUJ,Air Caraïbes Atlantique,26 Jun 2019,Stored,F-WWKA,
+,,,,,,,
+1728,Airbus A330-202,EC-MKJ,Iberia,29 Jun 2016,Stored,F-WWKI,Montevideo
+1729,Airbus A330-343,HZ-AQ13,Saudi Arabian Airlines,31 Aug 2016,Stored,F-WWKQ,lsf IAFC
+1730,Airbus A330-243,B-8420,Tibet Airlines,29 Jun 2016,Active,F-WWKU,
+1731,Airbus A330-343,HZ-AQ14,Saudi Arabian Airlines,28 Sep 2016,Stored,F-WWKY,lsf IAFC
+1732,Airbus A330-243,N360HA,Hawaiian Airlines,3 Jun 2016,Stored,F-WWYC,"Tutukamolehonua, 360, lsf ALC"
+1733,Airbus A330-343,PK-GHD,Garuda Indonesia,30 Aug 2016,Active,F-WWYH,"lsf Bocomm Leasing, 1969 retro cs"
+1734,Airbus A330-343,HZ-AQ15,Saudi Arabian Airlines,5 Oct 2016,Stored,F-WWYP,lsf IAFC
+1735,Airbus A330-243MRTT,F-UJCG,Armée de l'Air (French Air Force),27 Sep 2018,Active,MRTT041,041
+1736,Airbus A330-202,EC-MLB,Iberia,28 Jul 2016,Stored,F-WWYR,"Iberoamérica, lsf Tokyo Century Corporation"
+1737,Airbus A330-202,LV-GHQ,Aerolineas Argentinas,4 Aug 2016,Active,F-WWCQ,
+1738,Airbus A330-343,HZ-AQ16,Saudi Arabian Airlines,24 Oct 2016,Stored,F-WWCO,lsf IAFC
+1739,Airbus A330-343,HZ-AQ17,Saudi Arabian Airlines,7 Dec 2016,Stored,F-WWYI,lsf IAFC
+1740,Airbus A330-202,EC-MLP,Iberia,23 Aug 2016,Stored,F-WWCC,Lima
+1741,Airbus A330-243,9XR-WN,RwandAir,26 Sep 2016,Stored,F-WWKS,Ubumwe
+1742,Airbus A330-302,EI-FNG,Aer Lingus,31 Aug 2016,Active,F-WWYM,"St. Colmcille / Colmcille, lsf BBAM"
+1743,Airbus A330-343,HZ-AQ18,Saudi Arabian Airlines,1 Nov 2016,Stored,F-WWCS,lsf IAFC
+1744,Airbus A330-302,EI-FNH,Aer Lingus,28 Sep 2016,Active,F-WWKH,"St Laurence O'Toole / Lorcan O Tuathail, lsf BBAM"
+1745,Airbus A330-343,ZS-SXI,South African Airways,28 Nov 2016,Stored,F-WWKT,lsf CMB Financial Leasing
+1746,Airbus A330-243,B-8468,Sichuan Airlines,9 Nov 2016,Active,F-WWKV,
+1747,Airbus A330-202,EC-MMG,Iberia,27 Oct 2016,Stored,F-WWYA,Santiago de Chile
+1748,Airbus A330-202,LV-GIF,Aerolineas Argentinas,25 Oct 2016,Active,F-WWYF,
+1749,Airbus A330-343,HZ-AQ19,Saudi Arabian Airlines,30 Nov 2016,Active,F-WWYN,lsf IAFC
+1750,Airbus A330-243F,TC-JOY,Turkish Airlines,31 Oct 2016,Active,F-WWYQ,Ergene
+1751,Airbus A330-243 Prestige,VP-BHD,Private,6 Oct 2016,Active,F-WWYU,
+1752,Airbus A330-343,B-8577,Air China,9 Nov 2016,Active,F-WWCE,lsf BOC
+1753,Airbus A330-343,B-8678,Capital Airlines,14 Dec 2016,Stored,F-WWCG,lsf Bohai Leasing
+1754,Airbus A330-343,ZS-SXJ,South African Airways,6 Dec 2016,Stored,F-WWCH,lsf CMB Financial Leasing
+1755,Airbus A330-202,EC-MNK,Iberia,18 Nov 2016,Stored,F-WWKF,"Bogotá, lsf Tokyo Century Corporation"
+1756,Airbus A330-243,B-8776,Tianjin Airlines,13 Dec 2016,Stored,F-WWKM,lsf Bohai Leasing
+1757,Airbus A330-343,ZS-SXK,South African Airways,13 Dec 2016,Stored,F-WWKP,lsf CMB Financial Leasing
+1758,Airbus A330-243,B-8659,Tianjin Airlines,16 Dec 2016,Stored,F-WWYG,lsf Bohai Leasing
+1759,Airbus A330-343,9XR-WP,RwandAir,30 Nov 2016,Active,F-WWCN,Umurage
+1760,Airbus A330-323,B-8426,China Southern Airlines,2 Dec 2016,Active,F-WWYJ,lsf Everbright Financial Leasing
+1761,Airbus A330-202,EC-MNL,Iberia,15 Dec 2016,Stored,F-WWCR,Tokio
+1762,Airbus A330-243MRTT,761,Singapore Air Force,13 Aug 2018,Active,MRTT034,Singapore Air Force 50th Anniversary cs
+1763,Airbus A330-343,B-8679,Capital Airlines,23 Dec 2016,Active,F-WWCV,lsf Bohai Leasing
+1764,Airbus A330-343,HZ-AQ20,Saudi Arabian Airlines,21 Dec 2016,Active,F-WWCX,lsf IAFC
+1765,Airbus A330-343,B-8579,Air China,23 Dec 2016,Active,F-WWCY,lsf BOC
+1766,Airbus A330-343,HZ-AQ21,Saudi Arabian Airlines,31 Jan 2017,Active,F-WWKD,lsf IAFC
+1767,Airbus A330-302,B-16337,EVA Airways,24 Jan 2017,Active,F-WWKR,lsf ORIX Aviation
+1768,Airbus A330-243F,TC-JOZ,Turkish Airlines,9 Feb 2017,Active,F-WWYL,
+1769,Airbus A330-302,N830NW,Delta Air Lines,31 Jan 2017,Stored,F-WWYS,3330
+1770,Airbus A330-343,HZ-AQ22,Saudi Arabian Airlines,9 Mar 2017,Stored,F-WWYT,lsf IAFC
+1771,Airbus A330-243,B-8950,Tibet Airlines,17 Feb 2017,Active,F-WWYV,
+1772,Airbus A330-243F,D-ALEJ,EAT Leipzig,28 May 2019,Active,A6-DCE,
+1773,Airbus A330-243,B-8959,Tianjin Airlines,10 Mar 2017,Stored,F-WWCZ,lsf Bohai Leasing
+1774,Airbus A330-343,HZ-AQ23,Saudi Arabian Airlines,21 Feb 2017,Stored,F-WWKE,lsf IAFC
+1775,Airbus A330-243,B-8981,Capital Airlines,22 May 2017,Stored,F-WWKJ,"lsf Bohai Leasing, Beijing Daxing (北京大兴号) cs"
+1776,Airbus A330-323,B-8870,China Southern Airlines,29 Mar 2017,Active,F-WWKO,"lsf Bocomm Leasing, Guangdong Lychee cs"
+1777,Airbus A330-202,EC-MOU,LEVEL,14 May 2017,Stored,F-WWYD,opby Iberia
+1778,Airbus A330-302,B-16338,EVA Airways,27 Mar 2017,Active,F-WWYZ,lsf Goshawk Aviation
+1779,Airbus A330-343,ZS-SXL,South African Airways,31 Mar 2017,Stored,F-WWCI,lsf EMP Aviation
+,,,,,,,
+1780,Airbus A330-243,B-8962,Sichuan Airlines,19 Apr 2017,Active,F-WWCJ,lsf ABC Financial Leasing
+1781,Airbus A330-343,HZ-AQ24,Saudi Arabian Airlines,27 Apr 2017,Active,F-WWYC,lsf IAFC
+1782,Airbus A330-243,B-8982,Capital Airlines,21 Jun 2017,Stored,F-WWCM,lsf SkyCo Financial Leasing
+1783,Airbus A330-302,N831NW,Delta Air Lines,27 Apr 2017,Stored,F-WWKA,3331
+1784,Airbus A330-202,EC-MOY,LEVEL,21 May 2017,Stored,F-WWYY,opby Iberia
+1785,Airbus A330-243,B-8951,Tibet Airlines,28 Apr 2017,Active,F-WWKU,
+1786,Airbus A330-343,B-8689,Air China,28 Apr 2017,Active,F-WWYE,lsf CMB Financial Leasing
+1787,Airbus A330-243MRTT,18-001,Republic of Korea Air Force (ROKAF),9 Nov 2018,Active,MRTT050,
+1788,Airbus A330-343,B-8968,China Eastern Airlines,26 May 2017,Active,F-WWYR,lsf CES Leasing
+1789,Airbus A330-343,RP-C3348,Cebu Pacific,18 May 2017,Active,F-WWCD,
+1790,Airbus A330-343,HZ-AQ25,Saudi Arabian Airlines,24 May 2017,Active,F-WWCK,lsf IAFC
+1791,Airbus A330-302,EI-GAJ,Aer Lingus,23 May 2017,Active,F-WWCQ,St Carthage / Mochuta
+1792,Airbus A330-343,ZS-SXM,South African Airways,9 Jun 2017,Stored,F-WWCL,lsf Seraph Aviation
+1793,Airbus A330-323,B-8360,China Southern Airlines,11 Jul 2017,Active,F-WWKI,lsf CSA Leasing
+1794,Airbus A330-302,B-16339,EVA Airways,28 Jun 2017,Active,F-WWCC,lsf BOC
+1795,Airbus A330-941,F-WTTN,Airbus Industrie,19 Oct 2017,Active,,
+1796,Airbus A330-343,B-8967,China Eastern Airlines,28 Jul 2017,Active,F-WWCY,lsf ICBC
+1797,Airbus A330-343,HZ-AQ26,Saudi Arabian Airlines,27 Jul 2017,Active,F-WWKH,lsf IAFC
+1798,Airbus A330-343,B-8970,China Eastern Airlines,28 Jun 2017,Active,F-WWKY,lsf CES Leasing
+1799,Airbus A330-243MRTT,762,Singapore Air Force,6 Jun 2019,Active,MRTT035,
+1800,Airbus A330-343,HZ-AQ27,Saudi Arabian Airlines,20 Sep 2017,Active,F-WWKS,lsf IAFC
+1801,Airbus A330-343,B-8971,China Eastern Airlines,29 Jun 2017,Active,F-WWYH,lsf CES Leasing
+1802,Airbus A330-343,B-8383,Air China,31 Jul 2017,Active,F-WWYM,lsf CCB Financial Leasing
+1803,Airbus A330-343,HZ-AQ28,Saudi Arabian Airlines,2 Oct 2017,Active,F-WWYP,lsf IAFC
+1804,Airbus A330-343,B-8972,China Eastern Airlines,28 Aug 2017,Active,F-WWYU,lsf CES Leasing
+1805,Airbus A330-243,B-8596,Tianjin Airlines,19 Sep 2017,Stored,B-005A,lsf Bohai Leasing
+1806,Airbus A330-302,B-16340,EVA Airways,26 Oct 2017,Active,F-WWYA,lsf BOC
+1807,Airbus A330-343,B-8385,Air China,28 Aug 2017,Active,F-WWYQ,lsf CCB Financial Leasing
+1808,Airbus A330-243MRTT,F-UJCH,Armée de l'Air (French Air Force),Jun 2019,Active,MRTT042,042
+1809,Airbus A330-343,B-8862,China Eastern Airlines,30 Aug 2017,Active,F-WWCS,lsf CES Leasing
+1810,Airbus A330-343,B-8865,Shenzhen Airlines,24 Sep 2017,Active,F-WWCT,lsf Kunlun Financial Leasing
+1811,Airbus A330-343,B-8386,Air China,22 Sep 2017,Active,F-WWKV,lsf CCB Financial Leasing
+1812,Airbus A330-343,HZ-AQ29,Saudi Arabian Airlines,20 Nov 2017,Active,F-WWCE,lsf IAFC
+1813,Airbus A330-941,F-WTTE,Airbus Industrie,4 Dec 2017,Stored,,
+1814,Airbus A330-343,B-8361,China Southern Airlines,26 Sep 2017,Active,F-WWKF,lsf CSA Leasing
+1815,Airbus A330-343,B-8362,China Southern Airlines,17 Oct 2017,Active,F-WWKT,lsf CSA Leasing
+1816,Airbus A330-343,B-8863,China Eastern Airlines,14 Dec 2017,Active,B-005C,lsf CES Leasing
+1817,Airbus A330-302,EI-GCF,Aer Lingus,20 Nov 2017,Active,F-WWCN,St Aengus / Oengus
+1818,Airbus A330-343,B-8363,China Southern Airlines,28 Sep 2017,Active,F-WWYI,lsf CSA Leasing
+1819,Airbus A330-941,CS-TUA,TAP - Air Portugal,11 Apr 2019,Stored,F-WWKM,"D. Maria I, lsf Avolon"
+1820,Airbus A330-343,PK-LEL,Lion Air,5 Mar 2020,Stored,HS-LAH,lsf Castlelake
+1821,Airbus A330-343,B-8365,China Southern Airlines,14 Nov 2017,Active,F-WWKP,lsf CSA Leasing
+1822,Airbus A330-243MRTT,763,Singapore Air Force,19 Jun 2019,Active,MRTT036,
+1823,Airbus A330-243,N361HA,Hawaiian Airlines,28 Sep 2017,Active,F-WWCH,"Hoku Mau, 361, lsf ORIX Aviation"
+1824,Airbus A330-743L Beluga XL,F-GXLG,Airbus Transport International,,On Order,F-WBXL,XL1
+1825,Airbus A330-343,B-8690,Sichuan Airlines,26 Oct 2017,Stored,F-WWYJ,lsf Sichuan Jinshi Leasing
+1826,Airbus A330-343,B-8366,China Southern Airlines,20 Nov 2017,Active,F-WWYX,lsf CSA Leasing
+1827,Airbus A330-343,B-1022,Hainan Airlines,23 Dec 2017,Active,F-WWCR,
+1828,Airbus A330-343,PK-LEM,Lion Air,12 Feb 2020,Stored,PK-LDY,lsf Castlelake
+1829,Airbus A330-343,B-1017,Shenzhen Airlines,19 Dec 2017,Active,F-WWCV,lsf Kunlun Financial Leasing
+1830,Airbus A330-243MRTT,T-054,NATO Support & Procurement Agency,,On Order,MRTT054,
+1831,Airbus A330-343,B-1021,Hainan Airlines,22 Dec 2017,Stored,F-WWKD,
+,,,,,,,
+1832,Airbus A330-343,PK-LEK,Lion Air,20 Feb 2020,Stored,HS-LAJ,lsf CMIG Aviation Leasing
+1833,Airbus A330-343,B-1049,China Eastern Airlines,27 Mar 2018,Active,B-005A,lsf ABC Financial Leasing
+1834,Airbus A330-343,HZ-AQ30,Saudi Arabian Airlines,12 Dec 2017,Active,F-WWYV,lsf IAFC
+1835,Airbus A330-202,EC-MSY,Iberia,15 Dec 2017,Stored,F-WWKE,"Santo Domingo, lsf CALC"
+1836,Airbus A330-941,CS-TUB,TAP - Air Portugal,26 Nov 2018,Stored,F-WWCP,"D. João II ""O Príncipe Perfeito, lsf Avolon"
+1837,Airbus A330-343,B-1020,Hainan Airlines,21 Dec 2017,Active,F-WWYT,
+1838,Airbus A330-343,B-1059,Lucky Air,27 Dec 2017,Stored,F-WWCZ,lsf Zhongyuan Aviation Leasing
+1839,Airbus A330-343,B-1036,Shenzhen Airlines,22 Jan 2018,Active,F-WWYZ,lsf ABC Financial Leasing
+1840,Airbus A330-343,B-1045,Tianjin Airlines,13 Jul 2018,Stored,F-WWYD,
+1841,Airbus A330-343,B-1066,China Eastern Airlines,25 Apr 2018,Active,B-005D,lsf ABC Financial Leasing
+1842,Airbus A330-343,B-1041,China Eastern Airlines,29 Jan 2018,Active,F-WWYG,lsf CES Leasing
+1843,Airbus A330-343,B-1004,Lucky Air,7 Aug 2018,Stored,F-WWCI,lsf Avolon
+1844,Airbus A330-941,9XR-WS,RwandAir,,On Order,F-WWCJ,lsf ALC
+1845,Airbus A330-243,B-1047,Tibet Airlines,8 Mar 2018,Stored,F-WWYC,
+1846,Airbus A330-343,B-1062,China Southern Airlines,26 Mar 2018,Active,F-WWKA,lsf CCB Financial Leasing
+1847,Airbus A330-243,B-1043,Capital Airlines,28 Sep 2018,Stored,F-WWKU,lsf Avolon
+1848,Airbus A330-243MRTT,19-002,Republic of Korea Air Force (ROKAF),25 Mar 2019,Active,MRTT051,
+1849,Airbus A330-343,B-302D,Tianjin Airlines,6 Aug 2018,Active,B-005E,
+1850,Airbus A330-941,CS-TUC,TAP - Air Portugal,21 Dec 2018,Stored,F-WWYO,"Nuno Gonçalves, lsf Avolon"
+1851,Airbus A330-343,B-1014,Lucky Air,28 Sep 2018,Active,F-WWYY,lsf Avolon
+1852,Airbus A330-343,B-1063,China Southern Airlines,27 Mar 2018,Active,F-WWCD,lsf CSA Leasing
+1853,Airbus A330-743L Beluga XL,F-GXLH,Airbus Transport International,,Active,F-WBXS,XL2
+1854,Airbus A330-202,EC-MUD,Iberia,16 Mar 2018,Stored,F-WWCQ,"Johannesburgo, lsf CALC"
+1855,Airbus A330-343,B-1048,Hainan Airlines,26 Jul 2018,Stored,F-WWCK,lsf Avolon
+1856,Airbus A330-343,B-8589,Sichuan Airlines,23 Apr 2018,Active,F-WWCM,lsf Sichuan Jinshi Leasing
+1857,Airbus A330-243MRTT,764,Singapore Air Force,,On Order,MRTT037,
+1858,Airbus A330-343,B-1065,China Southern Airlines,9 Apr 2018,Active,F-WWCL,lsf CSA Leasing
+1859,Airbus A330-243,B-1046,Tibet Airlines,25 Apr 2018,Stored,F-WWCC,
+1860,Airbus A330-343,B-1097,Hainan Airlines,21 Dec 2018,Active,B-005C,lsf CDB Aviation
+1861,Airbus A330-941,9XR-WT,RwandAir,,On Order,F-WWKQ,lsf ALC
+1862,Airbus A330-343,B-1042,Capital Airlines,1 Oct 2018,Stored,F-WWKY,lsf MSFL
+1863,Airbus A330-343,B-LHF,Hong Kong Airlines,,On Order,F-WWKI,
+1864,Airbus A330-202,F-HLVL,LEVEL,25 May 2018,Stored,F-WWKH,opby OpenSkies
+1865,Airbus A330-343,B-LHG,Hong Kong Airlines,,On Order,F-WWCY,
+1866,Airbus A330-343,B-305W,Lucky Air,18 Dec 2018,Active,F-WWYM,lsf CDB Aviation
+1867,Airbus A330-343,B-1072,Shenzhen Airlines,29 May 2018,Active,F-WWYU,lsf Kunlun Financial Leasing
+1868,Airbus A330-343,B-300Q,China Eastern Airlines,13 Jul 2018,Active,B-005A,lsf CES Leasing
+1869,Airbus A330-343,B-1073,China Eastern Airlines,1 Jun 2018,Active,F-WWCS,lsf CES Leasing
+1870,Airbus A330-941,PK-GYA,Citilink,17 Jan 2020,Stored,F-WWKS,lsf Avolon
+1871,Airbus A330-343,B-1096,Hainan Airlines,11 Dec 2018,Stored,F-WWKV,lsf CDB Aviation
+1872,Airbus A330-243,9N-ALY,Nepal Airlines,27 Jun 2018,Active,F-WWCT,Annapurna
+1873,Airbus A330-343,B-300P,China Eastern Airlines,17 Aug 2018,Active,B-005D,lsf CES Leasing
+1874,Airbus A330-343,B-LHH,Hong Kong Airlines,,On Order,F-WWYI,
+1875,Airbus A330-343,B-1098,Hainan Airlines,21 Dec 2018,Stored,F-WWCH,lsf CDB Aviation
+1876,Airbus A330-941,PR-ANZ,Azul Linhas Aéreas Brasileiras,10 May 2019,Active,F-WWYP,"O Mundo é Azul, lsf Avolon"
+1877,Airbus A330-202,EC-MYA,LEVEL,25 Jun 2018,Stored,F-WWKT,opby Iberia
+1878,Airbus A330-243,9N-ALZ,Nepal Airlines,25 Jul 2018,Active,F-WWYN,Makalu
+1879,Airbus A330-343,B-302E,Shenzhen Airlines,26 Sep 2018,Active,F-WWYF,lsf CCB Financial Leasing
+1880,Airbus A330-343,B-305R,Capital Airlines,30 Nov 2018,Active,B-005F,lsf MSFL
+1881,Airbus A330-343,B-303D,China Eastern Airlines,21 Sep 2018,Active,B-005G,lsf Bocomm Leasing
+1882,Airbus A330-202,F-HLVM,LEVEL,31 Jul 2018,Stored,F-WWCG,opby OpenSkies
+1883,Airbus A330-243MRTT,19-003,Republic of Korea Air Force (ROKAF),19 Jul 2019,Active,MRTT052,
+,,,,,,,
+1884,Airbus A330-941,3B-NBU,Air Mauritius,17 Apr 2019,Stored,F-WWCN,"Aapravasi Ghat, lsf ALC"
+1885,Airbus A330-343,B-300V,China Southern Airlines,30 Oct 2018,Stored,B-005A,
+1886,Airbus A330-243MRTT,765,Singapore Air Force,15 Feb 2020,Active,MRTT038,
+1887,Airbus A330-941,PK-GYC,Citilink,2 Dec 2019,Stored,F-WWCU,lsf Avolon
+1888,Airbus A330-841,F-WTTO,Airbus Industrie,6 Nov 2018,Active,,
+1889,Airbus A330-343,B-303N,Shenzhen Airlines,18 Jan 2019,Active,B-005E,lsf Xiamen Airlease
+1890,Airbus A330-941,3B-NBV,Air Mauritius,19 Jun 2019,Stored,F-WWCX,"Chagos Archipelago, lsf ALC"
+1891,Airbus A330-243MRTT,19-004,Republic of Korea Air Force (ROKAF),,On Order,MRTT053,
+1892,Airbus A330-941,CS-TUD,TAP - Air Portugal,21 Dec 2018,Active,F-WWKE,"John Dos Passos, lsf ALC"
+1893,Airbus A330-343,B-304L,Hainan Airlines,31 Dec 2018,Active,B-005D,lsf CDB Aviation
+1894,Airbus A330-343,B-300U,China Southern Airlines,19 Dec 2018,Active,B-005G,
+1895,Airbus A330-941,PR-ANY,Azul Linhas Aéreas Brasileiras,25 Oct 2019,Active,F-WWKR,"Azul Sem Fim, lsf Avolon"
+1896,Airbus A330-343,B-303C,Hainan Airlines,20 Dec 2018,Active,F-WWCR,lsf CDB Aviation
+1897,Airbus A330-941,CS-TUE,TAP - Air Portugal,11 Jun 2019,Stored,F-WWYT,"Marquês de Pombal, lsf ALC"
+1898,Airbus A330-343,B-303Z,Hainan Airlines,7 Dec 2018,Active,F-WWKD,lsf CDB Aviation
+1899,Airbus A330-343,B-304K,Hainan Airlines,7 Dec 2018,Active,F-WWCZ,lsf CDB Aviation
+1900,Airbus A330-941,CS-TUF,TAP - Air Portugal,1 Mar 2019,Active,F-WWYZ,"Bartolomeu Perestrelo, lsf ALC"
+1901,Airbus A330-941,HS-XJA,Thai AirAsia X,30 Aug 2019,Stored,F-WWYG,lsf Avolon
+1903,Airbus A330-941,HS-XJB,Thai AirAsia X,9 Aug 2019,Stored,F-WWYL,lsf Avolon
+1904,Airbus A330-941,CS-TUG,TAP - Air Portugal,1 Mar 2019,Active,F-WWKJ,"Pedro Álvares Cabral, lsf Avolon"
+1905,Airbus A330-343,B-304A,China Eastern Airlines,14 Dec 2018,Active,F-WWYC,lsf Bocomm Leasing
+1906,Airbus A330-941,CS-TUH,TAP - Air Portugal,7 Jun 2019,Stored,F-WWCQ,"D. Dinis, lsf Avolon"
+1908,Airbus A330-941,CS-TUI,TAP - Air Portugal,18 May 2019,Active,F-WWCD,"D. Afonso Henriques, lsf ALC"
+1909,Airbus A330-941,CS-TUJ,TAP - Air Portugal,11 Jul 2019,Active,F-WWCL,"D. Maria II, lsf Avolon"
+1910,Airbus A330-941,9H-SZN,Air Senegal,8 Mar 2019,Active,F-WWCM,"Casamance, opby Hi Fly Malta"
+1911,Airbus A330-243MRTT,T-055,NATO Support & Procurement Agency,,On Order,MRTT055,
+1912,Airbus A330-343,B-308F,Sichuan Airlines,23 May 2019,Active,B-005F,lsf Sichuan Jinshi Leasing
+1913,Airbus A330-941,CS-TUK,TAP - Air Portugal,19 Jul 2019,Stored,F-WWYR,"D. Francisco de Almeida, lsf Avolon, Star Alliance cs"
+1914,Airbus A330-941,CS-TUL,TAP - Air Portugal,11 Jun 2019,Active,F-WWYU,"João Vaz Corte-Real, lsf Avolon"
+1915,Airbus A330-941,N401DZ,Delta Air Lines,23 May 2019,Stored,F-WWKF,3401
+1916,Airbus A330-243MRTT,F-UJCI,Armée de l'Air (French Air Force),,On Order,MRTT043,043
+1917,Airbus A330-343,F-WTBL,Unknown,14 Dec 2019,Stored,B-309T,
+1918,Airbus A330-941,CS-TUM,TAP - Air Portugal,9 Aug 2019,Stored,F-WWYQ,"Nuno Álvares Pereira, lsf Goshawk Aviation"
+1919,Airbus A330-243MRTT,T-056,NATO Support & Procurement Agency,,On Order,MRTT056,
+1920,Airbus A330-941,N402DX,Delta Air Lines,13 Jun 2019,Active,F-WWKT,3402
+1921,Airbus A330-941,CS-TUN,TAP - Air Portugal,4 Oct 2019,Active,F-WWCT,"D. Fuas Roupinho, lsf ALC"
+1922,Airbus A330-941,CS-TUO,TAP - Air Portugal,6 Sep 2019,Stored,F-WWYD,lsf CDB Aviation
+1923,Airbus A330-941,6V-ANB,Air Senegal,29 Nov 2019,Active,F-WWYN,Sine-Saloum
+1924,Airbus A330-941,PR-ANX,Azul Linhas Aéreas Brasileiras,,On Order,F-WWCK,"Azul Around the World, lsf Avolon"
+1925,Airbus A330-941,CS-TUP,TAP - Air Portugal,8 Nov 2019,Stored,F-WWCG,lsf CDB Aviation
+1926,Airbus A330-941,PK-LEI,Lion Air,12 Sep 2019,Stored,F-WWYA,lsf BOC
+1927,Airbus A330-941,PK-LEJ,Lion Air,13 Aug 2019,Stored,F-WWYJ,lsf BOC
+1928,Airbus A330-343,SE-REH,SAS Scandinavian Airlines,4 Jul 2019,Active,F-WWCE,"Birk Viking, lsf Jackson Square Aviation (JSA)"
+1929,Airbus A330-941,CS-TKY,Hi Fly,30 Aug 2019,Stored,F-WWCI,lsf ALC
+1930,Airbus A330-743L Beluga XL,F-GXLI,Airbus Transport International,,On Order,F-WWKY,XL3
+1931,Airbus A330-941,N403DX,Delta Air Lines,27 Aug 2019,Active,F-WWYS,3403
+1932,Airbus A330-202,EC-NEN,LEVEL,5 Jul 2019,Stored,F-WWKP,opby Iberia
+1933,Airbus A330-941,PK-LES,Lion Air,11 May 2020,Stored,HS-LAK,lsf Avolon
+1934,Airbus A330-941,PR-ANW,Azul Linhas Aéreas Brasileiras,,On Order,F-WWYF,"Gigante Azul, lsf Avolon"
+1935,Airbus A330-941,N404DX,Delta Air Lines,27 Sep 2019,Active,F-WWYY,3404
+1936,Airbus A330-202,F-HLVN,LEVEL,27 Sep 2019,Stored,F-WWKU,"lsf CALC, opby OpenSkies"
+1937,Airbus A330-941,F-ONEO,Aircalin - Air Caledonie International,30 Jul 2019,Active,F-WWCM,Kanuméra
+,,,,,,,
+1938,Airbus A330-941,F-ONET,Aircalin - Air Caledonie International,30 Sep 2019,Active,F-WWYV,Luengöni
+1939,Airbus A330-941,PK-LET,Lion Air,11 May 2020,Stored,HS-LAL,lsf Avolon
+1940,Airbus A330-343,B-,Hong Kong Airlines,,Not Built,,
+1941,Airbus A330-941,CS-TUQ,TAP - Air Portugal,14 Feb 2020,Active,F-WXAV,
+1942,Airbus A330-243MRTT,F-UJCJ,Armée de l'Air (French Air Force),,On Order,MRTT044,044
+1943,Airbus A330-941,CS-TUR,TAP - Air Portugal,22 Nov 2019,Active,F-WWCC,
+1945,Airbus A330-243MRTT,T-057,NATO Support & Procurement Agency,,On Order,MRTT057,
+1946,Airbus A330-941,PK-GHG,Garuda Indonesia,18 Dec 2019,Active,F-WWCZ,lsf CDB Aviation
+1947,Airbus A330-941,PK-GHE,Garuda Indonesia,14 Nov 2019,Stored,F-WWKV,lsf CDB Aviation
+1948,Airbus A330-941,PK-GHF,Garuda Indonesia,3 Dec 2019,Stored,F-WWYC,lsf CDB Aviation
+1949,Airbus A330-941,N405DX,Delta Air Lines,27 Feb 2020,Active,F-WWYM,3405
+1950,Airbus A330-302,EI-EIM,Aer Lingus,29 Nov 2019,Active,F-WWCR,St Sillan / Síoláin
+1951,Airbus A330-302,EI-EIN,Aer Lingus,28 Feb 2020,Active,F-WWCH,
+1952,Airbus A330-941,PR-ANV,Azul Linhas Aéreas Brasileiras,,On Order,F-WWYO,"La Belle Azul, Pink Ribbon cs"
+1953,Airbus A330-941,N406DX,Delta Air Lines,,On Order,F-WWKE,3406
+1954,Airbus A330-941,CS-TUS,TAP - Air Portugal,14 Feb 2020,Active,F-WXAW,
+1956,Airbus A330-941,HS-LAQ,Thai Lion Air,,On Order,F-WWKM,
+1957,Airbus A330-941,N407DX,Delta Air Lines,,On Order,F-WWCN,3407
+1958,Airbus A330-941,PK-GHH,Garuda Indonesia,,On Order,F-WWYP,
+1959,Airbus A330-941,PK-GHI,Garuda Indonesia,,On Order,F-WWCD,
+1960,Airbus A330-243MRTT,T-058,NATO Support & Procurement Agency,,On Order,MRTT058,
+1961,Airbus A330-941,PK-,Garuda Indonesia,,On Order,,
+1962,Airbus A330-941,N408DX,Delta Air Lines,,On Order,F-WWCQ,3408
+1963,Airbus A330-941,CS-TKH,Orbest,,On Order,F-WWYT,
+1964,Airbus A330-841,9K-APF,Kuwait Airways,,On Order,F-WWYU,
+1965,Airbus A330-243MRTT,F-UJCK,Armée de l'Air (French Air Force),,On Order,MRTT045,045
+1966,Airbus A330-941,9M-,AirAsia X,,On Order,F-WWCX,
+1967,Airbus A330-941,F-WWCE,Airbus Industrie,,Active,,
+1968,Airbus A330-243MRTT,F-UJCL,Armée de l'Air (French Air Force),,On Order,MRTT046,046
+1969,Airbus A330-841,9K-APG,Kuwait Airways,,On Order,,
+1971,Airbus A330-941,9M-,AirAsia X,,On Order,,
+1972,Airbus A330-941,9M-,AirAsia X,,On Order,,
+1975,Airbus A330-941,F-,Corsair,,On Order,,
+1976,Airbus A330-941,4X-,Arkia - Israeli Airlines,,On Order,,
+1977,Airbus A330-841,5X-,Uganda Airlines,,On Order,,
+1978,Airbus A330-941,HS-,Thai Lion Air,,On Order,,
+1982,Airbus A330-243MRTT,T-059,NATO Support & Procurement Agency,,On Order,MRTT059,
+1983,Airbus A330-941,N409DX,Delta Air Lines,,On Order,,3409
+1989,Airbus A330-243MRTT,T-060,NATO Support & Procurement Agency,,On Order,MRTT060,

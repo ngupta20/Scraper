@@ -1,0 +1,160 @@
+MSN,Line Number,Aircraft Type,Reg,Current Operator,Delivered From,Status,Prev Reg,Remark
+,,,,,,,,
+55000,5001,Boeing 717-200,N717XA,Boeing,,Scrapped,,
+55001,5002,Boeing 717-26R,N488HA,Hawaiian Airlines,29 Dec 2008,Active,VH-NXF,"Puai'ohi, 488"
+55002,5003,Boeing 717-26R,N489HA,Hawaiian Airlines,16 Oct 2008,Stored,VH-NXB,"Po`ouli, 489"
+55003,5004,Boeing 717-2BD,N949AT,Delta Air Lines,17 Jul 2015,Active,N717XD,9500
+55004,5005,Boeing 717-2BD,N940AT,Delta Air Lines,4 Oct 2015,Stored,N717XE,9501
+55005,5006,Boeing 717-2BD,N942AT,Delta Air Lines,26 May 2015,Active,,9502
+55006,5007,Boeing 717-2BD,N943AT,Delta Air Lines,5 Sep 2015,Active,,9503
+55007,5008,Boeing 717-2BD,N944AT,Delta Air Lines,14 Sep 2015,Active,,9504
+55008,5009,Boeing 717-2BD,N945AT,Delta Air Lines,6 Feb 2016,Active,,9505
+55009,5010,Boeing 717-2BD,N946AT,Delta Air Lines,19 Dec 2015,Active,,9506
+55010,5011,Boeing 717-2BD,N947AT,Delta Air Lines,23 Oct 2015,Active,,9507
+55011,5012,Boeing 717-2BD,N948AT,Delta Air Lines,7 Aug 2015,Active,,9508
+55054,5013,Boeing 717-2K9,VH-NXI,QantasLink,24 Jan 2006,Stored,VH-IMP,opby National Jet Systems
+55055,5014,Boeing 717-2K9,VH-NXH,QantasLink,22 Dec 2005,Stored,VH-IMD,opby National Jet Systems
+55056,5015,Boeing 717-2K9,VH-YQY,QantasLink,8 Jan 2016,Stored,OH-BLO,
+55053,5016,Boeing 717-2K9,VH-YQX,QantasLink,2 Feb 2016,Stored,OH-BLN,
+55058,5017,Boeing 717-231,N936AT,Delta Air Lines,16 Nov 2015,Active,N401TW,9563
+55012,5018,Boeing 717-2BD,N950AT,Delta Air Lines,12 Oct 2015,Stored,,9509
+55069,5019,Boeing 717-231,N935AT,Delta Air Lines,30 Sep 2013,Stored,N402TW,"9564, lsf BCC"
+55057,5020,Boeing 717-2K9,VH-NXG,QantasLink,9 Nov 2005,Active,VH-LAX,opby National Jet Systems
+55013,5021,Boeing 717-2BD,N951AT,Delta Air Lines,24 Jul 2015,Active,,9510
+55070,5022,Boeing 717-231,N934AT,Delta Air Lines,30 Dec 2013,Stored,N403TW,"9565, lsf BCC"
+55059,5023,Boeing 717-2CM,EC-MEZ,Volotea Airlines,1 Apr 2015,Stored,OH-BLG,
+55071,5024,Boeing 717-231,N933AT,Delta Air Lines,26 Nov 2013,Stored,N2404A,"9566, lsf BCC"
+55072,5025,Boeing 717-231,N930AT,Delta Air Lines,11 May 2015,Active,N405TW,"9567, lsf BCC"
+55060,5026,Boeing 717-2CM,EC-MFJ,Volotea Airlines,10 Apr 2015,Stored,OH-BLH,
+55014,5027,Boeing 717-2BD,N952AT,Delta Air Lines,26 Sep 2015,Active,,9511
+55073,5028,Boeing 717-231,N932AT,Delta Air Lines,5 Jan 2016,Active,N406TW,"9568, lsf BCC"
+55061,5029,Boeing 717-2CM,EC-MGS,Volotea Airlines,27 May 2015,Stored,OH-BLI,Volotissima
+55074,5030,Boeing 717-231,N607AT,Delta Air Lines,21 Dec 2014,Stored,N599BC,"9569, lsf BCC"
+55062,5031,Boeing 717-23S,VH-NXD,QantasLink,1 Mar 2009,Active,VH-VQD,"Berowra Valley National Park, opby Cobham Aviation"
+55075,5032,Boeing 717-231,N929AT,Delta Air Lines,10 Jan 2014,Active,N408TW,"9570, lsf BCC"
+55015,5033,Boeing 717-2BD,N953AT,Delta Air Lines,5 Jan 2014,Stored,,"9512, lsf BCC"
+55063,5034,Boeing 717-23S,VH-NXE,QantasLink,30 Apr 2005,Stored,VH-VQE,opby National Jet Systems
+55076,5035,Boeing 717-231,N928AT,Delta Air Lines,20 Mar 2015,Active,N409TW,"9571, lsf BCC"
+55016,5036,Boeing 717-2BD,N954AT,Delta Air Lines,13 Mar 2014,Active,,"9513, lsf BCC"
+55064,5037,Boeing 717-23S,N987DN,Delta Air Lines,4 Jan 2016,Active,OH-BLP,9587
+55077,5038,Boeing 717-231,N927AT,Delta Air Lines,6 Apr 2014,Active,N2410W,"9572, lsf BCC"
+55078,5039,Boeing 717-231,N926AT,Delta Air Lines,30 Apr 2014,Active,N411TW,"9573, lsf BCC"
+55017,5040,Boeing 717-2BD,N955AT,Delta Air Lines,20 Mar 2014,Active,,"9514, lsf Southwest Airlines"
+55151,5041,Boeing 717-2CM,N490HA,Hawaiian Airlines,10 Dec 2008,Active,VH-NXC,"'O'u, 490"
+55079,5042,Boeing 717-231,N925AT,Delta Air Lines,9 Apr 2014,Active,N412TW,"9574, lsf BCC"
+55080,5043,Boeing 717-231,N924AT,Delta Air Lines,22 May 2014,Stored,N413TW,"9575, lsf BCC"
+55018,5044,Boeing 717-2BD,N956AT,Delta Air Lines,30 Apr 2014,Stored,,"9515, lsf Southwest Airlines"
+55081,5045,Boeing 717-231,N608AT,Delta Air Lines,2 Jul 2015,Active,N766BC,"9576, lsf BCC"
+55082,5046,Boeing 717-231,N921AT,Delta Air Lines,23 Apr 2014,Stored,N415TW,"9577, lsf BCC"
+55019,5047,Boeing 717-2BD,N957AT,Delta Air Lines,17 Jun 2014,Stored,,"9516, lsf Southwest Airlines"
+55065,5048,Boeing 717-23S,N988DN,Delta Air Lines,12 Nov 2015,Stored,OH-BLJ,9588
+55083,5049,Boeing 717-231,N920AT,Delta Air Lines,13 Jun 2014,Stored,N416TW,"9578, lsf BCC"
+55121,5050,Boeing 717-22A,N475HA,Hawaiian Airlines,28 Feb 2001,Active,,"'I'iwi, 475"
+55020,5051,Boeing 717-2BD,N958AT,Delta Air Lines,2 Jul 2014,Stored,,"9517, lsf Southwest Airlines"
+55084,5052,Boeing 717-231,N919AT,Delta Air Lines,10 Jun 2014,Stored,N2417F,"9579, lsf BCC"
+55118,5053,Boeing 717-22A,N476HA,Hawaiian Airlines,14 Mar 2001,Stored,,"'Elepaio, 476"
+,,,,,,,,
+55066,5054,Boeing 717-23S,EC-MGT,Volotea Airlines,May 2015,Stored,OH-BLM,Marco Volo
+55085,5055,Boeing 717-231,N915AT,Delta Air Lines,22 Jul 2014,Stored,N418TW,"9580, lsf BCC"
+55086,5056,Boeing 717-231,N910AT,Delta Air Lines,17 Jul 2014,Stored,N2419C,"9581, lsf BCC"
+55021,5057,Boeing 717-2BD,N959AT,Delta Air Lines,31 Jul 2014,Stored,,"9518, lsf Southwest Airlines"
+55022,5058,Boeing 717-2BD,N960AT,Delta Air Lines,10 Jul 2014,Stored,,"9519, lsf Southwest Airlines"
+55067,5059,Boeing 717-23S,N989DN,Delta Air Lines,24 Nov 2015,Active,OH-BLQ,9589
+55087,5060,Boeing 717-231,N906AT,Delta Air Lines,14 Aug 2014,Stored,N420TW,"9582, lsf BCC"
+55122,5061,Boeing 717-22A,N477HA,Hawaiian Airlines,30 Apr 2001,Active,,"'Apapane, 477"
+55023,5062,Boeing 717-2BD,N961AT,Delta Air Lines,3 Jun 2014,Stored,,"9520, lsf Southwest Airlines"
+55088,5063,Boeing 717-231,N987AT,Delta Air Lines,23 Oct 2014,Stored,N2421A,"9583, lsf BCC"
+55123,5064,Boeing 717-22A,N478HA,Hawaiian Airlines,24 May 2001,Active,,"'Amakihi, 478"
+55068,5065,Boeing 717-23S,N988AT,Delta Air Lines,22 Feb 2015,Stored,N6204C,"9521, lsf Pembroke"
+55024,5066,Boeing 717-2BD,N963AT,Delta Air Lines,22 Feb 2015,Stored,,"9522, lsf Southwest Airlines"
+55089,5067,Boeing 717-231,N986AT,Delta Air Lines,19 Dec 2014,Stored,N422TW,"9584, lsf BCC"
+55090,5068,Boeing 717-231,N985AT,Delta Air Lines,20 Jan 2015,Stored,N423TW,"9585, lsf BCC"
+55124,5069,Boeing 717-22A,N479HA,Hawaiian Airlines,21 Jun 2001,Active,,"'Akepa, 479"
+55125,5070,Boeing 717-22A,N480HA,Hawaiian Airlines,28 Jun 2001,Active,,"Pueo, 480"
+55025,5071,Boeing 717-2BD,N964AT,Delta Air Lines,1 May 2015,Stored,,"9523, lsf Southwest Airlines"
+55153,5072,Boeing 717-22K,EZ-A101,Turkmenistan Airlines,31 Jul 2001,Stored,N6202S,
+55126,5073,Boeing 717-22A,N481HA,Hawaiian Airlines,26 Jul 2001,Stored,,"'Alauahio, 481"
+55127,5074,Boeing 717-22A,N603AT,Delta Air Lines,5 Sep 2014,Stored,N482HA,"9594, lsf BCC"
+55091,5075,Boeing 717-231,N937AT,Delta Air Lines,22 Nov 2014,Stored,N424TW,"9586, lsf BCC"
+55026,5076,Boeing 717-2BD,N965AT,Delta Air Lines,31 May 2015,Stored,,9524
+55092,5077,Boeing 717-231,VH-NXK,QantasLink,1 Mar 2007,Active,VH-YQF,"Eucla National Park, opby National Jet Systems"
+55154,5078,Boeing 717-22K,EZ-A102,Turkmenistan Airlines,27 Aug 2001,Stored,,
+55128,5079,Boeing 717-22A,N483HA,Hawaiian Airlines,17 Sep 2008,Stored,N604AT,"'Anianiau, 483"
+55129,5080,Boeing 717-22A,N484HA,Hawaiian Airlines,12 Sep 2001,Active,,"Oma'o, 484"
+55027,5081,Boeing 717-2BD,N966AT,Delta Air Lines,28 May 2014,Stored,,"9525, lsf Southwest Airlines"
+55028,5082,Boeing 717-2BD,N967AT,Delta Air Lines,14 Oct 2014,Stored,,"9526, lsf Southwest Airlines"
+55093,5083,Boeing 717-231,VH-NXL,QantasLink,29 Mar 2007,Active,VH-YQG,"Daintree National Park, opby National Jet Systems"
+55094,5084,Boeing 717-231,VH-NXM,QantasLink,11 May 2007,Active,VH-YQH,"Strzelech National Park, opby National Jet Systems"
+55152,5085,Boeing 717-23S,N989AT,Delta Air Lines,4 Nov 2013,Active,N6200N,"9527, lsf Pembroke"
+55155,5086,Boeing 717-22K,EZ-A103,Turkmenistan Airlines,12 Oct 2001,Stored,,
+55095,5087,Boeing 717-231,VH-NXN,QantasLink,16 Oct 2007,Stored,VH-YQI,opby National Jet Systems
+55134,5088,Boeing 717-23S,N990AT,Delta Air Lines,22 Oct 2013,Active,,"9528, lsf Southwest Airlines"
+55130,5089,Boeing 717-22A,N485HA,Hawaiian Airlines,29 Oct 2001,Active,,"Palila, 485"
+55135,5090,Boeing 717-23S,N991AT,Delta Air Lines,17 Dec 2013,Stored,N6202S,"9529, lsf Pembroke"
+55029,5091,Boeing 717-2BD,N968AT,Delta Air Lines,19 Sep 2014,Stored,,"9530, lsf Southwest Airlines"
+55131,5092,Boeing 717-22A,N486HA,Hawaiian Airlines,20 Nov 2001,Active,,"'Akikiki, 486"
+55096,5093,Boeing 717-231,VH-NXO,QantasLink,19 Jul 2007,Active,VH-YQJ,"Wilsons Promontory National Park, opby National Jet Systems"
+55030,5094,Boeing 717-2BD,N969AT,Delta Air Lines,12 Nov 2014,Stored,,"9531, lsf Southwest Airlines"
+55097,5095,Boeing 717-231,VH-NXQ,QantasLink,5 Sep 2007,Stored,VH-VQK,opby National Jet Systems
+55031,5096,Boeing 717-2BD,N970AT,Delta Air Lines,11 Sep 2014,Stored,,"9532, lsf Southwest Airlines"
+55032,5097,Boeing 717-2BD,N971AT,Delta Air Lines,10 Apr 2015,Active,,"9533, lsf Southwest Airlines"
+55132,5098,Boeing 717-22A,N487HA,Hawaiian Airlines,20 Dec 2001,Active,,"ʻIo, 487"
+55033,5099,Boeing 717-2BD,N972AT,Delta Air Lines,13 Mar 2015,Stored,,"9534, lsf Southwest Airlines"
+55136,5100,Boeing 717-2BD,N992AT,Delta Air Lines,6 Jan 2016,Stored,N6202D,9535
+55034,5101,Boeing 717-2BD,N974AT,Delta Air Lines,5 Mar 2015,Stored,,"9536, lsf Southwest Airlines"
+55035,5102,Boeing 717-2BD,N975AT,Delta Air Lines,8 Jan 2014,Stored,,"9537, lsf Southwest Airlines"
+55137,5103,Boeing 717-2BD,N993AT,Delta Air Lines,27 Feb 2015,Active,,"9538, lsf Pembroke"
+55138,5104,Boeing 717-2BD,N994AT,Delta Air Lines,29 Nov 2013,Active,N6206F,"9539, lsf Southwest Airlines"
+55139,5105,Boeing 717-2BD,N995AT,Delta Air Lines,30 Dec 2013,Active,,"9540, lsf Southwest Airlines"
+55036,5106,Boeing 717-2BD,N977AT,Delta Air Lines,28 Oct 2013,Active,,"9541, lsf Southwest Airlines"
+,,,,,,,,
+55140,5107,Boeing 717-2BD,N996AT,Delta Air Lines,7 Aug 2015,Active,,9542
+55037,5108,Boeing 717-2BD,N978AT,Delta Air Lines,7 Nov 2013,Active,,"9543, lsf Southwest Airlines"
+55038,5109,Boeing 717-2BD,N979AT,Delta Air Lines,14 Nov 2013,Active,,"9544, lsf Southwest Airlines"
+55141,5110,Boeing 717-2BD,N997AT,Delta Air Lines,12 Jun 2015,Active,,9545
+55039,5111,Boeing 717-2BD,N980AT,Delta Air Lines,19 Jul 2015,Active,,9546
+55142,5112,Boeing 717-2BD,N998AT,Delta Air Lines,27 Feb 2014,Active,,"9547, lsf BCC"
+55040,5113,Boeing 717-2BD,N981AT,Delta Air Lines,8 Dec 2013,Active,,"9548, lsf Southwest Airlines"
+55041,5114,Boeing 717-2BD,N982AT,Delta Air Lines,27 Jul 2015,Stored,,9549
+55042,5115,Boeing 717-2BD,N717JL,Delta Air Lines,19 Jun 2015,Active,,9550
+55166,5116,Boeing 717-2BL,VH-NXJ,QantasLink,11 May 2012,Stored,N902ME,opby National Jet Systems
+55167,5117,Boeing 717-2BL,EI-FGI,Volotea Airlines,4 Dec 2014,Stored,EC-LQI,lsf BCC
+55168,5118,Boeing 717-2BL,VH-NXR,QantasLink,10 Apr 2012,Stored,N904ME,opby National Jet Systems
+55169,5119,Boeing 717-2BL,EI-FGH,Volotea Airlines,13 Nov 2014,Stored,EC-LQS,lsf BCC
+55170,5120,Boeing 717-2BL,EI-EWI,Volotea Airlines,11 May 2012,Stored,N906ME,lsf BCC
+55171,5121,Boeing 717-2BL,EI-EWJ,Volotea Airlines,23 May 2012,Stored,N907ME,lsf BCC
+55172,5122,Boeing 717-2BL,N728BC,Boeing Capital Corporation (BCC),2 Mar 2020,Stored,EI-EXA,
+55173,5123,Boeing 717-2BL,EI-EXB,Volotea Airlines,18 Jun 2012,Stored,N909ME,lsf BCC
+55174,5124,Boeing 717-2BL,EI-EXI,Volotea Airlines,21 Jun 2012,Stored,N910ME,"Calypso, lsf BCC"
+55175,5125,Boeing 717-2BL,N491HA,Hawaiian Airlines,1 Feb 2012,Active,N912ME,"'Akohekohe, 491, lsf BCC"
+55176,5126,Boeing 717-2BL,N730BC,Boeing Capital Corporation (BCC),2 Mar 2020,Stored,EI-EXJ,
+55177,5127,Boeing 717-2BL,N734BC,Boeing Capital Corporation (BCC),2 Mar 2020,Stored,EI-FBJ,
+55178,5128,Boeing 717-2BL,VH-YQS,QantasLink,1 Oct 2013,Stored,N406BC,opby Cobham Aviation
+55179,5129,Boeing 717-2BL,VH-YQT,QantasLink,4 Nov 2013,Stored,N917ME,opby Cobham Aviation
+55195,5130,Boeing 717-22K,EZ-A104,Turkmenistan Airlines,21 Apr 2004,Stored,,
+55043,5131,Boeing 717-2BD,N891AT,Delta Air Lines,22 Dec 2013,Active,,"9551, lsf Southwest Airlines"
+55180,5132,Boeing 717-2BL,VH-YQU,QantasLink,24 Dec 2013,Stored,N795BC,opby Cobham Aviation
+55196,5133,Boeing 717-22K,EZ-A105,Turkmenistan Airlines,15 Jul 2004,Stored,,
+55044,5134,Boeing 717-2BD,N892AT,Delta Air Lines,27 Jan 2014,Active,,"9552, lsf Southwest Airlines"
+55181,5135,Boeing 717-2BL,N492HA,Hawaiian Airlines,13 Jan 2012,Stored,N919ME,"Ewa 'Ewa, 492, lsf BCC"
+55045,5136,Boeing 717-2BD,N893AT,Delta Air Lines,6 Mar 2014,Stored,,"9553, lsf BCC"
+55046,5137,Boeing 717-2BD,N894AT,Delta Air Lines,10 Feb 2014,Active,,"9554, lsf Southwest Airlines"
+55182,5138,Boeing 717-2BL,N494HA,Hawaiian Airlines,7 Feb 2017,Stored,EI-FBK,"Koa’e Kea, 494, lsf BCC"
+55047,5139,Boeing 717-2BD,N895AT,Delta Air Lines,7 Feb 2014,Active,,"9555, lsf Southwest Airlines"
+55183,5140,Boeing 717-2BL,EI-FBL,Volotea Airlines,15 May 2013,Stored,N921ME,lsf BCC
+55048,5141,Boeing 717-2BD,N896AT,Delta Air Lines,21 Feb 2014,Active,,"9556, lsf Southwest Airlines"
+55184,5142,Boeing 717-2BL,N493HA,Hawaiian Airlines,16 Dec 2011,Stored,N922ME,"‘Ua‘u, 493, lsf BCC"
+55049,5143,Boeing 717-2BD,N899AT,Delta Air Lines,2 Oct 2014,Stored,,"9557, lsf BCC"
+55050,5144,Boeing 717-2BD,N922AT,Delta Air Lines,20 Nov 2014,Stored,,"9558, lsf Southwest Airlines"
+55185,5145,Boeing 717-2BL,N495HA,Hawaiian Airlines,9 Mar 2017,Stored,EC-LPM,"`Akiapola`au, 495, lsf BCC"
+55186,5146,Boeing 717-22K,EZ-A106,Turkmenistan Airlines,5 Aug 2005,Stored,,
+55187,5147,Boeing 717-22K,EZ-A107,Turkmenistan Airlines,26 Aug 2005,Stored,,
+55051,5148,Boeing 717-2BD,N923AT,Delta Air Lines,3 Feb 2015,Stored,,"9559, lsf Southwest Airlines"
+55190,5149,Boeing 717-2BL,EI-FCU,Volotea Airlines,18 Jul 2013,Stored,N799BC,lsf BCC
+55052,5150,Boeing 717-2BD,N983AT,Delta Air Lines,23 Apr 2015,Stored,,"9560, lsf Southwest Airlines"
+55191,5151,Boeing 717-2BL,EI-FCB,Volotea Airlines,13 Jun 2013,Stored,N925ME,lsf BCC
+55192,5152,Boeing 717-2BL,EI-FBM,Volotea Airlines,3 Jul 2013,Stored,N926ME,lsf BCC
+55193,5153,Boeing 717-2BL,VH-YQV,QantasLink,7 Mar 2014,Stored,N927ME,opby Cobham Aviation
+55194,5154,Boeing 717-2BL,VH-YQW,QantasLink,17 Apr 2014,Stored,N928ME,"opby Cobham Aviation, Discover Tasmania cs"
+55098,5155,Boeing 717-2BD,N938AT,Delta Air Lines,26 Dec 2014,Active,,9561
+55099,5156,Boeing 717-2BD,N939AT,Delta Air Lines,14 May 2015,Stored,,9562

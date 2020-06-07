@@ -1,0 +1,149 @@
+MSN,Aircraft Type,Reg,Current Operator,Delivered From,Status,Prev Reg,Remark
+,,,,,,,
+50001,Bombardier CSeries CS100 (BD-500-1A10),C-FBCS,Bombardier,6 May 2013,Active,,FTV1
+50002,Bombardier CSeries CS100 (BD-500-1A10),C-GWYD,Bombardier,4 Jul 2013,Active,,FTV2
+50003,Bombardier CSeries CS100 (BD-500-1A10),C-GWXJ,Bombardier,4 Jul 2013,Preserved,,FTV3
+50004,Bombardier CSeries CS100 (BD-500-1A10),C-GWXK,Bombardier,4 Jul 2013,Active,,FTV4
+50005,Bombardier CSeries CS100 (BD-500-1A10),C-GWXZ,Bombardier,18 Mar 2015,Active,,FTV5
+50006,Bombardier CSeries CS100 (BD-500-1A10),C-FFCO,Bombardier,30 Oct 2015,Stored,,FTV6
+50007,Bombardier CSeries CS100 (BD-500-1A10),C-FPGI,Bombardier,,On Order,,
+50008,Bombardier CSeries CS100 (BD-500-1A10),C-FPGP,Bombardier,,On Order,,
+50009,Bombardier CSeries CS100 (BD-500-1A10),C-FPHB,Bombardier,,On Order,,
+50010,Bombardier CSeries CS100 (BD-500-1A10),HB-JBA,Swiss,28 Jun 2016,Active,C-FPAI,Kanton Zürich
+50011,Bombardier CSeries CS100 (BD-500-1A10),HB-JBB,Swiss,12 Aug 2016,Stored,C-FPBD,Canton de Genève
+50012,Bombardier CSeries CS100 (BD-500-1A10),HB-JBC,Swiss,22 Oct 2016,Active,C-FPBE,
+50013,Bombardier CSeries CS100 (BD-500-1A10),HB-JBD,Swiss,7 Dec 2016,Active,C-FPBQ,
+50014,Bombardier CSeries CS100 (BD-500-1A10),HB-JBE,Swiss,21 Dec 2016,Active,C-FPBZ,
+50015,Bombardier CSeries CS100 (BD-500-1A10),HB-JBF,Swiss,8 Mar 2017,Active,C-FOYA,
+50016,Bombardier CSeries CS100 (BD-500-1A10),HB-JBG,Swiss,31 Mar 2017,Active,C-FOYB,
+50017,Bombardier CSeries CS100 (BD-500-1A10),HB-JBH,Swiss,9 May 2017,Stored,C-FOYE,Ascona
+50018,Airbus A220-100,HB-JBI,Swiss,1 Jul 2019,Stored,C-FOYF,
+50019,Airbus A220-100,-,Unknown,,On Order,,
+50020,Airbus A220-100,N101DU,Delta Air Lines,25 Oct 2018,Active,C-FOVL,8101
+50021,Airbus A220-100,N102DU,Delta Air Lines,17 Dec 2018,Active,C-FOYA,8102
+50022,Airbus A220-100,N103DU,Delta Air Lines,7 Dec 2018,Active,C-FOWY,8103
+50023,Airbus A220-100,N104DU,Delta Air Lines,31 Dec 2018,Active,C-FOWV,8104
+50024,Airbus A220-100,N105DU,Delta Air Lines,15 Feb 2019,Active,C-FOYE,8105
+50025,Airbus A220-100,N106DU,Delta Air Lines,22 Feb 2019,Active,C-FPAG,8106
+50026,Airbus A220-100,N107DU,Delta Air Lines,1 Mar 2019,Active,C-FOVG,8107
+50027,Airbus A220-100,N108DQ,Delta Air Lines,26 Apr 2019,Active,C-FPBD,8108
+50028,Airbus A220-100,N109DU,Delta Air Lines,13 Mar 2019,Active,C-FPBE,8109
+50029,Airbus A220-100,N110DU,Delta Air Lines,28 Mar 2019,Active,C-FPBQ,8110
+50030,Airbus A220-100,N111NG,Delta Air Lines,6 Jun 2019,Active,C-FOVL,8111
+50031,Airbus A220-100,N112DU,Delta Air Lines,18 Apr 2019,Active,C-FOYB,8112
+50032,Airbus A220-100,N113DQ,Delta Air Lines,20 May 2019,Active,C-FOVX,8113
+50033,Airbus A220-100,N114DU,Delta Air Lines,30 May 2019,Active,C-FOWF,8114
+50034,Airbus A220-100,N115DU,Delta Air Lines,18 Jun 2019,Active,C-FOUY,8115
+50035,Airbus A220-100,N116DU,Delta Air Lines,20 Jun 2019,Active,C-FOWQ,8116
+50036,Airbus A220-100,N117DU,Delta Air Lines,25 Jun 2019,Active,C-FOWU,8117
+50037,Airbus A220-100,N118DU,Delta Air Lines,28 Jun 2019,Active,C-FOWV,8118
+50038,Airbus A220-100,N119DU,Delta Air Lines,12 Jul 2019,Stored,C-FOWY,8119
+50039,Airbus A220-100,N120DU,Delta Air Lines,25 Jul 2019,Stored,C-FOYA,8120
+50040,Airbus A220-100,N121DU,Delta Air Lines,9 Aug 2019,Active,C-FOVG,8121
+50041,Airbus A220-100,N122DU,Delta Air Lines,29 Aug 2019,Active,C-FOVH,8122
+50042,Airbus A220-100,N123DQ,Delta Air Lines,16 Sep 2019,Active,C-FPAI,8123
+50043,Airbus A220-100,N124DU,Delta Air Lines,23 Sep 2019,Active,C-FOUQ,8124
+50044,Airbus A220-100,N125DU,Delta Air Lines,30 Sep 2019,Active,C-FOVD,8125
+50045,Airbus A220-100,N126DU,Delta Air Lines,10 Oct 2019,Active,C-FOYB,8126
+50046,Airbus A220-100,N127DU,Delta Air Lines,30 Oct 2019,Active,C-FPBD,8127
+50047,Airbus A220-100,N128DU,Delta Air Lines,21 Nov 2019,Active,C-FPBZ,8128
+50048,Airbus A220-100,N129DU,Delta Air Lines,24 Jan 2020,Stored,C-FOYA,8129
+50049,Airbus A220-100,N130DU,Delta Air Lines,28 Feb 2020,Active,C-FOYB,8130
+50050,Airbus A220-100,N131DU,Delta Air Lines,6 Mar 2020,Active,C-FOVD,8131
+,,,,,,,
+50051,Airbus A220-100,N132DU,Delta Air Lines,,On Order,C-FOVK,8132
+50052,Airbus A220-100,N133DU,Delta Air Lines,,On Order,C-FOVP,8133
+50053,Airbus A220-100,N134DU,Delta Air Lines,,On Order,C-FOWQ,8134
+50060,Airbus A220-100,YJ-,Air Vanuatu,,On Order,,
+55001,Bombardier CSeries CS300 (BD-500-1A11),C-FFDK,Bombardier,3 Nov 2014,Active,,FTV7
+55002,Airbus A220-300,C-FFDO,Airbus Industrie,1 Jul 2018,Active,,
+55003,Bombardier CSeries CS300 (BD-500-1A11),YL-CSA,Air Baltic,28 Nov 2016,Stored,C-FOWY,Liepāja
+55004,Bombardier CSeries CS300 (BD-500-1A11),YL-CSB,Air Baltic,30 Dec 2016,Stored,C-FOWV,Cēsis
+55005,Bombardier CSeries CS300 (BD-500-1A11),YL-CSC,Air Baltic,31 Mar 2017,Stored,C-FOWU,Alūksne
+55006,Bombardier CSeries CS300 (BD-500-1A11),YL-CSD,Air Baltic,1 Jun 2017,Stored,C-FOWQ,Valmiera
+55007,Bombardier CSeries CS300 (BD-500-1A11),YL-CSE,Air Baltic,15 Jun 2017,Stored,C-FOWV,Kuldīga
+55008,Bombardier CSeries CS300 (BD-500-1A11),YL-CSF,Air Baltic,20 Jul 2017,Stored,C-FOWY,Smiltene
+55009,Bombardier CSeries CS300 (BD-500-1A11),YL-CSG,Air Baltic,10 Aug 2017,Active,C-FPBD,Ogre
+55010,Bombardier CSeries CS300 (BD-500-1A11),HB-JCA,Swiss,26 May 2017,Stored,C-FPBE,
+55011,Bombardier CSeries CS300 (BD-500-1A11),HB-JCB,Swiss,7 Jul 2017,Active,C-FPBQ,
+55012,Bombardier CSeries CS300 (BD-500-1A11),HB-JCC,Swiss,25 Aug 2017,Stored,C-FPBZ,
+55013,Bombardier CSeries CS300 (BD-500-1A11),HB-JCD,Swiss,3 Nov 2017,Active,C-FOVG,
+55014,Bombardier CSeries CS300 (BD-500-1A11),HB-JCE,Swiss,2 Oct 2017,Stored,C-FOVH,
+55015,Bombardier CSeries CS300 (BD-500-1A11),HB-JCF,Swiss,27 Nov 2017,Stored,C-FOVK,
+55016,Bombardier CSeries CS300 (BD-500-1A11),YL-CSH,Air Baltic,2 Feb 2018,Active,C-FOVL,Līvāni
+55017,Bombardier CSeries CS300 (BD-500-1A11),-,Private,,On Order,C-FOVM,
+55018,Bombardier CSeries CS300 (BD-500-1A11),HL8092,Korean Air Lines,23 Dec 2017,Active,C-FOUQ,
+55019,Bombardier CSeries CS300 (BD-500-1A11),HL8093,Korean Air Lines,30 Dec 2017,Active,C-FOVP,
+55020,Bombardier CSeries CS300 (BD-500-1A11),HB-JCG,Swiss,20 Dec 2017,Active,C-FOVX,
+55021,Bombardier CSeries CS300 (BD-500-1A11),HB-JCH,Swiss,2 Mar 2018,Active,C-FOWF,
+55022,Bombardier CSeries CS300 (BD-500-1A11),HL7200,Korean Air Lines,13 Mar 2018,Active,C-FOWU,
+55023,Bombardier CSeries CS300 (BD-500-1A11),HB-JCI,Swiss,21 Apr 2018,Stored,C-FOYA,
+55024,Bombardier CSeries CS300 (BD-500-1A11),HL7201,Korean Air Lines,30 Mar 2018,Active,C-FOYB,
+55025,Bombardier CSeries CS300 (BD-500-1A11),HB-JCJ,Swiss,26 Mar 2018,Stored,C-FOWQ,
+55026,Bombardier CSeries CS300 (BD-500-1A11),HL8311,Korean Air Lines,9 Jul 2018,Active,C-FOWV,
+55027,Bombardier CSeries CS300 (BD-500-1A11),HB-JCK,Swiss,1 May 2018,Active,C-FOWY,
+55028,Airbus A220-300,HL8312,Korean Air Lines,10 Aug 2018,Active,C-FOYE,
+55029,Bombardier CSeries CS300 (BD-500-1A11),HB-JCL,Swiss,19 May 2018,Active,C-FPBD,Winterthur
+55030,Bombardier CSeries CS300 (BD-500-1A11),HB-JCM,Swiss,1 Jun 2018,Active,C-FPBE,
+55031,Bombardier CSeries CS300 (BD-500-1A11),HL8313,Korean Air Lines,31 May 2018,Active,C-FPBQ,
+55032,Bombardier CSeries CS300 (BD-500-1A11),HB-JCN,Swiss,20 Jun 2018,Stored,C-FOVH,
+55033,Bombardier CSeries CS300 (BD-500-1A11),HB-JCO,Swiss,2 Jul 2018,Stored,C-FPBZ,
+55034,Bombardier CSeries CS300 (BD-500-1A11),YL-CSI,Air Baltic,16 Jun 2018,Active,C-FOUY,"Bauska, lsf AVAP"
+55035,Airbus A220-300,HL8314,Korean Air Lines,28 Sep 2018,Active,C-FOVD,
+55036,Airbus A220-300,HB-JCP,Swiss,20 Aug 2018,Stored,C-FPAG,
+55037,Airbus A220-300,HL8315,Korean Air Lines,20 Dec 2018,Active,C-FPAI,
+55038,Airbus A220-300,YL-CSJ,Air Baltic,19 Jul 2018,Active,C-FPDR,"Tallinn, lsf AVAP, Estonian Flag cs"
+55039,Airbus A220-300,YL-CSK,Air Baltic,24 Aug 2018,Active,C-FOVG,"Vilnius, Lithuanian Flag cs"
+55040,Airbus A220-300,HB-JCQ,Swiss,25 Sep 2018,Stored,C-FOVK,
+55041,Airbus A220-300,YL-CSL,Air Baltic,12 Oct 2018,Active,C-FOVP,"Riga, Latvia 100 cs"
+55042,Airbus A220-300,YL-CSM,Air Baltic,30 Nov 2018,Active,C-FOVX,Jūrmala
+55043,Airbus A220-300,YL-CSN,Air Baltic,22 Sep 2018,Active,C-FOUQ,Sigulda
+55044,Airbus A220-300,HB-JCR,Swiss,14 Nov 2018,Active,C-FOYB,
+55045,Airbus A220-300,HB-JCS,Swiss,7 Dec 2018,Stored,C-FOWF,
+55046,Airbus A220-300,HB-JCT,Swiss,10 Jan 2019,Stored,C-FOWQ,
+,,,,,,,
+55047,Airbus A220-300,5H-TCH,Air Tanzania,21 Dec 2018,Active,C-FOWU,Dodoma
+55048,Airbus A220-300,5H-TCI,Air Tanzania,9 Jan 2019,Active,C-FOUY,Ngorongoro
+55049,Airbus A220-300,HL8091,Korean Air Lines,1 Mar 2019,Active,C-FOVH,
+55050,Airbus A220-300,YL-AAO,Air Baltic,27 Mar 2019,Active,C-FOUQ,"Jelgava, lsf AVAP"
+55051,Airbus A220-300,YL-AAP,Air Baltic,30 Mar 2019,Active,C-FOVD,"Gulbene, lsf AVAP"
+55052,Airbus A220-300,YL-AAQ,Air Baltic,26 Apr 2019,Stored,C-FOVK,lsf AVAP
+55053,Airbus A220-300,YL-AAR,Air Baltic,17 May 2019,Active,C-FOVP,lsf AVAP
+55054,Airbus A220-300,YL-AAS,Air Baltic,25 May 2019,Active,C-FPBZ,lsf FPG Group
+55055,Airbus A220-300,YL-AAT,Air Baltic,20 Sep 2019,Active,C-FPDR,lsf FPG Group
+55056,Airbus A220-300,VP-BJB,State Transport Leasing Company (GTLK),27 Aug 2019,Stored,C-FPAG,
+55057,Airbus A220-300,VP-BJC,State Transport Leasing Company (GTLK),23 Sep 2019,Stored,C-FOYE,
+55058,Airbus A220-300,SU-GEX,EgyptAir,4 Nov 2019,Stored,C-FPBE,
+55059,Airbus A220-300,SU-GEY,EgyptAir,30 Sep 2019,Stored,C-FPBQ,
+55060,Airbus A220-300,SU-GEZ,EgyptAir,19 Oct 2019,Active,C-FOVK,
+55061,Airbus A220-300,SU-GFA,EgyptAir,4 Nov 2019,Active,C-FOVP,
+55062,Airbus A220-300,SU-GFD,EgyptAir,7 Nov 2019,Stored,C-FOVX,
+55063,Airbus A220-300,SU-GFB,EgyptAir,16 Nov 2019,Active,C-FOUY,
+55064,Airbus A220-300,YL-AAU,Air Baltic,5 Dec 2019,Stored,C-FOVL,lsf Chorus Aviation
+55065,Airbus A220-300,VP-BMZ,State Transport Leasing Company (GTLK),28 Nov 2019,Stored,C-FOWF,
+55066,Airbus A220-300,VP-BMV,State Transport Leasing Company (GTLK),12 Dec 2019,Stored,C-FOWQ,
+55067,Airbus A220-300,C-GROV,Air Canada,20 Dec 2019,Active,,101
+55068,Airbus A220-300,SU-GFC,EgyptAir,21 Dec 2019,Active,C-FOWU,
+55069,Airbus A220-300,N301DU,Delta Air Lines,,On Order,C-GPWC,
+55070,Airbus A220-300,N302DU,Delta Air Lines,,On Order,C-GPCA,8302
+55071,Airbus A220-300,YL-AAV,Air Baltic,23 Dec 2019,Stored,C-FOVG,lsf Chorus Aviation
+55072,Airbus A220-300,VP-BMU,State Transport Leasing Company (GTLK),5 Feb 2020,Stored,C-FOWV,
+55073,Airbus A220-300,VP-BMQ,State Transport Leasing Company (GTLK),6 Feb 2020,Stored,C-FOWY,
+55074,Airbus A220-300,SU-GFE,EgyptAir,17 Jan 2020,Active,C-FOVH,
+55075,Airbus A220-300,N303DU,Delta Air Lines,,On Order,C-GPNB,8303
+55076,Airbus A220-300,C-GJXE,Air Canada,14 Feb 2020,Active,,102
+55077,Airbus A220-300,SU-GFF,EgyptAir,20 Feb 2020,Stored,C-FOUQ,
+55078,Airbus A220-300,C-GJXN,Air Canada,26 Feb 2020,Active,,103
+55079,Airbus A220-300,C-GJXV,Air Canada,7 Mar 2020,Active,,104
+55080,Airbus A220-300,N304DU,Delta Air Lines,,On Order,C-GPVD,8304
+55081,Airbus A220-300,SU-,EgyptAir,,On Order,C-FOVX,
+55082,Airbus A220-300,C-GJXW,Air Canada,23 May 2020,Active,,105
+55083,Airbus A220-300,C-GJXY,Air Canada,29 May 2020,Active,,106
+55084,Airbus A220-300,N305DU,Delta Air Lines,,On Order,C-GPVE,8305
+55085,Airbus A220-300,N306DU,Delta Air Lines,,On Order,C-GPVF,8306
+55086,Airbus A220-300,YL-,Air Baltic,,On Order,C-FOVG,
+55088,Airbus A220-300,C-GJYA,Air Canada,,On Order,,107
+55090,Airbus A220-300,C-GJYC,Air Canada,,On Order,,108
+55092,Airbus A220-300,C-GJYE,Air Canada,,On Order,,109
+55093,Airbus A220-300,C-GJYI,Air Canada,,On Order,,110
+55099,Airbus A220-300,N,JetBlue Airways,,On Order,,

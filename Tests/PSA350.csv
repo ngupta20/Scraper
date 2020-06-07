@@ -1,0 +1,440 @@
+MSN,Aircraft Type,Reg,Current Operator,Delivered From,Status,Prev Reg,Remark
+,,,,,,,
+5000,Airbus A350-900,-,Airbus Industrie,,Scrapped,,
+001,Airbus A350-941,F-WXWB,Airbus Industrie,14 Jun 2013,Active,,
+002,Airbus A350-941,F-WWCF,Airbus Industrie,26 Feb 2014,Active,,
+003,Airbus A350-941,F-WZGG,Airbus Industrie,14 Oct 2013,Preserved,,
+004,Airbus A350-941,F-WZNW,Airbus Industrie,26 Feb 2014,Stored,,
+005,Airbus A350-941,F-HREU,French bee,30 Jan 2018,Active,F-WWYB,
+006,Airbus A350-941,A7-ALA,Qatar Airways,18 Dec 2014,Active,F-WZFA,"سودانثيل (Sudanthel), lsf GECAS"
+007,Airbus A350-941,A7-ALB,Qatar Airways,4 Mar 2015,Stored,F-WZFB,"الفديريات, lsf Avolon"
+008,Airbus A350-941,A7-ALE,Qatar Airways,29 Oct 2015,Stored,F-WZFC,lsf GECAS
+009,Airbus A350-941,A7-ALC,Qatar Airways,7 May 2015,Active,F-WZFD,lsf Haitong UniTrust
+010,Airbus A350-941,A7-ALD,Qatar Airways,11 Jun 2015,Stored,F-WZFE,lsf CMIG Aviation Leasing
+011,Airbus A350-941,A7-ALF,Qatar Airways,30 Oct 2015,Active,F-WZFF,lsf BBAM
+012,Airbus A350-941,A7-ALH,Qatar Airways,7 Mar 2016,Active,F-WZFG,lsf JP Lease (JLPS)
+013,Airbus A350-941,A7-ALG,Qatar Airways,20 Nov 2015,Stored,F-WZFH,lsf Haitong UniTrust
+014,Airbus A350-941,VN-A886,Vietnam Airlines,29 Jun 2015,Active,F-WZFI,lsf AerCap
+015,Airbus A350-941,VN-A887,Vietnam Airlines,18 Sep 2015,Active,F-WZFJ,lsf Avolon
+016,Airbus A350-941,VN-A888,Vietnam Airlines,19 Oct 2015,Active,F-WZFK,lsf AerCap
+017,Airbus A350-941,VN-A889,Vietnam Airlines,1 Dec 2015,Stored,F-WZFL,lsf Avolon
+018,Airbus A350-941,OH-LWA,Finnair,6 Oct 2015,Stored,F-WZFM,lsf Stratos Aircraft Management
+019,Airbus A350-941,OH-LWB,Finnair,14 Dec 2015,Stored,F-WZFN,"lsf Avolon, oneworld cs"
+020,Airbus A350-941,OH-LWC,Finnair,30 Dec 2015,Stored,F-WZFO,
+021,Airbus A350-941,A7-ALI,Qatar Airways,1 Jul 2016,Active,F-WZFP,lsf GECAS
+022,Airbus A350-941,OH-LWD,Finnair,25 Mar 2016,Active,F-WZFQ,
+023,Airbus A350-941,OH-LWE,Finnair,29 Apr 2016,Active,F-WZFR,
+024,Airbus A350-941,PR-XTA,LATAM Airlines Brasil,5 May 2016,Stored,F-WZFS,
+025,Airbus A350-941,A7-ALJ,Qatar Airways,1 Aug 2016,Active,F-WZFT,lsf GECAS
+026,Airbus A350-941,9V-SMA,Singapore Airlines,26 Feb 2016,Stored,F-WZFU,
+027,Airbus A350-941,PR-XTB,LATAM Airlines Brasil,5 May 2016,Stored,F-WZFV,
+028,Airbus A350-941,OH-LWF,Finnair,24 Jun 2016,Active,F-WZFW,lsf BBAM
+029,Airbus A350-941,B-LRA,Cathay Pacific,27 May 2016,Active,F-WZFX,lsf AerCap
+030,Airbus A350-941,9V-SMB,Singapore Airlines,19 Apr 2016,Stored,F-WZFY,
+031,Airbus A350-941,9V-SMC,Singapore Airlines,27 May 2016,Stored,F-WZFZ,
+032,Airbus A350-941,B-LRB,Cathay Pacific,24 Aug 2016,Stored,F-WZGA,
+033,Airbus A350-941,A7-ALK,Qatar Airways,22 Sep 2016,Active,F-WZGB,lsf Banc of America Leasing
+034,Airbus A350-941,B-LRC,Cathay Pacific,15 Jul 2016,Stored,F-WZGC,lsf AerCap
+035,Airbus A350-941,PR-XTC,LATAM Airlines Brasil,18 May 2016,Stored,F-WZGD,
+036,Airbus A350-941,A7-ALL,Qatar Airways,1 Nov 2016,Active,F-WZGE,lsf GECAS
+037,Airbus A350-941,9V-SMD,Singapore Airlines,30 Jun 2016,Active,F-WZGF,
+038,Airbus A350-941,B-LRD,Cathay Pacific,23 Sep 2016,Active,F-WZGK,
+039,Airbus A350-941,B-LRE,Cathay Pacific,11 Aug 2016,Stored,F-WZGL,
+040,Airbus A350-941,ET-ATQ,Ethiopian Airlines,28 Jun 2016,Active,F-WZGM,"Simien Mountains, lsf AerCap"
+041,Airbus A350-941,9V-SME,Singapore Airlines,27 Jul 2016,Stored,F-WZGN,
+042,Airbus A350-941,A7-ALM,Qatar Airways,20 Dec 2016,Stored,F-WZGO,lsf BBAM
+043,Airbus A350-941,ET-ATR,Ethiopian Airlines,15 Aug 2016,Active,F-WZGP,"Bale Mountains, lsf AerCap"
+044,Airbus A350-941,HS-THB,Thai Airways International,29 Aug 2016,Active,F-WZGQ,"Wichian Buri / วิเชียรบุรี, lsf Avolon"
+045,Airbus A350-941,PR-XTD,LATAM Airlines Brasil,7 Dec 2017,Stored,A7-AMD,
+046,Airbus A350-941,B-LRF,Cathay Pacific,20 Oct 2016,Stored,F-WZGS,
+047,Airbus A350-941,A7-ALN,Qatar Airways,27 Feb 2017,Active,F-WZGT,lsf CDB Aviation
+048,Airbus A350-941,PR-XTE,LATAM Airlines Brasil,24 Nov 2017,Active,A7-AMC,lsf AerCap
+049,Airbus A350-941,B-18901,China Airlines,30 Sep 2016,Active,F-WZGV,Mikado Pheasant / Syrmaticus Mikado (帝雉號) cs
+050,Airbus A350-941,HS-THC,Thai Airways International,11 Oct 2016,Stored,F-WZGW,"Si Nakhon / ศรีนคร, lsf Avolon"
+051,Airbus A350-941,OH-LWG,Finnair,29 Sep 2016,Active,F-WZGX,lsf BBAM
+052,Airbus A350-941,B-304U,Sichuan Airlines,26 Oct 2018,Active,F-WZFA,lsf AerCap
+053,Airbus A350-941,B-LRG,Cathay Pacific,2 Dec 2016,Stored,F-WZFB,
+,,,,,,,
+054,Airbus A350-941,9V-SMF,Singapore Airlines,14 Oct 2016,Stored,F-WZFD,"10,000th Airbus Aircraft cs"
+055,Airbus A350-941,B-304V,Sichuan Airlines,20 Nov 2018,Stored,F-WZFI,lsf AerCap
+056,Airbus A350-941,VN-A890,Vietnam Airlines,29 Oct 2016,Active,F-WZFC,lsf DAE Capital
+057,Airbus A350-941,B-18902,China Airlines,21 Nov 2016,Active,F-WZFF,
+058,Airbus A350-941,B-LRI,Cathay Pacific,18 Nov 2016,Active,F-WZFH,
+059,Airbus A350-1041,F-WMIL,Airbus Industrie,,Active,,
+060,Airbus A350-941,B-301D,Sichuan Airlines,8 Aug 2018,Active,F-WZFK,"lsf AerCap, Panda cs"
+061,Airbus A350-941,B-LRJ,Cathay Pacific,9 Dec 2016,Active,F-WZFL,
+062,Airbus A350-941,9V-SMG,Singapore Airlines,7 Dec 2016,Active,F-WZFM,
+063,Airbus A350-941,A7-ALO,Qatar Airways,25 Oct 2017,Stored,F-WZFJ,lsf Banc of America Leasing
+064,Airbus A350-941,A7-AMB,Qatar Airways,4 Apr 2017,Stored,PR-XTF,lsf LATAM Airlines Brasil
+065,Airbus A350-1041,F-HMIL,Air Caraïbes Atlantique,2 Dec 2019,Active,F-WLXV,
+066,Airbus A350-941,B-18903,China Airlines,22 Dec 2016,Active,F-WZFO,
+067,Airbus A350-941,VN-A891,Vietnam Airlines,28 Dec 2016,Stored,F-WZFS,lsf Stratos Aircraft Management
+068,Airbus A350-941,9V-SMH,Singapore Airlines,9 Dec 2016,Stored,F-WZGY,
+069,Airbus A350-941,A7-ALP,Qatar Airways,23 May 2017,Active,F-WZGZ,lsf BBAM
+070,Airbus A350-941,B-LRK,Cathay Pacific,1 Feb 2017,Active,F-WWTJ,
+071,Airbus A350-1041,F-WWXL,Airbus Industrie,,Stored,,
+072,Airbus A350-941,B-LRL,Cathay Pacific,13 Mar 2017,Active,F-WZNA,
+073,Airbus A350-941,B-18905,China Airlines,30 Dec 2016,Active,F-WZNB,
+074,Airbus A350-941,D-AIXA,Lufthansa,19 Dec 2016,Active,F-WZNC,Nürnberg
+075,Airbus A350-941,B-LRM,Cathay Pacific,30 Dec 2016,Stored,F-WZND,
+076,Airbus A350-941,A7-ALQ,Qatar Airways,10 Oct 2017,Stored,F-WZNE,lsf GECAS
+077,Airbus A350-941,9V-SMI,Singapore Airlines,21 Dec 2016,Stored,F-WZNF,
+078,Airbus A350-941,A7-ALR,Qatar Airways,18 Dec 2017,Active,F-WZNG,lsf Banc of America Leasing
+079,Airbus A350-941,A7-AMA,Qatar Airways,28 Feb 2017,Stored,PR-XTG,lsf LATAM Airlines Brasil
+080,Airbus A350-941,D-AIXB,Lufthansa,22 Feb 2017,Stored,F-WZNJ,Stuttgart
+081,Airbus A350-941,9V-SMJ,Singapore Airlines,30 Dec 2016,Active,F-WZNK,
+082,Airbus A350-941,F-HHAV,Air Caraïbes Atlantique,27 Feb 2017,Active,F-WZNL,lsf AerCap
+083,Airbus A350-941,A7-ALS,Qatar Airways,10 Oct 2017,Active,F-WZNM,lsf BBAM
+084,Airbus A350-941,9V-SMK,Singapore Airlines,24 Feb 2017,Active,F-WZNN,
+085,Airbus A350-941,B-LRN,Cathay Pacific,30 Mar 2017,Stored,F-WZNO,
+086,Airbus A350-941,VN-A892,Vietnam Airlines,15 Mar 2017,Active,F-WZNP,lsf DAE Capital
+087,Airbus A350-941,D-AIXC,Lufthansa,30 Mar 2017,Stored,F-WZNQ,"Saarbrücken, lsf SMBC"
+088,Airbus A350-1041,A7-ANA,Qatar Airways,16 Feb 2018,Active,F-WZNR,lsf GECAS
+089,Airbus A350-941,ET-ATY,Ethiopian Airlines,31 Jan 2017,Active,F-WZNS,Ertale
+090,Airbus A350-941,A7-ALT,Qatar Airways,24 Nov 2017,Active,F-WZNT,lsf BOC
+091,Airbus A350-941,F-HNET,Air Caraïbes Atlantique,27 Mar 2017,Active,F-WZNU,lsf AerCap
+092,Airbus A350-941,B-18906,China Airlines,20 Mar 2017,Active,F-WZNV,
+093,Airbus A350-941,B-LRO,Cathay Pacific,11 May 2017,Stored,F-WZNX,
+094,Airbus A350-941,HL8078,Asiana Airlines,24 Apr 2017,Stored,F-WZNY,lsf ABC Financial Leasing
+095,Airbus A350-941,HS-THD,Thai Airways International,21 Apr 2017,Stored,F-WZNZ,Uthumphon Phisai / อุทุมพรพิสัย
+096,Airbus A350-941,9V-SML,Singapore Airlines,31 Mar 2017,Active,F-WZFG,
+097,Airbus A350-941,OH-LWH,Finnair,3 Apr 2017,Active,F-WZFQ,lsf GECAS
+098,Airbus A350-941,B-1069,Hainan Airlines,28 Sep 2018,Stored,F-WZFR,lsf AerCap
+099,Airbus A350-941,9V-SMM,Singapore Airlines,5 May 2017,Stored,F-WZFU,
+100,Airbus A350-941,A7-ALU,Qatar Airways,24 Apr 2018,Active,F-WZFV,lsf BOC
+101,Airbus A350-941,B-LRP,Cathay Pacific,1 Jun 2017,Active,F-WZFX,
+102,Airbus A350-1041,A7-ANB,Qatar Airways,30 Jun 2018,Active,F-WZFY,
+103,Airbus A350-941,ET-AUA,Ethiopian Airlines,28 Apr 2017,Active,F-WZFZ,"Simien Fox, lsf Clover Aviation Capital"
+104,Airbus A350-941,OH-LWI,Finnair,2 Jun 2017,Active,F-WZFW,
+105,Airbus A350-941,B-18907,China Airlines,24 May 2017,Active,F-WZFP,
+106,Airbus A350-941,A7-ALV,Qatar Airways,29 May 2018,Active,F-WZFT,lsf BOC
+107,Airbus A350-941,9V-SMN,Singapore Airlines,19 May 2017,Stored,F-WZGC,
+,,,,,,,
+109,Airbus A350-941,B-LRQ,Cathay Pacific,14 Jun 2017,Active,F-WZGF,
+110,Airbus A350-1041,A7-ANC,Qatar Airways,10 Sep 2018,Active,F-WZGM,lsf GECAS
+111,Airbus A350-941,HS-THE,Thai Airways International,16 Jun 2017,Stored,F-WZGA,Chai Badan / ชัยบาดาล
+112,Airbus A350-941,B-1070,Hainan Airlines,16 Oct 2018,Stored,F-WZGQ,lsf AerCap
+113,Airbus A350-941,OH-LWK,Finnair,30 Jun 2017,Active,F-WZGL,
+114,Airbus A350-941,A7-ALW,Qatar Airways,20 Jun 2018,Active,F-WZGN,lsf BOC
+115,Airbus A350-941,N501DN,Delta Air Lines,12 Jul 2017,Stored,F-WZGP,3501
+116,Airbus A350-941,9V-SMO,Singapore Airlines,16 Jun 2017,Active,F-WZGR,
+117,Airbus A350-941,HL8079,Asiana Airlines,19 Jul 2017,Active,F-WZGX,lsf SMBC
+118,Airbus A350-1041,B-LXA,Cathay Pacific,15 Jun 2018,Active,F-WZGV,
+119,Airbus A350-941,B-LRR,Cathay Pacific,5 Jul 2017,Active,F-WZGW,
+120,Airbus A350-941,ET-AUB,Ethiopian Airlines,26 Jun 2017,Active,F-WZFD,"Gheralta Mountains, lsf AVIC Leasing"
+121,Airbus A350-941,B-18908,China Airlines,25 Jul 2017,Active,F-WZGS,Taiwan Blue Magpie / Urocissa Caerulea (藍鵲號) cs
+122,Airbus A350-941,9V-SMP,Singapore Airlines,21 Jul 2017,Active,F-WZFC,
+123,Airbus A350-941,HS-THF,Thai Airways International,13 Jul 2017,Stored,F-WZGB,"Yan Nawa / ยานนาวา, lsf Amedeo"
+124,Airbus A350-941,B-LGA,Hong Kong Airlines,31 Aug 2017,Stored,F-WZGE,lsf AerCap
+125,Airbus A350-1041,A7-AND,Qatar Airways,28 Sep 2018,Active,F-WZGK,lsf GECAS
+126,Airbus A350-941,A7-ALX,Qatar Airways,13 Jul 2018,Active,F-WZGU,lsf ICBC
+127,Airbus A350-941,D-AIXD,Lufthansa,14 Aug 2017,Active,F-WZFN,Bonn
+128,Airbus A350-941,B-LRS,Cathay Pacific,28 Aug 2017,Active,F-WZFH,
+129,Airbus A350-941,VN-A893,Vietnam Airlines,18 Aug 2017,Active,F-WZFF,lsf AVIC Leasing
+130,Airbus A350-941,HS-THG,Thai Airways International,31 Aug 2017,Stored,F-WZFB,"Phu Pha Man / ภูผาม่าน, lsf Amedeo"
+132,Airbus A350-941,A7-ALY,Qatar Airways,29 Dec 2017,Active,F-WZFL,lsf BOC
+133,Airbus A350-941,9V-SMQ,Singapore Airlines,8 Sep 2017,Stored,F-WZGO,
+134,Airbus A350-941,OH-LWL,Finnair,22 Sep 2017,Active,F-WZGY,Marimekko Kivet cs
+135,Airbus A350-941,N502DN,Delta Air Lines,10 Aug 2017,Stored,F-WZNC,3502
+136,Airbus A350-941,D-AIXE,Lufthansa,30 Aug 2017,Stored,F-WZNI,Essen
+137,Airbus A350-941,B-LRT,Cathay Pacific,29 Sep 2017,Active,F-WZNF,
+138,Airbus A350-941,B-18909,China Airlines,14 Sep 2017,Active,F-WZFS,
+139,Airbus A350-941,PR-,LATAM Airlines Brasil,,Not Built,,
+140,Airbus A350-941,9V-SMR,Singapore Airlines,29 Sep 2017,Active,F-WZND,
+141,Airbus A350-1041,A7-ANE,Qatar Airways,15 Nov 2018,Active,F-WZNK,"lsf GECAS, oneworld cs"
+142,Airbus A350-941,HS-THH,Thai Airways International,22 Sep 2017,Stored,F-WZNS,"Than To / ธารโต, lsf Amedeo"
+143,Airbus A350-941,A7-ALZ,Qatar Airways,18 Apr 2018,Active,F-WZFO,"lsf BOC, oneworld cs"
+144,Airbus A350-941,HL7578,Asiana Airlines,26 Sep 2017,Active,F-WZNJ,lsf Jackson Square Aviation (JSA)
+145,Airbus A350-941,3B-NBP,Air Mauritius,18 Oct 2017,Stored,F-WZNN,"Le Morne Brabant, lsf AerCap, 50th Anniversary cs"
+146,Airbus A350-941,D-AIXF,Lufthansa,16 Nov 2017,Stored,F-WZNY,Bochum
+147,Airbus A350-941,ET-AUC,Ethiopian Airlines,20 Oct 2017,Stored,F-WZNL,Abyssinia
+148,Airbus A350-941,B-LRU,Cathay Pacific,26 Oct 2017,Active,F-WZGT,
+149,Airbus A350-941,N503DN,Delta Air Lines,31 Oct 2017,Stored,F-WZNA,3503
+150,Airbus A350-941,VN-A894,Vietnam Airlines,3 Nov 2017,Active,F-WZNP,lsf Clover Aviation Capital
+151,Airbus A350-941,B-18910,China Airlines,7 Nov 2017,Active,F-WZNV,
+152,Airbus A350-941,PR-,LATAM Airlines Brasil,,Not Built,,
+153,Airbus A350-941,B-LGB,Hong Kong Airlines,20 Nov 2017,Stored,F-WZNU,lsf AerCap
+154,Airbus A350-941,B-LRV,Cathay Pacific,30 Oct 2017,Active,F-WZNQ,
+155,Airbus A350-941,B-LRX,Cathay Pacific,8 Dec 2017,Stored,F-WZNO,
+157,Airbus A350-941,3B-NBQ,Air Mauritius,23 Nov 2017,Stored,F-WZFQ,"Pieter Both, lsf AerCap"
+158,Airbus A350-941,9V-SMS,Singapore Airlines,30 Nov 2017,Active,F-WZNZ,
+159,Airbus A350-941,9M-MAB,Malaysia Airlines,28 Nov 2017,Active,F-WZFG,lsf ALC
+160,Airbus A350-941,N504DN,Delta Air Lines,28 Nov 2017,Stored,F-WZFZ,3504
+161,Airbus A350-1041,A7-ANF,Qatar Airways,18 Dec 2018,Active,F-WWBW,lsf GECAS
+162,Airbus A350-941,B-18912,China Airlines,30 Nov 2017,Active,F-WZHC,
+163,Airbus A350-941,A7-AME,Qatar Airways,10 Sep 2018,Active,F-WZGF,lsf ICBC
+164,Airbus A350-941,N505DN,Delta Air Lines,11 Dec 2017,Active,F-WZHD,3505
+,,,,,,,
+165,Airbus A350-941,9M-MAC,Malaysia Airlines,22 Dec 2017,Stored,F-WZHE,"lsf ALC, Malaysia Negaraku cs"
+167,Airbus A350-941,B-1086,Air China,8 Aug 2018,Active,F-WZHG,
+168,Airbus A350-941,B-LGC,Hong Kong Airlines,29 Nov 2017,Stored,F-WZHF,lsf AerCap
+169,Airbus A350-1041,B-LXB,Cathay Pacific,30 Aug 2018,Stored,F-WZGW,
+170,Airbus A350-941,9V-SMT,Singapore Airlines,22 Dec 2017,Active,F-WZHH,
+171,Airbus A350-941,PR-,Azul Linhas Aéreas Brasileiras,,Not Built,,
+172,Airbus A350-941,A7-AMF,Qatar Airways,28 Sep 2018,Active,F-WWDW,lsf ICBC
+173,Airbus A350-941,VN-A895,Vietnam Airlines,29 Dec 2017,Active,F-WZHK,lsf Clover Aviation Capital
+174,Airbus A350-941,D-AIXG,Lufthansa,24 Jan 2018,Stored,F-WZHI,Mannheim
+175,Airbus A350-941,N506DN,Delta Air Lines,21 Dec 2017,Active,F-WZHJ,3506
+176,Airbus A350-941,HL7579,Asiana Airlines,27 Dec 2017,Active,F-WZFU,lsf SMBC
+177,Airbus A350-941,HS-THJ,Thai Airways International,26 Jan 2018,Stored,F-WZGC,"Pho Sai / โพธิ์ไทร, lsf Amedeo"
+178,Airbus A350-941,B-1085,Air China,29 Aug 2018,Active,F-WZGZ,
+179,Airbus A350-941,B-18915,China Airlines,23 Jan 2018,Active,F-WZNX,
+180,Airbus A350-941,ET-AVB,Ethiopian Airlines,6 Feb 2018,Active,,Gelada Baboon
+181,Airbus A350-941,HS-THK,Thai Airways International,31 Jan 2018,Active,F-WZFP,Phaisali / ไพศาลี
+182,Airbus A350-941,N507DN,Delta Air Lines,20 Feb 2018,Active,F-WZFW,3507
+183,Airbus A350-941,9M-MAD,Malaysia Airlines,12 Feb 2018,Stored,F-WZGA,lsf ALC
+184,Airbus A350-941,D-AIXH,Lufthansa,13 Feb 2018,Stored,F-WZGR,Magdeburg
+185,Airbus A350-941,HS-THL,Thai Airways International,21 Feb 2018,Stored,F-WWIW,"Sikhoraphum / ศรีขรภูมิ, lsf SMBC"
+186,Airbus A350-941,9V-SMU,Singapore Airlines,9 Feb 2018,Active,F-WWTW,
+187,Airbus A350-941,B-LGD,Hong Kong Airlines,27 Feb 2018,Stored,F-WWAW,lsf AerCap
+188,Airbus A350-1041,B-LXC,Cathay Pacific,18 Jul 2018,Active,F-WZGS,
+189,Airbus A350-941,HS-THM,Thai Airways International,14 Mar 2018,Stored,F-WZFD,"Chumphon Buri / ชุมพลบุรี, lsf SMBC"
+190,Airbus A350-941,N508DN,Delta Air Lines,5 Mar 2018,Active,F-WZGL,3508
+191,Airbus A350-941,B-18916,China Airlines,8 Mar 2018,Active,F-WZGP,
+192,Airbus A350-941,VN-A896,Vietnam Airlines,26 Mar 2018,Active,F-WZGB,lsf BBAM
+193,Airbus A350-941,F-HREV,French bee,23 Mar 2018,Active,F-WZGX,lsf AerCap
+195,Airbus A350-941,9M-MAE,Malaysia Airlines,6 Apr 2018,Stored,F-WZFC,lsf ALC
+196,Airbus A350-941,ET-AVC,Ethiopian Airlines,20 Apr 2018,Active,F-WZNC,"The Pyramids, lsf Jackson Square Aviation (JSA)"
+197,Airbus A350-941,VN-A897,Vietnam Airlines,11 Apr 2018,Active,F-WZFN,"lsf BBAM, SkyTeam cs"
+198,Airbus A350-941,HL7771,Asiana Airlines,10 Apr 2018,Active,F-WZFF,lsf SMBC
+199,Airbus A350-941,N509DN,Delta Air Lines,11 Apr 2018,Active,F-WZFH,3509
+200,Airbus A350-941,PR-XTH,LATAM Airlines Brasil,27 Apr 2018,Stored,F-WZFB,
+201,Airbus A350-941,HS-THN,Thai Airways International,3 May 2018,Active,F-WZGE,Khiri Rat Nikhom / คีรีรัฐนิคม
+202,Airbus A350-941,D-AIXI,Lufthansa,3 May 2018,Stored,F-WZGO,Dortmund
+203,Airbus A350-941,9M-MAF,Malaysia Airlines,3 May 2018,Stored,F-WZFS,"lsf ALC, Malaysia Negaraku cs"
+204,Airbus A350-941,N510DN,Delta Air Lines,24 May 2018,Active,F-WZNS,3510
+205,Airbus A350-941,ET-AVD,Ethiopian Airlines,18 May 2018,Active,F-WZGY,Mount Everest
+206,Airbus A350-1041,B-LXD,Cathay Pacific,1 Oct 2018,Active,F-WZNI,
+207,Airbus A350-941,A7-AMG,Qatar Airways,26 Oct 2018,Active,F-WZNJ,lsf ICBC
+208,Airbus A350-941,B-18917,China Airlines,12 Jun 2018,Stored,F-WZNF,60th Anniversary cs
+209,Airbus A350-941,D-AIXJ,Lufthansa,30 May 2018,Stored,F-WZND,Erfurt
+210,Airbus A350-941,N511DN,Delta Air Lines,13 Jun 2018,Active,F-WZNE,3511
+211,Airbus A350-941,A7-AMH,Qatar Airways,25 Jan 2019,Active,F-WZNM,
+212,Airbus A350-941,D-AIXK,Lufthansa,19 Jun 2018,Stored,F-WZNN,Karlsruhe
+213,Airbus A350-941,9M-MAG,Malaysia Airlines,11 Jul 2018,Stored,F-WZGT,"lsf ALC, Malaysia Negaraku cs"
+214,Airbus A350-941,A7-AMI,Qatar Airways,19 Mar 2019,Active,F-WZNQ,
+215,Airbus A350-1041,A7-ANG,Qatar Airways,1 Mar 2019,Active,F-WZNV,lsf GECAS
+216,Airbus A350-941,9V-SGE,Singapore Airlines,14 Nov 2018,Stored,F-WZNY,
+217,Airbus A350-941,B-1083,Air China,18 Sep 2018,Active,F-WZNU,
+218,Airbus A350-941,HL8308,Asiana Airlines,3 Jul 2018,Active,F-WZFQ,lsf SMBC
+219,Airbus A350-941,EC-MXV,Iberia,26 Jun 2018,Stored,F-WZNP,Plácido Domingo
+220,Airbus A350-941,9V-SGA,Singapore Airlines,21 Sep 2018,Stored,F-WZFZ,
+,,,,,,,
+221,Airbus A350-941,RP-C3501,Philippine Airlines,28 Jun 2018,Active,F-WZNA,lsf SMBC
+223,Airbus A350-941,9V-SGB,Singapore Airlines,28 Sep 2018,Stored,F-WZHE,
+224,Airbus A350-941,HL8359,Asiana Airlines,29 Mar 2019,Active,F-WZNT,lsf ICBC
+225,Airbus A350-1041,B-LXE,Cathay Pacific,30 Oct 2018,Active,F-WZNL,
+226,Airbus A350-941,ZS-SDC,South African Airways,Nov 2019,Stored,B-304Z,lsf Avolon
+227,Airbus A350-941,EC-MYX,Iberia,27 Jul 2018,Active,F-WZHC,Paco de Lucia
+228,Airbus A350-941,RP-C3503,Philippine Airlines,30 Jul 2018,Stored,F-WZNZ,lsf SMBC
+229,Airbus A350-1041,A7-ANH,Qatar Airways,7 May 2019,Active,F-WZNG,lsf GECAS
+230,Airbus A350-941,9V-SGC,Singapore Airlines,5 Oct 2018,Stored,F-WZHI,
+231,Airbus A350-941,B-1082,Air China,19 Dec 2018,Active,F-WZNO,lsf CMB Financial Leasing
+232,Airbus A350-941,9V-SGD,Singapore Airlines,25 Oct 2018,Stored,F-WZNR,
+233,Airbus A350-1041,B-LXF,Cathay Pacific,20 Nov 2018,Stored,F-WZHF,
+234,Airbus A350-941,HL8360,Asiana Airlines,16 Apr 2019,Active,F-WZFJ,lsf ACG
+235,Airbus A350-941,B-LGE,Hong Kong Airlines,31 Aug 2018,Stored,F-WZHJ,lsf ALAFCO
+236,Airbus A350-941,RP-C3504,Philippine Airlines,17 Sep 2018,Stored,F-WZHH,lsf Avolon
+237,Airbus A350-941,A7-AMJ,Qatar Airways,6 May 2019,Active,F-WZHD,lsf BOC
+238,Airbus A350-941,9V-SGF,Singapore Airlines,21 Nov 2018,Stored,F-WZGP,
+239,Airbus A350-941,B-18918,China Airlines,22 Oct 2018,Active,F-WZFU,Carbon Fibre / Airbus cs
+240,Airbus A350-941,B-1081,Air China,17 Oct 2018,Active,F-WZHK,
+241,Airbus A350-1041,A7-ANI,Qatar Airways,5 Jun 2019,Active,F-WZGC,lsf GECAS
+242,Airbus A350-941,-,Aeroflot - Russian Airlines,,Not Built,,
+243,Airbus A350-941,RP-C3506,Philippine Airlines,9 Oct 2018,Stored,F-WZFP,lsf Avolon
+244,Airbus A350-941,9V-SGG,Singapore Airlines,14 Dec 2018,Stored,F-WZFC,
+245,Airbus A350-941,ZS-SDD,South African Airways,Nov 2019,Stored,B-305A,lsf Avolon
+246,Airbus A350-941,B-308G,Hainan Airlines,20 Sep 2019,Stored,F-WZGR,
+247,Airbus A350-941,B-1080,Air China,23 Nov 2018,Active,F-WZFW,
+248,Airbus A350-941,B-304D,China Eastern Airlines,28 Nov 2018,Active,F-WWIW,lsf CES Leasing
+249,Airbus A350-941,A7-AMK,Qatar Airways,27 Jun 2019,Active,F-WWTW,lsf BOC
+250,Airbus A350-941,PR-XTI,LATAM Airlines Brasil,20 Dec 2018,Active,F-WZFX,
+251,Airbus A350-941,B-308H,Hainan Airlines,29 Jul 2019,Stored,F-WWAW,
+252,Airbus A350-1041,B-LXG,Cathay Pacific,29 Nov 2018,Active,F-WZGL,
+253,Airbus A350-941,-,Unknown,,Not Built,,
+254,Airbus A350-941,9V-SHA,Singapore Airlines,17 Dec 2018,Stored,F-WZGX,
+255,Airbus A350-941,D-AIXL,Lufthansa,20 Nov 2018,Stored,F-WZGA,Rostock
+256,Airbus A350-941,B-LGH,Hong Kong Airlines,21 Nov 2018,Stored,F-WZFD,lsf ALAFCO
+257,Airbus A350-941,A7-AML,Qatar Airways,27 Sep 2019,Active,F-WZFF,lsf BOC
+258,Airbus A350-1041,B-LXH,Cathay Pacific,18 Dec 2018,Stored,F-WZFN,
+259,Airbus A350-941,ET-AVE,Ethiopian Airlines,7 Dec 2018,Stored,F-WZFH,New York
+260,Airbus A350-941,B-308J,Hainan Airlines,14 Aug 2019,Stored,F-WZNC,
+261,Airbus A350-941,B-304N,China Eastern Airlines,19 Dec 2018,Active,F-WZFO,lsf AVIC Leasing
+262,Airbus A350-1041,B-LXI,Cathay Pacific,1 Feb 2019,Active,F-WZFB,
+263,Airbus A350-941,9V-SHB,Singapore Airlines,30 Nov 2018,Stored,F-WZFV,
+264,Airbus A350-941,OH-LWM,Finnair,12 Dec 2018,Stored,F-WZGB,
+265,Airbus A350-941,A7-AQA,Qatar Airways,21 Mar 2019,Stored,F-WZGO,lsf LATAM Airlines Brasil
+266,Airbus A350-1041,A7-ANJ,Qatar Airways,27 Sep 2019,Active,F-WZGY,
+267,Airbus A350-941,N512DN,Delta Air Lines,25 Jan 2019,Stored,F-WZGE,3512
+268,Airbus A350-941,B-307A,Air China,22 Jan 2019,Active,F-WZFS,
+269,Airbus A350-941,B-305X,China Eastern Airlines,29 Jan 2019,Active,F-WZNS,lsf CES Leasing
+270,Airbus A350-941,-,Unknown,,On Order,F-WZFT,
+271,Airbus A350-941,EC-NBE,Iberia,24 Jan 2019,Stored,F-WZND,Museo del Prado
+272,Airbus A350-941,B-306Y,China Eastern Airlines,27 Feb 2019,Active,F-WZNF,lsf CES Leasing
+273,Airbus A350-941,OH-LWN,Finnair,13 Feb 2019,Active,F-WZNE,
+274,Airbus A350-1041,G-VLUX,Virgin Atlantic Airways,9 Aug 2019,Active,F-WZGN,"Red Velvet, lsf FPG Group"
+275,Airbus A350-941,A7-,Qatar Airways,,Not Built,,
+,,,,,,,
+276,Airbus A350-941,9V-SHC,Singapore Airlines,1 Feb 2019,Stored,F-WZGV,
+277,Airbus A350-941,N513DZ,Delta Air Lines,26 Feb 2019,Active,F-WZNN,3513
+278,Airbus A350-941,9V-SHD,Singapore Airlines,28 Feb 2019,Active,F-WZGU,
+279,Airbus A350-941,VN-A898,Vietnam Airlines,28 Feb 2019,Active,F-WZNP,lsf Jackson Square Aviation (JSA)
+280,Airbus A350-941,RP-C3507,Philippine Airlines,19 Feb 2019,Stored,F-WZNA,"The Love Bus, lsf Goshawk Aviation"
+281,Airbus A350-941,B-306N,Sichuan Airlines,21 May 2019,Active,F-WZGT,"lsf ALC, Panda Route cs"
+282,Airbus A350-941,A7-AQB,Qatar Airways,24 Sep 2019,Stored,F-WZGS,lsf LATAM Airlines Brasil
+283,Airbus A350-941,B-LGK,Hong Kong Airlines,,On Order,F-WZFY,
+284,Airbus A350-941,B-307C,Air China,26 Feb 2019,Active,F-WZFQ,lsf Kunlun Financial Leasing
+285,Airbus A350-941,B-,Hainan Airlines,,On Order,F-WZNZ,
+286,Airbus A350-1041,B-LXJ,Cathay Pacific,13 Mar 2019,Active,F-WZHG,
+287,Airbus A350-941,D-AIXM,Lufthansa,14 Mar 2019,Active,F-WZHC,Schwerin
+289,Airbus A350-941,ET-AWM,Ethiopian Airlines,5 Apr 2019,Active,F-WZFK,Rome
+290,Airbus A350-1041,A6-XWB,Etihad Airways,,On Order,F-WXAA,
+291,Airbus A350-941,B-307Y,China Eastern Airlines,9 Apr 2019,Active,F-WZGZ,lsf AVIC Leasing
+292,Airbus A350-941,D-AIXN,Lufthansa,28 Mar 2019,Stored,F-WZGW,Göttingen
+293,Airbus A350-941,EC-NBO,Evelop Airlines,26 Mar 2019,Active,F-WZHJ,lsf ALC
+294,Airbus A350-941,9V-SHE,Singapore Airlines,5 Apr 2019,Stored,F-WZGM,
+295,Airbus A350-941,B-308C,Air China,10 May 2019,Active,F-WZHH,lsf ABC Financial Leasing
+296,Airbus A350-1041,B-LXK,Cathay Pacific,3 Apr 2019,Stored,F-WZGF,lsf SMBC
+297,Airbus A350-941,VN-A899,Vietnam Airlines,16 May 2019,Active,F-WZFZ,lsf Avolon
+298,Airbus A350-1041,G-VPOP,Virgin Atlantic Airways,28 Aug 2019,Active,F-WZNU,Mamma Mia
+299,Airbus A350-941,DQ-FAI,Fiji Airways,7 Nov 2019,Active,F-WZFR,"Island of Viti Levu, lsf DAE Capital"
+300,Airbus A350-941,OH-LWO,Finnair,26 Apr 2019,Active,F-WWDW,
+301,Airbus A350-941,HL8361,Asiana Airlines,18 Jun 2019,Active,F-WZHE,lsf ICBC
+302,Airbus A350-941,EC-NCX,Iberia,30 Apr 2019,Active,F-WZGK,Selección Española de Fútbol
+303,Airbus A350-941,RP-C3508,Philippine Airlines,2 May 2019,Stored,F-WZHI,"The Love Bus, lsf Goshawk Aviation"
+304,Airbus A350-900,-,Airbus Industrie,,Not Built,,
+305,Airbus A350-941,9V-SHF,Singapore Airlines,10 May 2019,Active,F-WZFP,
+306,Airbus A350-1041,B-LXL,Cathay Pacific,28 May 2019,Active,F-WZHK,
+307,Airbus A350-941,B-308E,China Eastern Airlines,7 Jun 2019,Active,F-WZGQ,lsf CES Leasing
+308,Airbus A350-941,B-,Hainan Airlines,,On Order,F-WZFU,
+309,Airbus A350-941,9V-SHG,Singapore Airlines,17 May 2019,Stored,F-WZNR,
+310,Airbus A350-941,ET-AWN,Ethiopian Airlines,24 May 2019,Active,F-WZFA,"Bunna, lsf ICBC"
+311,Airbus A350-941,B-308M,Air China,28 May 2019,Active,F-WZNJ,Star Alliance cs
+312,Airbus A350-941,EC-NDR,Iberia,29 May 2019,Stored,F-WZNK,Juan Sebastian Elcano
+313,Airbus A350-941,A7-AQC,Qatar Airways,11 Dec 2019,Stored,F-WZFI,lsf BOC
+314,Airbus A350-941,D-AIXO,Lufthansa,15 Jul 2019,Active,F-WZGA,Ulm
+315,Airbus A350-1041,A6-XWA,Etihad Airways,,On Order,F-WXAB,
+316,Airbus A350-941,9V-SHH,Singapore Airlines,7 Jun 2019,Stored,F-WZNL,
+317,Airbus A350-900,-,Airbus Industrie,,Not Built,,
+318,Airbus A350-941,B-308T,China Southern Airlines,27 Jun 2019,Active,F-WZGP,lsf CSA Leasing
+319,Airbus A350-1041,G-VPRD,Virgin Atlantic Airways,23 Sep 2019,Active,F-WZNY,Rain Bow
+320,Airbus A350-941,DQ-FAJ,Fiji Airways,5 Dec 2019,Stored,F-WZFW,"Island of Vanua Levu, lsf DAE Capital"
+321,Airbus A350-941,JA01XJ,Japan Airlines,11 Jun 2019,Active,F-WZHF,Airbus A350 (Red) cs
+322,Airbus A350-941,9V-SHI,Singapore Airlines,28 Jun 2019,Stored,F-WZFL,
+323,Airbus A350-941,B-,Tianjin Airlines,,On Order,F-WZFV,
+324,Airbus A350-941,B-LQA,Cathay Pacific,8 Jul 2019,Stored,F-WZGL,
+325,Airbus A350-941,F-HREY,French bee,12 Jun 2019,Active,F-WWIW,lsf ALC
+326,Airbus A350-1041,G-XWBA,British Airways,25 Jul 2019,Active,F-WZFH,lsf BBAM
+327,Airbus A350-941,F-HTRE,Air Caraïbes Atlantique,24 Jul 2019,Active,F-WZNO,lsf ALC
+328,Airbus A350-941,9V-SHJ,Singapore Airlines,9 Aug 2019,Active,F-WZGB,
+329,Airbus A350-941,9V-SMV,Singapore Airlines,26 Jul 2019,Active,F-WZGX,
+330,Airbus A350-1041,A6-XWC,Etihad Airways,,On Order,F-WXAC,
+,,,,,,,
+331,Airbus A350-941,F-HTYA,Air France,18 Sep 2019,Active,F-WZFN,Toulouse
+332,Airbus A350-1041,A7-ANK,Qatar Airways,4 Dec 2019,Active,F-WZFC,
+333,Airbus A350-941,JA02XJ,Japan Airlines,28 Aug 2019,Active,F-WZFX,Airbus A350 (Silver) cs
+334,Airbus A350-941,B-309W,China Southern Airlines,17 Oct 2019,Active,F-WZNB,
+335,Airbus A350-941,HL8362,Asiana Airlines,15 Oct 2019,Active,F-WZGD,lsf ACG
+336,Airbus A350-1041,G-VJAM,Virgin Atlantic Airways,27 Sep 2019,Active,F-WZFM,Queen Of Hearts
+337,Airbus A350-941,B-LQB,Cathay Pacific,7 Aug 2019,Stored,F-WWBW,
+338,Airbus A350-941,B-,Capital Airlines,,On Order,F-WZFG,
+339,Airbus A350-941,B-30A9,China Southern Airlines,21 Oct 2019,Active,F-WZNX,
+340,Airbus A350-1041,G-XWBB,British Airways,19 Sep 2019,Stored,F-WZFS,lsf BBAM
+341,Airbus A350-941,9V-SMW,Singapore Airlines,13 Sep 2019,Active,F-WZND,
+342,Airbus A350-1041,A6-XWD,Etihad Airways,,On Order,F-WXAD,
+343,Airbus A350-941,JA03XJ,Japan Airlines,19 Sep 2019,Active,F-WZGE,Airbus A350 (Green) cs
+344,Airbus A350-941,9V-SMY,Singapore Airlines,13 Sep 2019,Active,F-WZGV,
+345,Airbus A350-941,ET-AWO,Ethiopian Airlines,4 Oct 2019,Active,F-WZNF,Sao Paulo
+346,Airbus A350-1041,A7-ANL,Qatar Airways,4 Dec 2019,Active,F-WZFB,
+347,Airbus A350-941,B-30AL,China Southern Airlines,8 Nov 2019,Active,F-WZNE,lsf CSA Leasing
+348,Airbus A350-941,9V-SMZ,Singapore Airlines,30 Oct 2019,Active,F-WZNA,
+349,Airbus A350-941,F-HTYB,Air France,29 Oct 2019,Active,F-WZFQ,Lyon
+350,Airbus A350-1041,A7-ANM,Qatar Airways,7 Dec 2019,Active,F-WZNN,
+351,Airbus A350-941,B-30DM,Hainan Airlines,16 Jan 2020,Stored,F-WZNS,lsf Avolon
+352,Airbus A350-941,JA04XJ,Japan Airlines,24 Oct 2019,Active,F-WZNP,20th Arashi Thanks Jet cs
+353,Airbus A350-941,A7-,Qatar Airways,,Not Built,,
+354,Airbus A350-941,ZS-SDE,South African Airways,18 Nov 2019,Stored,F-WZHG,lsf Air Mauritius
+355,Airbus A350-941,B-30DP,Hainan Airlines,17 Jan 2020,Stored,F-WZGU,lsf Avolon
+356,Airbus A350-1041,A7-ANN,Qatar Airways,20 Dec 2019,Active,F-WZNQ,
+357,Airbus A350-941,B-30C0,China Southern Airlines,12 Nov 2019,Active,F-WZHC,lsf Bocomm Leasing
+358,Airbus A350-941,SE-RSA,SAS Scandinavian Airlines,28 Nov 2019,Stored,F-WZHJ,Ingegerd Viking
+359,Airbus A350-941,F-HTYC,Air France,30 Nov 2019,Stored,F-WZGO,Saint Denis de La Reunion
+361,Airbus A350-941,A7-,Qatar Airways,,Not Built,,
+362,Airbus A350-1041,G-XWBC,British Airways,26 Nov 2019,Active,F-WZFK,lsf BBAM
+363,Airbus A350-941,PR-XTM,LATAM Airlines Brasil,13 Dec 2019,Stored,F-WZGW,lsf BOC
+364,Airbus A350-941,9V-SJA,Singapore Airlines,22 Nov 2019,Active,F-WZNT,
+365,Airbus A350-941,ZS-SDF,South African Airways,29 Nov 2019,Stored,F-WZGF,lsf Air Mauritius
+366,Airbus A350-941,EC-NGT,Iberia,26 Nov 2019,Stored,F-WZGM,Equipo Olímpico Español
+368,Airbus A350-1041,A7-ANO,Qatar Airways,,On Order,F-WWDW,
+369,Airbus A350-941,9V-SHK,Singapore Airlines,29 Nov 2019,Active,F-WZGZ,
+370,Airbus A350-941,JA05XJ,Japan Airlines,10 Dec 2019,Active,F-WZFJ,
+371,Airbus A350-941,9V-SHL,Singapore Airlines,6 Dec 2019,Active,F-WZGK,
+372,Airbus A350-1041,A7-ANP,Qatar Airways,27 Feb 2020,Active,F-WZFP,
+373,Airbus A350-941,B-30CW,China Eastern Airlines,18 Dec 2019,Active,F-WZHI,lsf CES Leasing
+374,Airbus A350-1041,G-XWBD,British Airways,23 Dec 2019,Active,F-WZNR,lsf BBAM
+375,Airbus A350-941,ET-AWP,Ethiopian Airlines,13 Dec 2019,Active,F-WZHD,Paris
+376,Airbus A350-941,B-30CE,China Southern Airlines,27 Dec 2019,Active,F-WZNG,lsf Bocomm Leasing
+378,Airbus A350-941,SE-RSB,SAS Scandinavian Airlines,6 Feb 2020,Stored,F-WZHH,Hagbard Viking
+379,Airbus A350-941,9V-SHM,Singapore Airlines,22 Jan 2020,Active,F-WZFZ,
+380,Airbus A350-1041,B-LXM,Cathay Pacific,,On Order,F-WZGQ,
+381,Airbus A350-941,F-HTYD,Air France,4 Feb 2020,Active,F-WZNJ,Nice
+382,Airbus A350-1041,A7-ANQ,Qatar Airways,,On Order,F-WZHF,
+383,Airbus A350-941,VQ-BFY,Aeroflot - Russian Airlines,27 Feb 2020,Stored,F-WZGT,P. Tchaikovsky / П. Чайковский
+385,Airbus A350-941,9V-SHN,Singapore Airlines,31 Jan 2020,Active,F-WZHK,
+386,Airbus A350-1041,G-XWBE,British Airways,12 Feb 2020,Active,F-WZGP,lsf BBAM
+387,Airbus A350-941,HL8381,Asiana Airlines,3 Feb 2020,Active,F-WZFA,lsf ICBC
+388,Airbus A350-1041,A6-XWE,Etihad Airways,,On Order,F-WXAE,
+,,,,,,,
+389,Airbus A350-941,HL8382,Asiana Airlines,,On Order,F-WZNK,
+390,Airbus A350-941,D-AIXP,Lufthansa,27 Feb 2020,Active,F-WZGC,Braunschweig
+391,Airbus A350-941,SE-RSC,SAS Scandinavian Airlines,11 Mar 2020,Stored,F-WZNL,Orvar Odd Viking
+392,Airbus A350-941,OH-LWP,Finnair,10 Feb 2020,Active,F-WWIW,
+393,Airbus A350-941,B-LQC,Cathay Pacific,,On Order,F-WZHE,
+394,Airbus A350-941,9V-SHO,Singapore Airlines,21 Feb 2020,Active,F-WWTW,
+395,Airbus A350-941,N514DN,Delta Air Lines,,On Order,F-WZGA,3514
+396,Airbus A350-941,B-LQD,Cathay Pacific,,On Order,F-WZFD,
+397,Airbus A350-941,EC-NIG,Iberia,5 Mar 2020,Stored,F-WZGL,Selección Española de Baloncesto
+398,Airbus A350-941,B-30EA,China Southern Airlines,,On Order,F-WZFH,
+399,Airbus A350-1041,A7-ANR,Qatar Airways,,On Order,F-WZGX,
+400,Airbus A350-941,EC-NGY,Evelop Airlines,31 Mar 2020,Stored,F-WWAW,lsf Avolon
+401,Airbus A350-941,B-LQE,Cathay Pacific,,On Order,F-WZFO,
+402,Airbus A350-1041,G-XWBF,British Airways,20 May 2020,Active,F-WZGB,
+403,Airbus A350-941,TC-LGA,Turkish Airlines,,On Order,F-WZGN,
+404,Airbus A350-941,N515DN,Delta Air Lines,,On Order,F-WZNO,
+405,Airbus A350-941,JA06XJ,Japan Airlines,20 Apr 2020,Active,F-WXAF,
+406,Airbus A350-941,EC-NIS,Iberia,5 Jun 2020,Active,F-WZNC,Talento a Bordo
+407,Airbus A350-941,F-HTYE,Air France,,On Order,F-WZFX,Bordeaux
+408,Airbus A350-941,B-30FM,China Eastern Airlines,,On Order,F-WZNU,
+409,Airbus A350-1041,A7-ANS,Qatar Airways,,On Order,F-WZND,
+410,Airbus A350-941,OH-LWR,Finnair,,On Order,F-WZGV,
+411,Airbus A350-941,B-30F0,China Southern Airlines,,On Order,F-WZFS,
+412,Airbus A350-941,ET-,Ethiopian Airlines,,On Order,F-WZGS,
+413,Airbus A350-941,B-LQF,Cathay Pacific,,On Order,F-WZGE,
+414,Airbus A350-941,VQ-BFZ,Aeroflot - Russian Airlines,,On Order,F-WZFN,A.Dementyev / А.Дементьев
+415,Airbus A350-1041,G-VTEA,Virgin Atlantic Airways,,On Order,F-WZNY,Rosie Lee
+416,Airbus A350-941,D-AGAF,Lufthansa Technik,7 May 2020,Stored,F-WJKM,
+417,Airbus A350-941,B-,China Southern Airlines,,On Order,F-WZGY,
+418,Airbus A350-941,SE-RSD,SAS Scandinavian Airlines,,On Order,F-WZFM,
+419,Airbus A350-941,EC-NJM,Iberia,,On Order,F-WZNM,Flamenco
+420,Airbus A350-1041,A7-ANT,Qatar Airways,,On Order,F-WZNF,
+421,Airbus A350-941,TC-LGB,Turkish Airlines,,On Order,F-WZGD,
+422,Airbus A350-941,F-HTYF,Air France,,On Order,F-WZNB,Marseille
+423,Airbus A350-941,B-,China Eastern Airlines,,On Order,F-WZNX,
+424,Airbus A350-1041,B-LXN,Cathay Pacific,,On Order,F-WZNP,
+425,Airbus A350-941,HL,Asiana Airlines,,On Order,F-WZFQ,
+426,Airbus A350-1041,G-VRNB,Virgin Atlantic Airways,,On Order,F-WZNA,Purple Rain
+427,Airbus A350-941,D-AIXQ,Lufthansa,,On Order,F-WZHG,
+428,Airbus A350-941,VP-BXA,Aeroflot - Russian Airlines,,On Order,F-WZFR,
+429,Airbus A350-941,VP-BXD,Aeroflot - Russian Airlines,,On Order,,
+430,Airbus A350-1041,A7-ANU,Qatar Airways,,On Order,F-WZHC,
+431,Airbus A350-941,ET-,Ethiopian Airlines,,On Order,F-WZNT,
+432,Airbus A350-1041,G-XWBG,British Airways,,On Order,F-WZGM,
+433,Airbus A350-941,F-HREN,French bee,,On Order,F-WZFK,
+434,Airbus A350-1041,B-LXO,Cathay Pacific,,On Order,,
+435,Airbus A350-941,TC-LGC,Turkish Airlines,,On Order,,
+436,Airbus A350-941,9V-SHP,Singapore Airlines,,On Order,,
+437,Airbus A350-941,VP-BXC,Aeroflot - Russian Airlines,,On Order,,
+438,Airbus A350-1041,A7-,Qatar Airways,,On Order,F-WLXV,
+439,Airbus A350-941,9V-SHQ,Singapore Airlines,,On Order,,
+442,Airbus A350-941,TC-LGD,Turkish Airlines,,On Order,,
+454,Airbus A350-941,TC-LGE,Turkish Airlines,,On Order,,

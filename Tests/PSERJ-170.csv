@@ -1,0 +1,864 @@
+MSN,Aircraft Type,Reg,Current Operator,Delivered From,Status,Remark
+,,,,,,
+17000001,Embraer ERJ-170SL (ERJ-170-100 SL),PP-XJE,Embraer,15 Oct 2001,Scrapped,
+17000002,Embraer ERJ-170LR (ERJ-170-100 LR),N702BT,Beautech Power Systems,30 Aug 2018,Stored,
+17000003,Embraer ERJ-170SL (ERJ-170-100 SL),PP-XJB,Embraer,25 May 2002,Stored,ecoDomonstrator Program cs
+17000004,Embraer ERJ-170LR (ERJ-170-100 LR),ZS-YBA,Airlink,25 May 2018,Active,lsf ECC
+17000005,Embraer ERJ-170LR (ERJ-170-100 LR),ZS-YBB,Airlink,7 Dec 2017,Active,lsf ECC
+17000006,Embraer ERJ-170LR (ERJ-170-100 LR),ZS-YBC,Airlink,13 Dec 2017,Active,lsf ECC
+17000007,Embraer ERJ-170SE (ERJ-170-100 SE),N631RW,United Express,31 Jan 2017,Stored,"631, opby Republic Airlines"
+17000008,Embraer ERJ-170LR (ERJ-170-100 LR),F-HBXK,HOP!,31 Mar 2013,Stored,lsf GECAS
+17000009,Embraer ERJ-170LR (ERJ-170-100 LR),F-HBXL,HOP!,31 Mar 2013,Stored,lsf NAC
+17000010,Embraer ERJ-170LR (ERJ-170-100 LR),F-HBXM,HOP!,31 Mar 2013,Stored,lsf NAC
+17000011,Embraer ERJ-170LR (ERJ-170-100 LR),F-HBXN,HOP!,31 Mar 2013,Stored,lsf NAC
+17000012,Embraer ERJ-170SU (ERJ-170-100 SU),VQ-BYA,S7 - Siberia Airlines,2 Jun 2017,Active,lsf GECAS
+17000013,Embraer ERJ-170SU (ERJ-170-100 SU),VQ-BBO,S7 - Siberia Airlines,21 Apr 2017,Active,lsf GECAS
+17000014,Embraer ERJ-175LR (ERJ-170-200 LR),PP-XJD,Embraer,29 May 2003,Scrapped,
+17000015,Embraer ERJ-170SU (ERJ-170-100 SU),VQ-BYB,S7 - Siberia Airlines,12 Jun 2017,Stored,lsf GECAS
+17000016,Embraer ERJ-170SU (ERJ-170-100 SU),VQ-BYC,S7 - Siberia Airlines,18 Jul 2017,Active,lsf GECAS
+17000017,Embraer ERJ-175LR (ERJ-170-200 LR),2-LYTF,ECC Leasing Company,30 Jun 2015,Scrapped,
+17000018,Embraer ERJ-170SU (ERJ-170-100 SU),N357FC,Republic Airlines,27 Apr 2017,Stored,8805
+17000019,Embraer ERJ-170LR (ERJ-170-100 LR),N806MD,Republic Airlines,7 May 2019,Stored,
+17000020,Embraer ERJ-170SU (ERJ-170-100 SU),N807MD,AAR Corporation,4 Jan 2018,Stored,
+17000021,Embraer ERJ-170SU (ERJ-170-100 SU),VQ-BYD,S7 - Siberia Airlines,12 Oct 2017,Active,lsf GECAS
+17000022,Embraer ERJ-170SU (ERJ-170-100 SU),N809MD,Republic Airlines,31 Jan 2017,Stored,8809
+17000023,Embraer ERJ-170STD (ERJ-170-100),XT-ABT,Air Burkina,1 May 2015,Active,lsf AerCap
+17000024,Embraer ERJ-170STD (ERJ-170-100),XA-ALG,Aeroméxico Connect,14 Sep 2015,Stored,lsf NAC
+17000025,Embraer ERJ-170STD (ERJ-170-100),XA-ALD,Aeroméxico Connect,14 Jul 2015,Stored,lsf NAC
+17000026,Embraer ERJ-170SU (ERJ-170-100 SU),N810MD,Republic Airlines,Jan 2017,Stored,"8810, lsf TrueNoord"
+17000027,Embraer ERJ-170STD (ERJ-170-100),XT-ABS,Air Burkina,15 Jan 2015,Active,lsf AerCap
+17000028,Embraer ERJ-170SU (ERJ-170-100 SU),VQ-BYE,S7 - Siberia Airlines,22 Nov 2017,Active,lsf GECAS
+17000029,Embraer ERJ-170LR (ERJ-170-100 LR),SP-LDE,LOT - Polish Airlines,18 Jun 2004,Active,lsf Castlelake
+17000030,Embraer ERJ-170SU (ERJ-170-100 SU),VQ-BYF,S7 - Siberia Airlines,10 Aug 2017,Active,lsf GECAS
+17000031,Embraer ERJ-170SU (ERJ-170-100 SU),VQ-BYG,S7 - Siberia Airlines,18 Oct 2017,Active,lsf GECAS
+17000032,Embraer ERJ-170LR (ERJ-170-100 LR),F-HBXO,HOP!,31 Mar 2013,Stored,lsf GECAS
+17000033,Embraer ERJ-170SU (ERJ-170-100 SU),VQ-BYH,S7 - Siberia Airlines,10 Oct 2017,Active,lsf GECAS
+17000034,Embraer ERJ-170SU (ERJ-170-100 SU),N815MD,Republic Airlines,31 Jan 2017,Stored,8815
+17000035,Embraer ERJ-170LR (ERJ-170-100 LR),SP-LDF,LOT - Polish Airlines,2 Jul 2004,Active,lsf Castlelake
+17000036,Embraer ERJ-170LR (ERJ-170-100 LR),EI-DFL,GECAS,11 Nov 2019,Stored,
+17000037,Embraer ERJ-170SU (ERJ-170-100 SU),VQ-BYK,S7 - Siberia Airlines,31 Jul 2017,Active,lsf GECAS
+17000038,Embraer ERJ-170SU (ERJ-170-100 SU),VQ-BYL,S7 - Siberia Airlines,5 Dec 2017,Active,lsf GECAS
+17000039,Embraer ERJ-170SU (ERJ-170-100 SU),N818MD,Republic Airlines,Jan 2017,Stored,"8818, lsf TrueNoord"
+17000040,Embraer ERJ-170SU (ERJ-170-100 SU),VQ-BYM,S7 - Siberia Airlines,8 Mar 2018,Active,lsf GECAS
+17000041,Embraer ERJ-170SU (ERJ-170-100 SU),VQ-BYN,S7 - Siberia Airlines,30 Jan 2018,Active,lsf GECAS
+17000042,Embraer ERJ-170LR (ERJ-170-100 LR),N821MD,Republic Airlines,4 Feb 2019,Stored,8821
+17000043,Embraer ERJ-170SU (ERJ-170-100 SU),VQ-BYR,S7 - Siberia Airlines,11 Sep 2017,Active,lsf GECAS
+17000044,Embraer ERJ-170SU (ERJ-170-100 SU),N823MD,Republic Airlines,31 Jan 2017,Stored,"8823, lsf TrueNoord"
+17000045,Embraer ERJ-170SU (ERJ-170-100 SU),N824MD,Republic Airlines,31 Jan 2017,Stored,"8824, lsf TrueNoord"
+17000046,Embraer ERJ-170SU (ERJ-170-100 SU),N826MD,Republic Airlines,21 Mar 2019,Stored,
+17000047,Embraer ERJ-170SU (ERJ-170-100 SU),VQ-BYS,S7 - Siberia Airlines,23 Jan 2018,Active,lsf GECAS
+17000048,Embraer ERJ-170SU (ERJ-170-100 SU),VQ-BYV,S7 - Siberia Airlines,12 Dec 2017,Active,lsf GECAS
+17000049,Embraer ERJ-170SU (ERJ-170-100 SU),VQ-BYW,S7 - Siberia Airlines,9 Apr 2018,Active,lsf GECAS
+17000050,Embraer ERJ-170SE (ERJ-170-100 SE),N632RW,United Express,14 Dec 2016,Stored,"632, opby Republic Airlines"
+17000051,Embraer ERJ-170SE (ERJ-170-100 SE),N637RW,United Express,5 May 2016,Stored,"637, opby Republic Airlines"
+17000052,Embraer ERJ-170SE (ERJ-170-100 SE),N636RW,United Express,31 Jan 2017,Stored,"636, opby Republic Airlines"
+17000053,Embraer ERJ-170SE (ERJ-170-100 SE),N638RW,United Express,3 Jun 2016,Active,"638, opby Republic Airlines"
+,,,,,,
+17000054,Embraer ERJ-170SE (ERJ-170-100 SE),N633RW,United Express,4 Aug 2016,Stored,"633, opby Republic Airlines"
+17000055,Embraer ERJ-170SE (ERJ-170-100 SE),N634RW,United Express,31 Jan 2017,Stored,"634, opby Republic Airlines"
+17000056,Embraer ERJ-170SE (ERJ-170-100 SE),N635RW,United Express,31 Jan 2017,Active,"635, opby Republic Airlines"
+17000057,Embraer ERJ-170SE (ERJ-170-100 SE),N639RW,United Express,5 May 2016,Active,"639, opby Republic Airlines"
+17000058,Embraer ERJ-170SE (ERJ-170-100 SE),N640RW,United Express,2 Sep 2016,Active,"640, opby Republic Airlines"
+17000059,Embraer ERJ-170LR (ERJ-170-100 LR),N170EH,Honeywell International,28 May 2013,Active,
+17000060,Embraer ERJ-170SE (ERJ-170-100 SE),N643RW,United Express,2 Jun 2016,Stored,"643, opby Republic Airlines"
+17000061,Embraer ERJ-170SE (ERJ-170-100 SE),N644RW,United Express,4 Jul 2016,Stored,"644, opby Republic Airlines"
+17000062,Embraer ERJ-170SE (ERJ-170-100 SE),N641RW,United Express,9 Dec 2016,Stored,"641, opby Republic Airlines"
+17000063,Embraer ERJ-170SE (ERJ-170-100 SE),N642RW,United Express,30 Jun 2016,Stored,"642, opby Republic Airlines"
+17000064,Embraer ERJ-170SE (ERJ-170-100 SE),N645RW,United Express,8 Jul 2016,Stored,"645, opby Republic Airlines"
+17000065,Embraer ERJ-170LR (ERJ-170-100 LR),SP-LDG,LOT - Polish Airlines,18 Mar 2005,Stored,lsf Castlelake
+17000066,Embraer ERJ-170SE (ERJ-170-100 SE),N646RW,United Express,8 Jun 2016,Active,"646, opby Republic Airlines"
+17000067,Embraer ERJ-170SE (ERJ-170-100 SE),N647RW,United Express,15 May 2016,Active,"647, opby Republic Airlines"
+17000068,Embraer ERJ-170SE (ERJ-170-100 SE),N648RW,United Express,5 May 2016,Stored,"648, opby Republic Airlines"
+17000069,Embraer ERJ-170LR (ERJ-170-100 LR),SP-LDH,LOT - Polish Airlines,18 Mar 2005,Stored,lsf Castlelake
+17000070,Embraer ERJ-170SE (ERJ-170-100 SE),N649RW,United Express,26 Mar 2016,Stored,"649, opby Republic Airlines"
+17000071,Embraer ERJ-170SE (ERJ-170-100 SE),N650RW,Republic Airlines,5 Aug 2016,Stored,650
+17000072,Embraer ERJ-170SE (ERJ-170-100 SE),N651RW,United Express,2 Sep 2015,Stored,"651, opby Republic Airlines"
+17000073,Embraer ERJ-170LR (ERJ-170-100 LR),SP-LDI,LOT - Polish Airlines,19 Apr 2005,Stored,lsf Castlelake
+17000074,Embraer ERJ-170LR (ERJ-170-100 LR),SP-LDK,LOT - Polish Airlines,9 May 2005,Stored,"lsf Castlelake, Star Alliance cs"
+17000075,Embraer ERJ-170SE (ERJ-170-100 SE),N652RW,United Express,1 Aug 2015,Active,"652, opby Republic Airlines"
+17000076,Embraer ERJ-170SE (ERJ-170-100 SE),N653RW,United Express,11 Aug 2015,Active,"653, opby Republic Airlines"
+17000077,Embraer ERJ-170SE (ERJ-170-100 SE),N855RW,United Express,6 Apr 2016,Stored,"855, opby Republic Airlines"
+17000078,Embraer ERJ-170SE (ERJ-170-100 SE),N856RW,Republic Airlines,8 Sep 2016,Stored,856
+17000079,Embraer ERJ-170SE (ERJ-170-100 SE),N857RW,United Express,7 Sep 2015,Stored,"857, opby Republic Airlines"
+17000080,Embraer ERJ-170SE (ERJ-170-100 SE),N858RW,Republic Airlines,7 Sep 2016,Stored,858
+17000081,Embraer ERJ-170LR (ERJ-170-100 LR),VH-SWO,Airnorth,22 Apr 2010,Active,lsf GECAS
+17000082,Embraer ERJ-170SE (ERJ-170-100 SE),N859RW,United Express,9 Apr 2016,Stored,"859, opby Republic Airlines"
+17000083,Embraer ERJ-175SU (ERJ-170-200 SU),C-FEIQ,Air Canada Express,6 Jun 2013,Stored,"371, opby Sky Regional Airlines"
+17000084,Embraer ERJ-170SE (ERJ-170-100 SE),N860RW,Republic Airlines,31 Jan 2017,Stored,"8860, lsf TrueNoord"
+17000085,Embraer ERJ-175SU (ERJ-170-200 SU),C-FEIX,Air Canada Express,27 Jul 2013,Stored,"372, opby Sky Regional Airlines"
+17000086,Embraer ERJ-175SU (ERJ-170-200 SU),C-FEJB,Air Canada Express,8 Aug 2013,Stored,"373, opby Sky Regional Airlines"
+17000087,Embraer ERJ-170LR (ERJ-170-100 LR),XA-GAY,Aeroméxico Connect,22 Feb 2015,Active,
+17000088,Embraer ERJ-170SE (ERJ-170-100 SE),N979RP,Republic Airlines,4 Oct 2016,Stored,979
+17000089,Embraer ERJ-175SU (ERJ-170-200 SU),C-FEJC,Air Canada Express,23 Aug 2013,Stored,"374, opby Sky Regional Airlines"
+17000090,Embraer ERJ-175SU (ERJ-170-200 SU),C-FEJD,Air Canada Express,12 Jul 2013,Stored,"375, opby Sky Regional Airlines"
+17000091,Embraer ERJ-175SU (ERJ-170-200 SU),C-FEJF,Air Canada Express,8 Aug 2013,Active,"376, opby Sky Regional Airlines"
+17000092,Embraer ERJ-170LR (ERJ-170-100 LR),XA-GAZ,Aeroméxico Connect,3 Mar 2015,Stored,
+17000093,Embraer ERJ-170LR (ERJ-170-100 LR),OE-LTK,People's Viennaline,13 Dec 2016,Stored,Nora
+17000094,Embraer ERJ-170SE (ERJ-170-100 SE),N861RW,United Express,8 Oct 2016,Stored,"861, opby Republic Airlines"
+17000095,Embraer ERJ-175SU (ERJ-170-200 SU),C-FEJL,Air Canada Express,21 Mar 2013,Active,"377, opby Sky Regional Airlines"
+17000096,Embraer ERJ-175SU (ERJ-170-200 SU),C-FEJP,Air Canada Express,24 Jul 2013,Stored,"378, opby Sky Regional Airlines"
+17000097,Embraer ERJ-175SU (ERJ-170-200 SU),C-FEJY,Air Canada Express,27 Jun 2013,Active,"379, opby Sky Regional Airlines"
+17000098,Embraer ERJ-170SE (ERJ-170-100 SE),N862RW,Republic Airlines,2 Nov 2016,Active,862
+17000099,Embraer ERJ-170LR (ERJ-170-100 LR),VH-ANO,Airnorth,6 Jun 2007,Active,"Savannah, lsf GECAS"
+17000100,Embraer ERJ-170SE (ERJ-170-100 SE),N863RW,United Express,21 Mar 2016,Stored,"863, opby Republic Airlines"
+17000101,Embraer ERJ-175SU (ERJ-170-200 SU),C-FEKD,Air Canada Express,6 May 2013,Stored,"380, opby Sky Regional Airlines"
+17000102,Embraer ERJ-175SU (ERJ-170-200 SU),C-FEKH,Air Canada Express,20 Jun 2013,Stored,"381, opby Sky Regional Airlines"
+17000103,Embraer ERJ-175SU (ERJ-170-200 SU),C-FEKI,Air Canada Express,11 Jul 2013,Stored,"383, opby Sky Regional Airlines"
+17000104,Embraer ERJ-170SE (ERJ-170-100 SE),N654RW,Republic Airlines,9 Jun 2016,Stored,654
+17000105,Embraer ERJ-170SE (ERJ-170-100 SE),N655RW,Republic Airlines,28 Apr 2016,Stored,655
+17000106,Embraer ERJ-170LR (ERJ-170-100 LR),ES-AEB,Estonian Air,29 Nov 2013,Scrapped,lsf Finnair
+,,,,,,
+17000107,Embraer ERJ-170LR (ERJ-170-100 LR),XA-ALK,Aeroméxico Connect,Feb 2016,Stored,lsf Falko
+17000108,Embraer ERJ-170LR (ERJ-170-100 LR),2-FINB,AerFin,21 Mar 2018,Scrapped,
+17000109,Embraer ERJ-175SU (ERJ-170-200 SU),C-FEKJ,Air Canada Express,14 Mar 2013,Active,"383, opby Sky Regional Airlines"
+17000110,Embraer ERJ-175SU (ERJ-170-200 SU),C-FEKS,Air Canada Express,2 May 2013,Stored,"384, opby Sky Regional Airlines"
+17000111,Embraer ERJ-170LR (ERJ-170-100 LR),EI-GID,GECAS,3 Jul 2019,Stored,
+17000112,Embraer ERJ-170LR (ERJ-170-100 LR),XA-ALO,Aeroméxico Connect,Mar 2016,Stored,lsf Falko
+17000113,Embraer ERJ-170SE (ERJ-170-100 SE),N656RW,Republic Airlines,15 Apr 2016,Stored,656
+17000114,Embraer ERJ-170LR (ERJ-170-100 LR),2-FIND,AerFin,7 Feb 2018,Scrapped,
+17000115,Embraer ERJ-170SE (ERJ-170-100 SE),N657RW,Republic Airlines,3 May 2016,Stored,657
+17000116,Embraer ERJ-175SU (ERJ-170-200 SU),C-FFYG,Air Canada Express,10 Apr 2013,Stored,"385, opby Sky Regional Airlines"
+17000117,Embraer ERJ-170SE (ERJ-170-100 SE),N864RW,Republic Airlines,10 May 2016,Stored,864
+17000118,Embraer ERJ-170LR (ERJ-170-100 LR),HZ-AEC,Saudi Arabian Airlines,30 Jan 2006,Stored,
+17000119,Embraer ERJ-170LR (ERJ-170-100 LR),2-FINE,AerFin,4 May 2018,Scrapped,
+17000120,Embraer ERJ-170STD (ERJ-170-100),OH-LEI,Finnair,31 Aug 2012,Scrapped,opby Flybe Nordic
+17000121,Embraer ERJ-170LR (ERJ-170-100 LR),2-FINA,AerFin,22 Jan 2018,Scrapped,
+17000122,Embraer ERJ-170SE (ERJ-170-100 SE),N865RW,Republic Airlines,31 Jan 2017,Active,865
+17000123,Embraer ERJ-170LR (ERJ-170-100 LR),2-FINC,Regional One,9 Oct 2019,Stored,
+17000124,Embraer ERJ-170LR (ERJ-170-100 LR),2-FINJ,AerFin,5 Jun 2018,Scrapped,
+17000125,Embraer ERJ-175STD (ERJ-170-200),SP-LIA,LOT - Polish Airlines,25 Apr 2006,Stored,
+17000126,Embraer ERJ-175SU (ERJ-170-200 SU),C-FRQK,Air Canada Express,8 Mar 2017,Stored,"391, opby Sky Regional Airlines"
+17000127,Embraer ERJ-170STD (ERJ-170-100),OH-LEK,Finnair,27 Sep 2012,Scrapped,opby Flybe Nordic
+17000128,Embraer ERJ-170LR (ERJ-170-100 LR),XA-ALH,Aeroméxico Connect,7 Oct 2015,Stored,lsf GECAS
+17000129,Embraer ERJ-170SU (ERJ-170-100 SU),JA04FJ,FDA - Fuji Dream Airlines,5 Oct 2010,Stored,lsf Suzuyo & Co Ltd
+17000130,Embraer ERJ-170SU (ERJ-170-100 SU),N867RW,Republic Airlines,31 Jan 2017,Stored,8867
+17000131,Embraer ERJ-170SU (ERJ-170-100 SU),N868RW,Republic Airlines,31 Jan 2017,Stored,8868
+17000132,Embraer ERJ-175STD (ERJ-170-200),SP-LIB,LOT - Polish Airlines,30 May 2006,Active,
+17000133,Embraer ERJ-170SE (ERJ-170-100 SE),N869RW,Republic Airlines,31 Jan 2017,Stored,8869
+17000134,Embraer ERJ-175STD (ERJ-170-200),SP-LIC,LOT - Polish Airlines,23 Jun 2006,Stored,
+17000135,Embraer ERJ-170LR (ERJ-170-100 LR),HZ-AEH,Saudi Arabian Airlines,29 Jun 2006,Stored,
+17000136,Embraer ERJ-175STD (ERJ-170-200),SP-LID,LOT - Polish Airlines,30 Jun 2006,Active,
+17000137,Embraer ERJ-175SU (ERJ-170-200 SU),C-FRQM,Air Canada Express,16 Jun 2017,Stored,"392, opby Sky Regional Airlines"
+17000138,Embraer ERJ-170SU (ERJ-170-100 SU),N870RW,Republic Airlines,31 Jan 2017,Stored,8870
+17000139,Embraer ERJ-170STD (ERJ-170-100),XA-SAC,Aeroméxico Connect,10 Jul 2013,Stored,lsf Falko
+17000140,Embraer ERJ-170SU (ERJ-170-100 SU),N871RW,Republic Airlines,31 Jan 2017,Stored,8871
+17000141,Embraer ERJ-170STD (ERJ-170-100),XA-GAQ,Aeroméxico Connect,9 Sep 2014,Stored,lsf Falko
+17000142,Embraer ERJ-170LR (ERJ-170-100 LR),2-FINI,AerFin,5 Jun 2018,Scrapped,
+17000143,Embraer ERJ-170SU (ERJ-170-100 SU),N872RW,Republic Airlines,31 Jan 2017,Stored,8872
+17000144,Embraer ERJ-170SU (ERJ-170-100 SU),N873RW,Republic Airlines,31 Jan 2017,Stored,8873
+17000145,Embraer ERJ-170LR (ERJ-170-100 LR),HZ-AEJ,Saudi Arabian Airlines,29 Sep 2006,Stored,
+17000146,Embraer ERJ-170STD (ERJ-170-100),XA-GAM,Aeroméxico Connect,19 Aug 2014,Stored,lsf Falko
+17000147,Embraer ERJ-175SU (ERJ-170-200 SU),C-FRQN,Air Canada Express,2 Feb 2017,Stored,"393, opby Sky Regional Airlines"
+17000148,Embraer ERJ-170SU (ERJ-170-100 SU),N874RW,Republic Airlines,31 Jan 2017,Stored,8874
+17000149,Embraer ERJ-170LR (ERJ-170-100 LR),HZ-AEK,Saudi Arabian Airlines,12 Nov 2006,Stored,
+17000150,Embraer ERJ-170STD (ERJ-170-100),OE-LMK,People's Viennaline,21 Mar 2011,Active,Laura
+17000151,Embraer ERJ-170LR (ERJ-170-100 LR),HK-4528,SATENA,8 Dec 2006,Active,FAC-1180
+17000152,Embraer ERJ-170LR (ERJ-170-100 LR),2-FINF,AerFin,4 May 2018,Scrapped,
+17000153,Embraer ERJ-175SU (ERJ-170-200 SU),C-FRQP,Air Canada Express,20 Mar 2017,Active,"394, opby Sky Regional Airlines"
+17000154,Embraer ERJ-175SU (ERJ-170-200 SU),C-FRQW,Air Canada Express,27 Jun 2017,Active,"395, opby Sky Regional Airlines"
+17000155,Embraer ERJ-170LR (ERJ-170-100 LR),2-FING,AerFin,15 May 2018,Stored,
+17000156,Embraer ERJ-175LR (ERJ-170-200 LR),N101HQ,American Eagle,9 Dec 2013,Active,"101, opby Republic Airlines"
+17000157,Embraer ERJ-175LR (ERJ-170-200 LR),N102HQ,American Eagle,9 Dec 2013,Active,"102, opby Republic Airlines"
+17000158,Embraer ERJ-170LR (ERJ-170-100 LR),HZ-AEN,Saudi Arabian Airlines,29 Dec 2006,Scrapped,
+17000159,Embraer ERJ-175LR (ERJ-170-200 LR),N103HQ,American Eagle,9 Dec 2013,Stored,"103, opby Republic Airlines"
+,,,,,,
+17000160,Embraer ERJ-175LR (ERJ-170-200 LR),N104HQ,American Eagle,9 Dec 2013,Active,"104, opby Republic Airlines"
+17000161,Embraer ERJ-170LR (ERJ-170-100 LR),HZ-AEO,Saudi Arabian Airlines,24 Mar 2007,Stored,
+17000162,Embraer ERJ-170LR (ERJ-170-100 LR),5A-SOC,Petro Air,17 Apr 2009,Active,
+17000163,Embraer ERJ-175LR (ERJ-170-200 LR),N105HQ,American Eagle,9 Dec 2013,Stored,"105, opby Republic Airlines"
+17000164,Embraer ERJ-175LR (ERJ-170-200 LR),N106HQ,American Eagle,9 Dec 2013,Active,"106, opby Republic Airlines"
+17000165,Embraer ERJ-175LR (ERJ-170-200 LR),N107HQ,American Eagle,9 Dec 2013,Active,"107, opby Republic Airlines"
+17000166,Embraer ERJ-175LR (ERJ-170-200 LR),N108HQ,American Eagle,9 Dec 2013,Active,"108, opby Republic Airlines"
+17000167,Embraer ERJ-170LR (ERJ-170-100 LR),SU-GCT,EgyptAir Express,14 May 2007,Stored,
+17000168,Embraer ERJ-175LR (ERJ-170-200 LR),N109HQ,American Eagle,9 Dec 2013,Active,"109, opby Republic Airlines"
+17000169,Embraer ERJ-170LR (ERJ-170-100 LR),SU-GCU,CIAF Leasing,Jun 2019,Active,
+17000170,Embraer ERJ-170LR (ERJ-170-100 LR),TS-IJA,Jasmin Airways,20 Jun 2019,Active,lsf CIAF Leasing
+17000171,Embraer ERJ-175LR (ERJ-170-200 LR),N217JQ,Delta Connection,15 Jan 2020,Stored,"8217, opby Republic Airlines"
+17000172,Embraer ERJ-175LR (ERJ-170-200 LR),N110HQ,American Eagle,9 Dec 2013,Stored,"110, opby Republic Airlines"
+17000173,Embraer ERJ-175LR (ERJ-170-200 LR),N111HQ,American Eagle,9 Dec 2013,Active,"111, opby Republic Airlines"
+17000174,Embraer ERJ-175LR (ERJ-170-200 LR),N112HQ,American Eagle,9 Dec 2013,Stored,"112, opby Republic Airlines"
+17000175,Embraer ERJ-170LR (ERJ-170-100 LR),TS-IJB,Jasmin Airways,6 Aug 2019,Active,"Narcisse, lsf CIAF Leasing"
+17000176,Embraer ERJ-175LR (ERJ-170-200 LR),N603CZ,Delta Connection,1 Feb 2020,Active,"603, opby SkyWest Airlines"
+17000177,Embraer ERJ-175LR (ERJ-170-200 LR),N113HQ,American Eagle,9 Dec 2013,Active,"113, opby Republic Airlines"
+17000178,Embraer ERJ-170LR (ERJ-170-100 LR),SU-GCX,EgyptAir,4 Nov 2019,Stored,
+17000179,Embraer ERJ-175LR (ERJ-170-200 LR),N114HQ,American Eagle,9 Dec 2013,Active,"114, opby Republic Airlines"
+17000180,Embraer ERJ-170LR (ERJ-170-100 LR),N875RW,Republic Airlines,21 Apr 2017,Stored,
+17000181,Embraer ERJ-175LR (ERJ-170-200 LR),N604CZ,Delta Connection,27 Feb 2020,Active,"604, opby SkyWest Airlines"
+17000182,Embraer ERJ-175LR (ERJ-170-200 LR),N115HQ,American Eagle,9 Dec 2013,Active,"115, opby Republic Airlines"
+17000183,Embraer ERJ-175LR (ERJ-170-200 LR),N116HQ,American Eagle,9 Nov 2013,Active,"116, opby Republic Airlines"
+17000184,Embraer ERJ-175LR (ERJ-170-200 LR),N117HQ,American Eagle,9 Dec 2013,Stored,"117, opby Republic Airlines"
+17000185,Embraer ERJ-170LR (ERJ-170-100 LR),SU-GCY,EgyptAir Express,29 Sep 2007,Stored,
+17000186,Embraer ERJ-175LR (ERJ-170-200 LR),N218JQ,Delta Connection,12 Feb 2020,Stored,"8218, opby Republic Airlines"
+17000187,Embraer ERJ-170LR (ERJ-170-100 LR),N876RW,Republic Airlines,19 Apr 2017,Written Off,8876
+17000188,Embraer ERJ-175LR (ERJ-170-200 LR),N219YX,Delta Connection,14 Mar 2020,Stored,"8219, opby Republic Airlines"
+17000189,Embraer ERJ-175LR (ERJ-170-200 LR),N118HQ,American Eagle,9 Dec 2013,Active,"118, opby Republic Airlines"
+17000190,Embraer ERJ-175LR (ERJ-170-200 LR),N119HQ,American Eagle,9 Dec 2013,Active,"119, opby Republic Airlines"
+17000191,Embraer ERJ-170LR (ERJ-170-100 LR),N878RW,Delta Connection,21 Apr 2017,Stored,opby Republic Airlines
+17000192,Embraer ERJ-175LR (ERJ-170-200 LR),N607CZ,Delta Connection,2 Mar 2020,Active,"607, opby SkyWest Airlines"
+17000193,Embraer ERJ-175LR (ERJ-170-200 LR),N120HQ,American Eagle,9 Dec 2013,Active,"120, opby Republic Airlines"
+17000194,Embraer ERJ-175LR (ERJ-170-200 LR),N121HQ,American Eagle,9 Dec 2013,Active,"121, opby Republic Airlines"
+17000195,Embraer ERJ-175LR (ERJ-170-200 LR),N608CZ,Compass Airlines,5 Dec 2007,Stored,"608, lsf Delta Air Lines"
+17000196,Embraer ERJ-175LR (ERJ-170-200 LR),N122HQ,American Eagle,9 Dec 2013,Active,"122, opby Republic Airlines"
+17000197,Embraer ERJ-175LR (ERJ-170-200 LR),N609CZ,Compass Airlines,11 Dec 2007,Stored,"609, lsf Delta Air Lines"
+17000198,Embraer ERJ-175LR (ERJ-170-200 LR),N610CZ,SkyWest Airlines,31 Mar 2020,Stored,lsf Delta Air Lines
+17000199,Embraer ERJ-175LR (ERJ-170-200 LR),N123HQ,American Eagle,9 Dec 2013,Active,"123, opby Republic Airlines"
+17000200,Embraer ERJ-175LR (ERJ-170-200 LR),N124HQ,American Eagle,9 Dec 2013,Active,"124, opby Republic Airlines"
+17000201,Embraer ERJ-175LR (ERJ-170-200 LR),N612CZ,Compass Airlines,16 Jan 2008,Active,"612, lsf Delta Air Lines"
+17000202,Embraer ERJ-175LR (ERJ-170-200 LR),N125HQ,American Eagle,9 Dec 2013,Active,"125, opby Republic Airlines"
+17000203,Embraer ERJ-175LR (ERJ-170-200 LR),N613CZ,SkyWest Airlines,2 Apr 2020,Stored,lsf Delta Air Lines
+17000204,Embraer ERJ-175LR (ERJ-170-200 LR),N126HQ,American Eagle,9 Dec 2013,Stored,"126, opby Republic Airlines"
+17000205,Embraer ERJ-175LR (ERJ-170-200 LR),N614CZ,SkyWest Airlines,1 Apr 2020,Stored,lsf Delta Air Lines
+17000206,Embraer ERJ-175LR (ERJ-170-200 LR),N127HQ,American Eagle,9 Dec 2013,Active,"127, opby Republic Airlines"
+17000207,Embraer ERJ-175LR (ERJ-170-200 LR),N615CZ,Compass Airlines,20 Feb 2008,Active,"615, lsf Delta Air Lines"
+17000208,Embraer ERJ-175LR (ERJ-170-200 LR),N128HQ,American Eagle,9 Dec 2013,Active,"128, opby Republic Airlines"
+17000209,Embraer ERJ-175LR (ERJ-170-200 LR),N616CZ,Compass Airlines,29 Feb 2008,Active,"616, lsf Delta Air Lines"
+17000210,Embraer ERJ-175LR (ERJ-170-200 LR),N617CZ,Compass Airlines,5 Mar 2008,Active,"617, lsf Delta Air Lines"
+17000211,Embraer ERJ-175LR (ERJ-170-200 LR),N129HQ,American Eagle,9 Dec 2013,Active,"129, opby Republic Airlines"
+17000212,Embraer ERJ-175LR (ERJ-170-200 LR),N130HQ,American Eagle,9 Dec 2013,Active,"130, opby Republic Airlines"
+,,,,,,
+17000213,Embraer ERJ-175LR (ERJ-170-200 LR),N619CZ,Compass Airlines,26 Mar 2008,Active,"619, lsf Delta Air Lines"
+17000214,Embraer ERJ-175LR (ERJ-170-200 LR),N227JQ,Delta Connection,4 Jan 2020,Stored,"8227, opby Republic Airlines"
+17000215,Embraer ERJ-175LR (ERJ-170-200 LR),N131HQ,American Eagle,9 Dec 2013,Stored,"131, opby Republic Airlines"
+17000216,Embraer ERJ-175LR (ERJ-170-200 LR),N132HQ,American Eagle,9 Dec 2013,Stored,"132, opby Republic Airlines"
+17000217,Embraer ERJ-175LR (ERJ-170-200 LR),N133HQ,American Eagle,9 Dec 2013,Active,"133, opby Republic Airlines"
+17000218,Embraer ERJ-175LR (ERJ-170-200 LR),N621CZ,Compass Airlines,24 Apr 2008,Active,"621, lsf Delta Air Lines"
+17000219,Embraer ERJ-175LR (ERJ-170-200 LR),N622CZ,Compass Airlines,2 May 2008,Active,"622, lsf Delta Air Lines"
+17000220,Embraer ERJ-175LR (ERJ-170-200 LR),N134HQ,American Eagle,9 Dec 2013,Active,"134, opby Republic Airlines"
+17000221,Embraer ERJ-175LR (ERJ-170-200 LR),N230JQ,Delta Connection,19 Feb 2020,Stored,"8230, opby Republic Airlines"
+17000222,Embraer ERJ-175LR (ERJ-170-200 LR),N231JQ,Delta Connection,1 Feb 2020,Stored,"8231, opby Republic Airlines"
+17000223,Embraer ERJ-175LR (ERJ-170-200 LR),JY-EMC,Royal Jordanian,31 May 2008,Stored,Zay / زي
+17000224,Embraer ERJ-175LR (ERJ-170-200 LR),N135HQ,American Eagle,9 Dec 2013,Active,"135, opby Republic Airlines"
+17000225,Embraer ERJ-175LR (ERJ-170-200 LR),N232JQ,Delta Connection,26 Feb 2020,Stored,"8232, opby Republic Airlines"
+17000226,Embraer ERJ-175LR (ERJ-170-200 LR),N233JQ,Delta Connection,11 Oct 2019,Stored,"8223, opby Republic Airlines"
+17000227,Embraer ERJ-170LR (ERJ-170-100 LR),N879RW,Delta Connection,24 Apr 2017,Stored,opby Republic Airlines
+17000228,Embraer ERJ-175LR (ERJ-170-200 LR),N136HQ,American Eagle,9 Dec 2013,Active,"136, opby Republic Airlines"
+17000229,Embraer ERJ-175LR (ERJ-170-200 LR),N234JQ,Delta Connection,18 Mar 2020,Stored,"8234, opby Republic Airlines"
+17000230,Embraer ERJ-170LR (ERJ-170-100 LR),G-CIXW,Eastern Airways,21 Jul 2016,Stored,lsf GECAS
+17000231,Embraer ERJ-175LR (ERJ-170-200 LR),N137HQ,American Eagle,9 Dec 2013,Stored,"137, opby Republic Airlines"
+17000232,Embraer ERJ-175LR (ERJ-170-200 LR),JY-EMD,Royal Jordanian,28 Jun 2008,Stored,Dana / ضانا
+17000233,Embraer ERJ-175LR (ERJ-170-200 LR),N235JQ,Delta Connection,8 Nov 2019,Stored,"8235, opby Republic Airlines"
+17000234,Embraer ERJ-175LR (ERJ-170-200 LR),N138HQ,American Eagle,9 Dec 2013,Active,"138, opby Republic Airlines"
+17000235,Embraer ERJ-175LR (ERJ-170-200 LR),N201JQ,Delta Connection,31 Jan 2017,Stored,"8201, opby Republic Airlines"
+17000236,Embraer ERJ-175LR (ERJ-170-200 LR),N236JQ,Republic Airlines,9 Dec 2019,Stored,lsf Delta Air Lines
+17000237,Embraer ERJ-170STD (ERJ-170-100),F-HBXA,HOP!,31 Mar 2013,Stored,
+17000238,Embraer ERJ-175LR (ERJ-170-200 LR),N630CZ,Compass Airlines,19 Aug 2008,Active,"630, lsf Delta Air Lines"
+17000239,Embraer ERJ-175LR (ERJ-170-200 LR),N631CZ,Compass Airlines,5 Sep 2008,Active,"631, lsf Delta Air Lines"
+17000240,Embraer ERJ-175LR (ERJ-170-200 LR),N202JQ,Delta Connection,31 Jan 2017,Active,"8202, opby Republic Airlines"
+17000241,Embraer ERJ-175LR (ERJ-170-200 LR),N1920T,Swiflite Aircraft Corporation,13 Apr 2017,Active,
+17000242,Embraer ERJ-175LR (ERJ-170-200 LR),N203JQ,Delta Connection,31 Jan 2017,Active,"8203, opby Republic Airlines"
+17000243,Embraer ERJ-175LR (ERJ-170-200 LR),N204JQ,Delta Connection,31 Jan 2017,Active,"8204, opby Republic Airlines"
+17000244,Embraer ERJ-175LR (ERJ-170-200 LR),N239JQ,Delta Connection,18 Oct 2019,Stored,"8239, opby Republic Airlines"
+17000245,Embraer ERJ-175LR (ERJ-170-200 LR),N240JQ,Delta Connection,24 Oct 2019,Stored,"8240, opby Republic Airlines"
+17000246,Embraer ERJ-175LR (ERJ-170-200 LR),N241JQ,Delta Connection,26 Nov 2019,Stored,"8241, opby Republic Airlines"
+17000247,Embraer ERJ-170LR (ERJ-170-100 LR),N880RW,Delta Connection,15 May 2017,Stored,opby Republic Airlines
+17000248,Embraer ERJ-175LR (ERJ-170-200 LR),N205JQ,Delta Connection,19 Sep 2015,Stored,"8205, opby Republic Airlines"
+17000249,Embraer ERJ-175LR (ERJ-170-200 LR),N206JQ,Delta Connection,31 Jan 2017,Active,"8206, opby Republic Airlines"
+17000250,Embraer ERJ-170STD (ERJ-170-100),F-HBXB,HOP!,31 Mar 2013,Stored,
+17000251,Embraer ERJ-170STD (ERJ-170-100),JA211J,J-Air,30 Oct 2008,Active,
+17000252,Embraer ERJ-175LR (ERJ-170-200 LR),N242JQ,Delta Connection,30 Nov 2019,Stored,"8242, opby Republic Airlines"
+17000253,Embraer ERJ-175LR (ERJ-170-200 LR),N243JQ,Delta Connection,15 Nov 2019,Stored,"8243, opby Republic Airlines"
+17000254,Embraer ERJ-175LR (ERJ-170-200 LR),N207JQ,Delta Connection,31 Jan 2017,Active,"8207, opby Republic Airlines"
+17000255,Embraer ERJ-170LR (ERJ-170-100 LR),N882RW,Delta Connection,15 May 2017,Stored,opby Republic Airlines
+17000256,Embraer ERJ-175LR (ERJ-170-200 LR),N244JQ,Delta Connection,23 Nov 2019,Stored,"8244, opby Republic Airlines"
+17000257,Embraer ERJ-175LR (ERJ-170-200 LR),N208JQ,Delta Connection,31 Jan 2017,Active,"8208, opby Republic Airlines"
+17000258,Embraer ERJ-175LR (ERJ-170-200 LR),N209JQ,Delta Connection,31 Jan 2017,Active,"8209, opby Republic Airlines"
+17000259,Embraer ERJ-175LR (ERJ-170-200 LR),N245JQ,Delta Connection,16 Dec 2019,Stored,"8245, opby Republic Airlines"
+17000260,Embraer ERJ-175LR (ERJ-170-200 LR),N210JQ,Delta Connection,31 Jan 2017,Stored,"8210, opby Republic Airlines"
+17000261,Embraer ERJ-175LR (ERJ-170-200 LR),N211JQ,Delta Connection,31 Jan 2017,Stored,"8211, opby Republic Airlines"
+17000262,Embraer ERJ-175LR (ERJ-170-200 LR),N246JQ,Delta Connection,23 Dec 2019,Stored,"8246, opby Republic Airlines"
+17000263,Embraer ERJ-170STD (ERJ-170-100),F-HBXC,HOP!,31 Mar 2013,Stored,
+17000264,Embraer ERJ-175LR (ERJ-170-200 LR),N212JQ,Delta Connection,31 Jan 2017,Stored,"8212, opby Republic Airlines"
+17000265,Embraer ERJ-175LR (ERJ-170-200 LR),N213JQ,Delta Connection,31 Jan 2017,Active,"8213, opby Republic Airlines"
+,,,,,,
+17000266,Embraer ERJ-170LR (ERJ-170-100 LR),SU-GDF,EgyptAir Express,11 Dec 2008,Stored,
+17000267,Embraer ERJ-175LR (ERJ-170-200 LR),N214JQ,Delta Connection,31 Jan 2017,Active,"8214, opby Republic Airlines"
+17000268,Embraer ERJ-170STD (ERJ-170-100),JA212J,J-Air,21 Jan 2009,Active,
+17000269,Embraer ERJ-170LR (ERJ-170-100 LR),SU-GDG,EgyptAir,4 Nov 2019,Stored,
+17000270,Embraer ERJ-175LR (ERJ-170-200 LR),N215JQ,Delta Connection,31 Jan 2017,Stored,"8215, opby Republic Airlines"
+17000271,Embraer ERJ-170STD (ERJ-170-100),JA01FJ,FDA - Fuji Dream Airlines,17 Feb 2009,Stored,lsf Suzuyo & Co Ltd
+17000272,Embraer ERJ-175SU (ERJ-170-200 SU),C-FUJA,Air Canada Express,18 Nov 2015,Active,"386, opby Sky Regional Airlines"
+17000273,Embraer ERJ-175LR (ERJ-170-200 LR),N216JQ,Delta Connection,31 Jan 2017,Active,"8216, opby Republic Airlines"
+17000274,Embraer ERJ-170LR (ERJ-170-100 LR),SU-GDH,EgyptAir,4 Nov 2019,Stored,
+17000275,Embraer ERJ-170LR (ERJ-170-100 LR),5A-PAA,Petro Air,31 Mar 2010,Active,
+17000276,Embraer ERJ-170LR (ERJ-170-100 LR),SU-GDI,EgyptAir Express,20 Mar 2009,Stored,
+17000277,Embraer ERJ-175SU (ERJ-170-200 SU),C-FJBO,Air Canada Express,29 Oct 2015,Active,"387, opby Sky Regional Airlines"
+17000278,Embraer ERJ-170LR (ERJ-170-100 LR),N186EC,ECC Leasing Company,13 Feb 2017,Scrapped,
+17000279,Embraer ERJ-170LR (ERJ-170-100 LR),5A-PAB,Petro Air,31 Mar 2010,Active,
+17000280,Embraer ERJ-170LR (ERJ-170-100 LR),VH-ANV,Airnorth,9 Apr 2009,Active,"Makikit Timor, lsf Jetscape"
+17000281,Embraer ERJ-170STD (ERJ-170-100),F-HBXD,HOP!,31 Mar 2013,Stored,
+17000282,Embraer ERJ-170LR (ERJ-170-100 LR),SU-GDJ,EgyptAir,4 Nov 2019,Stored,
+17000283,Embraer ERJ-175LR (ERJ-170-200 LR),SP-LIG,Polish Government,28 May 2010,Active,lsf Eurolot
+17000284,Embraer ERJ-170LR (ERJ-170-100 LR),SU-GDK,EgyptAir,4 Nov 2019,Stored,
+17000285,Embraer ERJ-170STD (ERJ-170-100),JA213J,J-Air,27 May 2009,Active,
+17000286,Embraer ERJ-170STD (ERJ-170-100),F-HBXE,HOP!,31 Mar 2013,Stored,
+17000287,Embraer ERJ-175SU (ERJ-170-200 SU),C-FXJC,Air Canada Express,20 Oct 2015,Stored,"388, opby Sky Regional Airlines"
+17000288,Embraer ERJ-175LR (ERJ-170-200 LR),SP-LIH,Polish Government,Jun 2010,Active,lsf Eurolot
+17000289,Embraer ERJ-170STD (ERJ-170-100),JA02FJ,FDA - Fuji Dream Airlines,5 Jun 2009,Active,lsf Suzuyo & Co Ltd
+17000290,Embraer ERJ-175LR (ERJ-170-200 LR),SP-LII,LOT - Polish Airlines,31 Aug 2009,Stored,
+17000291,Embraer ERJ-175SU (ERJ-170-200 SU),C-FUJE,Air Canada Express,9 Nov 2015,Active,"389, opby Sky Regional Airlines"
+17000292,Embraer ERJ-170STD (ERJ-170-100),F-HBXF,HOP!,31 Mar 2013,Stored,
+17000293,Embraer ERJ-170LR (ERJ-170-100 LR),N187EC,ECC Leasing Company,13 Feb 2017,Scrapped,
+17000294,Embraer ERJ-170STD (ERJ-170-100),G-LCYD,BA CityFlyer,4 Sep 2009,Stored,
+17000295,Embraer ERJ-170STD (ERJ-170-100),JA214J,J-Air,23 Sep 2009,Active,lsf SLC
+17000296,Embraer ERJ-170STD (ERJ-170-100),G-LCYE,BA CityFlyer,18 Sep 2009,Stored,
+17000297,Embraer ERJ-170STD (ERJ-170-100),JA215J,J-Air,14 Oct 2009,Active,
+17000298,Embraer ERJ-170STD (ERJ-170-100),G-LCYF,BA CityFlyer,29 Oct 2009,Stored,
+17000299,Embraer ERJ-170STD (ERJ-170-100),JA216J,J-Air,17 Nov 2009,Active,lsf SLC
+17000300,Embraer ERJ-170STD (ERJ-170-100),G-LCYG,BA CityFlyer,26 Nov 2009,Stored,
+17000301,Embraer ERJ-170STD (ERJ-170-100),F-HBXG,HOP!,31 Mar 2013,Stored,
+17000302,Embraer ERJ-170STD (ERJ-170-100),G-LCYH,BA CityFlyer,17 Dec 2009,Stored,
+17000303,Embraer ERJ-175LR (ERJ-170-200 LR),SP-LIK,LOT - Polish Airlines,21 Dec 2009,Active,
+17000304,Embraer ERJ-175STD (ERJ-170-200),JA03FJ,FDA - Fuji Dream Airlines,15 Jan 2010,Active,lsf Suzuyo & Co Ltd
+17000305,Embraer ERJ-170STD (ERJ-170-100),G-LCYI,BA CityFlyer,29 Jan 2010,Stored,
+17000306,Embraer ERJ-175LR (ERJ-170-200 LR),SP-LIL,LOT - Polish Airlines,28 May 2010,Active,
+17000307,Embraer ERJ-170STD (ERJ-170-100),F-HBXH,HOP!,2 May 2015,Stored,
+17000308,Embraer ERJ-170STD (ERJ-170-100),JA217J,J-Air,16 Apr 2010,Active,
+17000309,Embraer ERJ-175SU (ERJ-170-200 SU),C-FXJF,Air Canada Express,2 Dec 2015,Active,"390, opby Sky Regional Airlines"
+17000310,Embraer ERJ-170STD (ERJ-170-100),F-HBXI,HOP!,31 Mar 2013,Stored,
+17000311,Embraer ERJ-175LR (ERJ-170-200 LR),SP-LIM,LOT - Polish Airlines,28 May 2010,Stored,Retro cs
+17000312,Embraer ERJ-170STD (ERJ-170-100),F-HBXJ,HOP!,31 Mar 2013,Stored,
+17000313,Embraer ERJ-175LR (ERJ-170-200 LR),SP-LIN,LOT - Polish Airlines,23 Sep 2010,Active,
+17000314,Embraer ERJ-170STD (ERJ-170-100),JA218J,J-Air,23 Sep 2010,Active,lsf SLC
+17000315,Embraer ERJ-170STD (ERJ-170-100),JA219J,J-Air,8 Oct 2010,Active,
+17000316,Embraer ERJ-175LR (ERJ-170-200 LR),XT-ABZ,Air Burkina,16 Jan 2019,Active,lsf NAC
+17000317,Embraer ERJ-175STD (ERJ-170-200),JA05FJ,FDA - Fuji Dream Airlines,20 Oct 2010,Active,lsf Suzuyo & Co Ltd
+17000318,Embraer ERJ-170LR (ERJ-170-100 LR),A2-ABM,Air Botswana,3 Jan 2019,Active,Okavango
+,,,,,,
+17000319,Embraer ERJ-170LR (ERJ-170-100 LR),N735A,Southern Aircraft Consultancy,10 Jul 2018,Stored,
+17000320,Embraer ERJ-170LR (ERJ-170-100 LR),N736A,Saudi Aramco,17 Dec 2010,Scrapped,al-Hasa
+17000321,Embraer ERJ-175LR (ERJ-170-200 LR),SP-LIO,LOT - Polish Airlines,28 Oct 2010,Stored,Star Alliance cs
+17000322,Embraer ERJ-170STD (ERJ-170-100),JA220J,J-Air,8 Feb 2011,Stored,
+17000323,Embraer ERJ-175AR (ERJ-170-200 IGW),A4O-EA,Oman Air,22 Mar 2011,Stored,
+17000324,Embraer ERJ-175AR (ERJ-170-200 IGW),A4O-EB,Oman Air,30 Mar 2011,Stored,
+17000325,Embraer ERJ-175AR (ERJ-170-200 IGW),A4O-CX,Royal Oman Police,30 May 2011,Active,
+17000326,Embraer ERJ-175STD (ERJ-170-200),G-FBJA,Flybe,23 Nov 2011,Stored,
+17000327,Embraer ERJ-175STD (ERJ-170-200),G-FBJB,Flybe,9 Dec 2011,Stored,
+17000328,Embraer ERJ-175STD (ERJ-170-200),G-FBJC,Flybe,23 Nov 2011,Stored,
+17000329,Embraer ERJ-175STD (ERJ-170-200),G-FBJD,Flybe,9 Dec 2011,Stored,
+17000330,Embraer ERJ-175STD (ERJ-170-200),EI-RDA,Alitalia Cityliner,27 Oct 2011,Stored,"Parco Nazionale del Gran Paradiso, lsf ALC"
+17000331,Embraer ERJ-175STD (ERJ-170-200),EI-RDB,Alitalia Cityliner,10 Nov 2011,Stored,"Parco Nazionale dello Stelvio, lsf APC"
+17000332,Embraer ERJ-175STD (ERJ-170-200),JA06FJ,FDA - Fuji Dream Airlines,24 Nov 2011,Active,lsf Suzuyo & Co Ltd
+17000333,Embraer ERJ-175STD (ERJ-170-200),EI-RDC,Alitalia Cityliner,1 Mar 2012,Stored,"Parco Nazionale delle Cinque Terre, lsf APC"
+17000334,Embraer ERJ-175STD (ERJ-170-200),EI-RDD,Alitalia Cityliner,26 Mar 2012,Active,"Parco Nazionale d'Abruzzo, Lazio e Molise, lsf NAC"
+17000335,Embraer ERJ-175STD (ERJ-170-200),EI-RDE,Alitalia Cityliner,16 Apr 2012,Stored,"Parco Nazionale dell'Etna, lsf NAC"
+17000336,Embraer ERJ-175STD (ERJ-170-200),G-FBJE,Flybe,4 Apr 2012,Stored,
+17000337,Embraer ERJ-175STD (ERJ-170-200),EI-RDF,Alitalia Cityliner,22 Jun 2012,Stored,"Parco Naturale Dolomiti Friulane, lsf NAC"
+17000338,Embraer ERJ-175STD (ERJ-170-200),EI-RDG,Alitalia Cityliner,26 Jun 2012,Stored,"Parco Nazionale dell'Asinara, lsf NAC"
+17000339,Embraer ERJ-175STD (ERJ-170-200),EI-RDH,Alitalia Cityliner,26 Jun 2012,Stored,"Parco Delta del Po, lsf NAC"
+17000340,Embraer ERJ-175STD (ERJ-170-200),EI-RDI,Alitalia Cityliner,26 Jun 2012,Stored,"Parco Storico Monte Sole, lsf NAC"
+17000341,Embraer ERJ-175STD (ERJ-170-200),G-FBJF,Flybe,25 May 2012,Stored,
+17000342,Embraer ERJ-175STD (ERJ-170-200),EI-RDJ,Alitalia Cityliner,26 Jul 2012,Stored,"Parco Nazionale del Circeo, lsf Falko"
+17000343,Embraer ERJ-175STD (ERJ-170-200),EI-RDK,Alitalia Cityliner,26 Jul 2012,Stored,"Parco Nazionale del Gargano, lsf Falko"
+17000344,Embraer ERJ-175STD (ERJ-170-200),OY-YDA,Nordic Aviation Capital (NAC),26 Mar 2020,Stored,
+17000345,Embraer ERJ-175STD (ERJ-170-200),EI-RDL,Alitalia Cityliner,24 Aug 2012,Stored,"Parco Nazionale della Val Grande, lsf Falko"
+17000346,Embraer ERJ-175STD (ERJ-170-200),EI-RDM,Alitalia Cityliner,30 Aug 2012,Stored,"Parco Nazionale della Majella, lsf Falko"
+17000347,Embraer ERJ-175STD (ERJ-170-200),EI-RDN,Alitalia Cityliner,22 Mar 2013,Stored,"Parco Nazionale dell'Alta Murgia, lsf NAC"
+17000348,Embraer ERJ-175STD (ERJ-170-200),EI-RDO,Alitalia Cityliner,22 Mar 2013,Stored,"Parco Regionale della Maremma, lsf NAC"
+17000349,Embraer ERJ-175LR (ERJ-170-200 LR),A4O-EC,Oman Air,30 Aug 2012,Stored,
+17000350,Embraer ERJ-175LR (ERJ-170-200 LR),EW-340PO,Belavia,14 Sep 2012,Active,lsf ALC
+17000351,Embraer ERJ-175STD (ERJ-170-200),OY-YDB,Nordic Aviation Capital (NAC),26 Mar 2020,Stored,
+17000352,Embraer ERJ-175LR (ERJ-170-200 LR),EW-341PO,Belavia,25 Oct 2012,Active,lsf ALC
+17000353,Embraer ERJ-170STD (ERJ-170-100),JA221J,J-Air,25 Nov 2012,Active,
+17000354,Embraer ERJ-175LR (ERJ-170-200 LR),A4O-ED,Oman Air,14 Nov 2012,Stored,
+17000355,Embraer ERJ-175STD (ERJ-170-200),G-FBJI,Flybe,27 Nov 2012,Stored,lsf HEH Aviation
+17000356,Embraer ERJ-170STD (ERJ-170-100),JA222J,J-Air,12 Mar 2013,Active,
+17000357,Embraer ERJ-170LR (ERJ-170-100 LR),VH-ANT,Airnorth,22 Apr 2013,Active,
+17000358,Embraer ERJ-175STD (ERJ-170-200),G-FBJJ,Flybe,13 Dec 2013,Stored,lsf HEH Aviation
+17000359,Embraer ERJ-175STD (ERJ-170-200),G-FBJK,Flybe,19 Dec 2013,Stored,
+17000361,Embraer ERJ-175STD (ERJ-170-200),JA07FJ,FDA - Fuji Dream Airlines,25 Jun 2013,Active,lsf Suzuyo & Co Ltd
+17000362,Embraer ERJ-170STD (ERJ-170-100),JA223J,J-Air,3 Jul 2013,Active,
+17000363,Embraer ERJ-175LR (ERJ-170-200 LR),N401YX,American Eagle,15 Jul 2013,Active,"A01, opby Republic Airlines"
+17000364,Embraer ERJ-175LR (ERJ-170-200 LR),N402YX,American Eagle,18 Jul 2013,Active,"A02, opby Republic Airlines"
+17000365,Embraer ERJ-175LR (ERJ-170-200 LR),N403YX,American Eagle,23 Jul 2013,Active,"A03, opby Republic Airlines"
+17000366,Embraer ERJ-175LR (ERJ-170-200 LR),N437YX,American Eagle,7 Oct 2014,Active,"A37, opby Republic Airlines"
+17000367,Embraer ERJ-175LR (ERJ-170-200 LR),N404YX,American Eagle,20 Aug 2013,Active,"A04, opby Republic Airlines"
+17000368,Embraer ERJ-175LR (ERJ-170-200 LR),N405YX,American Eagle,22 Aug 2013,Active,"A05, opby Republic Airlines"
+17000369,Embraer ERJ-175LR (ERJ-170-200 LR),N406YX,American Eagle,27 Aug 2013,Active,"A06, opby Republic Airlines"
+17000370,Embraer ERJ-175LR (ERJ-170-200 LR),N407YX,American Eagle,17 Sep 2013,Active,"A07, opby Republic Airlines"
+17000371,Embraer ERJ-175LR (ERJ-170-200 LR),N408YX,American Eagle,24 Sep 2013,Active,"A08, opby Republic Airlines"
+17000372,Embraer ERJ-175LR (ERJ-170-200 LR),N409YX,American Eagle,24 Sep 2013,Active,"A09, opby Republic Airlines"
+,,,,,,
+17000373,Embraer ERJ-175LR (ERJ-170-200 LR),N410YX,American Eagle,22 Oct 2013,Active,"A10, opby Republic Airlines"
+17000374,Embraer ERJ-175LR (ERJ-170-200 LR),N411YX,American Eagle,22 Oct 2013,Active,"A11, opby Republic Airlines"
+17000375,Embraer ERJ-175LR (ERJ-170-200 LR),N412YX,American Eagle,29 Oct 2013,Active,"A12, opby Republic Airlines"
+17000376,Embraer ERJ-175LR (ERJ-170-200 LR),N413YX,American Eagle,21 Nov 2013,Active,"A13, opby Republic Airlines"
+17000377,Embraer ERJ-175LR (ERJ-170-200 LR),N414YX,American Eagle,21 Nov 2013,Active,"A14, opby Republic Airlines"
+17000378,Embraer ERJ-175LR (ERJ-170-200 LR),N415YX,American Eagle,25 Nov 2013,Active,"A15, opby Republic Airlines"
+17000379,Embraer ERJ-170STD (ERJ-170-100),JA224J,J-Air,11 Dec 2013,Active,
+17000380,Embraer ERJ-170STD (ERJ-170-100),PR-EDH,Embraer,,Not Built,
+17000381,Embraer ERJ-175LR (ERJ-170-200 LR),N416YX,American Eagle,12 Dec 2013,Active,"A16, opby Republic Airlines"
+17000382,Embraer ERJ-175LR (ERJ-170-200 LR),N417YX,American Eagle,17 Dec 2013,Stored,"A17, opby Republic Airlines"
+17000383,Embraer ERJ-175LR (ERJ-170-200 LR),N418YX,American Eagle,19 Dec 2013,Stored,"A18, opby Republic Airlines"
+17000384,Embraer ERJ-175LR (ERJ-170-200 LR),N419YX,American Eagle,19 Dec 2013,Active,"A19, opby Republic Airlines"
+17000385,Embraer ERJ-175LR (ERJ-170-200 LR),N420YX,American Eagle,28 Jan 2014,Active,"A20, opby Republic Airlines"
+17000386,Embraer ERJ-175LR (ERJ-170-200 LR),N421YX,American Eagle,18 Feb 2014,Stored,"A21, opby Republic Airlines"
+17000387,Embraer ERJ-175LR (ERJ-170-200 LR),N422YX,American Eagle,25 Feb 2014,Active,"A22, opby Republic Airlines"
+17000388,Embraer ERJ-175LR (ERJ-170-200 LR),N88301,United Express,26 Mar 2014,Active,"301, opby Mesa Airlines"
+17000389,Embraer ERJ-170STD (ERJ-170-100),JA225J,J-Air,18 Mar 2014,Active,2019 Rugby World Cup cs
+17000390,Embraer ERJ-175LR (ERJ-170-200 LR),N103SY,United Express,27 Mar 2014,Active,"103, opby SkyWest Airlines"
+17000391,Embraer ERJ-175STD (ERJ-170-200),JA08FJ,FDA - Fuji Dream Airlines,25 Feb 2014,Active,lsf Suzuyo & Co Ltd
+17000392,Embraer ERJ-175LR (ERJ-170-200 LR),N423YX,American Eagle,25 Mar 2014,Stored,"A23, opby Republic Airlines"
+17000393,Embraer ERJ-175LR (ERJ-170-200 LR),N424YX,American Eagle,27 Mar 2014,Active,"A24, opby Republic Airlines"
+17000394,Embraer ERJ-175LR (ERJ-170-200 LR),N87302,United Express,11 Apr 2014,Active,"302, opby Mesa Airlines"
+17000395,Embraer ERJ-175LR (ERJ-170-200 LR),N105SY,United Express,10 Apr 2014,Stored,"105, opby SkyWest Airlines"
+17000396,Embraer ERJ-175LR (ERJ-170-200 LR),N425YX,American Eagle,15 Apr 2014,Active,"A25, opby Republic Airlines"
+17000397,Embraer ERJ-175LR (ERJ-170-200 LR),N426YX,American Eagle,28 Apr 2014,Active,"A26, opby Republic Airlines"
+17000398,Embraer ERJ-175LR (ERJ-170-200 LR),N87303,United Express,28 Apr 2014,Active,"303, opby Mesa Airlines"
+17000399,Embraer ERJ-175LR (ERJ-170-200 LR),N106SY,United Express,8 May 2014,Active,"106, opby SkyWest Airlines"
+17000400,Embraer ERJ-175LR (ERJ-170-200 LR),N107SY,United Express,15 May 2014,Active,"107, opby SkyWest Airlines"
+17000401,Embraer ERJ-175LR (ERJ-170-200 LR),N108SY,United Express,23 May 2014,Active,"108, opby SkyWest Airlines"
+17000402,Embraer ERJ-175LR (ERJ-170-200 LR),N427YX,American Eagle,20 May 2014,Active,"A27, opby Republic Airlines"
+17000403,Embraer ERJ-175LR (ERJ-170-200 LR),N428YX,American Eagle,27 May 2014,Active,"A28, opby Republic Airlines"
+17000404,Embraer ERJ-175LR (ERJ-170-200 LR),N109SY,United Express,22 May 2014,Active,"109, opby SkyWest Airlines"
+17000405,Embraer ERJ-175LR (ERJ-170-200 LR),N110SY,United Express,5 Jun 2014,Stored,"110, opby SkyWest Airlines"
+17000406,Embraer ERJ-175LR (ERJ-170-200 LR),N89304,United Express,16 Jun 2014,Stored,"304, opby Mesa Airlines"
+17000407,Embraer ERJ-175LR (ERJ-170-200 LR),N113SY,United Express,16 Jun 2014,Active,"113, opby SkyWest Airlines"
+17000408,Embraer ERJ-175LR (ERJ-170-200 LR),N429YX,American Eagle,13 Jun 2014,Active,"A29, opby Republic Airlines"
+17000409,Embraer ERJ-175LR (ERJ-170-200 LR),N430YX,American Eagle,27 Jun 2014,Stored,"A30, opby Republic Airlines"
+17000410,Embraer ERJ-175LR (ERJ-170-200 LR),N114SY,United Express,3 Jul 2014,Active,"114, opby SkyWest Airlines"
+17000411,Embraer ERJ-175LR (ERJ-170-200 LR),N116SY,United Express,3 Jul 2014,Active,"116, opby SkyWest Airlines"
+17000412,Embraer ERJ-175LR (ERJ-170-200 LR),N93305,United Express,25 Jul 2014,Stored,"305, opby Mesa Airlines"
+17000413,Embraer ERJ-175LR (ERJ-170-200 LR),N431YX,American Eagle,17 Jul 2014,Stored,"A31, opby Republic Airlines"
+17000414,Embraer ERJ-175LR (ERJ-170-200 LR),N87306,United Express,25 Jul 2014,Active,"306, opby Mesa Airlines"
+17000415,Embraer ERJ-175LR (ERJ-170-200 LR),N432YX,American Eagle,18 Jul 2014,Stored,"A32, opby Republic Airlines"
+17000416,Embraer ERJ-175LR (ERJ-170-200 LR),N117SY,United Express,14 Aug 2014,Active,"117, opby SkyWest Airlines"
+17000417,Embraer ERJ-175LR (ERJ-170-200 LR),N433YX,American Eagle,19 Aug 2014,Stored,"A33, opby Republic Airlines"
+17000418,Embraer ERJ-175LR (ERJ-170-200 LR),N434YX,American Eagle,22 Aug 2014,Active,"A34, opby Republic Airlines"
+17000419,Embraer ERJ-175LR (ERJ-170-200 LR),N84307,United Express,8 Sep 2014,Active,"307, opby Mesa Airlines"
+17000420,Embraer ERJ-175LR (ERJ-170-200 LR),N118SY,United Express,28 Aug 2014,Active,"118, opby SkyWest Airlines"
+17000421,Embraer ERJ-175LR (ERJ-170-200 LR),N119SY,United Express,18 Sep 2014,Active,"119, opby SkyWest Airlines"
+17000422,Embraer ERJ-175LR (ERJ-170-200 LR),N89308,United Express,11 Sep 2014,Stored,"308, opby Mesa Airlines"
+17000423,Embraer ERJ-175LR (ERJ-170-200 LR),N435YX,American Eagle,23 Sep 2014,Stored,"A35, opby Republic Airlines"
+17000424,Embraer ERJ-175LR (ERJ-170-200 LR),N436YX,American Eagle,19 Sep 2014,Active,"A36, opby Republic Airlines"
+17000425,Embraer ERJ-175LR (ERJ-170-200 LR),N120SY,United Express,25 Sep 2014,Active,"120, opby SkyWest Airlines"
+,,,,,,
+17000426,Embraer ERJ-175LR (ERJ-170-200 LR),N86309,United Express,9 Oct 2014,Active,"309, opby Mesa Airlines"
+17000427,Embraer ERJ-175LR (ERJ-170-200 LR),N88310,United Express,16 Oct 2014,Active,"310, opby Mesa Airlines"
+17000428,Embraer ERJ-175LR (ERJ-170-200 LR),N438YX,American Eagle,17 Oct 2014,Stored,"A38, opby Republic Airlines"
+17000429,Embraer ERJ-175LR (ERJ-170-200 LR),N86311,United Express,16 Oct 2014,Active,"311, opby Mesa Airlines"
+17000430,Embraer ERJ-175LR (ERJ-170-200 LR),N121SY,United Express,9 Oct 2014,Stored,"121, opby SkyWest Airlines"
+17000431,Embraer ERJ-175LR (ERJ-170-200 LR),N122SY,United Express,6 Nov 2014,Active,"122, opby SkyWest Airlines"
+17000432,Embraer ERJ-175LR (ERJ-170-200 LR),N86312,United Express,7 Nov 2014,Active,"312, opby Mesa Airlines"
+17000433,Embraer ERJ-175LR (ERJ-170-200 LR),N89313,United Express,7 Nov 2014,Active,"313, opby Mesa Airlines"
+17000434,Embraer ERJ-175LR (ERJ-170-200 LR),N439YX,American Eagle,17 Nov 2014,Active,"A39, opby Republic Airlines"
+17000435,Embraer ERJ-175LR (ERJ-170-200 LR),N440YX,American Eagle,17 Nov 2014,Active,"A40, opby Republic Airlines"
+17000436,Embraer ERJ-175LR (ERJ-170-200 LR),N82314,United Express,20 Nov 2014,Active,"314, opby Mesa Airlines"
+17000437,Embraer ERJ-175LR (ERJ-170-200 LR),N89315,United Express,20 Nov 2014,Active,"315, opby Mesa Airlines"
+17000438,Embraer ERJ-175LR (ERJ-170-200 LR),N86316,United Express,4 Dec 2014,Active,"316, opby Mesa Airlines"
+17000439,Embraer ERJ-175LR (ERJ-170-200 LR),N124SY,United Express,19 Nov 2014,Active,"124, opby SkyWest Airlines"
+17000440,Embraer ERJ-175LR (ERJ-170-200 LR),N125SY,United Express,26 Nov 2014,Active,"125, opby SkyWest Airlines"
+17000441,Embraer ERJ-175LR (ERJ-170-200 LR),N127SY,United Express,4 Dec 2014,Active,"127, opby SkyWest Airlines"
+17000442,Embraer ERJ-175LR (ERJ-170-200 LR),N89317,United Express,4 Dec 2014,Active,"317, opby Mesa Airlines"
+17000443,Embraer ERJ-175LR (ERJ-170-200 LR),N87318,United Express,16 Dec 2014,Stored,"318, opby Mesa Airlines"
+17000444,Embraer ERJ-175LR (ERJ-170-200 LR),N441YX,American Eagle,16 Dec 2014,Stored,"A41, opby Republic Airlines"
+17000445,Embraer ERJ-175LR (ERJ-170-200 LR),N128SY,United Express,11 Dec 2014,Active,"128, opby SkyWest Airlines"
+17000446,Embraer ERJ-175LR (ERJ-170-200 LR),N442YX,American Eagle,22 Jan 2015,Active,"A42, opby Republic Airlines"
+17000447,Embraer ERJ-175LR (ERJ-170-200 LR),N443YX,American Eagle,29 Jan 2015,Active,"A43, opby Republic Airlines"
+17000448,Embraer ERJ-175LR (ERJ-170-200 LR),N87319,United Express,18 Dec 2014,Active,"319, opby Mesa Airlines"
+17000449,Embraer ERJ-175LR (ERJ-170-200 LR),N130SY,United Express,26 Jan 2015,Active,"130, opby SkyWest Airlines"
+17000450,Embraer ERJ-175LR (ERJ-170-200 LR),N131SY,United Express,12 Feb 2015,Active,"131, opby SkyWest Airlines"
+17000451,Embraer ERJ-175LR (ERJ-170-200 LR),N132SY,United Express,12 Feb 2015,Stored,"132, opby SkyWest Airlines"
+17000452,Embraer ERJ-175LR (ERJ-170-200 LR),N133SY,United Express,25 Feb 2015,Active,"133, opby SkyWest Airlines"
+17000453,Embraer ERJ-175LR (ERJ-170-200 LR),N444YX,American Eagle,10 Feb 2015,Active,"A44, opby Republic Airlines"
+17000454,Embraer ERJ-175LR (ERJ-170-200 LR),N85320,United Express,26 Feb 2015,Active,"320, opby Mesa Airlines"
+17000455,Embraer ERJ-175LR (ERJ-170-200 LR),N445YX,American Eagle,24 Feb 2015,Active,"A45, opby Republic Airlines"
+17000456,Embraer ERJ-175LR (ERJ-170-200 LR),N200NN,American Eagle,1 Apr 2020,Stored,"000, opby Envoy"
+17000457,Embraer ERJ-175LR (ERJ-170-200 LR),N446YX,American Eagle,26 Feb 2015,Active,"A46, opby Republic Airlines"
+17000458,Embraer ERJ-175LR (ERJ-170-200 LR),N134SY,United Express,25 Feb 2015,Active,"134, opby SkyWest Airlines"
+17000459,Embraer ERJ-175LR (ERJ-170-200 LR),N89321,United Express,5 Mar 2015,Active,"321, opby Mesa Airlines"
+17000460,Embraer ERJ-175LR (ERJ-170-200 LR),N135SY,United Express,12 Mar 2015,Active,"135, opby SkyWest Airlines"
+17000461,Embraer ERJ-175LR (ERJ-170-200 LR),N201NN,American Eagle,5 Apr 2020,Stored,"001, opby Envoy"
+17000462,Embraer ERJ-175LR (ERJ-170-200 LR),N136SY,United Express,13 Mar 2015,Active,"136, opby SkyWest Airlines"
+17000463,Embraer ERJ-175LR (ERJ-170-200 LR),N447YX,American Eagle,16 Mar 2015,Active,"A47, opby Republic Airlines"
+17000464,Embraer ERJ-175STD (ERJ-170-200),JA09FJ,FDA - Fuji Dream Airlines,19 Mar 2015,Active,lsf Suzuyo & Co Ltd
+17000465,Embraer ERJ-175LR (ERJ-170-200 LR),N86322,United Express,9 Apr 2015,Active,"322, opby Mesa Airlines"
+17000466,Embraer ERJ-175LR (ERJ-170-200 LR),N138SY,United Express,25 Mar 2015,Active,"138, opby SkyWest Airlines"
+17000467,Embraer ERJ-175LR (ERJ-170-200 LR),N202NN,American Eagle,31 Mar 2020,Stored,"002, opby Envoy"
+17000468,Embraer ERJ-175LR (ERJ-170-200 LR),N139SY,United Express,25 Mar 2015,Stored,"139, opby SkyWest Airlines"
+17000469,Embraer ERJ-175LR (ERJ-170-200 LR),N85323,United Express,9 Apr 2015,Stored,"323, opby Mesa Airlines"
+17000470,Embraer ERJ-175LR (ERJ-170-200 LR),N140SY,United Express,16 Apr 2015,Stored,"140, opby SkyWest Airlines"
+17000471,Embraer ERJ-175LR (ERJ-170-200 LR),N86324,United Express,16 Apr 2015,Active,"324, opby Mesa Airlines"
+17000472,Embraer ERJ-175LR (ERJ-170-200 LR),N141SY,United Express,27 Apr 2015,Stored,"141, opby SkyWest Airlines"
+17000473,Embraer ERJ-175LR (ERJ-170-200 LR),N203NN,American Eagle,1 Apr 2020,Stored,"003, opby Envoy"
+17000474,Embraer ERJ-175LR (ERJ-170-200 LR),N88325,United Express,14 May 2015,Active,"325, opby Mesa Airlines"
+17000475,Embraer ERJ-175LR (ERJ-170-200 LR),N142SY,United Express,7 May 2015,Active,"142, opby SkyWest Airlines"
+17000476,Embraer ERJ-175LR (ERJ-170-200 LR),N143SY,United Express,18 May 2015,Stored,"143, opby SkyWest Airlines"
+17000477,Embraer ERJ-175LR (ERJ-170-200 LR),N204NN,American Eagle,3 Apr 2020,Stored,"004, opby Envoy"
+17000478,Embraer ERJ-175LR (ERJ-170-200 LR),N88326,United Express,21 May 2015,Active,"326, opby Mesa Airlines"
+,,,,,,
+17000479,Embraer ERJ-175LR (ERJ-170-200 LR),N88327,United Express,8 Jun 2015,Active,"327, opby Mesa Airlines"
+17000480,Embraer ERJ-175LR (ERJ-170-200 LR),N88328,United Express,11 Jun 2015,Stored,"328, opby Mesa Airlines"
+17000481,Embraer ERJ-175LR (ERJ-170-200 LR),N205NN,American Eagle,31 Mar 2020,Stored,"005, opby Envoy"
+17000482,Embraer ERJ-175LR (ERJ-170-200 LR),N144SY,United Express,11 Jun 2015,Stored,"144, opby SkyWest Airlines"
+17000483,Embraer ERJ-175LR (ERJ-170-200 LR),N170SY,Alaska Airlines,1 Jun 2015,Active,"170, opby SkyWest Airlines"
+17000484,Embraer ERJ-175LR (ERJ-170-200 LR),N145SY,United Express,19 Jun 2015,Active,"145, opby SkyWest Airlines"
+17000485,Embraer ERJ-175LR (ERJ-170-200 LR),N171SY,Alaska Airlines,16 Jun 2015,Active,"171, opby SkyWest Airlines"
+17000486,Embraer ERJ-175LR (ERJ-170-200 LR),N173SY,Alaska Airlines,18 Jun 2015,Active,"173, opby SkyWest Airlines"
+17000487,Embraer ERJ-175LR (ERJ-170-200 LR),N83329,United Express,25 Jun 2015,Active,"329, opby Mesa Airlines"
+17000488,Embraer ERJ-175LR (ERJ-170-200 LR),N88330,United Express,29 Jun 2015,Stored,"330, opby Mesa Airlines"
+17000489,Embraer ERJ-175LR (ERJ-170-200 LR),N206NN,American Eagle,28 Mar 2020,Stored,"006, opby Envoy"
+17000490,Embraer ERJ-175LR (ERJ-170-200 LR),N207AN,American Eagle,29 Mar 2020,Stored,"007, opby Envoy"
+17000491,Embraer ERJ-175LR (ERJ-170-200 LR),N146SY,United Express,16 Jul 2015,Active,"146, opby SkyWest Airlines"
+17000492,Embraer ERJ-175LR (ERJ-170-200 LR),N148SY,United Express,22 Jul 2015,Active,"148, opby SkyWest Airlines"
+17000493,Embraer ERJ-175LR (ERJ-170-200 LR),N721YX,United Express,21 Jul 2015,Active,"721, opby Republic Airlines"
+17000494,Embraer ERJ-175LR (ERJ-170-200 LR),N208AN,American Eagle,29 Mar 2020,Stored,opby Envoy
+17000495,Embraer ERJ-175LR (ERJ-170-200 LR),N149SY,United Express,28 Jul 2015,Active,"149, opby SkyWest Airlines"
+17000496,Embraer ERJ-175LR (ERJ-170-200 LR),N722YX,United Express,28 Jul 2015,Active,"722, opby Republic Airlines"
+17000497,Embraer ERJ-175LR (ERJ-170-200 LR),N209NN,American Eagle,16 Mar 2020,Stored,"009, opby Envoy"
+17000498,Embraer ERJ-175LR (ERJ-170-200 LR),N723YX,United Express,17 Aug 2015,Active,"723, opby Republic Airlines"
+17000499,Embraer ERJ-175LR (ERJ-170-200 LR),N150SY,United Express,25 Aug 2015,Active,"150, opby SkyWest Airlines"
+17000500,Embraer ERJ-175LR (ERJ-170-200 LR),N210NN,American Eagle,28 Mar 2020,Stored,"010, opby Envoy"
+17000501,Embraer ERJ-175LR (ERJ-170-200 LR),N211NN,American Eagle,29 Mar 2020,Stored,"011, opby Envoy"
+17000502,Embraer ERJ-175LR (ERJ-170-200 LR),N724YX,United Express,27 Aug 2015,Active,"724, opby Republic Airlines"
+17000503,Embraer ERJ-175LR (ERJ-170-200 LR),N151SY,United Express,27 Aug 2015,Active,"151, opby SkyWest Airlines"
+17000504,Embraer ERJ-175LR (ERJ-170-200 LR),N212NN,American Eagle,5 Apr 2020,Stored,"012, opby Envoy"
+17000505,Embraer ERJ-175LR (ERJ-170-200 LR),N213NN,American Eagle,28 Mar 2020,Stored,"013, opby Envoy"
+17000506,Embraer ERJ-175LR (ERJ-170-200 LR),N725YX,United Express,11 Sep 2015,Active,"725, opby Republic Airlines"
+17000507,Embraer ERJ-175LR (ERJ-170-200 LR),N726YX,United Express,15 Sep 2015,Active,"726, opby Republic Airlines"
+17000508,Embraer ERJ-175LR (ERJ-170-200 LR),N214NN,American Eagle,4 Apr 2020,Stored,"014, opby Envoy"
+17000509,Embraer ERJ-175LR (ERJ-170-200 LR),N727YX,United Express,8 Oct 2015,Active,"727, opby Republic Airlines"
+17000510,Embraer ERJ-175LR (ERJ-170-200 LR),N728YX,United Express,8 Oct 2015,Active,"728, opby Republic Airlines"
+17000511,Embraer ERJ-175LR (ERJ-170-200 LR),N215NN,American Eagle,3 Apr 2020,Stored,"015, opby Envoy"
+17000512,Embraer ERJ-175LR (ERJ-170-200 LR),N729YX,United Express,6 Nov 2015,Active,"729, opby Republic Airlines"
+17000513,Embraer ERJ-175LR (ERJ-170-200 LR),N216NN,American Eagle,2 Apr 2020,Stored,"016, opby Envoy"
+17000514,Embraer ERJ-170STD (ERJ-170-100),JA226J,J-Air,28 Oct 2015,Active,
+17000515,Embraer ERJ-175LR (ERJ-170-200 LR),N217NN,American Eagle,29 Mar 2020,Stored,"017, opby Envoy"
+17000516,Embraer ERJ-175STD (ERJ-170-200),JA10FJ,FDA - Fuji Dream Airlines,3 Mar 2016,Active,
+17000517,Embraer ERJ-175LR (ERJ-170-200 LR),N174SY,Alaska Airlines,9 Nov 2015,Active,"174, opby SkyWest Airlines"
+17000518,Embraer ERJ-175LR (ERJ-170-200 LR),N730YX,United Express,17 Nov 2015,Active,"730, opby Republic Airlines"
+17000519,Embraer ERJ-175LR (ERJ-170-200 LR),N218NN,American Eagle,29 Mar 2020,Stored,"018, opby Envoy"
+17000520,Embraer ERJ-175LR (ERJ-170-200 LR),N731YX,United Express,3 Dec 2015,Active,"731, opby Republic Airlines"
+17000521,Embraer ERJ-175LR (ERJ-170-200 LR),N732YX,United Express,4 Dec 2015,Active,"732, opby Republic Airlines"
+17000522,Embraer ERJ-175LR (ERJ-170-200 LR),N219NN,American Eagle,2 Apr 2020,Stored,"019, opby Envoy"
+17000523,Embraer ERJ-175LR (ERJ-170-200 LR),N220NN,American Eagle,10 Nov 2015,Active,"020, opby Envoy"
+17000524,Embraer ERJ-170STD (ERJ-170-100),JA227J,J-Air,3 Dec 2015,Active,
+17000525,Embraer ERJ-175LR (ERJ-170-200 LR),N221NN,American Eagle,3 Dec 2015,Active,"021, opby Envoy"
+17000526,Embraer ERJ-175STD (ERJ-170-200),JA11FJ,FDA - Fuji Dream Airlines,9 Jun 2016,Active,
+17000527,Embraer ERJ-175LR (ERJ-170-200 LR),N175SY,Alaska Airlines,10 Dec 2015,Active,"175, opby SkyWest Airlines"
+17000528,Embraer ERJ-175LR (ERJ-170-200 LR),N222NS,American Eagle,15 Dec 2015,Active,"022, opby Envoy"
+17000529,Embraer ERJ-175LR (ERJ-170-200 LR),N223NN,American Eagle,16 Dec 2015,Active,"023, opby Envoy"
+17000530,Embraer ERJ-175LR (ERJ-170-200 LR),N88331,United Express,17 Dec 2015,Active,"331, opby Mesa Airlines"
+17000531,Embraer ERJ-175LR (ERJ-170-200 LR),N88332,United Express,21 Dec 2015,Active,"332, opby Mesa Airlines"
+,,,,,,
+17000532,Embraer ERJ-175LR (ERJ-170-200 LR),N82333,United Express,21 Dec 2015,Active,"333, opby Mesa Airlines"
+17000533,Embraer ERJ-175LR (ERJ-170-200 LR),N176SY,Alaska Airlines,21 Jan 2016,Active,"176, opby SkyWest Airlines"
+17000534,Embraer ERJ-175LR (ERJ-170-200 LR),N86334,United Express,28 Jan 2016,Active,"334, opby Mesa Airlines"
+17000535,Embraer ERJ-175LR (ERJ-170-200 LR),N177SY,Alaska Airlines,27 Jan 2016,Active,"177, opby SkyWest Airlines"
+17000536,Embraer ERJ-175LR (ERJ-170-200 LR),N224NN,American Eagle,2 Feb 2016,Active,"024, opby Envoy"
+17000537,Embraer ERJ-175LR (ERJ-170-200 LR),N225NN,American Eagle,3 Feb 2016,Active,"025, opby Envoy"
+17000538,Embraer ERJ-175LR (ERJ-170-200 LR),N88335,United Express,17 Feb 2016,Active,"335, opby Mesa Airlines"
+17000539,Embraer ERJ-175LR (ERJ-170-200 LR),N733YX,United Express,19 Feb 2016,Active,"733, opby Republic Airlines"
+17000540,Embraer ERJ-175LR (ERJ-170-200 LR),N226NN,American Eagle,3 Mar 2016,Active,"026, opby Envoy"
+17000541,Embraer ERJ-175LR (ERJ-170-200 LR),N736YX,United Express,19 Feb 2016,Active,"736, opby Republic Airlines"
+17000542,Embraer ERJ-175LR (ERJ-170-200 LR),N739YX,United Express,22 Feb 2016,Active,"739, opby Republic Airlines"
+17000543,Embraer ERJ-175LR (ERJ-170-200 LR),N227NN,American Eagle,10 Mar 2016,Active,"027, opby Envoy"
+17000544,Embraer ERJ-175LR (ERJ-170-200 LR),N740YX,United Express,22 Feb 2016,Stored,"740, opby Republic Airlines"
+17000545,Embraer ERJ-175LR (ERJ-170-200 LR),N228NN,American Eagle,21 Mar 2016,Active,"028, opby Envoy"
+17000546,Embraer ERJ-175STD (ERJ-170-200),PH-EXG,KLM Cityhopper,19 Mar 2016,Active,EXG-546
+17000547,Embraer ERJ-175LR (ERJ-170-200 LR),N229NN,American Eagle,21 Mar 2016,Active,"029, opby Envoy"
+17000548,Embraer ERJ-175LR (ERJ-170-200 LR),N86336,United Express,24 Mar 2016,Stored,"336, opby Mesa Airlines"
+17000549,Embraer ERJ-175LR (ERJ-170-200 LR),N152SY,United Express,28 Mar 2016,Active,"152, opby SkyWest Airlines"
+17000550,Embraer ERJ-175LR (ERJ-170-200 LR),N230NN,American Eagle,11 Apr 2016,Active,"030, opby Envoy"
+17000551,Embraer ERJ-175LR (ERJ-170-200 LR),N87337,United Express,24 Mar 2016,Active,"337, opby Mesa Airlines"
+17000552,Embraer ERJ-175LR (ERJ-170-200 LR),N82338,United Express,9 May 2016,Active,"338, opby Mesa Airlines"
+17000553,Embraer ERJ-175LR (ERJ-170-200 LR),N153SY,United Express,14 Apr 2016,Active,"153, opby SkyWest Airlines"
+17000554,Embraer ERJ-175LR (ERJ-170-200 LR),N231AN,American Eagle,5 May 2016,Active,"031, opby Envoy"
+17000555,Embraer ERJ-175LR (ERJ-170-200 LR),N178SY,Alaska Airlines,5 May 2016,Active,"178, opby SkyWest Airlines"
+17000556,Embraer ERJ-175LR (ERJ-170-200 LR),N154SY,United Express,25 Apr 2016,Active,"154, opby SkyWest Airlines"
+17000557,Embraer ERJ-175LR (ERJ-170-200 LR),N156SY,United Express,12 May 2016,Active,"156, opby SkyWest Airlines"
+17000558,Embraer ERJ-175LR (ERJ-170-200 LR),N157SY,United Express,12 May 2016,Active,"157, opby SkyWest Airlines"
+17000559,Embraer ERJ-175LR (ERJ-170-200 LR),N87339,United Express,13 May 2016,Active,"339, opby Mesa Airlines"
+17000560,Embraer ERJ-175LR (ERJ-170-200 LR),N232NN,American Eagle,13 May 2016,Active,"032, opby Envoy"
+17000561,Embraer ERJ-175LR (ERJ-170-200 LR),N233NN,American Eagle,20 May 2016,Active,"033, opby Envoy"
+17000562,Embraer ERJ-175LR (ERJ-170-200 LR),N85340,United Express,20 May 2016,Stored,"340, opby Mesa Airlines"
+17000563,Embraer ERJ-175LR (ERJ-170-200 LR),N88341,United Express,6 Jun 2016,Active,"341, opby Mesa Airlines"
+17000564,Embraer ERJ-175STD (ERJ-170-200),PH-EXH,KLM Cityhopper,17 Jun 2016,Active,EXH-564
+17000565,Embraer ERJ-175LR (ERJ-170-200 LR),N179SY,Alaska Airlines,10 Jun 2016,Active,"179, opby SkyWest Airlines"
+17000566,Embraer ERJ-175LR (ERJ-170-200 LR),N234JW,American Eagle,28 Jun 2016,Active,"034, opby Envoy"
+17000567,Embraer ERJ-175LR (ERJ-170-200 LR),N235NN,American Eagle,28 Jun 2016,Active,"035, opby Envoy"
+17000568,Embraer ERJ-175LR (ERJ-170-200 LR),N160SY,United Express,20 Jun 2016,Active,"160, opby SkyWest Airlines"
+17000569,Embraer ERJ-175LR (ERJ-170-200 LR),N161SY,United Express,20 Jun 2016,Active,"161, opby SkyWest Airlines"
+17000570,Embraer ERJ-175LR (ERJ-170-200 LR),N89342,United Express,22 Jun 2016,Active,"342, opby Mesa Airlines"
+17000571,Embraer ERJ-175LR (ERJ-170-200 LR),N80343,United Express,6 Jul 2016,Active,"343, opby Mesa Airlines"
+17000572,Embraer ERJ-175LR (ERJ-170-200 LR),N236NN,American Eagle,11 Jul 2016,Active,"036, opby Envoy"
+17000573,Embraer ERJ-175LR (ERJ-170-200 LR),N86344,United Express,7 Jul 2016,Stored,"344, opby Mesa Airlines"
+17000574,Embraer ERJ-175LR (ERJ-170-200 LR),N181SY,Alaska Airlines,18 Jul 2016,Active,"181, opby SkyWest Airlines"
+17000575,Embraer ERJ-175LR (ERJ-170-200 LR),N237NN,American Eagle,18 Jul 2016,Active,"037, opby Envoy"
+17000576,Embraer ERJ-175LR (ERJ-170-200 LR),N162SY,United Express,20 Jul 2016,Active,"162, opby SkyWest Airlines"
+17000577,Embraer ERJ-175LR (ERJ-170-200 LR),N163SY,United Express,21 Jul 2016,Active,"163, opby SkyWest Airlines"
+17000578,Embraer ERJ-175STD (ERJ-170-200),PH-EXI,KLM Cityhopper,26 Aug 2016,Active,EXI-578
+17000579,Embraer ERJ-175LR (ERJ-170-200 LR),N182SY,Alaska Airlines,8 Aug 2016,Active,"182, opby SkyWest Airlines"
+17000580,Embraer ERJ-175LR (ERJ-170-200 LR),N240SY,Delta Connection,4 Aug 2016,Active,"240, opby SkyWest Airlines"
+17000582,Embraer ERJ-175LR (ERJ-170-200 LR),N87345,United Express,18 Aug 2016,Active,"345, opby Mesa Airlines"
+17000583,Embraer ERJ-175LR (ERJ-170-200 LR),N88346,United Express,17 Aug 2016,Active,"346, opby Mesa Airlines"
+17000584,Embraer ERJ-175LR (ERJ-170-200 LR),N238NN,American Eagle,24 Aug 2016,Active,"038, opby Envoy"
+17000585,Embraer ERJ-175LR (ERJ-170-200 LR),N241SY,Delta Connection,25 Aug 2016,Active,"241, opby SkyWest Airlines"
+,,,,,,
+17000586,Embraer ERJ-175LR (ERJ-170-200 LR),N239NN,American Eagle,24 Aug 2016,Active,"039, opby Envoy"
+17000588,Embraer ERJ-175LR (ERJ-170-200 LR),N242SY,Delta Connection,25 Aug 2016,Active,"242, opby SkyWest Airlines"
+17000589,Embraer ERJ-175LR (ERJ-170-200 LR),N183SY,Alaska Airlines,9 Sep 2016,Active,"183, opby SkyWest Airlines"
+17000590,Embraer ERJ-175LR (ERJ-170-200 LR),N184SY,Alaska Airlines,9 Sep 2016,Active,"184, opby SkyWest Airlines"
+17000591,Embraer ERJ-175LR (ERJ-170-200 LR),N86347,United Express,21 Sep 2016,Active,"347, opby Mesa Airlines"
+17000592,Embraer ERJ-175LR (ERJ-170-200 LR),N243SY,Delta Connection,15 Sep 2016,Active,"243, opby SkyWest Airlines"
+17000594,Embraer ERJ-175LR (ERJ-170-200 LR),N240NN,American Eagle,19 Sep 2016,Active,"040, opby Envoy"
+17000595,Embraer ERJ-175LR (ERJ-170-200 LR),N241NN,American Eagle,19 Sep 2016,Active,"041, opby Envoy"
+17000597,Embraer ERJ-175STD (ERJ-170-200),PH-EXJ,KLM Cityhopper,21 Oct 2016,Active,EXJ-597
+17000598,Embraer ERJ-175LR (ERJ-170-200 LR),N244SY,Delta Connection,23 Sep 2016,Active,"244, opby SkyWest Airlines"
+17000599,Embraer ERJ-175LR (ERJ-170-200 LR),N80348,United Express,28 Sep 2016,Active,"348, opby Mesa Airlines"
+17000600,Embraer ERJ-175LR (ERJ-170-200 LR),N185SY,Alaska Airlines,6 Oct 2016,Active,"185, opby SkyWest Airlines"
+17000601,Embraer ERJ-175LR (ERJ-170-200 LR),N242NN,American Eagle,19 Oct 2016,Active,"042, opby Envoy"
+17000603,Embraer ERJ-175LR (ERJ-170-200 LR),N164SY,United Express,17 Oct 2016,Active,"164, opby SkyWest Airlines"
+17000604,Embraer ERJ-175LR (ERJ-170-200 LR),N243NN,American Eagle,19 Oct 2016,Active,"043, opby Envoy"
+17000606,Embraer ERJ-175LR (ERJ-170-200 LR),N186SY,Alaska Airlines,17 Oct 2016,Active,"186, opby SkyWest Airlines"
+17000607,Embraer ERJ-175LR (ERJ-170-200 LR),N246SY,Delta Connection,21 Oct 2016,Active,"246, opby SkyWest Airlines"
+17000608,Embraer ERJ-175LR (ERJ-170-200 LR),N247SY,Delta Connection,21 Oct 2016,Active,"247, opby SkyWest Airlines"
+17000609,Embraer ERJ-175LR (ERJ-170-200 LR),N244NN,American Eagle,8 Nov 2016,Active,"044, opby Envoy"
+17000610,Embraer ERJ-175LR (ERJ-170-200 LR),N250SY,Delta Connection,10 Nov 2016,Active,"250, opby SkyWest Airlines"
+17000611,Embraer ERJ-175LR (ERJ-170-200 LR),N251SY,Delta Connection,10 Nov 2016,Active,"251, opby SkyWest Airlines"
+17000612,Embraer ERJ-175LR (ERJ-170-200 LR),N252SY,Delta Connection,21 Nov 2016,Active,"252, opby SkyWest Airlines"
+17000613,Embraer ERJ-175LR (ERJ-170-200 LR),N165SY,United Express,21 Nov 2016,Active,"165, opby SkyWest Airlines"
+17000614,Embraer ERJ-175LR (ERJ-170-200 LR),N245NN,American Eagle,18 Nov 2016,Active,"045, opby Envoy"
+17000615,Embraer ERJ-175LR (ERJ-170-200 LR),N166SY,United Express,22 Nov 2016,Active,"166, opby SkyWest Airlines"
+17000616,Embraer ERJ-175LR (ERJ-170-200 LR),N167SY,United Express,1 Dec 2016,Active,"167, opby SkyWest Airlines"
+17000617,Embraer ERJ-175LR (ERJ-170-200 LR),N168SY,United Express,1 Dec 2016,Active,"168, opby SkyWest Airlines"
+17000618,Embraer ERJ-175LR (ERJ-170-200 LR),N246NN,American Eagle,9 Dec 2016,Active,"046, opby Envoy"
+17000619,Embraer ERJ-175LR (ERJ-170-200 LR),N247NN,American Eagle,9 Dec 2016,Active,"047, opby Envoy"
+17000620,Embraer ERJ-175LR (ERJ-170-200 LR),N253SY,Delta Connection,8 Dec 2016,Active,"253, opby SkyWest Airlines"
+17000621,Embraer ERJ-175LR (ERJ-170-200 LR),N254SY,Delta Connection,13 Dec 2016,Active,"254, opby SkyWest Airlines"
+17000622,Embraer ERJ-175LR (ERJ-170-200 LR),N255SY,Delta Connection,15 Dec 2016,Active,"255, opby SkyWest Airlines"
+17000623,Embraer ERJ-175LR (ERJ-170-200 LR),N200SY,United Express,15 Dec 2016,Active,"200, opby SkyWest Airlines"
+17000624,Embraer ERJ-175LR (ERJ-170-200 LR),N202SY,United Express,19 Dec 2016,Active,"202, opby SkyWest Airlines"
+17000625,Embraer ERJ-175LR (ERJ-170-200 LR),N203SY,United Express,20 Dec 2016,Active,"203, opby SkyWest Airlines"
+17000626,Embraer ERJ-175LR (ERJ-170-200 LR),N204SY,United Express,21 Dec 2016,Active,"204, opby SkyWest Airlines"
+17000627,Embraer ERJ-175LR (ERJ-170-200 LR),N187SY,Alaska Airlines,25 Jan 2017,Active,"187, opby SkyWest Airlines"
+17000628,Embraer ERJ-175LR (ERJ-170-200 LR),N188SY,Alaska Airlines,25 Jan 2017,Active,"188, opby SkyWest Airlines"
+17000629,Embraer ERJ-175STD (ERJ-170-200),PH-EXK,KLM Cityhopper,3 Feb 2017,Active,EXK-629
+17000630,Embraer ERJ-175LR (ERJ-170-200 LR),N248NN,American Eagle,9 Feb 2017,Active,"048, opby Envoy"
+17000631,Embraer ERJ-175LR (ERJ-170-200 LR),N189SY,Alaska Airlines,9 Feb 2017,Active,"189, opby SkyWest Airlines"
+17000632,Embraer ERJ-175LR (ERJ-170-200 LR),N191SY,Alaska Airlines,9 Feb 2017,Active,"191, opby SkyWest Airlines"
+17000633,Embraer ERJ-175STD (ERJ-170-200),PH-EXL,KLM Cityhopper,17 Feb 2017,Active,EXL-633
+17000634,Embraer ERJ-175LR (ERJ-170-200 LR),N249NN,American Eagle,23 Feb 2017,Active,"049, opby Envoy"
+17000635,Embraer ERJ-175LR (ERJ-170-200 LR),N250NN,American Eagle,23 Feb 2017,Active,"050, opby Envoy"
+17000636,Embraer ERJ-175LR (ERJ-170-200 LR),N205SY,United Express,9 Mar 2017,Active,"205, opby SkyWest Airlines"
+17000637,Embraer ERJ-175LR (ERJ-170-200 LR),N206SY,United Express,16 Mar 2017,Active,"206, opby SkyWest Airlines"
+17000638,Embraer ERJ-175LR (ERJ-170-200 LR),N192SY,Alaska Airlines,16 Mar 2017,Active,opby SkyWest Airlines
+17000639,Embraer ERJ-175STD (ERJ-170-200),PH-EXM,KLM Cityhopper,17 Mar 2017,Active,EXM-639
+17000640,Embraer ERJ-175LR (ERJ-170-200 LR),N620QX,Horizon Air,14 Mar 2017,Active,620
+17000641,Embraer ERJ-175LR (ERJ-170-200 LR),N251NN,American Eagle,23 Mar 2017,Active,"051, opby Envoy"
+17000642,Embraer ERJ-175LR (ERJ-170-200 LR),N252NN,American Eagle,23 Mar 2017,Active,"052, opby Envoy"
+17000643,Embraer ERJ-175LR (ERJ-170-200 LR),N207SY,United Express,6 Apr 2017,Active,"207, opby SkyWest Airlines"
+,,,,,,
+17000644,Embraer ERJ-175LR (ERJ-170-200 LR),N208SY,United Express,6 Apr 2017,Active,"208, opby SkyWest Airlines"
+17000645,Embraer ERJ-175LR (ERJ-170-200 LR),N209SY,United Express,8 May 2017,Active,"209, opby SkyWest Airlines"
+17000646,Embraer ERJ-175LR (ERJ-170-200 LR),N211SY,United Express,8 May 2017,Stored,"211, opby SkyWest Airlines"
+17000647,Embraer ERJ-175LR (ERJ-170-200 LR),N256SY,Delta Connection,19 Apr 2017,Active,"256, opby SkyWest Airlines"
+17000648,Embraer ERJ-175LR (ERJ-170-200 LR),N257SY,Delta Connection,19 Apr 2017,Active,"257, opby SkyWest Airlines"
+17000649,Embraer ERJ-175LR (ERJ-170-200 LR),N253NN,American Eagle,12 Apr 2017,Active,"053, opby Envoy"
+17000650,Embraer ERJ-175LR (ERJ-170-200 LR),N254NN,American Eagle,28 Apr 2017,Active,"054, opby Envoy"
+17000651,Embraer ERJ-175LR (ERJ-170-200 LR),N622QX,Horizon Air,11 Apr 2017,Active,622
+17000652,Embraer ERJ-175LR (ERJ-170-200 LR),N623QX,Horizon Air,19 Apr 2017,Active,623
+17000653,Embraer ERJ-175LR (ERJ-170-200 LR),N741YX,United Express,20 Apr 2017,Stored,"741, opby Republic Airlines"
+17000654,Embraer ERJ-175LR (ERJ-170-200 LR),N742YX,United Express,2 May 2017,Stored,"742, opby Republic Airlines"
+17000655,Embraer ERJ-175LR (ERJ-170-200 LR),N258SY,Delta Connection,11 May 2017,Active,"258, opby SkyWest Airlines"
+17000656,Embraer ERJ-175LR (ERJ-170-200 LR),N259SY,Delta Connection,11 May 2017,Active,"259, opby SkyWest Airlines"
+17000657,Embraer ERJ-175LR (ERJ-170-200 LR),N624QX,Horizon Air,4 May 2017,Active,624
+17000658,Embraer ERJ-175LR (ERJ-170-200 LR),N625QX,Horizon Air,10 May 2017,Active,625
+17000659,Embraer ERJ-175STD (ERJ-170-200),PH-EXN,KLM Cityhopper,22 May 2017,Active,EXN-659
+17000660,Embraer ERJ-175LR (ERJ-170-200 LR),N743YX,United Express,25 May 2017,Active,"743, opby Republic Airlines"
+17000661,Embraer ERJ-175LR (ERJ-170-200 LR),N744YX,United Express,25 May 2017,Active,"744, opby Republic Airlines"
+17000662,Embraer ERJ-175LR (ERJ-170-200 LR),N89349,United Express,31 May 2017,Active,"349, opby Mesa Airlines"
+17000663,Embraer ERJ-175LR (ERJ-170-200 LR),N86350,United Express,31 May 2017,Active,"350, opby Mesa Airlines"
+17000664,Embraer ERJ-175LR (ERJ-170-200 LR),N255NN,American Eagle,7 Jun 2017,Active,"055, opby Envoy"
+17000665,Embraer ERJ-175LR (ERJ-170-200 LR),N256NN,American Eagle,29 Jun 2017,Active,"056, opby Envoy"
+17000666,Embraer ERJ-175LR (ERJ-170-200 LR),N213SY,United Express,8 Jun 2017,Active,"213, opby SkyWest Airlines"
+17000667,Embraer ERJ-175LR (ERJ-170-200 LR),N260SY,Delta Connection,8 Jun 2017,Stored,"260, opby SkyWest Airlines"
+17000668,Embraer ERJ-175STD (ERJ-170-200),PH-EXO,KLM Cityhopper,23 Jun 2017,Active,EXO-668
+17000669,Embraer ERJ-175LR (ERJ-170-200 LR),N626QX,Horizon Air,23 Jun 2017,Active,626
+17000670,Embraer ERJ-175LR (ERJ-170-200 LR),N745YX,United Express,22 Jun 2017,Active,"745, opby Republic Airlines"
+17000671,Embraer ERJ-175LR (ERJ-170-200 LR),N746YX,United Express,22 Jun 2017,Active,"746, opby Republic Airlines"
+17000672,Embraer ERJ-175LR (ERJ-170-200 LR),N85351,United Express,28 Jun 2017,Active,"351, opby Mesa Airlines"
+17000673,Embraer ERJ-175LR (ERJ-170-200 LR),N85352,United Express,28 Jun 2017,Active,"352, opby Mesa Airlines"
+17000674,Embraer ERJ-175LR (ERJ-170-200 LR),N257NN,American Eagle,13 Jul 2017,Active,"057, opby Envoy"
+17000675,Embraer ERJ-175LR (ERJ-170-200 LR),N258NN,American Eagle,13 Jul 2017,Active,"058, opby Envoy"
+17000676,Embraer ERJ-175LR (ERJ-170-200 LR),N747YX,United Express,13 Jul 2017,Active,"747, opby Republic Airlines"
+17000677,Embraer ERJ-175LR (ERJ-170-200 LR),N748YX,United Express,13 Jul 2017,Active,"748, opby Republic Airlines"
+17000678,Embraer ERJ-175STD (ERJ-170-200),PH-EXP,KLM Cityhopper,25 Jul 2017,Active,EXP-678
+17000679,Embraer ERJ-175LR (ERJ-170-200 LR),N627QX,Horizon Air,24 Jul 2017,Active,627
+17000680,Embraer ERJ-175LR (ERJ-170-200 LR),N628QX,Horizon Air,31 Jul 2017,Active,628
+17000681,Embraer ERJ-175LR (ERJ-170-200 LR),N87353,United Express,25 Jul 2017,Active,"353, opby Mesa Airlines"
+17000682,Embraer ERJ-175LR (ERJ-170-200 LR),N259NN,American Eagle,24 Aug 2017,Active,"059, opby Envoy"
+17000683,Embraer ERJ-175LR (ERJ-170-200 LR),N629QX,Horizon Air,18 Aug 2017,Active,629
+17000684,Embraer ERJ-175LR (ERJ-170-200 LR),N630QX,Horizon Air,25 Aug 2017,Active,630
+17000685,Embraer ERJ-175LR (ERJ-170-200 LR),N749YX,United Express,29 Aug 2017,Stored,"749, opby Republic Airlines"
+17000686,Embraer ERJ-175LR (ERJ-170-200 LR),N750YX,United Express,30 Aug 2017,Stored,"750, opby Republic Airlines"
+17000687,Embraer ERJ-175LR (ERJ-170-200 LR),N85354,United Express,30 Aug 2017,Active,"354, opby Mesa Airlines"
+17000688,Embraer ERJ-175LR (ERJ-170-200 LR),N751YX,United Express,21 Sep 2017,Active,"751, opby Republic Airlines"
+17000689,Embraer ERJ-175LR (ERJ-170-200 LR),N752YX,United Express,25 Sep 2017,Active,"752, opby Republic Airlines"
+17000690,Embraer ERJ-175LR (ERJ-170-200 LR),N193SY,Alaska Airlines,27 Sep 2017,Active,"193, opby SkyWest Airlines"
+17000691,Embraer ERJ-175LR (ERJ-170-200 LR),N85355,United Express,27 Sep 2017,Active,"355, opby Mesa Airlines"
+17000692,Embraer ERJ-175LR (ERJ-170-200 LR),N85356,United Express,4 Oct 2017,Active,"356, opby Mesa Airlines"
+17000693,Embraer ERJ-175LR (ERJ-170-200 LR),N194SY,Alaska Airlines,18 Oct 2017,Stored,"194, opby SkyWest Airlines"
+17000694,Embraer ERJ-175LR (ERJ-170-200 LR),N89357,United Express,25 Oct 2017,Active,"357, opby Mesa Airlines"
+17000695,Embraer ERJ-175LR (ERJ-170-200 LR),N85358,United Express,8 Nov 2017,Active,"358, opby Mesa Airlines"
+17000696,Embraer ERJ-175LR (ERJ-170-200 LR),N88359,United Express,6 Dec 2017,Active,"359, opby Mesa Airlines"
+,,,,,,
+17000697,Embraer ERJ-175STD (ERJ-170-200),PH-EXR,KLM Cityhopper,9 Nov 2017,Active,EXR-697
+17000698,Embraer ERJ-175LR (ERJ-170-200 LR),N195SY,Alaska Airlines,17 Nov 2017,Stored,"195, opby SkyWest Airlines"
+17000699,Embraer ERJ-175LR (ERJ-170-200 LR),N260NN,American Eagle,21 Nov 2017,Active,"060, opby Envoy"
+17000700,Embraer ERJ-175LR (ERJ-170-200 LR),N261NN,American Eagle,28 Nov 2017,Active,"061, opby Envoy"
+17000701,Embraer ERJ-175LR (ERJ-170-200 LR),N262NN,American Eagle,12 Dec 2017,Active,"062, opby Envoy"
+17000702,Embraer ERJ-175STD (ERJ-170-200),PH-EXS,KLM Cityhopper,18 Dec 2017,Active,EXS-702
+17000703,Embraer ERJ-175LR (ERJ-170-200 LR),N263NN,American Eagle,12 Dec 2017,Active,"063, opby Envoy"
+17000704,Embraer ERJ-175LR (ERJ-170-200 LR),N261SY,Delta Connection,14 Dec 2017,Active,"261, opby SkyWest Airlines"
+17000705,Embraer ERJ-175LR (ERJ-170-200 LR),N87360,United Express,21 Dec 2017,Active,"360, opby Mesa Airlines"
+17000706,Embraer ERJ-175LR (ERJ-170-200 LR),N196SY,Alaska Airlines,18 Jan 2018,Active,"196, opby SkyWest Airlines"
+17000707,Embraer ERJ-175STD (ERJ-170-200),PH-EXT,KLM Cityhopper,30 Jan 2018,Active,EXT-707
+17000708,Embraer ERJ-175STD (ERJ-170-200),PH-EXU,KLM Cityhopper,21 Feb 2018,Active,EXU-708
+17000709,Embraer ERJ-175LR (ERJ-170-200 LR),N197SY,Alaska Airlines,8 Feb 2018,Active,"197, opby SkyWest Airlines"
+17000710,Embraer ERJ-175STD (ERJ-170-200),PH-EXW,KLM Cityhopper,13 Mar 2018,Active,EXW-710
+17000711,Embraer ERJ-175STD (ERJ-170-200),PH-EXX,KLM Cityhopper,15 Mar 2018,Active,EXX-711
+17000712,Embraer ERJ-175STD (ERJ-170-200),JA12FJ,FDA - Fuji Dream Airlines,10 Mar 2018,Active,
+17000713,Embraer ERJ-175LR (ERJ-170-200 LR),N631QX,Horizon Air,22 Mar 2018,Active,631
+17000714,Embraer ERJ-175LR (ERJ-170-200 LR),N262SY,Delta Connection,9 Mar 2018,Active,"262, opby SkyWest Airlines"
+17000715,Embraer ERJ-175LL (ERJ-170-200 LL),N263SY,Delta Connection,9 Mar 2018,Active,"263, opby SkyWest Airlines"
+17000716,Embraer ERJ-175LL (ERJ-170-200 LL),N264SY,Delta Connection,15 Mar 2018,Active,"264, opby SkyWest Airlines"
+17000717,Embraer ERJ-175LR (ERJ-170-200 LR),N265SY,Delta Connection,5 Apr 2018,Active,"265, opby SkyWest Airlines"
+17000718,Embraer ERJ-175LR (ERJ-170-200 LR),N632QX,Horizon Air,10 Apr 2018,Active,632
+17000719,Embraer ERJ-175LR (ERJ-170-200 LR),N633QX,Horizon Air,17 Apr 2018,Active,633
+17000720,Embraer ERJ-170STD (ERJ-170-100),JA228J,J-Air,27 Apr 2018,Active,
+17000721,Embraer ERJ-175LR (ERJ-170-200 LR),EW-512PO,Belavia,17 Apr 2018,Active,
+17000722,Embraer ERJ-175LL (ERJ-170-200 LL),N267SY,Delta Connection,12 Apr 2018,Active,"267, opby SkyWest Airlines"
+17000723,Embraer ERJ-175STD (ERJ-170-200),PH-EXZ,KLM Cityhopper,26 Apr 2018,Active,EXZ-723
+17000724,Embraer ERJ-175LR (ERJ-170-200 LR),N198SY,Alaska Airlines,10 May 2018,Active,"198, opby SkyWest Airlines"
+17000725,Embraer ERJ-175LR (ERJ-170-200 LR),N268SY,Delta Connection,10 May 2018,Active,"268, opby SkyWest Airlines"
+17000726,Embraer ERJ-175LR (ERJ-170-200 LR),N634QX,Horizon Air,23 May 2018,Active,634
+17000727,Embraer ERJ-175LR (ERJ-170-200 LR),N269SY,Delta Connection,25 May 2018,Stored,"269, opby SkyWest Airlines"
+17000728,Embraer ERJ-175LR (ERJ-170-200 LR),N270SY,Delta Connection,14 Jun 2018,Active,"270, opby SkyWest Airlines"
+17000729,Embraer ERJ-175LR (ERJ-170-200 LR),N271SY,Delta Connection,1 Jun 2018,Active,"271, opby SkyWest Airlines"
+17000730,Embraer ERJ-175LR (ERJ-170-200 LR),N199SY,Alaska Airlines,1 Jun 2018,Active,"199, opby SkyWest Airlines"
+17000731,Embraer ERJ-175LR (ERJ-170-200 LR),N635QX,Horizon Air,6 Jun 2018,Active,635
+17000732,Embraer ERJ-175LR (ERJ-170-200 LR),N400SY,Alaska Airlines,13 Jun 2018,Active,"400, opby SkyWest Airlines"
+17000733,Embraer ERJ-175LR (ERJ-170-200 LR),N402SY,Alaska Airlines,14 Jun 2018,Active,"402, opby SkyWest Airlines"
+17000734,Embraer ERJ-175LR (ERJ-170-200 LR),N272SY,Delta Connection,21 Jun 2018,Active,"272, opby SkyWest Airlines"
+17000735,Embraer ERJ-175LR (ERJ-170-200 LR),N273SY,Delta Connection,21 Jun 2018,Active,"273, opby SkyWest Airlines"
+17000736,Embraer ERJ-175LR (ERJ-170-200 LR),N274SY,Delta Connection,26 Jun 2018,Active,"274, opby SkyWest Airlines"
+17000737,Embraer ERJ-175LR (ERJ-170-200 LR),N275SY,Delta Connection,27 Jun 2018,Active,"275, opby SkyWest Airlines"
+17000738,Embraer ERJ-175LR (ERJ-170-200 LR),N403SY,Alaska Airlines,19 Jul 2018,Active,"403, opby SkyWest Airlines"
+17000739,Embraer ERJ-175LR (ERJ-170-200 LR),N404SY,Alaska Airlines,19 Jul 2018,Active,"404, opby SkyWest Airlines"
+17000740,Embraer ERJ-175LR (ERJ-170-200 LR),N276SY,Delta Connection,19 Jul 2018,Active,"276, opby SkyWest Airlines"
+17000741,Embraer ERJ-175LR (ERJ-170-200 LR),N277SY,Delta Connection,26 Jul 2018,Active,"277, opby SkyWest Airlines"
+17000742,Embraer ERJ-175LR (ERJ-170-200 LR),N278SY,Delta Connection,26 Jul 2018,Active,"278, opby SkyWest Airlines"
+17000743,Embraer ERJ-175LR (ERJ-170-200 LR),N279SY,Delta Connection,29 Aug 2018,Active,"279, opby SkyWest Airlines"
+17000744,Embraer ERJ-175LR (ERJ-170-200 LR),N405SY,Alaska Airlines,16 Aug 2018,Active,"405, opby SkyWest Airlines"
+17000745,Embraer ERJ-175LR (ERJ-170-200 LR),N280SY,Delta Connection,6 Sep 2018,Active,"280, opby SkyWest Airlines"
+17000746,Embraer ERJ-175LR (ERJ-170-200 LR),N281SY,Delta Connection,20 Sep 2018,Active,"281, opby SkyWest Airlines"
+17000747,Embraer ERJ-175LR (ERJ-170-200 LR),N282SY,Delta Connection,20 Sep 2018,Active,"282, opby SkyWest Airlines"
+17000748,Embraer ERJ-175LR (ERJ-170-200 LR),N283SY,Delta Connection,26 Sep 2018,Active,"283, opby SkyWest Airlines"
+17000749,Embraer ERJ-175LR (ERJ-170-200 LR),N636QX,Horizon Air,27 Sep 2018,Active,636
+,,,,,,
+17000750,Embraer ERJ-175LL (ERJ-170-200 LL),N284SY,Delta Connection,26 Sep 2018,Active,"284, opby SkyWest Airlines"
+17000751,Embraer ERJ-175LL (ERJ-170-200 LL),N285SY,Delta Connection,4 Oct 2018,Active,"285, opby SkyWest Airlines"
+17000752,Embraer ERJ-175LL (ERJ-170-200 LL),N286SY,Delta Connection,4 Oct 2018,Active,"286, opby SkyWest Airlines"
+17000753,Embraer ERJ-175LL (ERJ-170-200 LL),N287SY,Delta Connection,11 Oct 2018,Active,"287, opby SkyWest Airlines"
+17000754,Embraer ERJ-175LL (ERJ-170-200 LL),N288SY,Delta Connection,18 Oct 2018,Active,"288, opby SkyWest Airlines"
+17000755,Embraer ERJ-175LR (ERJ-170-200 LR),N637QX,Horizon Air,17 Oct 2018,Active,637
+17000756,Embraer ERJ-175LL (ERJ-170-200 LL),N289SY,Delta Connection,25 Oct 2018,Active,"289, opby SkyWest Airlines"
+17000757,Embraer ERJ-175LR (ERJ-170-200 LR),N638QX,Horizon Air,25 Oct 2018,Active,638
+17000758,Embraer ERJ-175LL (ERJ-170-200 LL),N290SY,Delta Connection,29 Oct 2018,Active,"290, opby SkyWest Airlines"
+17000759,Embraer ERJ-175LL (ERJ-170-200 LL),N291SY,Delta Connection,29 Oct 2018,Active,"291, opby SkyWest Airlines"
+17000760,Embraer ERJ-175LR (ERJ-170-200 LR),N639QX,Horizon Air,7 Nov 2018,Active,639
+17000761,Embraer ERJ-175LR (ERJ-170-200 LR),N641QX,Horizon Air,13 Nov 2018,Active,641
+17000762,Embraer ERJ-175LR (ERJ-170-200 LR),N642QX,Horizon Air,20 Nov 2018,Active,642
+17000763,Embraer ERJ-175LR (ERJ-170-200 LR),N643QX,Horizon Air,26 Nov 2018,Active,643
+17000764,Embraer ERJ-175LL (ERJ-170-200 LL),N292SY,Delta Connection,27 Nov 2018,Active,"292, opby SkyWest Airlines"
+17000765,Embraer ERJ-175LR (ERJ-170-200 LR),N264NN,American Eagle,28 Nov 2018,Active,"064, opby Envoy"
+17000766,Embraer ERJ-175LR (ERJ-170-200 LR),N265NN,American Eagle,28 Nov 2018,Active,"065, opby Envoy"
+17000767,Embraer ERJ-175LR (ERJ-170-200 LR),N644QX,Horizon Air,3 Dec 2018,Active,644
+17000768,Embraer ERJ-175LR (ERJ-170-200 LR),N645QX,Horizon Air,6 Dec 2018,Active,645
+17000769,Embraer ERJ-175LR (ERJ-170-200 LR),N646QX,Horizon Air,11 Dec 2018,Active,646
+17000770,Embraer ERJ-175LR (ERJ-170-200 LR),N266NN,American Eagle,12 Dec 2018,Active,"066, opby Envoy"
+17000771,Embraer ERJ-175LR (ERJ-170-200 LR),N267NN,American Eagle,19 Dec 2018,Active,"067, opby Envoy"
+17000772,Embraer ERJ-175LR (ERJ-170-200 LR),N268NN,American Eagle,19 Dec 2018,Active,"068, opby Envoy"
+17000773,Embraer ERJ-175LR (ERJ-170-200 LR),N647QX,Horizon Air,19 Dec 2018,Active,647
+17000774,Embraer ERJ-175LR (ERJ-170-200 LR),N269NN,American Eagle,23 Jan 2019,Active,"069, opby Envoy"
+17000775,Embraer ERJ-175LR (ERJ-170-200 LR),N270NN,American Eagle,13 Feb 2019,Active,"070, opby Envoy"
+17000776,Embraer ERJ-175LR (ERJ-170-200 LR),N271NN,American Eagle,13 Feb 2019,Active,"071, opby Envoy"
+17000777,Embraer ERJ-175LR (ERJ-170-200 LR),N272NN,American Eagle,20 Feb 2019,Active,"072, opby Envoy"
+17000778,Embraer ERJ-175LR (ERJ-170-200 LR),N273NN,American Eagle,13 Mar 2019,Active,"073, opby Envoy"
+17000779,Embraer ERJ-175LR (ERJ-170-200 LR),N274NN,American Eagle,13 Mar 2019,Active,"074, opby Envoy"
+17000780,Embraer ERJ-175LR (ERJ-170-200 LR),N275NN,American Eagle,22 Mar 2019,Active,"075, opby Envoy"
+17000781,Embraer ERJ-175LR (ERJ-170-200 LR),N276NN,American Eagle,3 Apr 2019,Stored,"076, opby Envoy"
+17000782,Embraer ERJ-175LR (ERJ-170-200 LR),EW-531PO,Belavia,19 Apr 2019,Stored,lsf NAC
+17000783,Embraer ERJ-175LR (ERJ-170-200 LR),N277NN,American Eagle,3 Apr 2019,Active,"077, opby Envoy"
+17000784,Embraer ERJ-175LR (ERJ-170-200 LR),N278NN,American Eagle,16 May 2019,Active,"078, opby Envoy"
+17000785,Embraer ERJ-175STD (ERJ-170-200),JA13FJ,FDA - Fuji Dream Airlines,20 Mar 2019,Active,
+17000786,Embraer ERJ-175LR (ERJ-170-200 LR),5T-CLL,Mauritania Airlines,29 Mar 2019,Active,Emessague
+17000787,Embraer ERJ-175LR (ERJ-170-200 LR),N293SY,Delta Connection,15 Mar 2019,Active,"293, opby SkyWest Airlines"
+17000788,Embraer ERJ-175LR (ERJ-170-200 LR),N279MQ,American Eagle,16 May 2019,Active,"079, opby Envoy"
+17000789,Embraer ERJ-175LR (ERJ-170-200 LR),N648QX,Horizon Air,23 May 2019,Active,648
+17000790,Embraer ERJ-175LL (ERJ-170-200 LL),N601UX,United Express,31 Mar 2020,Active,opby SkyWest Airlines
+17000791,Embraer ERJ-175LR (ERJ-170-200 LR),5T-CLO,Mauritania Airlines,27 Apr 2019,Active,Wompou
+17000792,Embraer ERJ-175LR (ERJ-170-200 LR),N294SY,Delta Connection,26 Apr 2019,Active,"294, opby SkyWest Airlines"
+17000793,Embraer ERJ-175LR (ERJ-170-200 LR),N295SY,Delta Connection,26 Apr 2019,Active,"295, opby SkyWest Airlines"
+17000794,Embraer ERJ-175LR (ERJ-170-200 LR),N649QX,Horizon Air,5 Jun 2019,Active,649
+17000795,Embraer ERJ-175LL (ERJ-170-200 LL),N602UX,United Express,14 Apr 2020,Active,opby SkyWest Airlines
+17000796,Embraer ERJ-175LL (ERJ-170-200 LL),N603UX,United Express,26 Apr 2020,Active,opby SkyWest Airlines
+17000797,Embraer ERJ-175LR (ERJ-170-200 LR),N296SY,Delta Connection,16 May 2019,Active,"296, opby SkyWest Airlines"
+17000798,Embraer ERJ-175LL (ERJ-170-200 LL),N604UX,United Express,26 Apr 2020,Active,opby SkyWest Airlines
+17000799,Embraer ERJ-175LR (ERJ-170-200 LR),N297SY,Delta Connection,6 Jun 2019,Active,"297, opby SkyWest Airlines"
+17000800,Embraer ERJ-175LR (ERJ-170-200 LR),N280NN,American Eagle,13 Jun 2019,Active,"080, opby Envoy"
+17000801,Embraer ERJ-175LR (ERJ-170-200 LR),N281NN,American Eagle,13 Jun 2019,Active,"081, opby Envoy"
+17000802,Embraer ERJ-175LL (ERJ-170-200 LL),N605UX,United Express,3 May 2020,Stored,opby SkyWest Airlines
+,,,,,,
+17000803,Embraer ERJ-175LL (ERJ-170-200 LL),N606UX,United Express,3 May 2020,Stored,opby SkyWest Airlines
+17000804,Embraer ERJ-175LL (ERJ-170-200 LL),N607UX,United Express,30 Apr 2020,Active,opby SkyWest Airlines
+17000805,Embraer ERJ-175STD (ERJ-170-200),JA14FJ,FDA - Fuji Dream Airlines,19 Jun 2019,Active,
+17000806,Embraer ERJ-175LL (ERJ-170-200 LL),N608UX,United Express,25 Apr 2020,Active,opby SkyWest Airlines
+17000807,Embraer ERJ-175LL (ERJ-170-200 LL),N609UX,United Express,29 Apr 2020,Active,opby SkyWest Airlines
+17000808,Embraer ERJ-175LL (ERJ-170-200 LL),N610UX,United Express,3 May 2020,Stored,opby SkyWest Airlines
+17000809,Embraer ERJ-175LR (ERJ-170-200 LR),N650QX,Horizon Air,17 Jul 2019,Active,650
+17000810,Embraer ERJ-175LR (ERJ-170-200 LR),N282NN,American Eagle,18 Jul 2019,Active,"082, opby Envoy"
+17000811,Embraer ERJ-175LL (ERJ-170-200 LL),N611UX,United Express,4 May 2020,Active,opby SkyWest Airlines
+17000812,Embraer ERJ-175LR (ERJ-170-200 LR),N651QX,Horizon Air,7 Aug 2019,Active,"651, Honoring Those Who Serve cs"
+17000813,Embraer ERJ-175LL (ERJ-170-200 LL),N612UX,United Express,3 May 2020,Stored,opby SkyWest Airlines
+17000814,Embraer ERJ-175LL (ERJ-170-200 LL),N613UX,United Express,3 May 2020,Stored,opby SkyWest Airlines
+17000815,Embraer ERJ-175LL (ERJ-170-200 LL),N614UX,United Express,4 May 2020,Stored,opby SkyWest Airlines
+17000816,Embraer ERJ-175LL (ERJ-170-200 LL),N615UX,United Express,4 May 2020,Stored,opby SkyWest Airlines
+17000817,Embraer ERJ-175LL (ERJ-170-200 LL),N616UX,United Express,3 May 2020,Stored,opby SkyWest Airlines
+17000818,Embraer ERJ-175LR (ERJ-170-200 LR),N283NN,American Eagle,18 Sep 2019,Active,"083, opby Envoy"
+17000819,Embraer ERJ-175LL (ERJ-170-200 LL),N617UX,United Express,2 May 2020,Active,opby SkyWest Airlines
+17000820,Embraer ERJ-175LL (ERJ-170-200 LL),N618UX,United Express,26 Apr 2020,Active,opby SkyWest Airlines
+17000821,Embraer ERJ-175LL (ERJ-170-200 LL),N619UX,United Express,12 Apr 2020,Active,opby SkyWest Airlines
+17000822,Embraer ERJ-175LR (ERJ-170-200 LR),N284JN,American Eagle,9 Oct 2019,Active,"084, opby Envoy"
+17000823,Embraer ERJ-175LR (ERJ-170-200 LR),N285NN,American Eagle,9 Oct 2019,Active,"085, opby Envoy"
+17000824,Embraer ERJ-175LL (ERJ-170-200 LL),N620UX,United Express,13 Apr 2020,Active,opby SkyWest Airlines
+17000825,Embraer ERJ-175LL (ERJ-170-200 LL),N621UX,United Express,31 Mar 2020,Active,opby SkyWest Airlines
+17000826,Embraer ERJ-175LL (ERJ-170-200 LL),N622UX,United Express,1 May 2020,Active,opby SkyWest Airlines
+17000827,Embraer ERJ-175LR (ERJ-170-200 LR),N286NN,American Eagle,7 Nov 2019,Active,"086, opby Envoy"
+17000828,Embraer ERJ-175LR (ERJ-170-200 LR),N287NN,American Eagle,7 Nov 2019,Active,"087, opby Envoy"
+17000829,Embraer ERJ-175LR (ERJ-170-200 LR),N288NN,American Eagle,21 Nov 2019,Active,"088, opby Envoy"
+17000830,Embraer ERJ-175LL (ERJ-170-200 LL),N623UX,United Express,24 Apr 2020,Active,opby SkyWest Airlines
+17000831,Embraer ERJ-175LL (ERJ-170-200 LL),N624UX,United Express,19 Apr 2020,Active,opby SkyWest Airlines
+17000832,Embraer ERJ-175LL (ERJ-170-200 LL),N298SY,Delta Connection,25 Nov 2019,Active,"298, opby SkyWest Airlines"
+17000833,Embraer ERJ-175LL (ERJ-170-200 LL),N299SY,Delta Connection,25 Nov 2019,Active,"299, opby SkyWest Airlines"
+17000834,Embraer ERJ-175STD (ERJ-170-200),JA15FJ,FDA - Fuji Dream Airlines,5 Dec 2019,Active,
+17000835,Embraer ERJ-175LL (ERJ-170-200 LL),N625UX,United Express,18 Mar 2020,Active,opby SkyWest Airlines
+17000836,Embraer ERJ-175STD (ERJ-170-200),JA16FJ,FDA - Fuji Dream Airlines,14 Dec 2019,Active,
+17000837,Embraer ERJ-175LL (ERJ-170-200 LL),N300SY,Delta Connection,19 Dec 2019,Active,"300, opby SkyWest Airlines"
+17000838,Embraer ERJ-175LL (ERJ-170-200 LL),N301SY,Delta Connection,21 Dec 2019,Active,"301, opby SkyWest Airlines"
+17000839,Embraer ERJ-175LL (ERJ-170-200 LL),N302SY,Delta Connection,23 Dec 2019,Active,"302, opby SkyWest Airlines"
+17000840,Embraer ERJ-175LR (ERJ-170-200 LR),N289MW,American Eagle,30 Dec 2019,Active,"089, opby Envoy"
+17000841,Embraer ERJ-175LR (ERJ-170-200 LR),N290NN,American Eagle,21 Feb 2020,Active,"090, opby Envoy"
+17000842,Embraer ERJ-175LR (ERJ-170-200 LR),N291NN,American Eagle,21 Feb 2020,Active,"091, opby Envoy"
+17000843,Embraer ERJ-175LR (ERJ-170-200 LR),N292NN,American Eagle,3 Mar 2020,Active,"092, opby Envoy"
+17000844,Embraer ERJ-175LR (ERJ-170-200 LR),N293NN,American Eagle,,On Order,"093, opby Envoy"
+17000845,Embraer ERJ-175LR (ERJ-170-200 LR),N294NN,American Eagle,,On Order,"094, opby Envoy"
+17000846,Embraer ERJ-175LL (ERJ-170-200 LL),N303SY,Delta Connection,,On Order,"303, opby SkyWest Airlines"
+17000847,Embraer ERJ-175LR (ERJ-170-200 LR),N295NN,American Eagle,,On Order,"095, opby Envoy"
+17000848,Embraer ERJ-175LR (ERJ-170-200 LR),N296NN,American Eagle,,On Order,"096, opby Envoy"
+17000849,Embraer ERJ-175LR (ERJ-170-200 LR),N297NN,American Eagle,,On Order,"097, opby Envoy"
+17000850,Embraer ERJ-175LL (ERJ-170-200 LL),N304SY,Delta Connection,,On Order,"304, opby SkyWest Airlines"
+17000851,Embraer ERJ-175LR (ERJ-170-200 LR),N298NN,American Eagle,,On Order,"098, opby Envoy"
+17000852,Embraer ERJ-175LR (ERJ-170-200 LR),EW-,Belavia,,On Order,
+17000853,Embraer ERJ-175LR (ERJ-170-200 LR),N299NN,American Eagle,,On Order,"099, opby Envoy"
+17000854,Embraer ERJ-175LR (ERJ-170-200 LR),N,American Eagle,,On Order,opby Envoy

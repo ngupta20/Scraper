@@ -1,0 +1,862 @@
+MSN,Aircraft Type,Reg,Current Operator,Delivered From,Status,Prev Reg,Remark
+,,,,,,,
+001,Airbus A300B1,F-OCAZ,Airbus Industrie,1972,Scrapped,F-WUAB,
+002,Airbus A300B1,OO-TEF,TEA - Trans European Airlines,25 Nov 1974,Scrapped,F-WUAC,Aline
+003,Airbus A300B2-103,F-BUAD,SA Novespace,25 Jan 2005,Preserved,F-ODCX,
+004,Airbus A300B2-1C,F-BUAE,Air Inter,22 Jan 1977,Written Off,F-WUAA,
+005,Airbus A300B2-1C,F-BVGA,Air France,10 May 1974,Scrapped,F-WVGA,
+006,Airbus A300B2-1C,F-BVGB,Air France,28 Jun 1974,Scrapped,F-WVGB,
+007,Airbus A300B2-1C,F-BVGC,Air France,10 Aug 1974,Scrapped,F-WVGC,
+008,Airbus A300B2-1C,F-BUAF,Air Inter,11 Mar 1978,Scrapped,F-WNDB,
+009,Airbus A300B4-103,RP-C8881,Grand Air,17 Mar 1995,Scrapped,F-GIJT,lsf GPA
+010,Airbus A300B2-1C,N62846,Aviation Sales Company (ASC),May 1996,Scrapped,F-BVGD,
+011,Airbus A300B2-1C,N62576,Aviation Sales Company (ASC),May 1996,Scrapped,F-BVGE,
+012,Airbus A300B4-103,EI-TLB,TransAer International Airlines,30 Sep 1999,Scrapped,F-GIJU,lsf Airplanes Holdings
+013,Airbus A300B2-1C,F-BVGF,Air Inter,25 Feb 1983,Scrapped,,
+014,Airbus A300B4-2C,HL7218,Korean Air Lines,1 Aug 1975,Scrapped,F-WLGB,
+015,Airbus A300B2-1C,F-BUAG,Air Inter,15 Oct 1976,Scrapped,F-WLGC,
+016,Airbus A300B4-2C,HL7219,Korean Air Lines,1 Sep 1975,Preserved,F-WLGB,
+017,Airbus A300B4-2C,F-GLOC,Air France,4 Feb 1997,Scrapped,F-WQHI,
+018,Airbus A300B4-2C,N6373Q,Aviation Sales Company (ASC),31 Dec 1997,Scrapped,HL7220,
+019,Airbus A300B4-203(F),TC-MNA,MNG Airlines,20 May 1998,Scrapped,N742SC,
+020,Airbus A300B4-103,EI-CJK,TransAer International Airlines,4 Sep 1999,Scrapped,F-BUAR,lsf AerFi
+021,Airbus A300B2-1C,F-BUAM,Air Inter,16 Dec 1983,Scrapped,D-AIAA,
+022,Airbus A300B2-1C,VT-ELV,Indian Airlines,22 Aug 1986,Written Off,F-ODRD,
+023,Airbus A300B4-203(F),N715PA,WFBN Wells Fargo Bank Northwest,17 Apr 2002,Stored,C-FICA,
+024,Airbus A300B4-2C,N124AN,Ansett Worldwide (AWAS),27 Sep 1997,Scrapped,HL7221,
+025,Airbus A300B4-103,AP-BCP,PIA Pakistan International Airlines,21 Apr 1986,Written Off,D-AHLZ,
+026,Airbus A300B2-1C,VT-ELW,Indian Airlines,22 Aug 1986,Scrapped,F-ODRE,
+027,Airbus A300B2-1C,G-CEAB,European Aircharter,15 Nov 1999,Scrapped,F-BUAH,
+028,Airbus A300B4-2C,N128AN,Ansett Worldwide (AWAS),23 Jul 1997,Scrapped,HL7223,
+029,Airbus A300B4-2C,TC-RAE,Holiday Airlines,15 May 1996,Scrapped,F-BUAL,
+030,Airbus A300B4-2C,N130AN,Ansett Worldwide (AWAS),10 Aug 1997,Scrapped,HL7224,
+031,Airbus A300B4-2C,F-OHLE,Eagle Aviation France,29 May 1998,Scrapped,EL-LIC,
+032,Airbus A300B2K-3C,ZS-SDA,South African Airways,15 Nov 1976,Scrapped,F-WLGA,"Blesbok, 001"
+033,Airbus A300C4-203,S7-AAW,Silverbird Aviation,20 May 1996,Scrapped,HS-THH,
+034,Airbus A300B2-101,VT-EDV,Indian Airlines,31 Oct 1976,Written Off,F-WLGB,
+035,Airbus A300B4-103,EP-MHE,Mahan Airlines,Nov 1999,Stored,S7-AAY,
+036,Airbus A300B2-101,VT-EDW,Indian Airlines,29 Nov 1976,Scrapped,F-WUAT,
+037,Airbus A300B2K-3C,TC-ONY,Onur Air,12 Nov 2001,Scrapped,ZS-SDB,
+038,Airbus A300B2-101,VT-EDX,Indian Airlines,29 Dec 1976,Scrapped,F-WUAV,
+039,Airbus A300B2K-3C,ZS-SDC,South African Airways,22 Jan 1977,Scrapped,F-WLGB,"Waterbok, The Love Plane cs"
+040,Airbus A300B2K-3C,ZS-SDD,South African Airways,15 Feb 1977,Scrapped,F-WUAX,
+041,Airbus A300B4-103(F),TC-KZV,ULS Airlines Cargo,Mar 2009,Stored,PH-EAN,Gerger
+042,Airbus A300B4-103(F),PH-GIR,Farnair Europe,2 Nov 2000,Scrapped,N202EA,
+043,Airbus A300B4-103,N203EA,FSBU First Security Bank of Utah,Dec 1995,Scrapped,F-WUAT,
+044,Airbus A300B4-103(F),TC-KZY,Kuzu Airlines Cargo,9 Aug 2005,Stored,PH-CLA,Siirt 3
+045,Airbus A300B4-203(F),XA-TWQ,AeroUnion,7 Mar 2003,Scrapped,G-HLAB,
+046,Airbus A300B4-203,TC-ANI,Air Anatolia,15 Oct 2002,Scrapped,EI-TLM,
+047,Airbus A300B4-203(F),TC-MNU,MNG Airlines,7 Apr 2005,Stored,N740SC,
+048,Airbus A300B2-1C,TC-GTC,Air Anatolia,Feb 1998,Scrapped,F-BUAO,
+049,Airbus A300B2-203,I-BUSM,Alitalia,1 Sep 1988,Scrapped,N291EA,Raffaello
+050,Airbus A300B2-1C,F-GBEA,Air Inter,26 Mar 1984,Scrapped,F-WNDB,
+051,Airbus A300B2-203,I-BUSN,Alitalia,21 Dec 1988,Scrapped,N292EA,Giotto
+052,Airbus A300B2-1C,N7208Q,Aviation Systems International,Aug 1997,Scrapped,F-BUAP,
+053,Airbus A300B4-203(F),N501TR,Sky Lease Cargo,9 May 2012,Scrapped,N6254X,
+,,,,,,,
+054,Airbus A300B4-103,TC-GTA,Air Anatolia,Feb 1998,Scrapped,HS-THL,
+055,Airbus A300B4-103,EP-MHF,Mahan Airlines,10 Nov 1999,Stored,S7-AAZ,
+056,Airbus A300B4-203,N202AP,Polaris Aircraft Leasing (POLA),15 Jan 1997,Scrapped,SX-BEC,
+057,Airbus A300B4-2C,TC-ONV,Air Anatolia,2 May 1998,Scrapped,F-BUAQ,
+058,Airbus A300B4-203,SX-BED,Olympic Airways,28 Mar 1980,Scrapped,F-WZEH,"Telemachus, lsf POLA"
+059,Airbus A300B2-101,VT-EDY,Indian Airlines,11 May 1978,Scrapped,F-WZEI,
+060,Airbus A300B2-101,VT-EDZ,Indian Airlines,8 Jun 1978,Scrapped,F-WZEJ,
+061,Airbus A300B2-203,EP-IBR,Iran Air,17 Mar 1980,Written Off,F-WZEK,
+062,Airbus A300B2-1C,G-CEAA,European Aircharter,2 Jul 1998,Scrapped,F-WQGQ,
+063,Airbus A300B4-103,N470AS,Aviation Sales Company (ASC),11 Feb 1999,Scrapped,RP-C3001,
+064,Airbus A300B4-203,AP-BBM,PIA Pakistan International Airlines,30 Nov 1988,Scrapped,D-AHLA,
+065,Airbus A300B4-103,TC-ALN,Air Alfa,27 May 1994,Scrapped,OO-MKO,
+066,Airbus A300B4-103,TC-ALS,Air Alfa,30 Jan 1996,Scrapped,OO-ING,
+067,Airbus A300B4-103,I-BUSP,Alitalia,3 Nov 1988,Scrapped,N207EA,Masaccio
+068,Airbus A300B4-103,I-BUST,Alitalia,12 Jul 1989,Scrapped,N403UA,Piero della Francesca
+069,Airbus A300B4-103,F-GVVV,Eagle Aviation France,4 Jan 2003,Scrapped,5V-TTT,
+070,Airbus A300B4-203,F-BVGK,Air France,27 Apr 1979,Written Off,,
+071,Airbus A300B4-103,N361DH,DHL Worldwide Express,8 Apr 1999,Scrapped,HS-THN,
+072,Airbus A300B4-103,HS-THO,Thai Airways International,15 Sep 1989,Written Off,HS-TGO,
+073,Airbus A300B4-203(F),N224KW,Express.Net Airlines,7 Feb 2002,Scrapped,9M-MHA,
+074,Airbus A300B4-203(F),XA-TVU,AeroUnion,30 Aug 2002,Scrapped,G-HLAC,Nina
+075,Airbus A300B4-203(F),TC-ACD,ACT Airlines,30 Aug 2007,Scrapped,N502TA,
+076,Airbus A300B4-203,EC-EON,Iberia,Aug 1989,Scrapped,EC-273,Penalara
+077,Airbus A300B4-203,EC-EOO,Iberia,Aug 1989,Scrapped,EC-274,
+078,Airbus A300B4-203(F),XA-TUE,AeroUnion,12 Apr 2002,Written Off,C-FICB,
+079,Airbus A300B4-120,TC-OYC,Sudan Airways,17 Oct 2003,Stored,OY-CNA,lsf Bosphorus European Airways
+080,Airbus A300B2-203,EP-IBS,Iran Air,16 Apr 1980,Active,F-WZEO,
+081,Airbus A300B4-2C,N62683,Aviation Sales Company (ASC),31 Dec 1997,Scrapped,HL7246,
+082,Airbus A300B2K-3C,TC-FLJ,Saudi Arabian Airlines,Jan 2006,Destroyed,JA8464,lsf Fly Air
+083,Airbus A300B4-203(F),5A-DMK,Libyavia,Oct 2007,Scrapped,TC-ACT,
+084,Airbus A300B4-103(F),N362DH,ASTAR Air Cargo,30 Jun 2003,Stored,HS-THP,
+085,Airbus A300B4-203(F),N363DH,ASTAR Air Cargo,30 Jun 2003,Stored,HS-THR,
+086,Airbus A300B4-103,TC-ONK,Onur Air,31 Mar 2005,Stored,TC-TKA,
+087,Airbus A300B4-103,TC-ONL,Onur Air,26 Apr 2001,Scrapped,TC-TKB,
+088,Airbus A300B2-101,VT-EFV,Indian Airlines,25 Oct 1979,Scrapped,F-WZED,
+089,Airbus A300B2K-3C,N540RD,RJSS Sendai International Airport,22 Nov 2002,Scrapped,JA8465,
+090,Airbus A300B2K-3C,EP-MHM,Mahan Airlines,Dec 2007,Stored,TC-SGA,
+091,Airbus A300B4-103,N16982,Pegasus Aviation,22 Oct 1995,Scrapped,TC-TKC,
+092,Airbus A300B4-103,N13983,Continental Air Lines,Aug 1990,Scrapped,N213EA,983
+093,Airbus A300B4-203(F),N1452,Pacific Aeromotive Corporation,3 Nov 2004,Scrapped,OO-DLL,
+094,Airbus A300B4-120,TC-OIM,Bosphorus European Airways,13 Dec 2001,Stored,OY-CNK,Kaan
+095,Airbus A300B4-203(F),N226KW,Pace Cargo Enterprises,22 Feb 2010,Scrapped,OO-DLR,
+096,Airbus A300B4-203,AP-BAX,PIA Pakistan International Airlines,3 Mar 1980,Scrapped,F-WZEP,
+097,Airbus A300B2-1C,F-BUAJ,Air Inter,28 Feb 1980,Scrapped,,
+098,Airbus A300B4-203,AP-BAY,PIA Pakistan International Airlines,12 Mar 1980,Scrapped,F-WZER,
+099,Airbus A300B4-203,AP-BAZ,PIA Pakistan International Airlines,3 Apr 1980,Scrapped,F-WZET,
+100,Airbus A300B4-203(F),N510TA,Tradewinds Airlines,3 Dec 2002,Scrapped,C-GICD,
+101,Airbus A300B4-203(F),TC-ABK,ULS Airlines Cargo,3 Jul 2009,Scrapped,N59101,Adiyaman
+102,Airbus A300B2-1C,N102NC,Aviation Systems International,2 Apr 1998,Scrapped,D-ARAT,
+103,Airbus A300B4-203,SX-BEE,Olympic Airways,21 Apr 1980,Scrapped,F-WZEC,
+104,Airbus A300B2-1C,F-GBEC,Air France,8 Apr 1980,Written Off,,
+105,Airbus A300B4-103(F),TC-ACZ,ACT Airlines,14 Jul 2006,Scrapped,N317FV,
+106,Airbus A300B4-203(F),N59106,JHM Airlines Cargo,15 Oct 1999,Scrapped,I-BUSC,
+,,,,,,,
+107,Airbus A300B4-203(F),TC-ACY,ACT Airlines,6 Dec 2006,Stored,N59107,
+108,Airbus A300B4-103,N11984,Continental Air Lines,1 Jul 1990,Preserved,N215EA,984
+109,Airbus A300B4-203,6Y-JMR,Air Jamaica,10 May 1990,Scrapped,PP-CLA,
+110,Airbus A300B4-2C,TC-FLG,Fly Air,31 Jul 2004,Scrapped,JA8292,
+111,Airbus A300B2-101,VT-EFW,Indian Airlines,18 Jul 1980,Preserved,F-WZEI,
+112,Airbus A300B2K-3C,F-BUAK,Air Inter,25 Nov 1980,Scrapped,,
+113,Airbus A300B2-101,VT-EFX,Indian Airlines,7 Aug 1980,Scrapped,F-WZEJ,
+114,Airbus A300B4-203,AP-BBA,PIA Pakistan International Airlines,27 Aug 1980,Written Off,F-WZEN,
+115,Airbus A300B4-203,SU-BCA,EgyptAir,19 Sep 1980,Written Off,F-WZEP,
+116,Airbus A300B4-203(F),N116PY,PLO - Pyramid Leasing,4 Dec 2009,Scrapped,OO-DLY,
+117,Airbus A300B4-203(F),TC-AGK,ULS Airlines Cargo,3 Jul 2009,Scrapped,G-CEXH,
+118,Airbus A300B4-103,I-BUSQ,Alitalia,Mar 1989,Scrapped,N401UA,Michelangelo
+119,Airbus A300B4-103,N11985,Continental Air Lines,Jun 1990,Scrapped,N217EA,985
+120,Airbus A300B4-103,I-BUSR,Alitalia,Apr 1989,Scrapped,N402UA,Cimabue
+121,Airbus A300B4-203(F),TC-ACB,ACT Airlines,31 Jul 2006,Written Off,G-CEXI,
+122,Airbus A300B4-120,OY-KAA,Malaysia Airlines,12 Oct 1983,Written Off,F-WZEH,
+123,Airbus A300B4-203(F),TC-MNJ,MNG Airlines,30 Dec 2002,Preserved,N59123,
+124,Airbus A300B4-103(F),N124TN,WFBN Wells Fargo Bank Northwest,4 Aug 2009,Scrapped,EC-HQT,
+125,Airbus A300B4-203(F),A6-MDE,Midex Airlines,9 Dec 2008,Scrapped,N472AS,
+126,Airbus A300B4-203(F),4L-AMS,AMS Airlines,2017,Stored,S5-ABS,
+127,Airbus A300B4-203,TC-FLA,Saudi Arabian Airlines,Dec 2004,Stored,TC-GTB,lsf Fly Air
+128,Airbus A300B4-120,TC-COA,Bosphorus European Airways,13 Dec 2001,Stored,OY-CNL,
+129,Airbus A300B4-203(F),SU-BMZ,Tristar Air,Jan 2002,Written Off,N825SC,
+130,Airbus A300B4-120,EC-DLE,Iberia,27 Jan 1981,Scrapped,F-WZEI,
+131,Airbus A300B4-203,G-HLAD,Prime Air,Jun 2001,Scrapped,EI-TLQ,lsf GECAS
+132,Airbus A300B2-1C,F-BUAN,Air Inter,14 Mar 1985,Scrapped,D-AIAF,
+133,Airbus A300B4-120,EC-DLF,Iberia,20 Mar 1981,Scrapped,F-WZEB,Canadas del Teide
+134,Airbus A300B4-203(F),A6-MDF,Midex Airlines,1 Jun 2009,Stored,N370PC,
+135,Airbus A300B4-120,EC-DLG,Iberia,3 Apr 1981,Scrapped,F-WZEA,Tablas de Daimiel
+136,Airbus A300B4-120,EC-DLH,Iberia,14 Apr 1981,Scrapped,F-WZEN,Aigues Tortes
+137,Airbus A300B4-203,TU-TAO,Air Afrique,7 May 1981,Scrapped,F-WZEP,
+138,Airbus A300B4-203,TC-ONT,Onur Air,24 Jun 2009,Scrapped,ZS-SDE,
+139,Airbus A300B4-203(F),EP-ICE,Iran Air,22 May 2008,Stored,TC-KZT,
+140,Airbus A300B4-203(F),N59140,JHM Airlines Cargo,1 Nov 1998,Scrapped,I-BUSH,
+141,Airbus A300B4-203(F),UP-A3003,Sigma Airlines,15 Jul 2019,Stored,4L-ALI,lsf Air Speed Charter FZE
+142,Airbus A300B4-203(F),N68142,JHM Airlines Cargo,25 Nov 1998,Scrapped,I-BUSJ,
+143,Airbus A300B4-203,N143EV,EAS,5 Dec 2001,Scrapped,6Y-JMS,
+144,Airbus A300B4-203,AP-BBV,PIA Pakistan International Airlines,24 Jun 1984,Scrapped,G-BIMC,
+145,Airbus A300B4-203,SU-DAS,ZAS Airline of Egypt,10 Apr 1993,Stored,F-BVGP,
+146,Airbus A300B4-203,AP-BEY,PIA Pakistan International Airlines,21 Jul 1994,Scrapped,F-BVGQ,
+147,Airbus A300B4-203(F),TC-ACC,ACT Airlines,Mar 2008,Preserved,N318FV,
+148,Airbus A300B4-103(F),EI-OZA,Air Contractors,3 Feb 2010,Scrapped,OO-DIF,
+149,Airbus A300B4-203(F),N365DH,ASTAR Air Cargo,30 Jun 2003,Stored,HS-THW,
+150,Airbus A300B4-203(F),N150PY,PLO - Pyramid Leasing,12 Mar 2010,Scrapped,OO-DLV,
+151,Airbus A300B4-2C,EP-IBI,Iran Air,21 May 2009,Stored,TC-FLK,
+152,Airbus A300B4-203(F),N832JM,Southern Aircraft Charters,6 Mar 2014,Stored,EI-OZE,
+153,Airbus A300B4-203,TC-ALP,Air Alfa,8 Apr 1995,Written Off,N14968,
+154,Airbus A300B4-203(F),TC-ACE,ACT Airlines,20 Mar 2007,Stored,N820SC,
+155,Airbus A300B4-203(F),N155TN,WFBN Wells Fargo Bank Northwest,17 Jul 2009,Scrapped,OO-TZA,
+156,Airbus A300B4-120,EC-DNQ,Iberia,2 Feb 1982,Scrapped,F-WZMF,Islas Cies
+157,Airbus A300B4-203(F),4L-ABA,AMS Airlines,Feb 2017,Stored,A6-MDA,
+158,Airbus A300B4-203,N158GE,GECAS,22 Oct 2000,Scrapped,EI-TLL,
+159,Airbus A300B4-220FF,PK-GAA,Garuda Indonesia,4 Mar 1982,Scrapped,F-WZMH,
+,,,,,,,
+160,Airbus A300B2K-3C,EP-MHA,Mahan Airlines,23 Apr 2008,Preserved,EK-30060,
+161,Airbus A300B4-203,N161GE,GECAS,27 Oct 2000,Scrapped,EI-TLK,
+162,Airbus A310-222(F),N450FE,Federal Express (FedEx),21 Feb 1997,Stored,F-GPDJ,"Selna, 450"
+163,Airbus A300B2K-3C,TC-FLE,Fly Air,9 May 2003,Scrapped,JA8472,
+164,Airbus A300B4-220FF,PK-GAC,Garuda Indonesia,25 Feb 1981,Scrapped,F-WZMK,
+165,Airbus A300B4-220FF,PK-GAD,Garuda Indonesia,11 Jan 1982,Scrapped,F-WZML,
+166,Airbus A300B4-220FF,PK-GAE,Garuda Indonesia,19 Jan 1982,Scrapped,F-WZMM,
+167,Airbus A300B4-220FF,PK-GAF,Garuda Indonesia,3 Feb 1982,Scrapped,F-WZMN,
+168,Airbus A300B4-220FF,PK-GAG,Garuda Indonesia,10 Feb 1982,Scrapped,F-WZNO,
+169,Airbus A300B4-2C,N640RD,RJSS Sendai International Airport,16 Dec 2002,Scrapped,JA8276,
+170,Airbus A300B4-120,EC-DNR,Iberia,26 Feb 1982,Scrapped,F-WZMQ,Ordesa
+171,Airbus A300B4-220,B-1812,China Airlines,4 Jun 1987,Scrapped,F-WZMR,
+172,Airbus A310-203,TC-JYK,Cyprus Turkish Airlines (KTHY),21 Dec 1994,Scrapped,F-GEMF,Erenköy
+173,Airbus A300B4-203(F),EP-ICF,Iran Air,May 2008,Stored,TC-KZU,
+174,Airbus A300B4-2C,N740RD,RJSS Sendai International Airport,30 Sep 2002,Scrapped,JA8277,
+175,Airbus A300B4-203,EP-MHL,Mahan Airlines,Oct 2005,Stored,SU-BMM,
+176,Airbus A300B2K-3C,TC-FLM,Fly Air,Feb 2006,Preserved,JA8473,
+177,Airbus A300B4-203,YA-BAD,Ariana Afghan Airlines,May 2002,Written Off,VT-EHN,
+178,Airbus A300B4-203,N104GA,WFBN Wells Fargo Bank Northwest,21 Jul 2005,Scrapped,JA8560,
+179,Airbus A300B4-220,B-1810,China Airlines,5 Jul 1985,Scrapped,F-WZMW,
+180,Airbus A300B4-203,YA-BAB,Ariana Afghan Airlines,9 May 2002,Scrapped,VT-EHO,
+181,Airbus A300B4-203,VT-EHC,Indian Airlines,24 May 1982,Scrapped,F-WZMY,
+182,Airbus A300B4-203,VT-EHD,Indian Airlines,27 May 1982,Scrapped,F-WZMZ,
+183,Airbus A300B4-203(F),EX-30001,KAP.kg,13 May 2020,Stored,4L-BAK,
+184,Airbus A300B4-103(F),EI-OZB,Air Contractors,9 Dec 2009,Scrapped,OO-DIH,
+185,Airbus A300B2-203,EP-IBT,Iran Air,30 Apr 1982,Stored,F-WZMB,
+186,Airbus A300B2-203,EP-IBU,Iran Air,30 Apr 1982,Written Off,F-WZMC,
+187,Airbus A300B2-203,EP-IBV,Iran Air,12 May 1982,Stored,F-WZMD,
+188,Airbus A300B4-203,N188SC,Aviation Systems International,17 Jan 2002,Scrapped,TS-IMA,
+189,Airbus A300B4-103(F),EI-OZC,Air Contractors,10 Dec 2009,Scrapped,OO-DIJ,
+190,Airbus A300B4-203,YA-BAC,Ariana Afghan Airlines,12 May 2002,Scrapped,VT-EHQ,
+191,Airbus A310-203(F),N401FE,Federal Express (FedEx),27 Jan 1995,Scrapped,D-AICA,"Mickey, 401"
+192,Airbus A300B4-203,TC-ONU,Onur Air,Mar 2008,Scrapped,ZS-SDF,
+193,Airbus A300B4-220,N102EV,EAS,12 Apr 2005,Preserved,B-18581,
+194,Airbus A300B4-2C,TC-FLF,Fly Air,24 Feb 2006,Scrapped,JA8293,
+195,Airbus A300B4-203,F-WHPX,Airbus Financial Services (AFS),4 Mar 1998,Scrapped,PK-JIC,
+196,Airbus A300B4-203(F),A6-MDB,Midex Airlines,29 Jan 2008,Stored,N372PC,
+197,Airbus A300B4-220,B-18582,China Airlines,Oct 1999,Scrapped,B-192,
+198,Airbus A300B4-203,F-WHPR,Airbus Financial Services (AFS),10 Jun 1998,Scrapped,PK-JIA,
+199,Airbus A300B4-203(F),N199PY,PLO - Pyramid Leasing,14 Nov 2012,Scrapped,EI-EAB,
+200,Airbus A300B4-203(F),SU-BDG,EgyptAir Cargo,May 1998,Scrapped,F-WZMN,Toschki
+201,Airbus A310-203(F),N402FE,Federal Express (FedEx),11 Mar 1995,Stored,D-AICB,"Carlye, 402"
+202,Airbus A300B2-203,PP-SNL,VASP,5 Nov 1982,Scrapped,F-WZMJ,
+203,Airbus A300B4-203(F),A6-MDD,Midex Airlines,18 Mar 2008,Stored,N473AS,
+204,Airbus A300B4-203,EP-MHG,Mahan Airlines,4 Jul 2000,Stored,AP-BFL,
+205,Airbus A300B2-203,PP-SNM,VASP,8 Nov 1982,Scrapped,F-WZMP,
+206,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+207,Airbus A300B4-203(F),N506TA,Tradewinds Airlines,7 Feb 2005,Scrapped,N368DH,
+208,Airbus A300B4-203(F),EI-OZG,Air Contractors,1 Feb 2010,Scrapped,OO-DLG,
+209,Airbus A300B2K-3C,N202GA,WFBN Wells Fargo Bank Northwest,21 Feb 2006,Scrapped,JA8476,
+210,Airbus A300B4-203(F),4L-EFC,Easy Charter,Feb 2020,Stored,XA-LRL,
+211,Airbus A300B4-203(F),N821SC,Transcarga International Airways,Mar 2012,Stored,TC-ALU,lsf Sky Lease Cargo
+212,Airbus A300C4-203,ER-ABE,Global Aviation and Services Group,2017,Active,N212UK,
+,,,,,,,
+213,Airbus A300B4-220FF,PK-GAH,Garuda Indonesia,10 Nov 1982,Scrapped,F-WZMP,
+214,Airbus A300B4-220FF,PK-GAI,Garuda Indonesia,16 Nov 1982,Written Off,F-WZMU,
+215,Airbus A300B4-220FF,PK-GAJ,Garuda Indonesia,23 Nov 1982,Scrapped,F-WZMY,
+216,Airbus A300B4-203(F),N504TA,Tradewinds Airlines,Oct 2006,Scrapped,N861PA,
+217,Airbus A310-222(F),N449FE,Federal Express (FedEx),23 Jul 1997,Scrapped,F-GOCJ,"Treydn, 449"
+218,Airbus A300B4-203(F),A6-MDC,Midex Airlines,17 Mar 2008,Stored,N373PC,
+219,Airbus A300B4-203(F),EI-OZI,Air Contractors,14 Dec 2009,Scrapped,OO-DLZ,
+220,Airbus A300B4-203(F),N831JM,Southern Aircraft Charters,16 Dec 2013,Stored,EI-SAF,
+221,Airbus A300B4-220,B-18583,China Airlines,Oct 1999,Scrapped,B-194,
+222,Airbus A300B4-203,TC-MNE,MNG Airlines,28 Feb 2005,Scrapped,ZS-SDH,
+223,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+224,Airbus A310-222(F),N446FE,Federal Express (FedEx),Oct 1995,Scrapped,HB-IPA,"Makenna, 446"
+225,Airbus A300B2-203,PP-SNN,VASP,Jun 1991,Scrapped,F-WZMB,
+226,Airbus A300B2-203,EP-IBZ,Iran Air,31 Jan 1983,Stored,F-WZME,
+227,Airbus A300B4-203(F),XA-FPP,AeroUnion,1 Aug 2010,Stored,N227TN,
+228,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+230,Airbus A310-203(F),N403FE,Federal Express (FedEx),13 Apr 1995,Stored,D-AICC,"Lindsay, 403"
+231,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+232,Airbus A300B4-220,B-18585,China Airlines,Aug 1999,Scrapped,B-196,
+233,Airbus A310-203(F),N404FE,Federal Express (FedEx),12 May 1995,Scrapped,D-AICD,"Collin, 404"
+234,Airbus A300B4-203(F),N833JM,Southern Aircraft Charters,23 Jan 2014,Stored,EI-OZH,
+235,Airbus A300B4-203(F),N235GL,Aircraft 235 LLC,1 Apr 2009,Scrapped,OO-DID,
+236,Airbus A300B4-203(F),PR-STN,Sterna Linhas Aéreas,13 Nov 2015,Stored,N834JM,lsf Southern Aircraft Charters
+237,Airbus A310-203(F),N405FE,Federal Express (FedEx),7 Jul 1995,Stored,D-AICF,"Mariah, 405"
+238,Airbus A300B4-203,F-WUAB,Airbus Industrie,14 Mar 2006,Preserved,F-WHPS,1st Airbus cs
+239,Airbus A300B4-203,YI-APX,Iraqi Government,27 Oct 2007,Stored,EK-30039,
+240,Airbus A300B4-203,VT-EVD,Indian Airlines,15 May 1998,Scrapped,EI-CEB,
+241,Airbus A310-203(F),N424FE,Federal Express (FedEx),23 Oct 1996,Scrapped,PH-AGA,"Kendall, 424"
+242,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+243,Airbus A300B4-203,TU-TAS,Air Afrique,12 Jul 1983,Scrapped,F-WZMJ,
+244,Airbus A300B2K-3C,EP-MHP,Mahan Airlines,23 Apr 2008,Stored,EK-30044,
+245,Airbus A310-203(F),N426FE,Federal Express (FedEx),12 Jul 1996,Stored,PH-AGB,"Shana, 426"
+246,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+247,Airbus A300B4-203(F),XA-MRC,AeroUnion,31 Jul 2010,Scrapped,N247AX,
+248,Airbus A310-203(F),N428FE,Federal Express (FedEx),3 Aug 1997,Stored,PH-AGC,"Kristina, 428"
+249,Airbus A300B4-203(F),N366DH,ASTAR Air Cargo,30 Jun 2003,Scrapped,F-WIHZ,
+250,Airbus A300B4-203(F),EI-EAC,Air Contractors,8 Jan 2010,Scrapped,OO-DLT,
+251,Airbus A310-222(F),N447FE,Federal Express (FedEx),19 Mar 1996,Stored,HB-IPB,"Shaunna, 447"
+252,Airbus A300B4-620,ST-ASS,Sudan Airways,7 Jul 2004,Scrapped,F-ODTK,
+253,Airbus A300B2K-3C,N101GA,Apollo Aviation,15 Apr 2005,Written Off,JA8478,
+254,Airbus A310-203(F),N407FE,Federal Express (FedEx),18 Jul 1994,Scrapped,D-AICH,"Stacy Denise, 407"
+255,Airbus A300B4-203(F),SU-GAC,EgyptAir Cargo,Nov 1998,Stored,F-WZMY,New Valley
+256,Airbus A300B4-2C(SCD),EP-IBJ,Iran Air,Jun 2007,Stored,TC-FLL,
+257,Airbus A310-203(F),N408FE,Federal Express (FedEx),5 Aug 1995,Scrapped,TC-JFO,"Kealoha, 408"
+258,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+259,Airbus A300B4-203(F),N835JM,Southern Aircraft Charters,18 Aug 2014,Stored,EI-OZF,
+260,Airbus A310-222(F),N448FE,Federal Express (FedEx),31 May 1996,Scrapped,HB-IPD,"Augustine, 448"
+261,Airbus A300B4-203(F),YV560T,Transcarga International Airways,10 Sep 2014,Active,N261AX,
+262,Airbus A300B4-203,VT-EVC,Indian Airlines,15 Jun 1998,Scrapped,N262GE,lsf GECAS
+263,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+264,Airbus A310-203(F),N425FE,Federal Express (FedEx),1 Jul 1996,Stored,PH-AGD,"Jerome, 425"
+265,Airbus A300B4-203(F),N367DH,ASTAR Air Cargo,30 Jun 2003,Stored,F-WIHY,
+266,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+,,,,,,,
+267,Airbus A310-222(F),N453FE,Federal Express (FedEx),26 Aug 1999,Stored,F-WHPH,"Rush, 453"
+268,Airbus A300B4-203,AP-BCJ,PIA Pakistan International Airlines,15 May 1985,Written Off,9V-STG,
+269,Airbus A300B4-203,TC-MCA,MNG Airlines,Nov 2005,Scrapped,AP-BEL,
+270,Airbus A310-221,5N-AUE,Nigeria Airways,14 Dec 1984,Scrapped,F-WZEN,River Yobe
+271,Airbus A300B4-203(F),N505TA,Tradewinds Airlines,21 Nov 2006,Scrapped,N824SC,
+272,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+273,Airbus A310-203(F),N409FE,Federal Express (FedEx),15 Sep 1994,Scrapped,D-AICL,"Jake, 409"
+274,Airbus A300B4-203(F),YV562T,Transcarga International Airways,10 Sep 2014,Active,N830JM,Retro cs
+276,Airbus A310-222,F-OGYW,Armenian Airlines,6 Jul 1998,Scrapped,F-WGYN,"Arakat, lsf AFS"
+277,Airbus A300F4-203,4L-ABI,AMS Airlines,Jul 2015,Stored,YL-AEA,
+278,Airbus A310-222(F),N454FE,Federal Express (FedEx),15 Oct 1999,Stored,F-OGYX,"Monissa, 454"
+279,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+281,Airbus A310-203(F),N423FE,Federal Express (FedEx),2 Nov 1995,Stored,PH-MCA,"Trey, 423"
+282,Airbus A300B4-203,TU-TAT,Air Afrique,13 Sep 1984,Written Off,F-WZXP,
+283,Airbus A310-203(F),N443FE,Federal Express (FedEx),23 Oct 1997,Stored,PH-AGE,"Katelin, 443"
+284,Airbus A300B4-620,HZ-AJA,Saudi Arabian Airlines,1 Jun 1984,Scrapped,F-WZLS,
+285,Airbus A310-221,5N-AUF,Nigeria Airways,14 Dec 1984,Scrapped,F-WZEB,River Ethiope
+288,Airbus A310-222(F),N416FE,Federal Express (FedEx),7 Jun 1995,Stored,N801PA,"Patrick, 416"
+289,Airbus A300B4-203(F),EI-EAD,Air Contractors,8 Jan 2010,Stored,OO-DLU,
+290,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+291,Airbus A310-203,7T-VJC,Air Algérie,31 Aug 1984,Scrapped,F-WZED,
+292,Airbus A300F4-203,4L-BIC,AMS Airlines,2017,Stored,4L-ABS,
+293,Airbus A310-203,7T-VJD,Air Algérie,20 Dec 1984,Scrapped,F-WZEE,
+294,Airbus A300B4-620,HZ-AJB,Saudi Arabian Airlines,9 Apr 1984,Scrapped,F-WZYA,
+295,Airbus A310-203,TS-IGU,Libyan Airlines,15 Sep 2002,Stored,JY-AGU,
+297,Airbus A310-203(F),N445FE,Federal Express (FedEx),14 Sep 1998,Stored,PH-AGF,"Nicholas, 445"
+298,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+299,Airbus A300B4-203FF,EP-IBG,Iran Air,Oct 2009,Stored,EP-MDA,
+300,Airbus A310-203,F-WQTE,Airbus Financial Services (AFS),Dec 2003,Scrapped,5B-DAQ,
+301,Airbus A300B4-620,HZ-AJC,Saudi Arabian Airlines,25 Mar 1984,Scrapped,F-WZYB,
+302,Airbus A300B4-203FF,EP-IBH,Iran Air,Oct 2009,Stored,EP-MDB,
+303,Airbus A310-222(F),N451FE,Federal Express (FedEx),7 Apr 1998,Scrapped,OO-SCA,"Reis, 451"
+304,Airbus A300B4-203(F),TC-MCB,MNG Airlines,21 Sep 2005,Scrapped,N308FV,
+305,Airbus A300B4-203,F-WQOY,Airbus Financial Services (AFS),2001,Scrapped,F-OHPD,
+306,Airbus A310-203,TS-IGV,Libyan Airlines,15 Sep 2002,Stored,JY-AGV,lsf Fly International Airways
+307,Airbus A300B4-620,HZ-AJD,Saudi Arabian Airlines,3 Apr 1984,Scrapped,F-WZYC,
+309,Airbus A310-203,N409AT,AeroTurbine,17 May 2005,Scrapped,TC-AKV,
+311,Airbus A310-222,B-2301,China Eastern Airlines,31 Aug 2003,Preserved,F-WZEJ,
+312,Airbus A300B4-620,HZ-AJE,Saudi Arabian Airlines,20 Apr 1984,Scrapped,F-WZYD,
+313,Airbus A310-222(F),N452FE,Federal Express (FedEx),19 Feb 1997,Scrapped,OO-SCB,"Ashley, 452"
+316,Airbus A310-203(F),N431FE,Federal Express (FedEx),3 Oct 2003,Stored,F-WWAD,"Asumi, 431"
+317,Airbus A300B4-620,HZ-AJF,Saudi Arabian Airlines,20 Apr 1984,Scrapped,F-WZYD,
+318,Airbus A310-222(F),N456FE,Federal Express (FedEx),20 Feb 2001,Stored,F-OHPQ,"Simon, 456"
+319,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+320,Airbus A310-222,XY-AGE,Air Bagan,16 Jan 2007,Scrapped,B-2302,
+321,Airbus A300B4-620,HZ-AJG,Saudi Arabian Airlines,14 May 1984,Scrapped,F-WZYF,
+322,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+324,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+325,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+326,Airbus A310-203(F),N432FE,Federal Express (FedEx),11 Apr 2002,Scrapped,F-GEMB,"Tatsuya, 432"
+327,Airbus A300C4-620,9K-AHF,Kuwait Airways,30 May 1984,Written Off,F-WZYG,
+328,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+329,Airbus A310-221,5N-AUG,Nigeria Airways,14 Dec 1984,Preserved,F-WZEA,Lekki Peninsula
+,,,,,,,
+330,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+331,Airbus A310-222(F),N455FE,Federal Express (FedEx),29 Jan 2003,Stored,F-WWAH,"Sara, 455"
+332,Airbus A300C4-620,9K-AHG,Kuwait Airways,8 Jun 1984,Written Off,F-WZYH,
+333,Airbus A310-222(F),N417FE,Federal Express (FedEx),25 Aug 1995,Stored,N802PA,"Kyle, 417"
+334,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+335,Airbus A310-203(F),N433FE,Federal Express (FedEx),17 Jan 2002,Scrapped,F-GEMC,"Cade, 433"
+336,Airbus A300B4-620,HZ-AJH,Saudi Arabian Airlines,4 Jul 1984,Scrapped,F-WZYI,
+337,Airbus A300B4-203,-,Airbus Industrie,,Not Built,,
+338,Airbus A310-203,EP-IBM,Iran Air,23 May 2001,Stored,TC-JCL,
+339,Airbus A310-222(F),N420FE,Federal Express (FedEx),7 Sep 1995,Scrapped,N805PA,"Molly, 420"
+340,Airbus A310-221,5N-AUH,Nigeria Airways,14 Dec 1984,Scrapped,F-WZEH,
+341,Airbus A300B4-620,HZ-AJI,Saudi Arabian Airlines,18 Aug 1984,Scrapped,F-WZYJ,
+342,Airbus A310-222(F),N421FE,Federal Express (FedEx),5 Apr 1995,Stored,N806PA,"Caitlin, 421"
+343,Airbus A310-222(F),N418FE,Federal Express (FedEx),13 Jul 1995,Stored,N803PA,"Rachel, 418"
+344,Airbus A300C4-620,9K-AHI,State of Kuwait,25 Sep 2000,Scrapped,PK-MAY,
+345,Airbus A310-222(F),N419FE,Federal Express (FedEx),24 Oct 1995,Stored,N804PA,"Krystle, 419"
+346,Airbus A310-222(F),N422FE,Federal Express (FedEx),10 Oct 1995,Scrapped,N807PA,"Joseph, 422"
+347,Airbus A310-222,3B-STI,MEA - Middle East Airlines,Jul 1997,Scrapped,9V-STI,
+348,Airbus A300B4-620,HZ-AJJ,Saudi Arabian Airlines,27 Aug 1984,Scrapped,F-WZYL,
+349,Airbus A310-203(F),N415FE,Federal Express (FedEx),29 Apr 1996,Scrapped,PH-MCB,"Jacquelyn, 415"
+350,Airbus A310-222,3B-STJ,MEA - Middle East Airlines,7 Oct 1997,Scrapped,9V-STJ,
+351,Airbus A300B4-620,HZ-AJK,Saudi Arabian Airlines,8 Oct 1984,Scrapped,F-WZYB,
+352,Airbus A310-203,N452AT,AeroTurbine,17 May 2005,Scrapped,TC-AKP,
+353,Airbus A310-203(F),N442FE,Federal Express (FedEx),15 Oct 1996,Scrapped,PH-AGG,"Kennedy, 442"
+354,Airbus A300B4-620,5A-IAY,Afriqiyah Airways,May 2007,Destroyed,TS-IAY,
+355,Airbus A310-203(F),N434FE,Federal Express (FedEx),14 Dec 2004,Scrapped,F-GEMD,"Katie, 434"
+356,Airbus A310-203(F),N410FE,Federal Express (FedEx),7 Jun 1995,Stored,D-AICM,"Carolyn, 410"
+357,Airbus A310-222,JY-JAV,Jordan Aviation,2010,Stored,3B-STK,
+358,Airbus A300B4-622(F),N716FD,Federal Express (FedEx),31 Jul 2002,Stored,HL7287,"Halle, 716"
+359,Airbus A310-203(F),N411FE,Federal Express (FedEx),5 Jan 1995,Stored,D-AICN,"Barbra, 411"
+360,Airbus A310-203(F),N412FE,Federal Express (FedEx),10 Nov 1994,Scrapped,D-AICP,"Carina, 412"
+361,Airbus A300B4-622(F),N717FD,Federal Express (FedEx),29 Aug 2002,Active,HL7280,"Kymber, 717"
+362,Airbus A310-203(F),N427FE,Federal Express (FedEx),12 Nov 1996,Stored,PH-AGH,"Zachary, 427"
+363,Airbus A310-222,D-ASQA,Hapag-Lloyd,16 Jun 2000,Scrapped,9V-STL,
+364,Airbus A310-203(F),N429FE,Federal Express (FedEx),16 Apr 1997,Stored,PH-AGI,"Conner, 429"
+365,Airbus A300B4-622(F),N718FD,Federal Express (FedEx),30 Dec 2002,Stored,HL7281,"Anna, 718"
+367,Airbus A310-222,N461VA,Southern Aircraft Consultancy,10 Jan 2012,Scrapped,CA-02,
+368,Airbus A300B4-601,EK-30068,Mahan Airlines,27 Nov 2010,Scrapped,HS-TAA,lsf Vertir Airlines
+369,Airbus A310-203(F),N435FE,Federal Express (FedEx),20 Feb 2002,Stored,F-GEME,"Ceara, 435"
+370,Airbus A310-203,EP-IBP,Iran Air,25 Dec 2001,Scrapped,TC-JCR,
+371,Airbus A300B4-601,N310GA,WFBN Wells Fargo Bank Northwest,2 Mar 2007,Scrapped,HS-TAB,
+372,Airbus A310-222,N461WA,Southern Aircraft Consultancy,10 Jan 2012,Scrapped,CA-01,
+374,Airbus A300C4-620,A6-PFD,Abu Dhabi Amiri Flight,5 Dec 1985,Written Off,F-WWAJ,
+375,Airbus A310-203,EP-IBN,Iran Air,2 Jun 2001,Stored,TC-JCM,
+377,Airbus A300B4-601,N303GA,GA Telesis,1 Jun 2007,Scrapped,HS-TAC,
+378,Airbus A310-324(F),N803FD,Federal Express (FedEx),9 Sep 2005,Stored,N853CH,"Rylan, 803"
+379,Airbus A310-203,EP-IBO,Iran Air,2 Aug 2001,Scrapped,TC-JCN,
+380,Airbus A300B4-603,EP-MNJ,Mahan Airlines,13 Apr 2010,Stored,D-AIAH,
+384,Airbus A300B4-601,N384EF,Unical Aviation,15 Feb 2008,Scrapped,HS-TAD,
+386,Airbus A310-203,TC-JCO,Turkish Airlines,20 Aug 2005,Scrapped,F-WWBC,Lefkosa
+388,Airbus A300B4-622(F),N719FD,Federal Express (FedEx),30 Sep 2003,Stored,HL7290,"Cale, 719"
+389,Airbus A310-203,EP-IBQ,Iran Air,Sep 2001,Stored,TC-JCS,
+390,Airbus A310-203,EP-IBX,Iran Air,28 May 2001,Scrapped,TC-JCU,
+,,,,,,,
+391,Airbus A300B4-603,D-AIAI,Lufthansa,26 Mar 1987,Scrapped,F-WWAL,Erbach/Odenwald
+392,Airbus A310-304,N428AL,Apollo Aviation,20 Jan 2012,Scrapped,VT-EJL,
+394,Airbus A310-203(F),N430FE,Federal Express (FedEx),25 Jan 1997,Stored,PH-AGK,"Kelleen, 430"
+395,Airbus A300B4-601,N395EF,Unical Aviation,5 Mar 2008,Scrapped,HS-TAE,
+397,Airbus A310-203(F),N413FE,Federal Express (FedEx),26 Aug 1994,Stored,D-AICR,"Skip Moyer, 413"
+398,Airbus A300B4-601,EK-30098,Vertir Airlines,Nov 2010,Scrapped,HS-TAF,
+399,Airbus A310-322,UN-A3101,Air Kazakstan,19 Jun 1999,Stored,D-ASRA,
+400,Airbus A310-203(F),N414FE,Federal Express (FedEx),19 Oct 1994,Scrapped,D-AICS,"Tanner, 414"
+401,Airbus A300B4-603,EP-MNG,Mahan Airlines,3 Dec 2010,Active,D-AIAK,
+404,Airbus A310-322,F-WQTB,Airbus Financial Services (AFS),7 Jun 2003,Scrapped,F-WIHT,
+405,Airbus A300B4-603,EP-MNH,Mahan Airlines,Oct 2010,Stored,D-AIAL,
+406,Airbus A310-304,VT-EJG,Air India,11 Apr 1986,Scrapped,F-WWCG,Yamuna
+407,Airbus A310-304(F),N430AL,Apollo Aviation,8 Jun 2012,Scrapped,VT-EJH,
+408,Airbus A300B4-603,EP-MNI,Iran Airtour,19 Apr 2020,Active,D-AIAM,
+409,Airbus A310-322,N409AN,Ansett Worldwide (AWAS),24 Mar 2003,Scrapped,S7-RGR,
+410,Airbus A310-322,OE-LMP,MAP Jet,11 Nov 2005,Scrapped,N410AN,
+411,Airbus A300B4-603,EP-MNR,Mahan Airlines,26 Aug 2009,Stored,EX-35009,
+412,Airbus A310-322,F-WQVC,Valliere Aviation,30 Jun 2006,Scrapped,UN-A3102,
+413,Airbus A310-304(F),9Q-CVH,Services Air,27 Mar 2013,Written Off,5X-HJI,Saraswati
+414,Airbus A300B4-603,EP-MNS,Mahan Airlines,11 Sep 2009,Scrapped,EX-35008,
+415,Airbus A310-204,HS-TIA,Thai Airways International,1 Apr 1988,Written Off,F-WWBI,Phitsanulok
+416,Airbus A310-304,N416JG,Global Principal Finance,7 Jan 2011,Scrapped,JY-AGP,
+417,Airbus A300B4-622(F),N720FD,Federal Express (FedEx),2 May 2003,Stored,HL7291,"Kristin Marie, 720"
+418,Airbus A310-304,F-RADC,Armée de l'Air (French Air Force),7 Jan 2001,Active,F-WQIC,
+419,Airbus A310-222,HS-PCC,PC Air,12 Oct 2011,Stored,RDPL-34181,lsf Phoenix Aircraft Leasing & Sales
+420,Airbus A300B4-605R,N14053,American Airlines,12 Jul 1988,Written Off,F-WWAU,053
+421,Airbus A310-304,F-RADA,Armée de l'Air (French Air Force),5 Nov 1993,Stored,F-ODVD,
+422,Airbus A310-304,F-RADB,Armée de l'Air (French Air Force),5 Nov 1993,Active,F-ODVE,
+423,Airbus A300B4-605R,N91050,American Airlines,21 Apr 1988,Scrapped,F-WWAV,050
+424,Airbus A310-204,G-BZTB,Cabot Aviation Ltd.,8 Mar 2001,Scrapped,HS-TIC,
+425,Airbus CC-150 Polaris (A310-304),15003,Canadian Armed Forces,1 Dec 1992,Active,C-FWDX,Retro cs
+426,Airbus A310-304,5Y-BEN,Kenya Airways,24 Sep 1986,Written Off,F-WWCQ,
+427,Airbus A310-204,VP-BTK,S7 - Siberia Airlines,30 Mar 2006,Scrapped,D-AHLW,
+428,Airbus A310-304,VT-EJJ,Air India,29 Oct 1986,Scrapped,F-WWCR,Beas
+429,Airbus A310-304,VT-EJK,Air India,29 Dec 1986,Preserved,F-WWCS,Gomati
+430,Airbus A310-204,VP-BSY,S7 - Siberia Airlines,24 May 2005,Scrapped,D-AHLV,lsf Cramington Services
+431,Airbus A310-304,HZ-NSA,Al-Atheer Aviation,26 Aug 2004,Active,P4-ABU,
+432,Airbus A310-304,F-GRNS,Euralair International,Jun 2003,Scrapped,C-GRYI,lsf AFS
+433,Airbus A310-324,9V-STO,Singapore Airlines,16 Jun 2002,Scrapped,S2-ADG,
+434,Airbus A310-304 MRTT,10+24,German Air Force,25 Nov 1996,Active,D-AIDA,Otto Lilienthal
+435,Airbus A310-304,N435XS,WFBN Wells Fargo Bank Northwest,12 Feb 2003,Scrapped,C-GRYD,
+436,Airbus A310-304,EP-IBL,Iran Air,23 Nov 2000,Stored,A6-EKB,
+437,Airbus A310-322,ST-AST,Sudan Airways,20 Dec 2005,Stored,SU-BOW,Almaymoon
+438,Airbus A310-304,HS-TID,Thai Airways International,9 May 1990,Written Off,C-FGWD,Buriram / บุรีรัมย์
+439,Airbus A310-324(F),N808FD,Federal Express (FedEx),30 Dec 2004,Stored,F-OHPU,"Berkeley, 808"
+440,Airbus A310-304,N440XS,WFBN Wells Fargo Bank Northwest,12 Feb 2003,Scrapped,C-GRYV,
+441,Airbus CC-150T Polaris (A310-304 MRTT),15005,Canadian Armed Forces,12 Jul 1997,Active,HS-TIF,
+442,Airbus A310-324,F-OGYP,S7 - Siberia Airlines,18 Jun 2004,Written Off,N812PA,lsf AFS
+443,Airbus A310-324,N443RR,Rolls-Royce Aircraft Management,28 Aug 2003,Scrapped,EC-HVB,
+444,Airbus CC-150T Polaris (A310-304 MRTT),15004,Canadian Armed Forces,25 Feb 1993,Active,F-GHUD,
+445,Airbus A310-304(F),JY-AGQ,Royal Jordanian,11 Dec 2007,Stored,F-ODVF,Prince Hamzah bin Al-Hussein / الأمير حمزة بن الحسين
+446,Airbus CC-150 Polaris (A310-304),15001,Canadian Armed Forces,Aug 1996,Active,F-WQCQ,01
+447,Airbus A310-304,C-GTSY,Air Transat,9 Nov 2004,Stored,N447DN,344
+,,,,,,,
+448,Airbus A310-304,N627SC,Jetran,18 Jan 2013,Scrapped,CS-TKI,
+449,Airbus A310-324(F),N809FD,Federal Express (FedEx),13 Apr 2005,Stored,F-OHPV,"Gavin, 809"
+450,Airbus A310-324,YR-LCC,TAROM,10 Apr 1994,Written Off,N814PA,"Muntenia, lsf UTFC"
+451,Airbus A310-324,EC-GMU,Air Comet,Jan 2007,Scrapped,N571SW,lsf UTFC
+452,Airbus A310-324(F),N810FD,Federal Express (FedEx),18 Jan 2005,Stored,F-OHPY,"Sebastian, 810"
+453,Airbus A310-324,EC-KJL,Air Comet,5 Sep 2007,Scrapped,F-OGYQ,
+454,Airbus A310-203(F),N436FE,Federal Express (FedEx),10 Jul 2002,Stored,F-GEMG,"Gillian, 436"
+455,Airbus A310-324,EC-GOT,Air Comet,Jan 2007,Scrapped,N572SW,lsf UTFC
+456,Airbus A310-324(F),N805FD,Federal Express (FedEx),19 Nov 2004,Stored,F-OGYR,"Fernando, 805"
+457,Airbus A310-324(F),N811FD,Federal Express (FedEx),13 Apr 2005,Stored,F-OGYM,"Yussei, 811"
+458,Airbus A310-324(F),N806FD,Federal Express (FedEx),19 Nov 2004,Stored,F-OGYN,"Addiysn, 806"
+459,Airbus A300B4-605R,N50051,American Airlines,11 May 1988,Scrapped,F-WWAX,051
+460,Airbus A300B4-605R,N80052,American Airlines,31 May 1988,Scrapped,F-WWAY,052
+461,Airbus A300B4-605R,N70054,American Airlines,23 Jun 1988,Scrapped,F-WWAZ,054
+462,Airbus A300B4-605R,N7055A,American Airlines,10 Jun 1988,Scrapped,F-WWAC,"055, lsf GECAS"
+463,Airbus A300B4-605R,N14056,American Airlines,29 Jun 1988,Scrapped,F-WWAD,056
+464,Airbus A300B4-605R,HS-TAG,Thai Airways International,4 Aug 1988,Stored,F-WWAL,Srinapha
+465,Airbus A300B4-605R,N80057,American Airlines,31 Aug 1988,Scrapped,F-WWAM,"057, lsf GECAS"
+466,Airbus A300B4-605R,N80058,American Airlines,9 Sep 1988,Scrapped,F-WWAE,058
+467,Airbus A310-324(F),N812FD,Federal Express (FedEx),14 Dec 2004,Stored,F-OGYS,"Agyei, 812"
+468,Airbus A310-204,VP-BSZ,S7 - Siberia Airlines,9 Jun 2005,Scrapped,D-AHLZ,lsf GECAS
+469,Airbus A300B4-605R,N19059,American Airlines,19 Sep 1988,Scrapped,F-WWAF,"059, lsf GECAS"
+470,Airbus A300B4-605R,N11060,American Airlines,13 Oct 1988,Scrapped,F-WWAA,060
+471,Airbus A300B4-605R,N14061,American Airlines,25 Oct 1988,Scrapped,F-WWAH,"061, lsf GECAS"
+472,Airbus A310-304,C-GTSF,Air Transat,5 May 2006,Scrapped,CS-TEZ,345
+473,Airbus A310-304,J-757,Pakistan Air Force,May 2011,Stored,AP-OOI,
+474,Airbus A300B4-605R,N7062A,American Airlines,15 Nov 1988,Scrapped,F-WWAK,062
+475,Airbus A310-304,VQ-BAH,S7 - Siberia Airlines,13 Oct 2008,Scrapped,F-OHCZ,lsf GECAS
+476,Airbus A310-304(F),TC-JCV,Turkish Airlines,Nov 2007,Written Off,F-WWCT,Aras
+477,Airbus A300B4-622R(F),N721FD,Federal Express (FedEx),20 Dec 2000,Active,HL7529,"Kathryn, 721"
+478,Airbus A310-304(F),TC-JCY,Turkish Airlines,Mar 2008,Scrapped,F-WWCX,Çoruh
+479,Airbus A300B4-622R(F),N722FD,Federal Express (FedEx),20 Jun 2002,Active,HL7535,"Terry, 722"
+480,Airbus A310-304(F),TC-JCZ,Turkish Airlines,22 Jun 1988,Preserved,F-WWCZ,Ergene
+481,Airbus A310-304,JY-JAH,Jordan Aviation,20 Aug 2005,Scrapped,VT-EVH,"Hamzah, lsf GECAS"
+482,Airbus CC-150 Polaris (A310-304),15002,Canadian Armed Forces,20 Feb 1993,Active,C-GLWD,
+483,Airbus A310-304,C-GTSW,Air Transat,19 Sep 2008,Stored,CS-TEH,348
+484,Airbus A310-304 MRTT,10+25,German Air Force,31 Jul 1996,Active,D-AIDB,Hermann Köhl
+485,Airbus A310-304,C-GVAT,Air Transat,22 Dec 2003,Scrapped,D-AIDC,"321, lsf GA Telesis"
+486,Airbus A310-204,VP-BTM,S7 - Siberia Airlines,5 Jul 2006,Scrapped,F-GYYY,lsf ILFC
+487,Airbus A310-204,VP-BTL,S7 - Siberia Airlines,8 Jun 2006,Scrapped,D-AHLX,
+488,Airbus A310-304,EP-MHO,Mahan Airlines,29 Apr 2008,Active,EK-31088,
+489,Airbus A310-324(MRTT),EC-HLA,Airbus Industrie,23 Dec 2005,Preserved,OE-LAA,
+490,Airbus A310-304(F),JY-AGR,Royal Jordanian,13 Dec 2007,Stored,F-ODVG,Prince Hashem bin Al-Hussein / الأمير هاشم بن الحسين
+491,Airbus A310-304,JY-AGM,Royal Jordanian,1 Dec 2004,Scrapped,F-ODVH,
+492,Airbus A310-324(F),N807FD,Federal Express (FedEx),26 Aug 2004,Stored,F-WQTA,"Joshua, 807"
+493,Airbus A310-324,9V-STQ,Singapore Airlines,7 Mar 1989,Scrapped,F-WWCN,
+494,Airbus A310-304,CS-TQV,White,12 Apr 2012,Scrapped,PR-WTA,
+495,Airbus A310-304,CS-TEI,Hi Fly,16 Aug 2010,Scrapped,F-WWCO,lsf GA Telesis
+496,Airbus A310-304,YA-CAQ,Ariana Afghan Airlines,10 Nov 2015,Stored,TC-JDA,
+497,Airbus A310-304,YA-CAV,Ariana Afghan Airlines,1 Nov 2015,Active,TC-JDB,
+498,Airbus A310-304,F-WNOV,SA Novespace,30 Jun 2014,Active,10+21,
+499,Airbus A310-304,EP-THR,Tehran Airline,8 Nov 2015,Stored,EP-MMX,
+500,Airbus A310-324(F),N813FD,Federal Express (FedEx),17 Jan 2007,Stored,N501RR,"Charissa, 813"
+,,,,,,,
+501,Airbus A310-324,D-AIJW,Airbus Industrie,5 Sep 2007,Scrapped,VT-EVE,
+502,Airbus A310-304(F),TC-JCT,Turkish Airlines,30 Oct 2004,Scrapped,TF-ELE,"Samsun, lsf IAP"
+503,Airbus A310-304,10+23,German Air Force,7 Sep 1991,Active,D-AOAC,Kurt Schumacher
+504,Airbus A310-304,F-GEMO,Eagle Aviation France,20 May 2006,Scrapped,F-WWCF,lsf Apollo Aviation
+505,Airbus A300B4-605R,N526WS,Kraake & Associates Inc,12 Jul 2017,Stored,TS-IPC,
+506,Airbus A300B4-605R,N41063,American Airlines,2 Feb 1989,Scrapped,F-WWAP,"063, lsf GECAS"
+507,Airbus A300B4-605R,N40064,American Airlines,15 Feb 1989,Scrapped,F-WWAQ,064
+508,Airbus A300B4-605R,N14065,American Airlines,23 Feb 1989,Scrapped,F-WWAR,065
+509,Airbus A300B4-605R,N18066,American Airlines,28 Feb 1989,Scrapped,F-WWAS,"066, lsf GECAS"
+510,Airbus A300B4-605R,N8067A,American Airlines,23 Mar 1989,Scrapped,F-WWAU,067
+511,Airbus A300B4-605R,N14068,American Airlines,6 Apr 1989,Scrapped,F-WWAV,068
+512,Airbus A300B4-605R,N33069,American Airlines,20 Apr 1989,Scrapped,F-WWAC,069
+513,Airbus A300B4-605R,N90070,American Airlines,27 Apr 1989,Scrapped,F-WWAX,"070, lsf GECAS"
+514,Airbus A300B4-605R,N25071,American Airlines,23 May 1989,Scrapped,F-WWAY,"071, lsf GECAS"
+515,Airbus A300B4-605R,N70072,American Airlines,1 Jun 1989,Scrapped,F-WWAZ,072
+516,Airbus A300B4-605R,N70073,American Airlines,15 Jun 1989,Scrapped,F-WWAA,"073, lsf GECAS"
+517,Airbus A300B4-605R,N70074,American Airlines,28 Jun 1989,Scrapped,F-WWAD,074
+518,Airbus A300B4-605R,EK30018,Vertir Airlines,Jan 2011,Stored,HS-TAH,
+519,Airbus A310-304,TC-SGC,Iran Airtour,27 Sep 2012,Stored,VT-EVI,
+520,Airbus A310-304,N551GA,GA Telesis,16 Jan 2014,Scrapped,VP-BTJ,
+521,Airbus A300B4-605R(F),TC-MCD,MNG Airlines,17 Jun 2013,Active,B-2306,Bora Erbil
+522,Airbus A310-304 MRTT,10+26,German Air Force,Nov 1999,Active,D-AIDE,Hans Grade
+523,Airbus A310-304 MRTT,10+27,German Air Force,17 Nov 1998,Active,D-AIDI,August Euler
+524,Airbus A310-304,EP-MMN,Mahan Airlines,7 Dec 2013,Active,EX-301,
+525,Airbus A300B4-605R(F),TC-MCE,MNG Airlines,27 Sep 2013,Active,B-2307,
+526,Airbus A310-304,EP-MMJ,Mahan Airlines,30 Nov 2014,Active,JU-1010,
+527,Airbus A310-304,C-GTSX,Air Transat,30 Jan 2007,Scrapped,D-AIDH,"346, lsf GOAL"
+528,Airbus A310-304,D-AHLB,Hapag-Lloyd,10 Jan 1990,Written Off,F-WWCE,
+529,Airbus A300B4-622R(F),N100CL,WFBN Wells Fargo Bank Northwest,15 May 2014,Stored,TF-ELF,
+530,Airbus A300B4-622R(F),N724FD,Federal Express (FedEx),13 Apr 2005,Active,F-OIHA,"Anacarina, 724"
+531,Airbus A310-304,JY-AGN,Royal Jordanian,1 Dec 2004,Scrapped,F-ODVI,Prince Faisal bin Al-Hussein
+532,Airbus A300B4-605R(F),S5-ABW,Solinair,9 Sep 2015,Active,N532UK,
+533,Airbus A300B4-622R(F),N103MT,GECAS,9 Jan 2009,Scrapped,JA01GX,
+534,Airbus A310-324(F),N814FD,Federal Express (FedEx),22 Nov 2006,Stored,N534RR,"Bailey, 814"
+535,Airbus A310-324,7O-ADJ,Yemenia - Yemen Airways,30 Oct 1999,Written Off,PP-PSE,lsf ILFC
+536,Airbus A300B4-622R(F),N749FD,Federal Express (FedEx),25 Jul 2006,Active,TF-ELD,"Lillian, 749"
+537,Airbus A310-304,F-OJHI,Mahan Airlines,6 Dec 2004,Stored,EP-MHI,
+538,Airbus A310-304(F),N538AL,Apollo Aviation,20 Mar 2012,Scrapped,VT-EQS,
+539,Airbus A310-324(F),N801FD,Federal Express (FedEx),24 Oct 2000,Stored,D-ASAD,"Amas, 801"
+540,Airbus A300B4-605R,G-MONR,Monarch Airlines,30 Jan 1992,Scrapped,VH-YMJ,
+541,Airbus A310-304,C-GTSK,Air Transat,29 Jan 2008,Scrapped,CS-TEW,347
+542,Airbus A310-324(F),N802FD,Federal Express (FedEx),15 Nov 2000,Stored,EC-HFB,"Saeed , 802"
+543,Airbus A300B4-622R(F),N723FD,Federal Express (FedEx),20 Jun 2002,Active,HL7536,"Cody, 723"
+544,Airbus A310-304(F),VT-EQT,Aryan Cargo Express,19 Feb 2010,Scrapped,F-WWCL,lsf Air India
+545,Airbus A310-304,C-GFAT,Air Transat,21 Dec 2000,Stored,A6-EKG,301
+546,Airbus A300B4-603,EP-MNT,Mahan Airlines,14 Sep 2009,Stored,EX-35007,
+547,Airbus A310-304,EP-MNF,Mahan Airlines,21 Jul 2013,Active,EK31047,
+548,Airbus A310-324,ST-ATN,Sudan Airways,14 Sep 2007,Written Off,VT-EVF,
+549,Airbus A310-324(F),N804FD,Federal Express (FedEx),1 Mar 2005,Stored,N101MP,"Paige, 804"
+550,Airbus A310-304,T.22-1,Fuerza Aerea Española (Spanish Air Force),21 Jul 2003,Active,F-WEMP,
+551,Airbus A310-304,T.22-2,Fuerza Aerea Española (Spanish Air Force),13 May 2002,Active,F-GEMQ,
+552,Airbus A310-304(F),N817FD,Federal Express (FedEx),26 May 2006,Stored,TF-ELS,"Trace, 817"
+553,Airbus A300B4-603,EP-MNQ,Mahan Airlines,Nov 2009,Stored,EX-35010,
+,,,,,,,
+554,Airbus A300B4-622R(F),A7-ABX,Qatar Airways Cargo,28 Jun 2007,Scrapped,HL7537,Al Dawha
+555,Airbus A300B4-622R(F),N750FD,Federal Express (FedEx),6 Nov 2008,Stored,F-HEEE,"Saki, 750"
+556,Airbus A300B4-605R,G-MONS,Monarch Airlines,14 Dec 2009,Scrapped,VH-YMK,
+557,Airbus A300B4-622R(F),EI-DGU,ASL Airlines Ireland,11 Feb 2016,Active,N109CL,
+558,Airbus A300B4-605R,TS-IPA,Tunisair,Mar 2000,Stored,A6-EKD,Sidi Bou Said
+559,Airbus A300B4-622R(F),N740FD,Federal Express (FedEx),13 Oct 2005,Active,F-WQTD,"Gracie, 740"
+560,Airbus A300B4-622R(F),A7-ABY,Qatar Airways Cargo,Dec 2006,Scrapped,HL7294,Fuwairit
+561,Airbus A300B4-622R(F),SU-GAS,EgyptAir Cargo,26 May 2005,Stored,F-WWAN,Cheops
+562,Airbus A310-304,TC-SGB,Saga Airlines,Dec 2012,Stored,N351LF,
+563,Airbus A300B4-605R,TS-IPB,Tunisair,17 Feb 2000,Stored,A6-EKE,Tunis
+564,Airbus A310-304,EP-MNX,Mahan Airlines,20 Aug 2009,Active,EX-35005,
+565,Airbus A310-304,EP-TBH,Taban Airlines,7 Jul 2015,Active,EY-633,
+566,Airbus A300B4-622R,HS-TAK,Thai Airways International,16 Oct 1990,Scrapped,F-WWAB,Phaya Thai
+567,Airbus A310-304,EP-MNV,Mahan Airlines,Dec 2010,Stored,EX-35003,
+568,Airbus A310-324,7O-ADR,Yemenia - Yemen Airways,29 Sep 2007,Stored,F-OGYO,Almonera / المنيرة
+569,Airbus A300B4-622R,HS-TAL,Thai Airways International,9 Nov 1990,Scrapped,F-WWAD,Sritrang
+570,Airbus A310-324,N229BA,Boeing Aircraft Holding Company,10 Nov 2003,Scrapped,9V-STV,
+571,Airbus A310-304,CS-TGU,SATA International,11 Jun 1999,Stored,F-GJKQ,Terceira
+572,Airbus A300B4-622R(F),N725FD,Federal Express (FedEx),5 Dec 2005,Active,SU-GAT,"Zebradedra, 725"
+573,Airbus A310-304,CS-TDI,White,20 Dec 2010,Scrapped,JY-AGK,lsf Macquarie AirFinance
+574,Airbus A310-324,UK-31001,Uzbekistan Airways,7 Sep 1997,Stored,F-OGQY,Tashkent
+575,Airbus A300B4-622R(F),N726FD,Federal Express (FedEx),24 Mar 2006,Active,SU-GAU,"Wyatt, 726"
+576,Airbus A310-324,UK-31002,Uzbekistan Airways,10 Apr 1998,Stored,F-OGQZ,Fergana
+577,Airbus A300B4-622R,HS-TAM,Thai Airways International,4 Dec 1990,Preserved,F-WWAG,Chiang Mai
+578,Airbus A300B4-622R,B-1814,China Airlines,14 Dec 1990,Written Off,F-WWAH,
+579,Airbus A300B4-622R(F),N727FD,Federal Express (FedEx),8 Jul 2005,Active,SU-GAV,"Mira, 727"
+580,Airbus A300B4-622R,B-1816,China Airlines,2 Feb 1991,Written Off,F-WWAK,
+581,Airbus A300B4-622R(F),N728FD,Federal Express (FedEx),28 Sep 2005,Stored,SU-GAW,"Casie, 728"
+582,Airbus A300B4-622R,N807AS,AerSale Inc,18 Oct 2012,Scrapped,HL7295,
+583,Airbus A300B4-622R,HL7296,Korean Air Lines,26 Feb 1991,Written Off,F-WWAO,
+584,Airbus A300B4-605R,EP-FQK,Qeshm Airlines,18 May 2013,Active,TC-OAH,
+585,Airbus A310-308,AP-BDZ,PIA Pakistan International Airlines,25 Jun 1991,Stored,F-WWCH,
+586,Airbus A310-304,EP-MMP,Mahan Airlines,2 Mar 2015,Active,F-OJHH,
+587,Airbus A310-308,AP-BEB,PIA Pakistan International Airlines,26 Jul 1991,Stored,F-WWCT,
+588,Airbus A310-308,C-GLAT,Air Transat,26 Mar 2001,Stored,A6-EKI,302
+589,Airbus A310-324,N68096,Federal Express (FedEx),2 Jun 2006,Scrapped,N285BA,
+590,Airbus A310-308,AP-BEC,PIA Pakistan International Airlines,2 Sep 1991,Stored,F-WWCX,
+591,Airbus A310-324,HS-TYQ,Royal Thai Air Force,5 Nov 1991,Stored,F-WWCH,60201
+592,Airbus A310-308(F),TC-SGM,ULS Airlines Cargo,1 May 2013,Active,A6-EFB,Serdar
+593,Airbus A310-304(F),N816FD,Federal Express (FedEx),23 Nov 2005,Stored,F-OGQR,"Phoenix, 816"
+594,Airbus A310-324,S2-ADK,Biman Bangladesh Airlines,17 Oct 2003,Scrapped,N594RC,
+595,Airbus A310-304,EP-MNO,Mahan Airlines,29 May 2010,Stored,EK-31095,
+596,Airbus A310-308,F-OGQS,Aeroflot - Russian Airlines,11 Dec 1992,Written Off,F-WWCS,Glinka
+597,Airbus A310-308,C-GPAT,Air Transat,16 May 2001,Stored,A6-EKJ,303
+598,Airbus A310-304,N598HS,GA Telesis,9 Mar 2009,Scrapped,VT-EVW,
+599,Airbus A310-308,C-GTSH,Air Transat,6 Apr 2004,Stored,D-AIDN,343
+600,Airbus A310-308,C-GSAT,Air Transat,8 Aug 2001,Stored,5Y-KQM,304
+601,Airbus A300B4-622R,5A-DLY,Libyan Airlines,20 Jul 2007,Stored,TS-IAX,
+602,Airbus A300B4-622R(F),D-AEAC,EAT Leipzig,18 Jun 2013,Active,N4602,
+603,Airbus A300B4-605R,EP-FQM,Qeshm Airlines,18 May 2013,Active,TC-OAZ,FS Perspolis cs
+604,Airbus A300B4-605R,G-MAJS,Monarch Airlines,26 Apr 1991,Scrapped,F-WWAX,
+605,Airbus A300B4-605R,G-OJMR,Monarch Airlines,3 May 1991,Scrapped,F-WWAY,
+606,Airbus A300B4-605R,N3075A,American Airlines,23 May 1991,Scrapped,F-WWAA,075
+,,,,,,,
+607,Airbus A300B4-622R(F),SU-GAY,EgyptAir Cargo,Sep 2006,Stored,F-WWAB,Seti I
+608,Airbus A300B4-605R,EP-MNU,Iran Airtour,16 Mar 2020,Active,EX-35006,
+609,Airbus A300B4-622R,N642AS,AerSale Inc,30 Oct 2012,Scrapped,HL7297,
+610,Airbus A300B4-605R,N7076A,American Airlines,11 Jul 1991,Scrapped,F-WWAF,076
+611,Airbus A300B4-622R(F),N741FD,Federal Express (FedEx),5 Nov 2007,Active,A7-AFC,"Serena, 741"
+612,Airbus A300B4-605R,N14077,American Airlines,29 Aug 1991,Scrapped,F-WWAH,077
+613,Airbus A300B4-622R(F),N742FD,Federal Express (FedEx),14 Nov 2007,Active,A7-AFD,"Britton, 742"
+614,Airbus A300B4-622R(F),A7-AFB,Qatar Airways Cargo,1 Nov 2002,Scrapped,HL7298,Al’Arish
+615,Airbus A300B4-605R,N34078,American Airlines,27 Sep 1991,Scrapped,F-WWAO,078
+616,Airbus A300B4-622R,5A-DLZ,Libyan Airlines,Dec 2006,Written Off,TS-IAZ,
+617,Airbus A300B4-622R(F),D-AEAD,EAT Leipzig,24 Apr 2013,Active,N2617,
+618,Airbus A300B4-603,EP-MNK,Mahan Airlines,30 Jun 2010,Stored,D-AIAT,
+619,Airbus A300B4-605R,N70079,American Airlines,9 Dec 1991,Scrapped,F-WWAU,079
+620,Airbus A310-304,EP-MNP,Mahan Airlines,Oct 2010,Stored,EX-35004,
+621,Airbus A300B4-622R(F),D-AEAG,EAT Leipzig,30 Nov 2011,Active,N2621,
+622,Airbus A310-308(F),TC-VEL,ULS Airlines Cargo,3 Jul 2009,Active,A6-EFC,Adiyaman
+623,Airbus A300B4-603,EP-MNL,Mahan Airlines,30 Jun 2010,Stored,D-AIAU,
+624,Airbus A310-325,CS-TKN,SATA International,21 Apr 2007,Scrapped,TF-ELR,Macaronésia
+625,Airbus A300B4-622R(F),N751FD,Federal Express (FedEx),5 Feb 2009,Active,F-HDDD,"Tey, 751"
+626,Airbus A300B4-605R(F),XA-GGL,AeroUnion,Mar 2017,Active,ER-JIL,
+627,Airbus A300B4-622R,HL7239,Korean Air Lines,26 Mar 1992,Stored,F-WWAD,
+628,Airbus A300B4-622R,HS-TAN,Thai Airways International,7 Apr 1992,Scrapped,F-WWAE,Chiang Rai
+629,Airbus A300B4-622R,HS-TAO,Thai Airways International,21 Apr 1992,Preserved,F-WWAF,Chanthaburi
+630,Airbus A300B4-622R(F),N743FD,Federal Express (FedEx),26 Feb 2008,Active,A7-AFA,"Gita, 743"
+631,Airbus A300B4-622R,HL7240,Korean Air Lines,19 May 1992,Stored,F-WWAB,
+632,Airbus A300B4-605R,EP-IBC,Iran Air,1 Mar 2005,Stored,SX-BEK,
+633,Airbus A300B4-622R(F),N748FD,Federal Express (FedEx),13 Nov 2006,Active,N633AN,"Dereon, 748"
+634,Airbus A310-324,N68097,Federal Express (FedEx),15 Sep 2006,Scrapped,N266BA,
+635,Airbus A300B4-622R,HS-TAP,Thai Airways International,29 Jun 1992,Scrapped,F-WWAP,Pathum Thani
+636,Airbus A310-325,EK-31001,Armenia Airways,20 Jun 2018,Stored,YR-LCA,
+637,Airbus A300B4-622R(F),D-AEAI,EAT Leipzig,27 Feb 2013,Active,N3740,
+638,Airbus A310-324(F),N815FD,Federal Express (FedEx),25 Mar 2005,Stored,F-OJAF,"Tommy, 815"
+639,Airbus A300B4-605R,N59081,American Airlines,24 Jul 1992,Scrapped,F-WWAV,081
+640,Airbus A310-325,N391LF,ILFC,19 May 2010,Scrapped,LV-AIV,
+641,Airbus A300B4-622R(F),D-AEAJ,EAT Leipzig,8 Apr 2013,Active,N5641,
+642,Airbus A310-325,S2-AFT,Biman Bangladesh Airlines,25 Feb 2010,Scrapped,N301LF,lsf ILFC
+643,Airbus A300B4-605R(F),XA-UYR,AeroUnion,Jan 2017,Active,ER-JIM,
+644,Airbus A310-325,EY-707,Asia Sky Lines,23 Jan 2020,Stored,EK-31002,
+645,Airbus A300B4-605R,N7083A,American Airlines,2 Oct 1992,Scrapped,F-WWAO,083
+646,Airbus A310-308(F),TC-LER,ULS Airlines Cargo,16 Oct 2008,Active,A6-EFA,Aras
+647,Airbus A310-308,9K-ALA,Kuwait Airways,19 May 1993,Scrapped,F-WWCQ,Al-Jahra
+648,Airbus A310-308,T7-FTH,Private,Oct 2017,Active,9K-PBD,
+649,Airbus A310-308,9K-ALB,Kuwait Airways,18 Jun 1993,Scrapped,F-WWCV,Gharnada
+650,Airbus A310-325,F-HBOY,Blue Line,28 Apr 2009,Scrapped,S2-ADH,lsf AFS
+651,Airbus A310-304,CS-TGV,SATA International,16 Feb 2000,Stored,TU-TAD,S. Miguel
+652,Airbus A310-304,SU-MWA,Midwest Airlines,Sep 2001,Stored,F-GJKW,Almahrousa
+653,Airbus A310-308,AP-BEG,PIA Pakistan International Airlines,23 Sep 1992,Stored,F-WWCZ,
+654,Airbus A310-324,D-ALAD,Elbe Flugzeugwerke (EFW),Mar 2010,Scrapped,N818FD,
+655,Airbus A300B4-608ST,F-GSTA,Airbus Transport International,25 Oct 1995,Active,F-WAST,1
+656,Airbus A310-308,AP-BEQ,PIA Pakistan International Airlines,21 Dec 1993,Stored,F-WWCB,
+657,Airbus A300B4-622R(F),N729FD,Federal Express (FedEx),8 Apr 2005,Active,TF-ELU,"Kaylee, 729"
+658,Airbus A310-308,C-FDAT,Air Transat,3 Apr 2002,Scrapped,A6-EKK,305
+659,Airbus A300B4-622R(F),N730FD,Federal Express (FedEx),17 Mar 2005,Active,TF-ELB,"Kailey, 730"
+,,,,,,,
+660,Airbus A310-324,AP-BGQ,PIA Pakistan International Airlines,26 May 2004,Stored,F-OGYT,lsf AFS
+661,Airbus A310-304,CS-TKM,SATA International,6 May 2005,Scrapped,JY-AGL,lsf AerCap
+662,Airbus A300B4-622R,HL7241,Korean Air Lines,12 Jan 1993,Scrapped,F-WWAT,
+663,Airbus A310-308,9K-ALC,Kuwait Airways,28 Apr 2002,Scrapped,JY-AGT,Kazma
+664,Airbus A300B4-622R(F),N744FD,Federal Express (FedEx),30 Apr 2008,Active,A7-ABN,"Grace, 744"
+665,Airbus A310-324,VT-AIA,Air India,8 Dec 2003,Scrapped,9V-STA,Tapti
+666,Airbus A300B4-622R,ST-ATB,Sudan Airways,24 May 2006,Active,TF-ELB,Elburag
+667,Airbus A310-308,D-AAAM,German Aircraft Maintenance GmbH,May 2018,Scrapped,A7-AFE,
+668,Airbus A300B4-622R(F),N745FD,Federal Express (FedEx),5 Nov 2007,Active,A7-ABO,"Viola, 745"
+669,Airbus A310-324,D-ALAE,Elbe Flugzeugwerke (EFW),14 Dec 2009,Scrapped,N819FD,
+670,Airbus A300B4-622R(F),D-AEAK,EAT Leipzig,3 Jul 2012,Active,N2670,
+671,Airbus A310-304,EP-IBK,Iran Air,22 Jan 2004,Active,SU-MWB,
+672,Airbus A310-325,S2-AFF,United Airways,5 Oct 2010,Stored,M-ABCX,
+673,Airbus A300B4-605R,9K-AMA,Kuwait Airways,28 May 1993,Scrapped,F-WWAQ,Failaka
+674,Airbus A310-325,S2-AFW,United Airways,23 Dec 2011,Stored,F-HBOS,lsf Phoenix Aircraft Leasing & Sales
+675,Airbus A300B4-605R,N80084,American Airlines,19 Feb 1993,Scrapped,F-WWAE,084
+676,Airbus A310-324,AP-BGN,PIA Pakistan International Airlines,25 Mar 2004,Stored,F-WQTG,lsf AFS
+677,Airbus A300B4-622R(F),EI-EXR,ASL Airlines Ireland,15 May 2015,Active,B-MBJ,
+678,Airbus A310-324,AP-BGO,PIA Pakistan International Airlines,27 Dec 2003,Stored,6Y-JAC,lsf AFS
+679,Airbus A300B4-622R(F),D-AEAL,EAT Leipzig,26 Mar 2012,Active,N4679,
+680,Airbus A310-324,VT-AIB,Air India,2 Mar 2004,Scrapped,9V-STC,Pennar
+681,Airbus A300B4-622R,HS-TAR,Thai Airways International,18 Mar 1993,Stored,F-WWAB,Yasothorn
+682,Airbus A310-324,AP-BGP,PIA Pakistan International Airlines,8 Mar 2004,Stored,F-WQTF,lsf AFS
+683,Airbus A300B4-622R(F),D-AZMK,EAT Leipzig,17 Jan 2020,Active,B-LDM,
+684,Airbus A310-324(F),M-YRGR,Veling,4 Jul 2011,Scrapped,VT-AIN,
+685,Airbus A300B4-622R,HL7242,Korean Air Lines,8 Apr 1993,Stored,F-WWAJ,
+686,Airbus A310-324,N841AB,Airbus Financial Services (AFS),15 Jan 2010,Scrapped,F-WJKF,
+687,Airbus A310-324,AP-BGR,PIA Pakistan International Airlines,12 Jul 2004,Stored,F-OGYU,lsf AFS
+688,Airbus A300B4-622R(F),N746FD,Federal Express (FedEx),12 Nov 2008,Active,A7-ABW,"Lucy, 746"
+689,Airbus A310-324,AP-BGS,PIA Pakistan International Airlines,29 Jun 2004,Stored,F-OGYV,lsf AFS
+690,Airbus A300B4-622R,A7-ABV,Qatar Airways,4 Apr 2000,Written Off,VH-CLL,lsf AWAS
+691,Airbus A310-308,AP-BEU,PIA Pakistan International Airlines,11 May 1994,Stored,F-WWCD,
+692,Airbus A300B4-622R,N692XD,Intrepid Aviation Partners (IAP),12 Jun 2012,Scrapped,HL7243,
+693,Airbus A310-324(F),M-YRGS,Veling,30 Jun 2011,Scrapped,VT-AIO,
+694,Airbus A300B4-605R,9K-AMB,Kuwait Airways,8 Jul 1993,Scrapped,F-WWAV,Burghan
+695,Airbus A310-304,VT-EVX,Air India,20 Dec 2002,Scrapped,F-WIHR,"Luni, lsf ALAFCO"
+696,Airbus A300B4-605R,EP-IBD,Iran Air,1 Mar 2005,Stored,SX-BEL,
+697,Airbus A310-324(F),M-YRGT,Veling,30 Jun 2011,Scrapped,VT-AIP,
+698,Airbus A310-325,S2-ADE,Biman Bangladesh Airlines,13 Jun 1996,Written Off,F-WWCF,City of Hazrat Khan Jahan Ali
+699,Airbus A300B4-605R,9K-AMC,Kuwait Airways,22 Jul 1993,Scrapped,F-WWAM,Wafra
+700,Airbus A310-325,S2-ADF,Biman Bangladesh Airlines,19 Aug 1996,Scrapped,F-WWCB,City of Chittagong
+701,Airbus A300B4-605R,EP-MDN,Iran Airtour,26 Nov 2019,Active,EP-MNN,
+702,Airbus A310-325,7O-ADV,Yemenia - Yemen Airways,4 Nov 2009,Stored,F-OHPR,
+703,Airbus A300B4-622R(F),D-AEAN,EAT Leipzig,22 Aug 2012,Stored,N4703,
+704,Airbus A310-325,7O-ADW,Yemenia - Yemen Airways,4 Nov 2009,Stored,F-OHPS,
+705,Airbus A300B4-622R,HS-TAS,Thai Airways International,5 Oct 1993,Scrapped,F-WWAT,Yala
+706,Airbus A310-324,EY-704,Asia Sky Lines,2 Nov 2019,Stored,UK-31003,
+707,Airbus A300B4-605R(F),B-2318,Uni-Top Airlines,14 May 2015,Stored,F-WWAU,lsf CQRC Financial Leasing
+709,Airbus A300B4-605R(F),N731FD,Federal Express (FedEx),21 Jul 2006,Active,B-2320,"Bryan, 731"
+711,Airbus A300B4-622R(F),D-AEAO,EAT Leipzig,18 Oct 2011,Active,N7151,
+713,Airbus A300B4-605R(F),N732FD,Federal Express (FedEx),29 Aug 2006,Active,B-2321,"Safaa, 732"
+715,Airbus A300B4-605R(F),N733FD,Federal Express (FedEx),12 Dec 2006,Active,B-2322,"Lily, 733"
+717,Airbus A300B4-622R(F),EI-OZL,ASL Airlines Ireland,1 Sep 2015,Active,HL7299,
+,,,,,,,
+719,Airbus A300B4-605R,9K-AMD,Kuwait Airways,21 Jan 1994,Scrapped,F-WWAB,Wara
+721,Airbus A300B4-605R,9K-AME,Kuwait Airways,1 Feb 1994,Scrapped,F-WWAG,Al-Rawdhatain
+722,Airbus A300B4-622R(F),EI-OZM,ASL Airlines Ireland,28 Aug 2015,Active,HL7244,
+723,Airbus A300B4-605R,EP-IBA,Iran Air,27 Dec 1994,Active,F-WWAL,
+724,Airbus A300B4-622R(F),D-AEAP,EAT Leipzig,2 Feb 2012,Active,N1724,
+725,Airbus A300B4-605R(F),B-2324,Uni-Top Airlines,14 May 2015,Stored,F-WWAR,
+726,Airbus A300F4-605R,N650FE,Federal Express (FedEx),24 May 1994,Active,F-WWAP,"Molly Mickler, 650"
+727,Airbus A300B4-605R,EP-IBB,Iran Air,27 Dec 1994,Stored,F-WWAZ,
+728,Airbus A300F4-605R,N651FE,Federal Express (FedEx),28 Apr 1994,Active,F-WWAJ,"Diane Kathleen, 651"
+729,Airbus A300B4-622R(F),D-AEAQ,EAT Leipzig,26 Jul 2012,Active,N3729,
+730,Airbus A300B4-622R(F),D-AEAR,EAT Leipzig,17 Sep 2012,Active,N4730,
+731,Airbus A300B4-622R,N731XD,Bank of Utah,9 Jul 2012,Scrapped,HL7245,
+732,Airbus A300B4-605R(F),B-2319,Uni-Top Airlines,14 May 2015,Stored,F-WWAT,lsf Lesso Financial Leasing
+733,Airbus A300B4-622R(F),T7-ASK,San Marino Executive Aviation,17 Oct 2019,Active,VQ-BNW,lsf SR Air Leasing
+734,Airbus A300B4-622R(F),TC-MCC,MNG Airlines,11 Jan 2013,Active,N734JJ,
+735,Airbus A300F4-605R,N652FE,Federal Express (FedEx),20 Jul 1994,Active,F-WWAN,"Rachel Patricia, 652"
+736,Airbus A300F4-605R,N653FE,Federal Express (FedEx),28 Jul 1994,Active,F-WWAD,"Samantha Massey, 653"
+737,Airbus A300B4-622R(F),D-AEAS,EAT Leipzig,3 Jul 2012,Active,N4737,
+738,Airbus A300F4-605R,N654FE,Federal Express (FedEx),28 Sep 1994,Active,F-WWAX,"Richard, 654"
+739,Airbus A300B4-622R(F),TC-MCG,MNG Airlines,23 Dec 2013,Active,N739AA,
+740,Airbus A300B4-622R(F),D-AEAT,EAT Leipzig,23 May 2012,Active,N3637,
+741,Airbus A300B4-605R(F),B-2317,Uni-Top Airlines,14 May 2015,Stored,F-WWAY,lsf GDG Financial Leasing
+742,Airbus A300F4-605R,N655FE,Federal Express (FedEx),21 Nov 1994,Active,F-WWAJ,"Dion, 655"
+743,Airbus A300B4-622R(F),D-AEAA,EAT Leipzig,27 Jan 2016,Stored,EI-EYK,
+744,Airbus A300B4-605R,EP-FQL,Qeshm Airlines,18 May 2013,Stored,TC-OAA,
+745,Airbus A300F4-605R,N656FE,Federal Express (FedEx),21 Feb 1995,Active,F-WWAP,"Devin, 656"
+746,Airbus A300B4-605R(F),B-2325,Uni-Top Airlines,10 Dec 2014,Stored,F-WWAA,lsf China Huarong
+747,Airbus A300B4-605R,TC-OAG,Saudi Arabian Airlines,Jul 2009,Written Off,F-OHLN,lsf Onur Air
+748,Airbus A300F4-605R,N657FE,Federal Express (FedEx),2 Mar 1995,Active,F-WWAM,"Lizzie, 657"
+749,Airbus A300B4-605R,EP-FQN,Qeshm Airlines,18 May 2013,Active,TC-OAB,
+750,Airbus A300B4-622R,EP-SIG,Meraj Airlines,19 Sep 2011,Stored,B-2327,United to Conserve (Asiatic Cheetah) cs
+751,Airbus A300B4-608ST,F-GSTB,Airbus Transport International,22 Apr 1996,Active,F-WSTB,2
+752,Airbus A300F4-605R,N658FE,Federal Express (FedEx),4 May 1995,Active,F-WWAE,"Tristian, 658"
+753,Airbus A300B4-622R(F),D-AEAE,EAT Leipzig,25 Oct 2012,Active,N4753,
+754,Airbus A300B4-605R(F),B-2326,Uni-Top Airlines,14 May 2015,Stored,F-WWAY,lsf CQRC Financial Leasing
+755,Airbus A300C4-605R,XA-LFR,AeroUnion,4 Jun 2019,Active,S2-AIG,
+756,Airbus A300B4-622R(F),S5-ABO,Solinair,9 Nov 2018,Active,TC-MCH,
+757,Airbus A300F4-605R,N659FE,Federal Express (FedEx),31 Jul 1995,Active,F-WWAF,"Calvin, 659"
+758,Airbus A300C4-605R,TC-MNV,MNG Airlines,12 Sep 2008,Active,TF-ELG,lsf ALS Irish Aircraft Leasing
+759,Airbus A300F4-605R,N660FE,Federal Express (FedEx),20 Sep 1995,Active,F-WWAG,"Zack, 660"
+760,Airbus A300F4-605R,N661FE,Federal Express (FedEx),25 Oct 1995,Active,F-WWAL,"Whitney, 661"
+761,Airbus A300F4-605R,N662FE,Federal Express (FedEx),23 Sep 1996,Active,F-WWAK,"Vanesse, 662"
+762,Airbus A300B4-622R,EP-SIF,Meraj Airlines,2012,Active,ZS-TSA,United to Conserve (Asiatic Cheetah) cs
+763,Airbus A300B4-605R(F),B-2330,Uni-Top Airlines,10 Dec 2014,Stored,F-WWAH,lsf China Huarong Asset Management
+764,Airbus A300B4-605R,EP-FQO,Qeshm Airlines,18 May 2013,Active,TC-OAO,
+765,Airbus A300B4-608ST,F-GSTC,Airbus Transport International,7 May 1997,Active,F-WSTC,3
+766,Airbus A300F4-605R,N663FE,Federal Express (FedEx),29 Nov 1995,Active,F-WWAG,"Domenick, 663"
+767,Airbus A300B4-622R(F),A6-MXB,Maximus Air Cargo,5 Jan 2009,Scrapped,TF-ELE,
+768,Airbus A300F4-605R,N664FE,Federal Express (FedEx),20 Feb 1996,Active,F-WWAA,"Avery, 664"
+769,Airbus A300F4-605R,N665FE,Federal Express (FedEx),19 Mar 1996,Active,F-WWAM,"Ethan, 665"
+770,Airbus A300B4-622R(F),B-LDN,Air Hong Kong,23 Mar 2015,Active,EI-OZJ,
+771,Airbus A300F4-605R,N667FE,Federal Express (FedEx),28 Aug 1996,Active,F-WWAF,"Sean, 667"
+772,Airbus A300F4-605R,N668FE,Federal Express (FedEx),14 May 1996,Active,F-WWAP,"Ramsay, 668"
+,,,,,,,
+773,Airbus A300B4-605R,EP-MNM,Iran Airtour,10 Mar 2019,Active,D-AIAX,
+774,Airbus A300F4-605R,N669FE,Federal Express (FedEx),25 Jun 1996,Active,F-WWAE,"Kaitlyn, 669"
+775,Airbus A300B4-622R,ST-ATA,Sudan Airways,29 Mar 2006,Stored,TF-ELC,
+776,Airbus A300B4-608ST,F-GSTD,Airbus Transport International,18 Dec 1998,Active,F-WSTD,4
+777,Airbus A300F4-605R,N670FE,Federal Express (FedEx),9 Jun 1997,Active,F-WWAQ,"Amrit, 670"
+778,Airbus A300F4-605R,N671FE,Federal Express (FedEx),6 Jul 1997,Active,F-WWAV,"Caleb, 671"
+779,Airbus A300F4-605R,N672FE,Federal Express (FedEx),19 Aug 1997,Active,F-WWAZ,"Yang Jae, 672"
+780,Airbus A300F4-605R,N673FE,Federal Express (FedEx),28 Aug 1997,Active,F-WWAU,"Mark, 673"
+781,Airbus A300F4-605R,N674FE,Federal Express (FedEx),18 Sep 1997,Active,F-WWAN,"Thea, 674"
+782,Airbus A300B4-622R,N782AS,AerSale Inc,4 Sep 2015,Scrapped,HS-TAT,
+783,Airbus A300B4-622R(F),D-AEAH,EAT Leipzig,21 Dec 2012,Active,N5783,
+784,Airbus A300B4-622R,N984AS,AerSale Inc,29 Jul 2015,Scrapped,HS-TAW,
+785,Airbus A300B4-622R,N545AS,AerSale Inc,21 Aug 2015,Scrapped,HS-TAX,
+786,Airbus A300B4-622R,N668AS,AerSale Inc,11 Aug 2015,Scrapped,HS-TAY,
+787,Airbus A300B4-622R,N720AS,AerSale Inc,21 Jul 2015,Scrapped,HS-TAZ,
+788,Airbus A300B4-622R(F),5A-ONS,Afriqiyah Airways,Jul 2016,Stored,VP-BSK,
+789,Airbus A300F4-605R,N675FE,Federal Express (FedEx),18 Jun 1998,Active,F-WWAZ,"Byron, 675"
+790,Airbus A300F4-605R,N676FE,Federal Express (FedEx),15 Jul 1998,Active,F-WWAV,"Jade, 676"
+791,Airbus A300F4-605R,N677FE,Federal Express (FedEx),27 Aug 1998,Active,F-WWAD,"Clifford, 677"
+792,Airbus A300F4-605R,N678FE,Federal Express (FedEx),22 Sep 1998,Active,F-WWAF,"Allison, 678"
+793,Airbus A300F4-605R,N679FE,Federal Express (FedEx),22 Oct 1998,Active,F-WWAG,"Ty, 679"
+794,Airbus A300F4-605R,N680FE,Federal Express (FedEx),17 Nov 1998,Active,F-WWAH,"Tierney, 680"
+795,Airbus A300F4-605R,-,Airbus Industrie,,Not Built,,
+796,Airbus A300B4-608ST,F-GSTF,Airbus Transport International,5 Jan 2001,Active,,5
+797,Airbus A300B4-622R(F),D-AEAM,EAT Leipzig,20 Dec 2013,Active,A6-NIN,
+798,Airbus A300B4,-,Airbus Industrie,,Not Built,,
+799,Airbus A300F4-605R,N681FE,Federal Express (FedEx),18 May 1999,Active,F-WWAJ,"Kaci, 681"
+800,Airbus A300F4-605R,N682FE,Federal Express (FedEx),3 Jun 1999,Active,F-WWAK,"Gabrial, 682"
+801,Airbus A300F4-605R,N683FE,Federal Express (FedEx),28 Jul 1999,Active,F-WWAL,"Gianna, 683"
+802,Airbus A300F4-605R,N684FE,Federal Express (FedEx),20 Aug 1999,Active,F-WWAM,"Daniel, 684"
+803,Airbus A300F4-605R,N685FE,Federal Express (FedEx),28 May 2003,Active,F-WWAB,"Landon Ostlie, 685"
+804,Airbus A300F4-605R,N686FE,Federal Express (FedEx),19 Oct 1999,Active,F-WWAO,"Alex, 686"
+805,Airbus A300F4-622R,N120UP,United Parcel Service (UPS),25 Jul 2000,Active,F-WWAR,
+806,Airbus A300F4-622R,N121UP,United Parcel Service (UPS),21 Sep 2000,Active,F-WWAP,
+807,Airbus A300F4-622R,N122UP,United Parcel Service (UPS),12 Sep 2000,Active,F-WWAX,
+808,Airbus A300F4-622R,N124UP,United Parcel Service (UPS),20 Oct 2000,Active,F-WWAT,
+809,Airbus A300F4-622R,N125UP,United Parcel Service (UPS),30 Oct 2000,Active,F-WWAU,
+810,Airbus A300F4-622R,N126UP,United Parcel Service (UPS),29 Nov 2000,Active,F-WWAB,
+811,Airbus A300F4-622R,N127UP,United Parcel Service (UPS),8 Dec 2000,Active,F-WWAD,
+812,Airbus A300F4-622R,N128UP,United Parcel Service (UPS),7 Mar 2001,Active,F-WWAE,
+813,Airbus A300F4-622R,N129UP,United Parcel Service (UPS),30 Mar 2001,Active,F-WWAF,
+814,Airbus A300F4-622R,N130UP,United Parcel Service (UPS),4 May 2001,Active,F-WWAG,
+815,Airbus A300F4-622R,N131UP,United Parcel Service (UPS),30 May 2001,Active,F-WWAH,
+816,Airbus A300F4-622R,N133UP,United Parcel Service (UPS),12 Jun 2001,Active,F-WWAJ,
+817,Airbus A300F4-622R,N134UP,United Parcel Service (UPS),6 Jul 2001,Active,F-WWAL,
+818,Airbus A300F4-622R,N135UP,United Parcel Service (UPS),23 Aug 2001,Active,F-WWAM,
+819,Airbus A300F4-622R,N136UP,United Parcel Service (UPS),30 Aug 2001,Active,F-WWAN,
+820,Airbus A300F4-622R,N137UP,United Parcel Service (UPS),28 Sep 2001,Stored,F-WWAO,
+821,Airbus A300F4-622R,N138UP,United Parcel Service (UPS),18 Oct 2001,Active,F-WWAQ,
+822,Airbus A300F4-622R,N139UP,United Parcel Service (UPS),25 Oct 2001,Active,F-WWAS,
+823,Airbus A300F4-622R,N140UP,United Parcel Service (UPS),25 Jan 2002,Active,F-WWAV,
+824,Airbus A300F4-622R,N141UP,United Parcel Service (UPS),26 Feb 2002,Active,F-WWAY,
+825,Airbus A300F4-622R,N142UP,United Parcel Service (UPS),14 Feb 2002,Active,F-WWAA,
+,,,,,,,
+826,Airbus A300F4-622R,N143UP,United Parcel Service (UPS),15 Mar 2002,Active,F-WWAB,
+827,Airbus A300F4-622R,N144UP,United Parcel Service (UPS),19 Apr 2002,Active,F-WWAD,
+828,Airbus A300F4-622R,N145UP,United Parcel Service (UPS),23 May 2002,Active,F-WWAE,
+829,Airbus A300F4-622R,N146UP,United Parcel Service (UPS),5 Feb 2003,Active,F-WWAG,
+830,Airbus A300F4-622R,N147UP,United Parcel Service (UPS),7 Feb 2003,Active,F-WWAJ,
+831,Airbus A300F4-622R,N148UP,United Parcel Service (UPS),13 Mar 2003,Active,F-WWAM,
+832,Airbus A300F4-622R,N149UP,United Parcel Service (UPS),14 May 2003,Active,F-WWAN,
+833,Airbus A300F4-622R,N150UP,United Parcel Service (UPS),15 May 2003,Active,F-WWAO,
+834,Airbus A300F4-622R,N151UP,United Parcel Service (UPS),4 Jun 2003,Active,F-WWAP,
+835,Airbus A300F4-622R,N152UP,United Parcel Service (UPS),24 Jul 2003,Active,F-WWAQ,
+836,Airbus A300B4-622R(F),D-AEAF,EAT Leipzig,18 Oct 2013,Active,A6-SUL,
+837,Airbus A300B4-622R(F),D-AEAB,EAT Leipzig,18 Nov 2013,Active,A6-HAZ,
+838,Airbus A300B4-622R,EP-MMO,Mahan Airlines,8 Dec 2013,Stored,EX-35011,
+839,Airbus A300F4-622R,N153UP,United Parcel Service (UPS),28 Aug 2003,Active,F-WWAR,
+840,Airbus A300F4-622R,N154UP,United Parcel Service (UPS),5 Feb 2004,Active,F-WWAS,
+841,Airbus A300F4-622R,N155UP,United Parcel Service (UPS),13 Feb 2004,Written Off,F-WWAT,
+845,Airbus A300F4-622R,N156UP,United Parcel Service (UPS),11 Mar 2004,Active,F-WWAU,
+846,Airbus A300F4-622R,N157UP,United Parcel Service (UPS),13 May 2004,Active,F-WWAV,
+847,Airbus A300F4-622R,N158UP,United Parcel Service (UPS),17 Jun 2004,Active,F-WWAX,
+848,Airbus A300F4-622R,N159UP,United Parcel Service (UPS),16 Jul 2004,Active,F-WWAZ,
+849,Airbus A300F4-622R,N160UP,United Parcel Service (UPS),9 Sep 2004,Active,F-WWAF,
+850,Airbus A300F4-622R,N161UP,United Parcel Service (UPS),21 Oct 2004,Active,F-WWAG,
+851,Airbus A300F4-622R,N162UP,United Parcel Service (UPS),27 Jan 2005,Active,F-WWAJ,
+852,Airbus A300F4-622R,N163UP,United Parcel Service (UPS),17 Feb 2005,Active,F-WWAK,
+853,Airbus A300F4-622R,N164UP,United Parcel Service (UPS),7 Jul 2005,Active,F-WWAL,
+854,Airbus A300F4-622R,N165UP,United Parcel Service (UPS),19 May 2005,Active,F-WWAM,
+855,Airbus A300F4-605R,B-LDA,Air Hong Kong,3 Sep 2004,Active,F-WWAN,
+856,Airbus A300F4-605R,B-LDB,Air Hong Kong,7 Oct 2004,Active,F-WWAP,
+857,Airbus A300F4-605R,B-LDC,Air Hong Kong,9 Nov 2004,Active,F-WWAQ,
+858,Airbus A300F4-605R,B-LDD,Air Hong Kong,10 Dec 2004,Active,F-WWAR,
+859,Airbus A300F4-605R,B-LDE,Air Hong Kong,7 Feb 2005,Active,F-WWAS,
+860,Airbus A300F4-605R,B-LDF,Air Hong Kong,11 Mar 2005,Active,F-WWAT,
+861,Airbus A300F4-622R,N166UP,United Parcel Service (UPS),23 Jun 2005,Active,F-WWAU,
+862,Airbus A300F4-622R,N167UP,United Parcel Service (UPS),28 Jul 2005,Active,F-WWAH,
+863,Airbus A300F4-622R,N168UP,United Parcel Service (UPS),25 Aug 2005,Active,F-WWAV,
+864,Airbus A300F4-622R,N169UP,United Parcel Service (UPS),19 Jan 2006,Active,F-WWAX,
+865,Airbus A300F4-622R,N170UP,United Parcel Service (UPS),9 Feb 2006,Active,F-WWAZ,
+866,Airbus A300F4-622R,N171UP,United Parcel Service (UPS),16 Mar 2006,Active,F-WWAE,
+867,Airbus A300F4-622R,N172UP,United Parcel Service (UPS),5 May 2006,Active,F-WWAF,
+868,Airbus A300F4-622R,F-WWSX,Airbus Industrie,12 Mar 2019,Active,N173UP,lsf United Parcel Service (UPS)
+869,Airbus A300F4-622R,N174UP,United Parcel Service (UPS),3 Aug 2006,Active,F-WWAN,
+870,Airbus A300F4-605R,B-LDG,Air Hong Kong,19 May 2006,Active,F-WWAJ,
+871,Airbus A300F4-605R,B-LDH,Air Hong Kong,22 Jun 2006,Stored,F-WWAK,
+872,Airbus A300F4-622R,D-AZMO,EAT Leipzig,20 Apr 2015,Stored,N140MN,
+873,Airbus A300F4-605R,N687FE,Federal Express (FedEx),14 Feb 2007,Active,F-WWAO,"Aika, 687"
+874,Airbus A300F4-605R,N688FE,Federal Express (FedEx),20 Mar 2007,Active,F-WWAP,"Kaitlin, 688"
+875,Airbus A300F4-605R,N689FE,Federal Express (FedEx),5 Jun 2007,Active,F-WWAQ,"Christoff, 689"
+876,Airbus A300F4-605R,N690FE,Federal Express (FedEx),24 Apr 2007,Active,F-WWAR,"Malaya, 690"
+877,Airbus A300F4-605R,N691FE,Federal Express (FedEx),12 Jun 2007,Active,F-WWAS,"Hanna, 691"
+878,Airbus A300F4-605R,N692FE,Federal Express (FedEx),17 Jul 2007,Active,F-WWAT,"Gabriel, 692"

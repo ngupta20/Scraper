@@ -1,0 +1,44 @@
+MSN,Line Number,Aircraft Type,Reg,Airline,Delivered From,Status,Prev Reg,Remark
+,,,,,,,,
+01-01,01-01,Antonov An-148-100B,UR-NTA,Antonov Airlines (Antonov Design Bureau),10 Jul 2013,Stored,,
+01-02,01-02,Antonov An-158,UR-NTN,Antonov Airlines (Antonov Design Bureau),Sep 2009,Stored,UR-NTB,
+01-09,40-01,Antonov An-148-100B,UR-UKN,Antonov Airlines (Antonov Design Bureau),2 Jul 2015,Stored,UR-NTC,
+01-10,40-02,Antonov An-148-100B,UR-UKR,Ukrainian Government,31 Jul 2014,Active,UR-ANA,
+27015040001,40-03,Antonov An-148-100B,RA-61701,Saratov Airlines,15 Mar 2017,Stored,,
+27015040003,40-05,Antonov An-148-100B,RA-61703,Saratov Airlines,12 Nov 2016,Stored,,
+27015040002,40-04,Antonov An-148-100B,RA-61702,Saratov Airlines,10 Aug 2017,Stored,,
+27015040004,40-06,Antonov An-148-100B,RA-61704,Saratov Airlines,8 Feb 2017,Written Off,,lsf IFC
+27015040005,40-07,Antonov An-148-100B,RA-61705,Saratov Airlines,1 Nov 2016,Stored,,lsf IFC
+27015040006,40-09,Antonov An-148-100B,RA-61706,Saratov Airlines,16 Mar 2017,Stored,,lsf IFC
+03-08,03-08,Antonov An-148-100B,P-671,Air Koryo,4 Feb 2013,Active,,
+04-02,04-02,Antonov An-148-100B,P-672,Air Koryo,13 Mar 2015,Active,,
+27015040007,41-01,Antonov An-148-100EA,RA-61707,FSB - Federal Security Service,19 Dec 2014,Active,,
+27015041008,41-03,Antonov An-148-100E,-,Myanmar Air Force,,Written Off,61708,
+27015041009,41-04,Antonov An-148-100E,RA-61709,Angara Airlines,14 Oct 2014,Active,,
+27015041010,41-06,Antonov An-148-100E,RA-61710,Angara Airlines,29 Dec 2014,Active,,
+27015041011,41-07,Antonov An-148-100E,RA-61711,Angara Airlines,8 Nov 2012,Active,,
+27015041012,41-09,Antonov An-148-100EA,RA-61712,FSB - Federal Security Service,31 Mar 2015,Active,,
+27015041013,41-10,Antonov An-148-100E,RA-61713,Angara Airlines,29 Oct 2012,Active,,lsf IFC
+27015042014,42-01,Antonov An-148-100E,RA-61714,Angara Airlines,15 Dec 2012,Active,,lsf IFC
+27015042015,42-02,Antonov An-148-100EM,RA-61715,Russia - Ministry of Emergency Situations (EMERCOM),28 Oct 2013,Active,RF-32815,
+27015042016,42-03,Antonov An-148-100EA,RA-61716,Rossiya - Special Flight Detachment,17 Jan 2013,Active,,
+27015042017,42-04,Antonov An-148-100EM,RF-32816,Russia - Ministry of Emergency Situations (EMERCOM),Nov 2017,Active,RA-61717,
+27015042018,42-05,Antonov An-148-100E,RA-61718,Russian Federation Air Force,May 2014,Active,,
+27015042019,42-06,Antonov An-148-100EA,RA-61719,FSB - Federal Security Service,24 Jan 2014,Active,,
+27015042020,42-07,Antonov An-148-100EA,RA-61720,Rossiya - Special Flight Detachment,21 May 2013,Active,,
+27015042021,42-08,Antonov An-148-100E,RA-61721,Russian Federation Air Force,May 2014,Active,,
+27015042022,42-09,Antonov An-148-100E,RA-61722,Russian Federation Air Force,Jun 2014,Active,,
+27015042023,42-10,Antonov An-148-100E,RA-61723,Russian Federation Air Force,Aug 2014,Active,,
+27015042024,43-01,Antonov An-148-100E,RA-61724,Russian Federation Air Force,Dec 2014,Active,,
+27015042025,43-02,Antonov An-148-100E,RA-61725,Russian Federation Air Force,2016,Active,,
+27015042026,43-03,Antonov An-148-100E,RA-61726,Russian Federation Air Force,2016,Active,,
+27015042027,43-04,Antonov An-148-100E,RA-61728,Russian Federation Air Force,Nov 2016,Active,,
+27015042028,43-05,Antonov An-148-100E,RA-61729,Russian Federation Air Force,Sep 2016,Active,,
+27015043029,43-06,Antonov An-148-100EA,RA-61727,FSB - Federal Security Service,9 Dec 2015,Active,,
+43-07,43-07,Antonov An-148-100E,RA-61730,Russian Federation Air Force,Nov 2016,Active,,
+201-01,201-01,Antonov An-158,CU-T1710,Cubana,21 Apr 2013,Stored,,lsf IFC
+201-02,201-02,Antonov An-158,CU-T1711,Cubana,24 Jul 2013,Stored,,lsf IFC
+201-03,201-03,Antonov An-158,CU-T1712,Cubana,11 Oct 2013,Stored,UR-EXC,lsf IFC
+201-04,201-04,Antonov An-158,CU-T1714,Cubana,30 Apr 2014,Stored,,
+201-05,201-05,Antonov An-158,CU-T1715,Cubana,8 Aug 2014,Stored,,
+205-06,205-06,Antonov An-158,CU-T1716,Cubana,5 Jun 2015,Stored,,

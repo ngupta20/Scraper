@@ -1,0 +1,788 @@
+MSN,Aircraft Type,Reg,Current Operator,Delivered From,Status,Remark
+,,,,,,
+19000001,Embraer ERJ-190STD (ERJ-190-100),PP-XMA,Embraer,12 Mar 2004,Active,
+19000002,Embraer ERJ-190AR (ERJ-190-100 IGW),N220EC,ECC Leasing Company,15 Jan 2014,Scrapped,
+19000003,Embraer ERJ-190STD (ERJ-190-100),PP-XMI,Embraer,17 Feb 2005,Stored,
+19000004,Embraer ERJ-190AR (ERJ-190-100 IGW),N178JB,JetBlue Airways,19 Dec 2005,Stored,It’s A Blue Thing
+19000005,Embraer ERJ-195STD (ERJ-190-200),PP-XMJ,Embraer,7 Dec 2004,Scrapped,
+19000006,Embraer ERJ-190AR (ERJ-190-100 IGW),N179JB,JetBlue Airways,30 Sep 2005,Active,"Come Fly With Blue, 179, lsf GECAS"
+19000007,Embraer ERJ-190AR (ERJ-190-100 IGW),N183JB,JetBlue Airways,13 Sep 2005,Stored,"Azul Brasileiro, lsf GECAS"
+19000008,Embraer ERJ-190AR (ERJ-190-100 IGW),N184JB,JetBlue Airways,24 Oct 2005,Active,"Outta The Blue, lsf GECAS"
+19000009,Embraer ERJ-190AR (ERJ-190-100 IGW),N187JB,JetBlue Airways,9 Nov 2005,Active,"Blue-yah!, lsf GECAS"
+19000010,Embraer ERJ-190AR (ERJ-190-100 IGW),N646BC,Intertrade,7 Jan 2016,Scrapped,
+19000011,Embraer ERJ-190AR (ERJ-190-100 IGW),N190JB,JetBlue Airways,30 Nov 2005,Active,"Luiz F. Kahl, lsf GECAS"
+19000012,Embraer ERJ-190AR (ERJ-190-100 IGW),HP-1540CMP,Copa Airlines,16 Dec 2005,Stored,
+19000013,Embraer ERJ-190AR (ERJ-190-100 IGW),N746BC,Boeing Capital Corporation (BCC),24 Mar 2016,Scrapped,
+19000014,Embraer ERJ-190AR (ERJ-190-100 IGW),N192JB,JetBlue Airways,15 Dec 2005,Active,"I’m A Natural Blue, lsf GECAS"
+19000015,Embraer ERJ-190AR (ERJ-190-100 IGW),N753BC,Boeing Capital Corporation (BCC),11 Apr 2016,Scrapped,
+19000016,Embraer ERJ-190AR (ERJ-190-100 IGW),HP-1556CMP,Copa Airlines,15 Dec 2005,Stored,
+19000017,Embraer ERJ-190AR (ERJ-190-100 IGW),N193JB,JetBlue Airways,5 Jan 2006,Stored,"Peek-A-Blue, lsf GECAS"
+19000018,Embraer ERJ-190AR (ERJ-190-100 IGW),N693BC,Beautech Power Systems,14 Dec 2016,Scrapped,
+19000019,Embraer ERJ-190AR (ERJ-190-100 IGW),N698BC,Beautech Power Systems,17 Jan 2017,Scrapped,
+19000020,Embraer ERJ-190AR (ERJ-190-100 IGW),N197JB,JetBlue Airways,7 Feb 2006,Active,"Color Me Blue, 197, lsf GECAS"
+19000021,Embraer ERJ-190AR (ERJ-190-100 IGW),N198JB,JetBlue Airways,22 Feb 2006,Stored,"Blue 4 U, 198, lsf GECAS"
+19000022,Embraer ERJ-190AR (ERJ-190-100 IGW),N648BC,AeroVision International,11 May 2017,Scrapped,
+19000023,Embraer ERJ-190AR (ERJ-190-100 IGW),N203JB,JetBlue Airways,17 Mar 2006,Stored,"Look At Blue Now, lsf GECAS"
+19000024,Embraer ERJ-190AR (ERJ-190-100 IGW),XA-ALY,Aeroméxico Connect,22 Dec 2016,Active,lsf NAC
+19000025,Embraer ERJ-190AR (ERJ-190-100 IGW),N206JB,JetBlue Airways,19 Apr 2006,Stored,"Blue - It's The New Black, lsf GECAS"
+19000026,Embraer ERJ-190AR (ERJ-190-100 IGW),N216JB,JetBlue Airways,26 Apr 2006,Stored,"Blue Getaways, lsf GECAS"
+19000027,Embraer ERJ-190LR (ERJ-190-100 LR),HC-CEZ,TAME,10 Jun 2006,Written Off,Ciudad de Cuenca
+19000028,Embraer ERJ-190AR (ERJ-190-100 IGW),N672BC,Beautech Power Systems,24 Jan 2018,Stored,
+19000029,Embraer ERJ-195LR (ERJ-190-200 LR),4L-MGT,Airzena Georgian Airways,28 Sep 2018,Active,lsf NAC
+19000030,Embraer ERJ-190AR (ERJ-190-100 IGW),N228JB,JetBlue Airways,23 May 2006,Stored,"Big Apple Blue, lsf GECAS"
+19000031,Embraer ERJ-190AR (ERJ-190-100 IGW),N679BC,Beautech Power Systems,26 Sep 2017,Stored,
+19000032,Embraer ERJ-190AR (ERJ-190-100 IGW),N229JB,JetBlue Airways,7 Jun 2006,Stored,"Blue Amigo, lsf GECAS"
+19000033,Embraer ERJ-190AR (ERJ-190-100 IGW),N231JB,JetBlue Airways,12 Jun 2006,Stored,"Blue Bonnet, lsf GECAS"
+19000034,Embraer ERJ-190AR (ERJ-190-100 IGW),HP-1557CMP,Copa Airlines,1 Jun 2006,Stored,
+19000035,Embraer ERJ-190AR (ERJ-190-100 IGW),N236JB,JetBlue Airways,30 Jun 2006,Stored,"Blue By Design, lsf GECAS"
+19000036,Embraer ERJ-190AR (ERJ-190-100 IGW),XA-AEE,Aeroméxico Connect,27 Mar 2017,Active,lsf NAC
+19000037,Embraer ERJ-190AR (ERJ-190-100 IGW),XA-ALZ,Aeroméxico Connect,27 Jan 2017,Active,lsf NAC
+19000038,Embraer ERJ-190AR (ERJ-190-100 IGW),HP-1558CMP,Copa Airlines,28 Jun 2006,Stored,
+19000039,Embraer ERJ-190AR (ERJ-190-100 IGW),N238JB,JetBlue Airways,18 Jul 2006,Stored,"Blue Clipper, lsf GECAS"
+19000040,Embraer ERJ-190AR (ERJ-190-100 IGW),N239JB,JetBlue Airways,15 Aug 2006,Stored,"Blissfully Blue, lsf GECAS"
+19000041,Embraer ERJ-190AR (ERJ-190-100 IGW),XA-AEF,Aeroméxico Connect,22 May 2017,Active,lsf NAC
+19000042,Embraer ERJ-190AR (ERJ-190-100 IGW),N247JB,JetBlue Airways,22 Aug 2006,Stored,"Blue Is So You, lsf GECAS"
+19000043,Embraer ERJ-190AR (ERJ-190-100 IGW),XA-AEC,Aeroméxico Connect,27 Feb 2017,Active,lsf NAC
+19000044,Embraer ERJ-190AR (ERJ-190-100 IGW),N103CA,Beautech Power Systems,17 Oct 2018,Stored,
+19000045,Embraer ERJ-190AR (ERJ-190-100 IGW),N249JB,JetBlue Airways,14 Sep 2006,Stored,"To Blue Beginnings, 249, lsf GECAS"
+19000046,Embraer ERJ-190AR (ERJ-190-100 IGW),N857CC,Beautech Power Systems,26 Sep 2018,Stored,
+19000047,Embraer ERJ-190AR (ERJ-190-100 IGW),N258JB,JetBlue Airways,4 Oct 2006,Stored,"Blue Send Me, lsf GECAS"
+19000048,Embraer ERJ-190LR (ERJ-190-100 LR),HB-JVU,Helvetic Airways,2 May 2019,Stored,lsf NAC
+19000049,Embraer ERJ-190AR (ERJ-190-100 IGW),N265JB,JetBlue Airways,9 Nov 2006,Stored,"Blue Streak, lsf GECAS"
+19000050,Embraer ERJ-195AR (ERJ-190-200 IGW),XT-ABY,Air Burkina,11 Dec 2018,Active,lsf NAC
+19000051,Embraer ERJ-190LR (ERJ-190-100 LR),F-HBLA,HOP!,31 Mar 2013,Stored,lsf NAC
+19000052,Embraer ERJ-190AR (ERJ-190-100 IGW),N103BT,Beautech Power Systems,14 Nov 2018,Stored,
+,,,,,,
+19000053,Embraer ERJ-190AR (ERJ-190-100 IGW),HP-1559CMP,Copa Airlines,9 Nov 2006,Stored,
+19000054,Embraer ERJ-190AR (ERJ-190-100 IGW),N266JB,JetBlue Airways,15 Feb 2007,Stored,"Blue Sweet Blue, lsf GECAS"
+19000055,Embraer ERJ-190AR (ERJ-190-100 IGW),N98NA,Nordic Aviation Capital (NAC),4 Oct 2019,Stored,
+19000056,Embraer ERJ-190AR (ERJ-190-100 IGW),HP-1560CMP,Copa Airlines,4 Dec 2006,Stored,
+19000057,Embraer ERJ-195LR (ERJ-190-200 LR),PK-KDC,KalStar Aviation,8 May 2015,Written Off,lsf Aldus Aviation
+19000058,Embraer ERJ-190AR (ERJ-190-100 IGW),N944UW,American Airlines,9 Dec 2013,Stored,944
+19000059,Embraer ERJ-190LR (ERJ-190-100 LR),OH-LKE,Finnair,15 Dec 2006,Active,"lsf Tokyo Century Corporation, opby NORRA - Nordic Regional Airlines"
+19000060,Embraer ERJ-190LR (ERJ-190-100 LR),F-HBLB,HOP!,31 Mar 2013,Stored,lsf NAC
+19000061,Embraer ERJ-190LR (ERJ-190-100 LR),D-AJHW,WDL Aviation,12 Mar 2020,Stored,lsf Azorra Aviation
+19000062,Embraer ERJ-190AR (ERJ-190-100 IGW),N945UW,American Airlines,9 Dec 2013,Stored,945
+19000063,Embraer ERJ-190LR (ERJ-190-100 LR),D-AZFA,WDL Aviation,14 Jan 2020,Active,lsf Azorra Aviation
+19000064,Embraer ERJ-190AR (ERJ-190-100 IGW),4L-TGU,Airzena Georgian Airways,12 Jun 2017,Active,"Batumi, lsf NAC"
+19000065,Embraer ERJ-190AR (ERJ-190-100 IGW),N267JB,JetBlue Airways,28 Feb 2007,Stored,"Dream Come Blue, lsf GECAS"
+19000066,Embraer ERJ-190LR (ERJ-190-100 LR),OH-LKF,Finnair,29 Mar 2007,Active,"lsf Tokyo Century Corporation, opby NORRA - Nordic Regional Airlines"
+19000067,Embraer ERJ-195AR (ERJ-190-200 IGW),XT-ABV,Air Burkina,16 Nov 2018,Active,lsf NAC
+19000068,Embraer ERJ-190AR (ERJ-190-100 IGW),XA-AEH,Aeroméxico Connect,10 Jul 2017,Stored,lsf NAC
+19000069,Embraer ERJ-195LR (ERJ-190-200 LR),UR-EMF,Ukraine International Airlines,21 May 2019,Stored,lsf GECAS
+19000070,Embraer ERJ-190AR (ERJ-190-100 IGW),N90NA,Nordic Aviation Capital (NAC),25 Sep 2019,Stored,
+19000071,Embraer ERJ-190LR (ERJ-190-100 LR),HB-JVV,Helvetic Airways,31 May 2019,Stored,lsf NAC
+19000072,Embraer ERJ-190AR (ERJ-190-100 IGW),N946UW,American Airlines,9 Dec 2013,Stored,946
+19000073,Embraer ERJ-190AR (ERJ-190-100 IGW),N273JB,JetBlue Airways,30 Jun 2007,Active,"Our Blue Stars, lsf GECAS"
+19000074,Embraer ERJ-190LR (ERJ-190-100 LR),D-AWSI,WDL Aviation,22 Mar 2020,Stored,lsf Azorra Aviation
+19000075,Embraer ERJ-190AR (ERJ-190-100 IGW),N975NA,Nordic Aviation Capital (NAC),30 Oct 2019,Stored,
+19000076,Embraer ERJ-190LR (ERJ-190-100 LR),HK-4455,Aero Republica,23 Jan 2007,Written Off,
+19000077,Embraer ERJ-190AR (ERJ-190-100 IGW),N977NC,Nordic Aviation Capital (NAC),6 Mar 2019,Stored,
+19000078,Embraer ERJ-190AR (ERJ-190-100 IGW),N947UW,American Airlines,9 Dec 2013,Stored,947
+19000079,Embraer ERJ-190LR (ERJ-190-100 LR),OH-LKG,Finnair,10 May 2007,Active,"lsf FAF, opby NORRA - Nordic Regional Airlines"
+19000080,Embraer ERJ-190LR (ERJ-190-100 LR),F-HBLC,HOP!,31 Mar 2013,Stored,lsf TrueNoord
+19000081,Embraer ERJ-190AR (ERJ-190-100 IGW),N948UW,American Airlines,9 Dec 2013,Stored,948
+19000082,Embraer ERJ-190AR (ERJ-190-100 IGW),N274JB,JetBlue Airways,21 Jun 2007,Active,"Good, Better, Blue, lsf GECAS"
+19000083,Embraer ERJ-190AR (ERJ-190-100 IGW),4L-TGV,Airzena Georgian Airways,29 Jun 2017,Active,lsf NAC
+19000084,Embraer ERJ-195LR (ERJ-190-200 LR),SP-LNO,LOT - Polish Airlines,4 Jul 2019,Stored,lsf GECAS
+19000085,Embraer ERJ-190AR (ERJ-190-100 IGW),4L-TGH,Airzena Georgian Airways,8 Dec 2017,Active,lsf NAC
+19000086,Embraer ERJ-190LR (ERJ-190-100 LR),OH-LKH,Finnair,28 Jun 2007,Active,"lsf FAF, opby NORRA - Nordic Regional Airlines"
+19000087,Embraer ERJ-190AR (ERJ-190-100 IGW),B-16821,Mandarin Airlines,14 May 2007,Stored,lsf TrueNoord
+19000088,Embraer ERJ-195AR (ERJ-190-200 IGW),UR-EMG,Ukraine International Airlines,11 Mar 2019,Stored,lsf GECAS
+19000089,Embraer ERJ-190AR (ERJ-190-100 IGW),HP-1561CMP,Copa Airlines,22 Jun 2007,Stored,
+19000090,Embraer ERJ-190AR (ERJ-190-100 IGW),N279JB,JetBlue Airways,24 Jul 2007,Stored,"Indigo Blue, lsf GECAS"
+19000091,Embraer ERJ-190AR (ERJ-190-100 IGW),B-16822,Mandarin Airlines,30 Jun 2007,Stored,lsf GECAS
+19000092,Embraer ERJ-190AR (ERJ-190-100 IGW),C-FLWE,Air Canada,17 Jul 2007,Stored,327
+19000093,Embraer ERJ-195LR (ERJ-190-200 LR),SP-LNP,LOT - Polish Airlines,16 Jul 2019,Stored,lsf GECAS
+19000094,Embraer ERJ-190AR (ERJ-190-100 IGW),N137CA,Beautech Power Systems,17 Oct 2018,Stored,
+19000095,Embraer ERJ-190AR (ERJ-190-100 IGW),HP-1562CMP,Copa Airlines,May 2019,Stored,1562
+19000096,Embraer ERJ-190AR (ERJ-190-100 IGW),C-FLWK,Air Canada,3 Aug 2007,Stored,329
+19000097,Embraer ERJ-190AR (ERJ-190-100 IGW),XA-AEL,Aeroméxico Connect,22 Sep 2017,Stored,lsf NAC
+19000098,Embraer ERJ-190AR (ERJ-190-100 IGW),HP-1563CMP,Copa Airlines,Jul 2019,Stored,1563
+19000099,Embraer ERJ-190AR (ERJ-190-100 IGW),B-16823,Mandarin Airlines,25 Aug 2007,Stored,lsf GECAS
+19000100,Embraer ERJ-190AR (ERJ-190-100 IGW),HP-1564CMP,Copa Airlines,1 Feb 2009,Stored,ConnectMiles.com cs
+19000101,Embraer ERJ-190AR (ERJ-190-100 IGW),C-FHOS,Air Canada,23 Aug 2007,Stored,331
+19000102,Embraer ERJ-190AR (ERJ-190-100 IGW),N949UW,American Airlines,9 Dec 2013,Stored,949
+19000103,Embraer ERJ-190AR (ERJ-190-100 IGW),N281JB,JetBlue Airways,18 Sep 2007,Active,"Lady In Blue, lsf GECAS"
+19000104,Embraer ERJ-195LR (ERJ-190-200 LR),G-FBEF,Falko Regional Aircraft,6 Nov 2019,Stored,
+,,,,,,
+19000105,Embraer ERJ-190AR (ERJ-190-100 IGW),N105TW,WTC - Wilmington Trust Company,3 Dec 2019,Stored,
+19000106,Embraer ERJ-190AR (ERJ-190-100 IGW),N950UW,American Airlines,9 Dec 2013,Stored,950
+19000107,Embraer ERJ-195AR (ERJ-190-200 IGW),JY-EMA,Royal Jordanian,21 Sep 2007,Stored,Umm Qais / أم قيس
+19000108,Embraer ERJ-190AR (ERJ-190-100 IGW),C-FMYV,Air Canada,21 Sep 2007,Stored,333
+19000109,Embraer Lineage 1000 (ERJ-190-100 ECJ),A6-ARK,Aamer Abdul jalil Al Fahim,7 May 2009,Stored,opby Prestige Jet
+19000110,Embraer ERJ-190LR (ERJ-190-100 LR),XA-AEM,Aeroméxico Connect,24 Oct 2017,Stored,lsf GECAS
+19000111,Embraer ERJ-190AR (ERJ-190-100 IGW),C-FMZB,Air Canada,26 Sep 2007,Stored,334
+19000112,Embraer ERJ-190AR (ERJ-190-100 IGW),N951UW,American Airlines,9 Dec 2013,Stored,951
+19000113,Embraer ERJ-190LR (ERJ-190-100 LR),F-HBLD,HOP!,31 Mar 2013,Active,lsf NAC
+19000114,Embraer ERJ-190LR (ERJ-190-100 LR),D-ACJJ,WDL Aviation,22 Mar 2020,Active,lsf Azorra Aviation
+19000115,Embraer ERJ-190AR (ERJ-190-100 IGW),C-FMZD,Air Canada,12 Oct 2007,Stored,335
+19000116,Embraer ERJ-190AR (ERJ-190-100 IGW),C-FMZR,Air Canada,18 Oct 2007,Stored,336
+19000117,Embraer ERJ-190LR (ERJ-190-100 LR),OH-LKI,Finnair,17 Oct 2007,Active,"lsf FAF, opby NORRA - Nordic Regional Airlines"
+19000118,Embraer ERJ-190AR (ERJ-190-100 IGW),C-FMZU,Air Canada,2 Nov 2007,Stored,337
+19000119,Embraer ERJ-190AR (ERJ-190-100 IGW),N952UW,American Airlines,9 Dec 2013,Stored,952
+19000120,Embraer ERJ-195LR (ERJ-190-200 LR),G-FBEG,Falko Regional Aircraft,10 Jan 2020,Stored,
+19000121,Embraer ERJ-190LR (ERJ-190-100 LR),XA-AAC,Aeroméxico Connect,5 Nov 2007,Active,lsf NAC
+19000122,Embraer ERJ-190LR (ERJ-190-100 LR),XA-ALL,Aeroméxico Connect,4 Mar 2016,Stored,lsf GECAS
+19000123,Embraer ERJ-190LR (ERJ-190-100 LR),F-HBLE,HOP!,31 Mar 2013,Active,lsf TrueNoord
+19000124,Embraer ERJ-190AR (ERJ-190-100 IGW),C-FMZW,Air Canada,7 Nov 2007,Stored,338
+19000125,Embraer ERJ-190AR (ERJ-190-100 IGW),N283JB,JetBlue Airways,13 Nov 2007,Stored,"Pretty in Blue, lsf GECAS"
+19000126,Embraer ERJ-190AR (ERJ-190-100 IGW),HP-1565CMP,Copa Airlines,10 Jun 2010,Stored,
+19000127,Embraer ERJ-190LR (ERJ-190-100 LR),OH-LKK,Finnair,21 Nov 2007,Active,"lsf Tokyo Century Corporation, opby NORRA - Nordic Regional Airlines"
+19000128,Embraer ERJ-195LR (ERJ-190-200 LR),G-FBEH,Falko Regional Aircraft,9 Dec 2019,Stored,
+19000129,Embraer ERJ-190LR (ERJ-190-100 LR),XA-BAC,Aeroméxico Connect,23 Nov 2007,Active,lsf NAC
+19000130,Embraer ERJ-190LR (ERJ-190-100 LR),ER-ECC,Air Moldova,29 Mar 2013,Active,
+19000131,Embraer ERJ-195AR (ERJ-190-200 IGW),JY-EMB,Royal Jordanian,1 Dec 2007,Stored,Ma'in / معين
+19000132,Embraer ERJ-190AR (ERJ-190-100 IGW),C-FNAI,Air Canada,29 Nov 2007,Stored,339
+19000133,Embraer ERJ-190AR (ERJ-190-100 IGW),N953UW,American Airlines,9 Dec 2013,Stored,953
+19000134,Embraer ERJ-190AR (ERJ-190-100 IGW),C-FNAJ,Air Canada,17 Dec 2007,Stored,340
+19000135,Embraer ERJ-190LR (ERJ-190-100 LR),XA-CAC,Aeroméxico Connect,6 Dec 2007,Active,lsf GECAS
+19000136,Embraer ERJ-190AR (ERJ-190-100 IGW),C-FNAN,Air Canada,17 Dec 2007,Stored,341
+19000137,Embraer ERJ-190AR (ERJ-190-100 IGW),HC-CGF,TAME,16 Dec 2007,Active,Ciudad de Loja
+19000138,Embraer ERJ-190LR (ERJ-190-100 LR),XA-ALP,Aeroméxico Connect,22 Mar 2016,Stored,lsf GECAS
+19000139,Embraer ERJ-190AR (ERJ-190-100 IGW),N954UW,American Airlines,9 Dec 2013,Stored,954
+19000140,Embraer Lineage 1000 (ERJ-190-100 ECJ),N588AH,Embraer Executive Aircraft,10 Jul 2015,Scrapped,
+19000141,Embraer ERJ-190AR (ERJ-190-100 IGW),HC-CGG,TAME,14 Dec 2007,Stored,Ciudad de Manta
+19000142,Embraer ERJ-190AR (ERJ-190-100 IGW),C-FNAP,Air Canada,21 Dec 2007,Stored,342
+19000143,Embraer ERJ-195LR (ERJ-190-200 LR),G-FBEI,Falko Regional Aircraft,27 Feb 2020,Stored,
+19000144,Embraer ERJ-190AR (ERJ-190-100 IGW),N284JB,JetBlue Airways,24 Jan 2008,Stored,"Sincerely Blue, lsf GECAS"
+19000145,Embraer ERJ-190LR (ERJ-190-100 LR),XA-EAC,Aeroméxico Connect,26 Jan 2008,Active,lsf GECAS
+19000146,Embraer ERJ-190AR (ERJ-190-100 IGW),XA-AEI,Aeroméxico Connect,7 Aug 2017,Active,lsf NAC
+19000147,Embraer ERJ-190AR (ERJ-190-100 IGW),PR-AZL,Azul Linhas Aéreas Brasileiras,29 Sep 2008,Stored,"O Rio de Janeiro continua Azul, lsf Falko"
+19000148,Embraer ERJ-190AR (ERJ-190-100 IGW),ZS-YAL,Airlink,25 Sep 2018,Active,lsf NAC
+19000149,Embraer ERJ-190AR (ERJ-190-100 IGW),C-FNAW,Air Canada,15 Feb 2008,Stored,344
+19000150,Embraer ERJ-190AR (ERJ-190-100 IGW),PR-AZA,Azul Linhas Aéreas Brasileiras,24 Nov 2008,Stored,"Azulville, lsf Falko"
+19000151,Embraer ERJ-190AR (ERJ-190-100 IGW),XA-AEN,Aeroméxico Connect,13 Nov 2017,Active,lsf NAC
+19000152,Embraer ERJ-190AR (ERJ-190-100 IGW),N955UW,American Airlines,9 Dec 2013,Stored,955
+19000153,Embraer ERJ-190LR (ERJ-190-100 LR),OH-LKL,Finnair,27 Feb 2008,Active,"lsf Tokyo Century Corporation, opby NORRA - Nordic Regional Airlines"
+19000154,Embraer ERJ-190AR (ERJ-190-100 IGW),XY-AGP,Myanmar National Airlines,10 Dec 2014,Active,lsf GECAS
+19000155,Embraer ERJ-195LR (ERJ-190-200 LR),G-FBEJ,Falko Regional Aircraft,31 Mar 2020,Stored,
+19000156,Embraer ERJ-190AR (ERJ-190-100 IGW),N956UW,American Airlines,9 Dec 2013,Stored,956
+,,,,,,
+19000157,Embraer ERJ-195AR (ERJ-190-200 IGW),SU-BTZ,CIAF Leasing,29 Nov 2019,Active,
+19000158,Embraer ERJ-190LR (ERJ-190-100 LR),F-HBLF,HOP!,31 Mar 2013,Stored,lsf TrueNoord
+19000159,Embraer Lineage 1000 (ERJ-190-100 ECJ),N227GV,Premiair,21 Dec 2011,Active,Nasdem For Jokowi 2019 cs
+19000160,Embraer ERJ-190LR (ERJ-190-100 LR),OH-LKM,Finnair,27 Mar 2008,Active,"lsf TrueNoord, opby NORRA - Nordic Regional Airlines"
+19000161,Embraer ERJ-190AR (ERJ-190-100 IGW),N957UW,American Airlines,9 Dec 2013,Stored,957
+19000162,Embraer ERJ-190AR (ERJ-190-100 IGW),ZS-YAP,Airlink,4 Dec 2018,Active,lsf NAC
+19000163,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCYW,BA CityFlyer,20 May 2016,Stored,lsf NAC
+19000164,Embraer ERJ-190AR (ERJ-190-100 IGW),N958UW,American Airlines,9 Dec 2013,Stored,958
+19000165,Embraer ERJ-190AR (ERJ-190-100 IGW),D-AZFB,WDL Aviation,20 Feb 2020,Stored,lsf Azorra Aviation
+19000166,Embraer ERJ-190AR (ERJ-190-100 IGW),N959UW,American Airlines,9 Dec 2013,Stored,959
+19000167,Embraer ERJ-190AR (ERJ-190-100 IGW),5H-FJH,fastjet,13 Oct 2017,Stored,lsf GECAS
+19000168,Embraer ERJ-195LR (ERJ-190-200 LR),G-FBEK,Falko Regional Aircraft,31 Mar 2020,Stored,
+19000169,Embraer ERJ-195AR (ERJ-190-200 IGW),SU-BUA,CIAF Leasing,16 Nov 2019,Active,
+19000170,Embraer ERJ-190AR (ERJ-190-100 IGW),ZS-YAY,Airlink,7 Feb 2019,Active,lsf NAC
+19000171,Embraer ERJ-190LR (ERJ-190-100 LR),B-3120,Tianjin Airlines,8 Jun 2009,Stored,
+19000172,Embraer ERJ-195AR (ERJ-190-200 IGW),4X-EMA,Arkia - Israeli Airlines,2 Dec 2008,Active,
+19000173,Embraer ERJ-190AR (ERJ-190-100 IGW),XA-GAL,Aeroméxico Connect,27 Jun 2014,Written Off,lsf Republic Airlines
+19000174,Embraer ERJ-190AR (ERJ-190-100 IGW),HP-1567CMP,Copa Airlines,21 May 2008,Stored,
+19000175,Embraer ERJ-190AR (ERJ-190-100 IGW),M-ABLT,GECAS,4 Jun 2019,Stored,
+19000176,Embraer ERJ-190AR (ERJ-190-100 IGW),ZS-YAN,Airlink,12 Dec 2019,Active,lsf NAC
+19000177,Embraer Lineage 1000 (ERJ-190-100 ECJ),YV3016,Venezuelan Government,6 Jun 2014,Active,opby Conviasa
+19000178,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCYX,BA CityFlyer,6 Jul 2016,Stored,lsf NAC
+19000179,Embraer ERJ-190AR (ERJ-190-100 IGW),N292JB,JetBlue Airways,9 Jun 2008,Stored,Parlez-blue?
+19000180,Embraer ERJ-195LR (ERJ-190-200 LR),4O-AOA,Montenegro Airlines,5 Jun 2008,Active,lsf GECAS
+19000181,Embraer ERJ-190LR (ERJ-190-100 LR),B-3121,Tianjin Airlines,8 Jun 2009,Stored,
+19000182,Embraer ERJ-190AR (ERJ-190-100 IGW),B-16827,Mandarin Airlines,30 Jun 2008,Active,lsf GECAS
+19000183,Embraer ERJ-190AR (ERJ-190-100 IGW),N961UW,American Airlines,9 Dec 2013,Stored,961
+19000184,Embraer ERJ-195LR (ERJ-190-200 LR),OY-GDB,Great Dane Airlines,15 Jul 2019,Active,lsf Propius Leasing
+19000185,Embraer ERJ-190AR (ERJ-190-100 IGW),N294JB,JetBlue Airways,24 Jun 2008,Active,Room with a blue
+19000186,Embraer ERJ-190LR (ERJ-190-100 LR),B-3122,GX Airlines,25 Mar 2015,Stored,
+19000187,Embraer ERJ-190AR (ERJ-190-100 IGW),2-XEME,Nordic Aviation Capital (NAC),27 Jan 2020,Stored,
+19000188,Embraer ERJ-190AR (ERJ-190-100 IGW),XA-GAG,Aeroméxico Connect,20 Mar 2014,Active,
+19000189,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCYY,BA CityFlyer,22 Dec 2017,Stored,lsf NAC
+19000190,Embraer ERJ-190AR (ERJ-190-100 IGW),B-16828,Mandarin Airlines,8 Aug 2008,Active,lsf GECAS
+19000191,Embraer ERJ-190AR (ERJ-190-100 IGW),N963UW,American Airlines,9 Dec 2013,Stored,963
+19000192,Embraer ERJ-190LR (ERJ-190-100 LR),B-3123,Tianjin Airlines,8 Jun 2009,Stored,
+19000193,Embraer ERJ-190AR (ERJ-190-100 IGW),ZS-YAA,Airlink,18 May 2017,Active,lsf NAC
+19000194,Embraer ERJ-190LR (ERJ-190-100 LR),B-3125,GX Airlines,2 Apr 2015,Stored,
+19000195,Embraer ERJ-190AR (ERJ-190-100 IGW),ZS-YAB,Airlink,12 Jul 2017,Active,lsf NAC
+19000196,Embraer ERJ-195LR (ERJ-190-200 LR),EC-KRJ,Air Europa Express,19 Jun 2016,Active,opby Aeronova
+19000197,Embraer ERJ-190AR (ERJ-190-100 IGW),XA-GAR,Aeroméxico Connect,24 Oct 2014,Stored,lsf NAC
+19000198,Embraer ERJ-190AR (ERJ-190-100 IGW),N965UW,American Airlines,9 Dec 2013,Stored,965
+19000199,Embraer ERJ-190LR (ERJ-190-100 LR),HB-JVT,Helvetic Airways,27 Mar 2019,Stored,lsf NAC
+19000200,Embraer ERJ-190LR (ERJ-190-100 LR),XA-ALU,Aeroméxico Connect,13 Oct 2016,Active,lsf GECAS
+19000201,Embraer ERJ-190LR (ERJ-190-100 LR),EI-FCL,SMBC Aviation Capital,25 May 2017,Scrapped,
+19000202,Embraer ERJ-190AR (ERJ-190-100 IGW),EI-GHJ,Stobart Air,1 Feb 2019,Stored,lsf NAC
+19000203,Embraer Lineage 1000 (ERJ-190-100 ECJ),VT-AOP,Air One Aviation,6 Jan 2012,Active,
+19000204,Embraer ERJ-195LR (ERJ-190-200 LR),OY-GDC,Great Dane Airlines,27 Nov 2019,Active,lsf Propius Leasing
+19000205,Embraer ERJ-190AR (ERJ-190-100 IGW),N935TA,Avianca El Salvador,28 May 2013,Stored,lsf Compass Capital Corporation
+19000206,Embraer ERJ-190AR (ERJ-190-100 IGW),XA-GAX,Aeroméxico Connect,16 Dec 2014,Active,lsf NAC
+19000207,Embraer ERJ-190LR (ERJ-190-100 LR),B-3127,Tianjin Airlines,8 Jun 2009,Stored,
+19000208,Embraer ERJ-190LR (ERJ-190-100 LR),XA-ALW,Aeroméxico Connect,2 Nov 2016,Stored,lsf GECAS
+,,,,,,
+19000209,Embraer ERJ-190AR (ERJ-190-100 IGW),ZS-YAC,Airlink,5 Sep 2017,Active,lsf NAC
+19000210,Embraer ERJ-190AR (ERJ-190-100 IGW),5N-VNH,Air Nigeria,2 Jun 2010,Scrapped,
+19000211,Embraer ERJ-190AR (ERJ-190-100 IGW),N967UW,American Airlines,9 Dec 2013,Stored,967
+19000212,Embraer ERJ-190AR (ERJ-190-100 IGW),HP-1568CMP,Copa Airlines,13 Oct 2008,Stored,
+19000213,Embraer ERJ-195LR (ERJ-190-200 LR),OY-GDA,Great Dane Airlines,15 May 2019,Active,lsf Propius Leasing
+19000214,Embraer VC-2 (ERJ-190AR),FAB2590,Força Aérea Brasileira (Brazilian Air Force),22 Sep 2009,Active,Bartolomeu de Gusmão
+19000215,Embraer ERJ-190AR (ERJ-190-100 IGW),N936TA,Avianca El Salvador,28 May 2013,Stored,
+19000216,Embraer ERJ-190AR (ERJ-190-100 IGW),XA-GAH,Aeroméxico Connect,3 Jun 2014,Stored,
+19000217,Embraer ERJ-190LR (ERJ-190-100 LR),M-ABKU,GECAS,15 Mar 2017,Scrapped,
+19000218,Embraer ERJ-190AR (ERJ-190-100 IGW),EI-GHK,Stobart Air,15 Nov 2018,Stored,lsf NAC
+19000219,Embraer ERJ-190AR (ERJ-190-100 IGW),N296JB,JetBlue Airways,5 Nov 2008,Stored,Blue's Your Daddy?
+19000220,Embraer ERJ-190AR (ERJ-190-100 IGW),ZS-YAH,Airlink,1 Aug 2018,Active,lsf NAC
+19000221,Embraer ERJ-190AR (ERJ-190-100 IGW),N937TA,Avianca El Salvador,28 May 2013,Stored,
+19000222,Embraer ERJ-190AR (ERJ-190-100 IGW),HP-1569CMP,Copa Airlines,18 Nov 2008,Stored,
+19000223,Embraer ERJ-190LR (ERJ-190-100 LR),B-3130,Henan Airlines,Feb 2010,Written Off,lsf RBS
+19000224,Embraer ERJ-190STD (ERJ-190-100),PH-EZA,KLM Cityhopper,7 Nov 2008,Active,"EZA-224, lsf Showa Leasing"
+19000225,Embraer Lineage 1000 (ERJ-190-100 ECJ),T7-SBH,Private,13 Jul 2016,Active,
+19000226,Embraer ERJ-190AR (ERJ-190-100 IGW),N997SC,Jetran,9 Jun 2016,Scrapped,
+19000227,Embraer ERJ-190LR (ERJ-190-100 LR),VP-CIB,GECAS,23 Jan 2018,Stored,
+19000228,Embraer ERJ-190AR (ERJ-190-100 IGW),N938TA,Avianca El Salvador,28 May 2013,Stored,
+19000229,Embraer ERJ-190LR (ERJ-190-100 LR),B-3128,Tianjin Airlines,8 Jun 2009,Stored,
+19000230,Embraer ERJ-190LR (ERJ-190-100 LR),VP-BZI,Ikar,31 Jul 2018,Stored,lsf NAC
+19000231,Embraer ERJ-190AR (ERJ-190-100 IGW),XY-AGQ,Myanmar National Airlines,10 Dec 2014,Stored,lsf GECAS
+19000232,Embraer ERJ-190LR (ERJ-190-100 LR),VP-CQW,flynas,13 Nov 2013,Scrapped,
+19000233,Embraer ERJ-190LR (ERJ-190-100 LR),VP-CQX,flynas,13 Nov 2013,Scrapped,lsf GECAS
+19000234,Embraer ERJ-190LR (ERJ-190-100 LR),XA-FAC,Aeroméxico Connect,9 Dec 2008,Stored,lsf Jetscape
+19000235,Embraer ERJ-190STD (ERJ-190-100),PH-EZB,KLM Cityhopper,16 Dec 2008,Active,"EZB-235, lsf Showa Leasing"
+19000236,Embraer Lineage 1000 (ERJ-190-100 ECJ),A6-KAH,Al Habtoor Group,1 Sep 2010,Active,opby ExecuJet Middle East
+19000237,Embraer ERJ-195LR (ERJ-190-200 LR),SP-LNG,LOT - Polish Airlines,14 Jul 2018,Stored,lsf NAC
+19000238,Embraer ERJ-190LR (ERJ-190-100 LR),XA-IAC,Aeroméxico Connect,9 Dec 2008,Active,lsf Jetscape
+19000239,Embraer ERJ-195LR (ERJ-190-200 LR),SP-LNH,LOT - Polish Airlines,30 May 2018,Active,lsf NAC
+19000240,Embraer ERJ-195LR (ERJ-190-200 LR),SP-LNI,LOT - Polish Airlines,18 Aug 2018,Stored,lsf NAC
+19000241,Embraer ERJ-190AR (ERJ-190-100 IGW),PR-AZB,Azul Linhas Aéreas Brasileiras,9 Feb 2009,Stored,"Azul Paulista, lsf Macquarie AirFinance"
+19000242,Embraer ERJ-190AR (ERJ-190-100 IGW),PR-AZC,Azul Linhas Aéreas Brasileiras,12 Feb 2009,Stored,"Céu Azul, lsf Macquarie AirFinance"
+19000243,Embraer Lineage 1000 (ERJ-190-100 ECJ),9H-NYC,AIR X Charter,21 Dec 2018,Active,
+19000244,Embraer ERJ-195LR (ERJ-190-200 LR),EC-KXD,Air Europa Express,4 Sep 2016,Active,opby Aeronova
+19000245,Embraer ERJ-195LR (ERJ-190-200 LR),I-ADJK,Air Dolomiti,30 Jan 2009,Active,Aida di Giuseppe Verdi
+19000246,Embraer ERJ-190LR (ERJ-190-100 LR),B-3129,Tianjin Airlines,8 Jun 2009,Active,
+19000247,Embraer ERJ-195LR (ERJ-190-200 LR),SP-LNK,LOT - Polish Airlines,12 Jun 2018,Stored,lsf NAC
+19000248,Embraer ERJ-190LR (ERJ-190-100 LR),XA-JAC,Aeroméxico Connect,11 Dec 2009,Active,lsf Jetscape
+19000249,Embraer ERJ-190AR (ERJ-190-100 IGW),N298JB,JetBlue Airways,12 Mar 2009,Stored,Cool Blue
+19000250,Embraer ERJ-190STD (ERJ-190-100),PH-EZC,KLM Cityhopper,14 Feb 2009,Active,"EZC-250, lsf Falko"
+19000251,Embraer ERJ-190LR (ERJ-190-100 LR),XA-AEO,Aeroméxico Connect,18 Jan 2018,Active,lsf GECAS
+19000252,Embraer ERJ-190LR (ERJ-190-100 LR),OH-LKN,Finnair,12 Feb 2009,Active,"lsf FAF, opby NORRA - Nordic Regional Airlines, oneworld cs"
+19000253,Embraer ERJ-190LR (ERJ-190-100 LR),B-3150,Tianjin Airlines,8 Jun 2009,Stored,"Erke, Always with you - 24hr Hotline cs"
+19000254,Embraer ERJ-190STD (ERJ-190-100),F-HBLG,HOP!,31 Mar 2013,Stored,
+19000255,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCYV,BA CityFlyer,17 Dec 2015,Stored,lsf NAC
+19000256,Embraer ERJ-195LR (ERJ-190-200 LR),I-ADJL,Air Dolomiti,13 Feb 2009,Stored,Nabucco di Giuseppe Verdi
+19000257,Embraer ERJ-190AR (ERJ-190-100 IGW),N304JB,JetBlue Airways,16 Mar 2009,Stored,"Blueprint, Blueprint cs"
+19000258,Embraer ERJ-195LR (ERJ-190-200 LR),I-ADJM,Air Dolomiti,4 Mar 2009,Stored,Madama Butterfly di Giacomo Puccini
+19000259,Embraer ERJ-190AR (ERJ-190-100 IGW),VP-BZJ,Ikar,26 Jul 2018,Stored,lsf NAC
+19000260,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYE,Azul Linhas Aéreas Brasileiras,19 Apr 2009,Stored,"Azul da Cor do Mar, lsf NAC"
+,,,,,,
+19000261,Embraer Lineage 1000 (ERJ-190-100 ECJ),A6-AJI,Al Jaber Aviation,Dec 2010,Stored,
+19000262,Embraer ERJ-190AR (ERJ-190-100 IGW),ZS-YAF,Airlink,11 Apr 2018,Active,lsf NAC
+19000263,Embraer ERJ-190LR (ERJ-190-100 LR),VP-BZG,Ikar,17 May 2018,Stored,lsf NAC
+19000264,Embraer ERJ-190LR (ERJ-190-100 LR),VP-BZH,Ikar,4 Jun 2018,Stored,lsf NAC
+19000265,Embraer ERJ-190LR (ERJ-190-100 LR),HB-JVS,Helvetic Airways,1 Mar 2019,Stored,lsf NAC
+19000266,Embraer ERJ-190STD (ERJ-190-100),F-HBLH,HOP!,31 Mar 2013,Active,
+19000267,Embraer ERJ-190LR (ERJ-190-100 LR),OH-LKO,Finnair,27 Mar 2009,Active,"lsf FAF, opby NORRA - Nordic Regional Airlines"
+19000268,Embraer ERJ-190LR (ERJ-190-100 LR),B-3151,Urumqi Air,17 Mar 2018,Stored,
+19000269,Embraer ERJ-190LR (ERJ-190-100 LR),XA-AEP,Aeroméxico Connect,18 May 2018,Active,lsf GECAS
+19000270,Embraer ERJ-195LR (ERJ-190-200 LR),I-ADJN,Air Dolomiti,27 Mar 2009,Stored,Rigoletto di Giuseppe Verdi
+19000271,Embraer ERJ-190AR (ERJ-190-100 IGW),N271NA,Nordic Aviation Capital (NAC),22 Nov 2019,Stored,
+19000272,Embraer ERJ-190AR (ERJ-190-100 IGW),N306JB,JetBlue Airways,20 Apr 2009,Stored,Blue Orleans
+19000273,Embraer ERJ-190AR (ERJ-190-100 IGW),XA-ALR,Aeroméxico Connect,30 Aug 2016,Active,
+19000274,Embraer ERJ-190LR (ERJ-190-100 LR),B-3152,Tianjin Airlines,4 Jun 2009,Active,lsf Changjiang Leasing
+19000275,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-GAQ,Austral Líneas Aéreas,16 Apr 2016,Active,lsf NAC
+19000276,Embraer ERJ-195LR (ERJ-190-200 LR),EC-KYO,Air Europa Express,21 Jun 2016,Active,opby Aeronova
+19000277,Embraer VC-2 (ERJ-190AR),FAB2591,Força Aérea Brasileira (Brazilian Air Force),15 Nov 2009,Active,Augusto Severo
+19000278,Embraer Lineage 1000 (ERJ-190-100 ECJ),VP-CCC,Arab Wings Company,22 Dec 2014,Active,
+19000279,Embraer ERJ-190STD (ERJ-190-100),PH-EZD,KLM Cityhopper,29 Apr 2009,Active,"EZD-279, lsf Falko"
+19000280,Embraer ERJ-195LR (ERJ-190-200 LR),I-ADJO,Air Dolomiti,29 Apr 2009,Active,
+19000281,Embraer ERJ-195LR (ERJ-190-200 LR),EC-KYP,Air Europa Express,21 Jun 2016,Active,opby Aeronova
+19000282,Embraer ERJ-190AR (ERJ-190-100 IGW),PR-AZE,Azul Linhas Aéreas Brasileiras,2 Jun 2009,Stored,"Verde, Amarelo e Azul"
+19000283,Embraer ERJ-195LR (ERJ-190-200 LR),4O-AOB,Montenegro Airlines,21 May 2009,Active,lsf GECAS
+19000284,Embraer ERJ-190LR (ERJ-190-100 LR),B-3153,Tianjin Airlines,9 Jun 2009,Active,lsf Changjiang Leasing
+19000285,Embraer ERJ-190LR (ERJ-190-100 LR),HB-JVN,Helvetic Airways,25 Feb 2015,Stored,lsf Bernina Aircraft Leasing
+19000286,Embraer ERJ-190AR (ERJ-190-100 IGW),N307JB,JetBlue Airways,3 Jun 2009,Stored,Mi Corazon Azul
+19000287,Embraer ERJ-190AR (ERJ-190-100 IGW),XA-ALQ,Aeroméxico Connect,23 Aug 2016,Stored,
+19000288,Embraer ERJ-190STD (ERJ-190-100),PH-EZE,KLM Cityhopper,27 Jun 2009,Active,EZE-288
+19000289,Embraer ERJ-190AR (ERJ-190-100 IGW),N309JB,JetBlue Airways,9 Jun 2009,Stored,Rhapsody in Blue
+19000290,Embraer ERJ-195LR (ERJ-190-200 LR),I-ADJU,Air Dolomiti,27 Feb 2017,Active,
+19000291,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-GBK,Austral Líneas Aéreas,1 Jun 2016,Active,lsf NAC
+19000292,Embraer ERJ-190AR (ERJ-190-100 IGW),N316JB,JetBlue Airways,23 Jun 2009,Stored,"Usto Schulz, 316"
+19000293,Embraer ERJ-190LR (ERJ-190-100 LR),B-3155,Tianjin Airlines,1 Jul 2009,Active,
+19000294,Embraer ERJ-190LR (ERJ-190-100 LR),HB-JVO,Helvetic Airways,27 Mar 2015,Stored,lsf Bernina Aircraft Leasing
+19000295,Embraer ERJ-190AR (ERJ-190-100 IGW),N295NA,Nordic Aviation Capital (NAC),30 Jan 2020,Stored,
+19000296,Embraer Lineage 1000 (ERJ-190-100 ECJ),A6-HHS,Falcon Aviation Services (FAS),29 Nov 2010,Active,
+19000297,Embraer ERJ-195LR (ERJ-190-200 LR),I-ADJW,Air Dolomiti,24 Jan 2019,Stored,
+19000298,Embraer ERJ-190STD (ERJ-190-100),F-HBLI,HOP!,31 Mar 2013,Stored,
+19000299,Embraer ERJ-190LR (ERJ-190-100 LR),B-3156,Tianjin Airlines,17 Aug 2009,Stored,lsf ICBC
+19000300,Embraer ERJ-195LR (ERJ-190-200 LR),I-ADJY,Air Dolomiti,25 Jan 2020,Stored,
+19000301,Embraer ERJ-190AR (ERJ-190-100 IGW),C9-EMA,LAM - Linhas Aéreas de Moçambique,30 Jul 2009,Stored,Cobué
+19000302,Embraer ERJ-190AR (ERJ-190-100 IGW),B-16829,Mandarin Airlines,24 Jul 2009,Active,lsf GECAS
+19000303,Embraer ERJ-195LR (ERJ-190-200 LR),EC-LCQ,Air Europa Express,Feb 2017,Active,opby Aeronova
+19000304,Embraer ERJ-190STD (ERJ-190-100),PH-EZF,KLM Cityhopper,14 Aug 2009,Active,EZF-304
+19000305,Embraer ERJ-195LR (ERJ-190-200 LR),I-ADJX,Air Dolomiti,2 Apr 2019,Stored,
+19000306,Embraer ERJ-190LR (ERJ-190-100 LR),B-3157,GX Airlines,20 Sep 2017,Stored,lsf ICBC
+19000307,Embraer Lineage 1000 (ERJ-190-100 ECJ),CN-SHS,Dalia Air,28 Oct 2011,Stored,
+19000308,Embraer ERJ-195LR (ERJ-190-200 LR),I-ADJV,Air Dolomiti,7 Mar 2018,Active,Star Alliance cs
+19000309,Embraer ERJ-190AR (ERJ-190-100 IGW),C9-EMB,LAM - Linhas Aéreas de Moçambique,4 Sep 2009,Stored,Chiloane
+19000310,Embraer ERJ-190LR (ERJ-190-100 LR),ER-ECD,Air Moldova,20 Nov 2016,Active,lsf Falko
+19000311,Embraer ERJ-190STD (ERJ-190-100),F-HBLJ,HOP!,31 Mar 2013,Stored,
+19000312,Embraer ERJ-190AR (ERJ-190-100 IGW),VH-ZPN,Virgin Australia,4 May 2011,Stored,"Arrawarra Beach, lsf Falko"
+,,,,,,
+19000313,Embraer ERJ-190LR (ERJ-190-100 LR),B-3158,Tianjin Airlines,29 Sep 2009,Stored,lsf ICBC
+19000314,Embraer ERJ-195LR (ERJ-190-200 LR),OE-LWA,Austrian Airlines,20 Jan 2016,Stored,
+19000315,Embraer ERJ-190STD (ERJ-190-100),PH-EZG,KLM Cityhopper,25 Sep 2009,Active,"EZG-315, lsf BBAM"
+19000316,Embraer ERJ-195LR (ERJ-190-200 LR),D-AEBB,Lufthansa CityLine,9 Oct 2009,Stored,Ingelheim an Rhein
+19000317,Embraer Lineage 1000 (ERJ-190-100 ECJ),N666GL,Private,13 Dec 2013,Active,
+19000318,Embraer ERJ-190LR (ERJ-190-100 LR),B-3159,GX Airlines,16 Jun 2017,Stored,lsf AVIC Leasing
+19000319,Embraer ERJ-190STD (ERJ-190-100),PH-EZH,KLM Cityhopper,23 Oct 2009,Active,EZH-319
+19000320,Embraer ERJ-195LR (ERJ-190-200 LR),D-AEBC,Lufthansa CityLine,9 Nov 2009,Stored,Oberstdorf
+19000321,Embraer ERJ-190AR (ERJ-190-100 IGW),VH-ZPO,Virgin Australia,4 May 2011,Stored,"Boomerang Beach, lsf Falko"
+19000322,Embraer ERJ-190STD (ERJ-190-100),PH-EZI,KLM Cityhopper,13 Nov 2009,Stored,"EZI-322, lsf Falko"
+19000323,Embraer ERJ-190LR (ERJ-190-100 LR),B-3160,Tianjin Airlines,16 Dec 2009,Stored,
+19000324,Embraer ERJ-195LR (ERJ-190-200 LR),OE-LWB,Austrian Airlines,8 Jul 2016,Stored,
+19000325,Embraer ERJ-190LR (ERJ-190-100 LR),ER-ECB,Air Moldova,22 Feb 2012,Stored,Stefan Cel Mare
+19000326,Embraer ERJ-190STD (ERJ-190-100),PH-EZK,KLM Cityhopper,11 Dec 2009,Active,"EZK-326, lsf Falko"
+19000327,Embraer ERJ-190LR (ERJ-190-100 LR),D-AECA,Lufthansa CityLine,15 Dec 2009,Active,"Deidesheim, lsf Lufthansa"
+19000328,Embraer ERJ-190LR (ERJ-190-100 LR),B-3161,Tianjin Airlines,17 Dec 2009,Stored,
+19000329,Embraer ERJ-190AR (ERJ-190-100 IGW),PR-AZG,Azul Linhas Aéreas Brasileiras,24 Nov 2009,Stored,"A Terra é Azul, lsf NAC"
+19000330,Embraer ERJ-190AR (ERJ-190-100 IGW),PR-AZH,Azul Linhas Aéreas Brasileiras,15 Dec 2009,Stored,"Azulcenter, lsf NAC"
+19000331,Embraer ERJ-190LR (ERJ-190-100 LR),B-3162,Tianjin Airlines,3 Feb 2010,Stored,Liupanshui cs
+19000332,Embraer ERJ-190LR (ERJ-190-100 LR),D-AECB,Lufthansa CityLine,28 Jan 2010,Active,Meißen
+19000333,Embraer ERJ-190LR (ERJ-190-100 LR),D-AECC,Lufthansa CityLine,22 Jan 2010,Active,Lutherstadt Eisleben
+19000334,Embraer ERJ-190STD (ERJ-190-100),PH-EZL,KLM Cityhopper,22 Jan 2010,Active,"EZL-334, lsf Showa Leasing"
+19000335,Embraer ERJ-190LR (ERJ-190-100 LR),B-3163,Tianjin Airlines,11 Mar 2010,Stored,lsf AVIC Leasing
+19000336,Embraer ERJ-190AR (ERJ-190-100 IGW),PR-AZI,Azul Linhas Aéreas Brasileiras,24 Feb 2010,Stored,Adorinha Azul
+19000337,Embraer ERJ-190LR (ERJ-190-100 LR),D-AECD,Lufthansa CityLine,9 Feb 2010,Active,"Schkeuditz, lsf Lufthansa"
+19000338,Embraer ERJ-190STD (ERJ-190-100),PH-EZM,KLM Cityhopper,12 Feb 2010,Active,"EZM-338, lsf Tokyo Century Corporation"
+19000339,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCYJ,BA CityFlyer,4 Mar 2010,Stored,
+19000340,Embraer ERJ-190LR (ERJ-190-100 LR),B-3165,GX Airlines,17 Mar 2015,Active,
+19000341,Embraer ERJ-190LR (ERJ-190-100 LR),D-AECE,Lufthansa CityLine,10 Mar 2010,Active,"Kronach, lsf Lufthansa"
+19000342,Embraer ERJ-190STD (ERJ-190-100),PH-EZN,KLM Cityhopper,11 Mar 2010,Active,EZN-342
+19000343,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCYK,BA CityFlyer,8 Apr 2010,Stored,
+19000344,Embraer ERJ-195LR (ERJ-190-200 LR),EC-LEK,Air Europa Express,1 Dec 2016,Active,opby Aeronova
+19000345,Embraer ERJ-190STD (ERJ-190-100),PH-EZO,KLM Cityhopper,1 Apr 2010,Active,EZO-345
+19000346,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCYL,BA CityFlyer,29 Apr 2010,Stored,
+19000347,Embraer ERJ-190STD (ERJ-190-100),PH-EZP,KLM Cityhopper,1 Apr 2010,Active,"EZP-347, lsf Showa Leasing"
+19000348,Embraer ERJ-190LR (ERJ-190-100 LR),B-3166,GX Airlines,14 Mar 2017,Stored,lsf AVIC Leasing
+19000349,Embraer ERJ-190LR (ERJ-190-100 LR),HB-JVM,Helvetic Airways,29 Jan 2015,Stored,lsf Bernina Aircraft Leasing
+19000350,Embraer ERJ-195LR (ERJ-190-200 LR),OE-LWC,Austrian Airlines,23 Jan 2017,Stored,
+19000351,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCYM,BA CityFlyer,27 May 2010,Stored,
+19000352,Embraer ERJ-190LR (ERJ-190-100 LR),B-3167,Tianjin Airlines,27 May 2010,Stored,
+19000353,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYF,Azul Linhas Aéreas Brasileiras,24 Jun 2010,Stored,Tripulante Azul
+19000354,Embraer ERJ-190LR (ERJ-190-100 LR),HB-JVL,Helvetic Airways,18 Dec 2014,Stored,lsf GOAL
+19000355,Embraer ERJ-190LR (ERJ-190-100 LR),B-3168,Tianjin Airlines,30 Jun 2010,Stored,
+19000356,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYG,Azul Linhas Aéreas Brasileiras,24 Jun 2010,Stored,"Tudo Novo, Tudo Azul"
+19000357,Embraer ERJ-195LR (ERJ-190-200 LR),EC-LFZ,Air Europa Express,9 Jan 2017,Active,opby Aeronova
+19000358,Embraer ERJ-195LR (ERJ-190-200 LR),4O-AOC,Montenegro Airlines,16 Jul 2010,Active,lsf GECAS
+19000359,Embraer ERJ-190LR (ERJ-190-100 LR),D-AECF,Lufthansa CityLine,23 Jun 2010,Active,"Kronberg/Taunus, lsf Lufthansa"
+19000360,Embraer ERJ-190AR (ERJ-190-100 IGW),N986TA,Avianca El Salvador,28 May 2013,Stored,
+19000361,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYH,Azul Linhas Aéreas Brasileiras,24 Jun 2010,Stored,"Céu, Sol, Sul, Azul, lsf Bocomm Leasing"
+19000362,Embraer Lineage 1000 (ERJ-190-100 ECJ),LX-IBR,Global Jet Luxembourg,Jul 2016,Active,
+19000363,Embraer ERJ-190AR (ERJ-190-100 IGW),N317JB,JetBlue Airways,30 Jun 2010,Stored,Deja Blue
+19000364,Embraer ERJ-190AR (ERJ-190-100 IGW),N318JB,JetBlue Airways,30 Jun 2010,Stored,Blue Jean Baby
+,,,,,,
+19000365,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CDY,Austral Líneas Aéreas,16 Sep 2010,Active,
+19000366,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYI,Azul Linhas Aéreas Brasileiras,21 Jul 2010,Stored,Azul Celeste
+19000367,Embraer ERJ-190LR (ERJ-190-100 LR),2-TYAN,Willis Lease,20 Jan 2017,Scrapped,
+19000368,Embraer ERJ-190LR (ERJ-190-100 LR),D-AECG,Lufthansa CityLine,29 Jul 2010,Active,"Heppenheim/Bergstraße, lsf Lufthansa"
+19000369,Embraer ERJ-190LR (ERJ-190-100 LR),B-3169,Tianjin Airlines,6 Aug 2010,Stored,
+19000370,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYJ,Azul Linhas Aéreas Brasileiras,24 Aug 2010,Stored,"Azul Real, lsf Lico Leasing"
+19000371,Embraer ERJ-190LR (ERJ-190-100 LR),B-3170,Tianjin Airlines,26 Aug 2010,Active,
+19000372,Embraer ERJ-190AR (ERJ-190-100 IGW),HC-COX,TAME,20 Dec 2013,Written Off,lsf NAC
+19000373,Embraer ERJ-190AR (ERJ-190-100 IGW),N373NC,Nordic Aviation Capital (NAC),27 Mar 2020,Stored,
+19000374,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYK,Azul Linhas Aéreas Brasileiras,24 Aug 2010,Stored,Diamante Azul
+19000375,Embraer ERJ-190STD (ERJ-190-100),PH-EZR,KLM Cityhopper,19 Aug 2010,Active,"EZR-375, lsf SMBC"
+19000376,Embraer ERJ-190LR (ERJ-190-100 LR),D-AECH,Lufthansa CityLine,26 Aug 2010,Active,Alzey
+19000377,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CDZ,Austral Líneas Aéreas,16 Sep 2010,Active,
+19000378,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYL,Azul Linhas Aéreas Brasileiras,22 Sep 2010,Stored,"Amazônia Azul, lsf Lico Leasing"
+19000379,Embraer ERJ-190LR (ERJ-190-100 LR),B-3171,Tianjin Airlines,22 Oct 2010,Active,lsf Yangtze River International Leasing
+19000380,Embraer ERJ-190STD (ERJ-190-100),PH-EZS,KLM Cityhopper,17 Sep 2010,Active,"EZS-380, lsf SMBC"
+19000381,Embraer ERJ-190LR (ERJ-190-100 LR),D-AECI,Lufthansa CityLine,22 Sep 2010,Active,Tauberbischofsheim
+19000382,Embraer ERJ-195LR (ERJ-190-200 LR),SP-LNL,LOT - Polish Airlines,12 Apr 2018,Stored,lsf NAC
+19000383,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CET,Austral Líneas Aéreas,29 Sep 2010,Active,
+19000384,Embraer ERJ-190AR (ERJ-190-100 IGW),N323JB,JetBlue Airways,29 Sep 2010,Stored,Only Blue
+19000385,Embraer ERJ-190LR (ERJ-190-100 LR),B-3172,GX Airlines,3 Nov 2016,Stored,
+19000386,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYN,Azul Linhas Aéreas Brasileiras,28 Oct 2010,Stored,"Blue Angels, lsf Bocomm Leasing"
+19000387,Embraer ERJ-190LR (ERJ-190-100 LR),HB-JVP,Helvetic Airways,28 Apr 2015,Stored,lsf Bernina Aircraft Leasing
+19000388,Embraer ERJ-190AR (ERJ-190-100 IGW),N324JB,JetBlue Airways,26 Oct 2010,Stored,Blue Traveller
+19000389,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CEU,Austral Líneas Aéreas,12 Nov 2010,Active,
+19000390,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CEV,Austral Líneas Aéreas,12 Nov 2010,Active,
+19000391,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYO,Azul Linhas Aéreas Brasileiras,1 Dec 2010,Stored,"Rosa e Azul, lsf Bocomm Leasing, Pink Ribbon cs"
+19000392,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCYN,BA CityFlyer,9 Nov 2010,Stored,700th E-Jet cs
+19000393,Embraer ERJ-190AR (ERJ-190-100 IGW),N987TA,Avianca El Salvador,28 May 2013,Stored,lsf Compass Capital Corporation
+19000394,Embraer ERJ-190LR (ERJ-190-100 LR),B-3173,GX Airlines,3 Nov 2016,Active,
+19000395,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CHO,Austral Líneas Aéreas,10 Dec 2010,Active,
+19000396,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYP,Azul Linhas Aéreas Brasileiras,13 Dec 2010,Scrapped,Arara Azul
+19000397,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CHQ,Austral Líneas Aéreas,14 Dec 2010,Active,
+19000398,Embraer ERJ-190AR (ERJ-190-100 IGW),5Y-KYP,Kenya Airways,17 Dec 2010,Stored,lsf NAC
+19000399,Embraer ERJ-190AR (ERJ-190-100 IGW),N988TA,Avianca El Salvador,28 May 2013,Stored,
+19000400,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CHR,Austral Líneas Aéreas,22 Dec 2010,Active,
+19000401,Embraer ERJ-195LR (ERJ-190-200 LR),EC-LIN,Air Europa Express,28 Dec 2016,Active,opby Aeronova
+19000402,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CHS,Austral Líneas Aéreas,23 Dec 2010,Active,
+19000403,Embraer ERJ-190LR (ERJ-190-100 LR),2-TYAM,Willis Lease,21 Dec 2016,Scrapped,
+19000404,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCYZ,BA CityFlyer,3 May 2018,Stored,lsf Falko
+19000405,Embraer ERJ-190LR (ERJ-190-100 LR),B-3175,GX Airlines,3 Nov 2016,Stored,
+19000406,Embraer ERJ-190LR (ERJ-190-100 LR),B-3176,GX Airlines,10 Dec 2015,Active,lsf Yangtze River International Leasing
+19000407,Embraer ERJ-195AR (ERJ-190-200 IGW),CS-TTW,TAP Express,Aug 2017,Active,"Fátima, opby Portugália"
+19000408,Embraer ERJ-190LR (ERJ-190-100 LR),XA-MAC,Aeroméxico Connect,1 Mar 2011,Active,
+19000409,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CID,Austral Líneas Aéreas,11 Feb 2011,Active,
+19000410,Embraer ERJ-190LR (ERJ-190-100 LR),B-3177,Tianjin Airlines,17 Mar 2011,Active,lsf AVIC Leasing
+19000411,Embraer ERJ-195LR (ERJ-190-200 LR),OE-LWD,Austrian Airlines,18 Aug 2015,Stored,Central Europe
+19000412,Embraer ERJ-190AR (ERJ-190-100 IGW),VH-ZPQ,Virgin Australia,4 May 2011,Stored,"Main Beach, lsf Falko"
+19000413,Embraer ERJ-195AR (ERJ-190-200 IGW),SP-LNN,LOT - Polish Airlines,4 Jul 2019,Active,lsf NAC
+19000414,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CIE,Austral Líneas Aéreas,25 Feb 2011,Active,
+19000415,Embraer ERJ-195LR (ERJ-190-200 LR),SP-LNA,LOT - Polish Airlines,8 Apr 2011,Active,
+19000416,Embraer ERJ-190LR (ERJ-190-100 LR),OH-LKP,Finnair,17 Mar 2011,Active,"lsf TrueNoord, opby NORRA - Nordic Regional Airlines"
+,,,,,,
+19000417,Embraer ERJ-190LR (ERJ-190-100 LR),B-3178,GX Airlines,23 Jan 2017,Stored,lsf AVIC Leasing
+19000418,Embraer ERJ-190LR (ERJ-190-100 LR),5Y-FFL,Kenya Airways,5 Jul 2019,Stored,lsf NAC
+19000419,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYS,Azul Linhas Aéreas Brasileiras,30 Mar 2011,Scrapped,Jambock Azul
+19000420,Embraer ERJ-190LR (ERJ-190-100 LR),HB-JVQ,Helvetic Airways,28 May 2015,Stored,lsf GOAL
+19000421,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CIF,Austral Líneas Aéreas,28 Mar 2011,Active,
+19000422,Embraer ERJ-190AR (ERJ-190-100 IGW),N328JB,JetBlue Airways,23 Mar 2011,Stored,Blue Warrior
+19000423,Embraer ERJ-195LR (ERJ-190-200 LR),OE-LWE,Austrian Airlines,15 Mar 2017,Stored,
+19000424,Embraer ERJ-190AR (ERJ-190-100 IGW),VH-ZPR,Virgin Australia,4 May 2011,Stored,"Dundee Beach, lsf Falko"
+19000425,Embraer ERJ-195LR (ERJ-190-200 LR),EC-LKM,Air Europa Express,17 Mar 2017,Active,"Guardia Civil 175 Años a tu lado, opby Aeronova"
+19000426,Embraer ERJ-190LR (ERJ-190-100 LR),B-3179,GX Airlines,17 Mar 2015,Active,
+19000427,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CIG,Austral Líneas Aéreas,28 Apr 2011,Active,
+19000428,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CIH,Austral Líneas Aéreas,28 Apr 2011,Active,
+19000429,Embraer ERJ-195AR (ERJ-190-200 IGW),CS-TTX,TAP Express,Jul 2017,Active,"Porto, opby Portugália"
+19000430,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCYO,BA CityFlyer,18 Apr 2011,Stored,
+19000431,Embraer ERJ-190LR (ERJ-190-100 LR),5Y-FFM,Kenya Airways,5 Aug 2019,Stored,lsf NAC
+19000432,Embraer ERJ-190LR (ERJ-190-100 LR),CS-TPO,TAP Express,Oct 2016,Stored,"Açores, opby Portugália"
+19000433,Embraer ERJ-190AR (ERJ-190-100 IGW),N329JB,JetBlue Airways,3 May 2011,Active,My Other Ride Is A JetBlue A320
+19000434,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYU,Azul Linhas Aéreas Brasileiras,22 Jun 2011,Stored,"#sennasempre, lsf Bocomm Leasing, Ayrton Senna sempre cs"
+19000435,Embraer ERJ-190LR (ERJ-190-100 LR),HB-JVR,Helvetic Airways,1 Jul 2015,Stored,lsf GOAL
+19000436,Embraer ERJ-190LR (ERJ-190-100 LR),OH-LKR,Finnair,19 May 2011,Active,"lsf TrueNoord, opby NORRA - Nordic Regional Airlines"
+19000437,Embraer ERJ-195LR (ERJ-190-200 LR),EC-LKX,Air Europa Express,19 Apr 2017,Active,"Luis Salom, opby Aeronova"
+19000438,Embraer Lineage 1000 (ERJ-190-100 ECJ),N889ML,New Macau Landmark Management,20 Dec 2011,Active,
+19000439,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CKZ,Austral Líneas Aéreas,17 Jun 2011,Active,
+19000440,Embraer ERJ-190AR (ERJ-190-100 IGW),5Y-KYQ,Kenya Airways,30 May 2011,Stored,lsf NAC
+19000441,Embraer ERJ-190LR (ERJ-190-100 LR),CS-TPP,TAP Express,Sep 2016,Stored,"Viseu, opby Portugália"
+19000442,Embraer ERJ-190LR (ERJ-190-100 LR),B-3180,GX Airlines,17 Dec 2015,Stored,lsf AVIC Leasing
+19000443,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCYP,BA CityFlyer,25 Jun 2011,Stored,
+19000444,Embraer ERJ-195LR (ERJ-190-200 LR),SP-LNB,LOT - Polish Airlines,22 Jun 2011,Stored,Grześki cs
+19000445,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CMA,Austral Líneas Aéreas,26 Aug 2011,Active,
+19000446,Embraer ERJ-190AR (ERJ-190-100 IGW),N334JB,JetBlue Airways,20 Jul 2011,Active,#Follow @JetBlue
+19000447,Embraer ERJ-195LR (ERJ-190-200 LR),OE-LWF,Austrian Airlines,11 May 2017,Stored,
+19000448,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CMB,Austral Líneas Aéreas,26 Aug 2011,Active,
+19000449,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYV,Azul Linhas Aéreas Brasileiras,7 Sep 2011,Stored,"Azul Brasil, lsf Castlelake, Brazilian Flag cs"
+19000450,Embraer ERJ-190LR (ERJ-190-100 LR),CS-TPQ,TAP Express,May 2016,Stored,"Faro, opby Portugália"
+19000451,Embraer ERJ-190AR (ERJ-190-100 IGW),VH-ZPT,Cobham Aviation,13 May 2019,Active,lsf Falko
+19000452,Embraer ERJ-195LR (ERJ-190-200 LR),EC-LLR,Air Europa Express,1 Feb 2017,Active,opby Aeronova
+19000453,Embraer Lineage 1000 (ERJ-190-100 ECJ),B-3203,China Southern Airline General Aviation,8 Aug 2017,Active,
+19000454,Embraer ERJ-190LR (ERJ-190-100 LR),B-3181,Tianjin Airlines,19 Aug 2011,Active,
+19000455,Embraer ERJ-190LR (ERJ-190-100 LR),XA-DAC,Aeroméxico Connect,6 Aug 2011,Active,
+19000456,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCAA,BA CityFlyer,30 Apr 2019,Stored,lsf CDB Aviation
+19000457,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CPI,Austral Líneas Aéreas,16 Sep 2011,Active,
+19000458,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYW,Azul Linhas Aéreas Brasileiras,30 Sep 2011,Stored,"#MulheresDaAzul, lsf Castlelake"
+19000459,Embraer ERJ-190LR (ERJ-190-100 LR),B-3182,Tianjin Airlines,31 Aug 2011,Stored,
+19000460,Embraer ERJ-190LR (ERJ-190-100 LR),CS-TPR,TAP Express,Jun 2016,Stored,"Leiria, opby Portugália"
+19000461,Embraer ERJ-190AR (ERJ-190-100 IGW),VP-BZC,Ikar,19 Apr 2018,Stored,lsf NAC
+19000462,Embraer ERJ-195LR (ERJ-190-200 LR),SP-LNC,LOT - Polish Airlines,25 Aug 2011,Stored,Śliwka Nałęczowska cs
+19000463,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CPJ,Austral Líneas Aéreas,23 Sep 2011,Active,
+19000464,Embraer ERJ-195LR (ERJ-190-200 LR),OE-LWG,Austrian Airlines,18 Feb 2016,Stored,
+19000465,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCAB,BA CityFlyer,11 Jul 2019,Stored,lsf CDB Aviation
+19000466,Embraer ERJ-190LR (ERJ-190-100 LR),XA-HAC,Aeroméxico Connect,2 Sep 2011,Active,
+19000468,Embraer ERJ-190AR (ERJ-190-100 IGW),5Y-KYR,Kenya Airways,10 Sep 2011,Stored,lsf ALC
+19000469,Embraer ERJ-190LR (ERJ-190-100 LR),CP-3135,Amaszonas,24 Oct 2019,Active,lsf CDB Aviation
+,,,,,,
+19000470,Embraer ERJ-190STD (ERJ-190-100),EI-RNA,Alitalia Cityliner,23 Sep 2011,Active,"Parco Nazionale del Vesuvio, lsf APC"
+19000471,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYX,Azul Linhas Aéreas Brasileiras,25 Oct 2011,Stored,"Azul é Verde, lsf TrueNoord"
+19000472,Embraer ERJ-190LR (ERJ-190-100 LR),B-3183,GX Airlines,17 Dec 2015,Stored,
+19000473,Embraer ERJ-190AR (ERJ-190-100 IGW),N337JB,JetBlue Airways,21 Sep 2011,Stored,I'm With Blue
+19000474,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-CPK,Austral Líneas Aéreas,23 Sep 2011,Active,
+19000475,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYY,Azul Linhas Aéreas Brasileiras,17 Oct 2011,Stored,"Sorriso Azul, lsf Elevate Capital Partners, Azul viagens cs"
+19000476,Embraer ERJ-190LR (ERJ-190-100 LR),JU-8811,Hunnu Air,24 May 2019,Active,lsf CDB Aviation
+19000477,Embraer ERJ-190LR (ERJ-190-100 LR),CX-IVO,Amaszonas Uruguay,19 Nov 2019,Active,lsf CDB Aviation
+19000478,Embraer ERJ-190AR (ERJ-190-100 IGW),5Y-KYS,Kenya Airways,29 Sep 2011,Stored,lsf ALC
+19000479,Embraer ERJ-190STD (ERJ-190-100),EI-RNB,Alitalia Cityliner,7 Oct 2011,Active,"Parco Nazionale del Pollino, lsf APC"
+19000480,Embraer ERJ-190LR (ERJ-190-100 LR),B-3185,GX Airlines,10 Dec 2015,Active,
+19000481,Embraer ERJ-190AR (ERJ-190-100 IGW),VP-BZD,Ikar,12 Jun 2018,Stored,lsf NAC
+19000482,Embraer ERJ-190AR (ERJ-190-100 IGW),N989TA,Avianca El Salvador,28 May 2013,Stored,lsf Compass Capital Corporation
+19000483,Embraer ERJ-190LR (ERJ-190-100 LR),CP-3142,Amaszonas,8 Jan 2020,Active,lsf CDB Aviation
+19000484,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AYZ,Azul Linhas Aéreas Brasileiras,7 Dec 2011,Stored,"Azul de A a Z, lsf Aircastle"
+19000485,Embraer ERJ-190AR (ERJ-190-100 IGW),YV2966,Conviasa,10 Dec 2013,Active,
+19000486,Embraer ERJ-195LR (ERJ-190-200 LR),OE-LWH,Austrian Airlines,31 Aug 2016,Stored,Star Alliance cs
+19000487,Embraer ERJ-190LR (ERJ-190-100 LR),2-PKCE,Nordic Aviation Capital (NAC),20 Nov 2019,Stored,
+19000488,Embraer ERJ-190LR (ERJ-190-100 LR),CP-3145,Amaszonas,23 Jan 2020,Active,lsf CDB Aviation
+19000489,Embraer ERJ-190LR (ERJ-190-100 LR),B-3186,GX Airlines,10 Dec 2015,Active,
+19000490,Embraer ERJ-190AR (ERJ-190-100 IGW),N339JB,JetBlue Airways,9 Nov 2011,Active,BYO Blue
+19000491,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXA,Azul Linhas Aéreas Brasileiras,21 Dec 2011,Stored,"Azul Safira, lsf NAC"
+19000492,Embraer ERJ-190STD (ERJ-190-100),LZ-SOF,Bulgaria Air,8 Mar 2012,Active,lsf ALC
+19000493,Embraer ERJ-190LR (ERJ-190-100 LR),CS-TPS,TAP Express,Aug 2016,Stored,"Viana do Castelo, opby Portugália"
+19000494,Embraer ERJ-190STD (ERJ-190-100),UR-EMA,Ukraine International Airlines,23 Apr 2013,Active,
+19000495,Embraer ERJ-190LR (ERJ-190-100 LR),CS-TPT,TAP Express,27 May 2016,Active,"Évora, opby Portugália"
+19000496,Embraer ERJ-190STD (ERJ-190-100),LZ-VAR,Bulgaria Air,12 Apr 2012,Active,lsf ALC
+19000497,Embraer ERJ-190LR (ERJ-190-100 LR),B-3187,Hebei Airlines,20 Dec 2011,Active,
+19000498,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXB,Azul Linhas Aéreas Brasileiras,21 Dec 2011,Active,"Céu Azul de Brasilia, lsf NAC"
+19000499,Embraer ERJ-190LR (ERJ-190-100 LR),XA-ACC,Aeroméxico Connect,9 Dec 2011,Active,
+19000500,Embraer ERJ-195LR (ERJ-190-200 LR),OE-LWI,Austrian Airlines,13 Apr 2016,Stored,
+19000501,Embraer ERJ-190STD (ERJ-190-100),UR-EMB,Ukraine International Airlines,20 May 2013,Stored,
+19000502,Embraer ERJ-190LR (ERJ-190-100 LR),B-3188,Hebei Airlines,20 Dec 2011,Active,
+19000503,Embraer ERJ-190STD (ERJ-190-100),EI-RNC,Alitalia Cityliner,16 Dec 2011,Stored,"Parco Nazionale Arcipelago Toscano, lsf NAC"
+19000504,Embraer ERJ-190AR (ERJ-190-100 IGW),N346JB,JetBlue Airways,24 Jan 2012,Stored,Blueberry
+19000505,Embraer ERJ-190AR (ERJ-190-100 IGW),YV2850,Conviasa,28 Oct 2012,Active,
+19000506,Embraer ERJ-190LR (ERJ-190-100 LR),CS-TPU,TAP Express,Jul 2016,Active,"Setúbal, opby Portugália"
+19000507,Embraer ERJ-195LR (ERJ-190-200 LR),OE-LWJ,Austrian Airlines,3 Aug 2016,Stored,
+19000508,Embraer ERJ-190LR (ERJ-190-100 LR),B-3189,Tianjin Airlines,2 Feb 2012,Active,
+19000509,Embraer ERJ-190AR (ERJ-190-100 IGW),YV2849,Conviasa,21 Sep 2012,Active,
+19000510,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXC,Azul Linhas Aéreas Brasileiras,30 Jan 2012,Stored,"Azul Tropical, lsf Falko"
+19000511,Embraer ERJ-190AR (ERJ-190-100 IGW),N348JB,JetBlue Airways,3 Feb 2012,Stored,Mystic Blue
+19000512,Embraer ERJ-190STD (ERJ-190-100),EI-RND,Alitalia Cityliner,12 Mar 2012,Stored,"Parco Nazionale Dolomiti Bellunesi, lsf NAC, SkyTeam cs"
+19000513,Embraer ERJ-190SR (ERJ-190-100 SR),EI-GSW,CDB Aviation,16 Apr 2020,Stored,
+19000514,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXD,Azul Linhas Aéreas Brasileiras,19 Mar 2012,Stored,"Azulão, lsf Falko"
+19000515,Embraer ERJ-190AR (ERJ-190-100 IGW),YV2851,Conviasa,29 Sep 2012,Active,
+19000516,Embraer ERJ-195LR (ERJ-190-200 LR),SP-LND,LOT - Polish Airlines,25 Feb 2012,Active,
+19000517,Embraer ERJ-190LR (ERJ-190-100 LR),B-3190,Tianjin Airlines,16 Feb 2012,Active,
+19000518,Embraer ERJ-190LR (ERJ-190-100 LR),XA-ACE,Aeroméxico Connect,17 Feb 2012,Stored,
+19000519,Embraer ERJ-190STD (ERJ-190-100),PH-EZT,KLM Cityhopper,8 Mar 2012,Active,"EZT-519, lsf Falko"
+19000520,Embraer ERJ-190STD (ERJ-190-100),EI-RNE,Alitalia Cityliner,23 Apr 2012,Active,"Parco Nazionale Della Sila, lsf NAC"
+19000521,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXE,Azul Linhas Aéreas Brasileiras,30 Mar 2012,Active,"Axé Azul, lsf Falko"
+,,,,,,
+19000522,Embraer ERJ-190STD (ERJ-190-100),PH-EZU,KLM Cityhopper,8 Mar 2012,Active,"EZU-522, lsf Falko"
+19000523,Embraer ERJ-195LR (ERJ-190-200 LR),OE-LWK,Austrian Airlines,12 May 2016,Stored,
+19000524,Embraer ERJ-190LR (ERJ-190-100 LR),B-3137,China Southern Airlines,21 Mar 2012,Stored,lsf CDB Aviation
+19000525,Embraer ERJ-190LR (ERJ-190-100 LR),XA-ACI,Aeroméxico Connect,27 Mar 2012,Active,
+19000526,Embraer Lineage 1000 (ERJ-190-100 ECJ),-,Embraer,,Not Built,
+19000527,Embraer ERJ-190LR (ERJ-190-100 LR),B-3191,Tianjin Airlines,29 Mar 2012,Active,
+19000528,Embraer ERJ-190STD (ERJ-190-100),PH-EZV,KLM Cityhopper,20 Apr 2012,Active,"EZV-528, lsf Tokyo Century Corporation"
+19000529,Embraer ERJ-190LR (ERJ-190-100 LR),B-3145,China Southern Airlines,17 Apr 2012,Stored,lsf CDB Aviation
+19000530,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXF,Azul Linhas Aéreas Brasileiras,24 Apr 2012,Stored,"Azul Acima De Tudo, lsf TrueNoord"
+19000531,Embraer ERJ-190LR (ERJ-190-100 LR),XA-ACJ,Aeroméxico Connect,20 Apr 2012,Stored,
+19000532,Embraer ERJ-195LR (ERJ-190-200 LR),OE-LWL,Austrian Airlines,13 Jun 2016,Stored,City of Prague
+19000533,Embraer ERJ-190STD (ERJ-190-100),PH-EZW,KLM Cityhopper,20 Apr 2012,Active,"EZW-533, lsf Tokyo Century Corporation"
+19000534,Embraer Lineage 1000 (ERJ-190-100 ECJ),9H-FAB,AIR X Charter,18 Dec 2019,Active,
+19000535,Embraer ERJ-190LR (ERJ-190-100 LR),EI-GSX,CDB Aviation,28 May 2020,Stored,
+19000536,Embraer ERJ-190LR (ERJ-190-100 LR),B-3192,Tianjin Airlines,26 Apr 2012,Stored,
+19000537,Embraer ERJ-190LR (ERJ-190-100 LR),P4-KCF,Air Astana,26 Apr 2012,Stored,lsf NAC
+19000538,Embraer ERJ-190LR (ERJ-190-100 LR),XA-ACK,Aeroméxico Connect,11 May 2012,Active,
+19000539,Embraer ERJ-190LR (ERJ-190-100 LR),B-3138,China Southern Airlines,8 May 2012,Stored,lsf CDB Aviation
+19000540,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXG,Azul Linhas Aéreas Brasileiras,21 May 2012,Active,"Trovão Azul, lsf Falko"
+19000541,Embraer ERJ-190LR (ERJ-190-100 LR),CS-TPV,TAP Express,Sep 2016,Stored,"Vila Real, opby Portugália"
+19000542,Embraer ERJ-195LR (ERJ-190-200 LR),OE-LWM,Austrian Airlines,16 Mar 2016,Stored,
+19000543,Embraer ERJ-190LR (ERJ-190-100 LR),P4-KCG,Air Astana,30 Oct 2012,Stored,"Hiuaz, lsf TrueNoord"
+19000544,Embraer ERJ-190AR (ERJ-190-100 IGW),5Y-KYT,Kenya Airways,26 May 2012,Stored,lsf ALC
+19000545,Embraer ERJ-190STD (ERJ-190-100),PH-EZX,KLM Cityhopper,25 May 2012,Active,"EZX-545, lsf Tokyo Century Corporation, SkyTeam cs"
+19000546,Embraer ERJ-190LR (ERJ-190-100 LR),XA-ACM,Aeroméxico Connect,25 May 2012,Active,
+19000547,Embraer ERJ-190LR (ERJ-190-100 LR),P4-KCH,Air Astana,11 Sep 2012,Stored,"Dina, lsf Goshawk Aviation"
+19000548,Embraer ERJ-190LR (ERJ-190-100 LR),B-3139,China Southern Airlines,20 Jun 2012,Stored,lsf CDB Aviation
+19000549,Embraer ERJ-190AR (ERJ-190-100 IGW),N351JB,JetBlue Airways,25 Jun 2012,Stored,JBLU
+19000550,Embraer ERJ-190LR (ERJ-190-100 LR),CS-TPW,TAP Express,20 May 2016,Stored,"Coimbra, opby Portugália"
+19000551,Embraer ERJ-190STD (ERJ-190-100),LZ-BUR,Bulgaria Air,26 Jun 2012,Active,lsf ALC
+19000552,Embraer ERJ-190LR (ERJ-190-100 LR),XA-ACN,Aeroméxico Connect,22 Jun 2012,Active,
+19000553,Embraer ERJ-195LR (ERJ-190-200 LR),OE-LWN,Austrian Airlines,5 Jul 2017,Stored,
+19000554,Embraer ERJ-190LR (ERJ-190-100 LR),XA-ACS,Aeroméxico Connect,5 Jul 2012,Active,
+19000555,Embraer ERJ-195LR (ERJ-190-200 LR),OE-LWO,Austrian Airlines,11 Apr 2017,Stored,Wiener Johann Strauss Orchester
+19000556,Embraer ERJ-190LR (ERJ-190-100 LR),B-3205,China Southern Airlines,17 Jul 2012,Stored,lsf CDB Aviation
+19000557,Embraer ERJ-190LR (ERJ-190-100 LR),XA-ACT,Aeroméxico Connect,20 Jul 2012,Stored,
+19000558,Embraer ERJ-195LR (ERJ-190-200 LR),OE-LWP,Austrian Airlines,8 Jun 2017,Stored,
+19000559,Embraer Lineage 1000 (ERJ-190-100 ECJ),N378TP,ETPC Aviation LLC,2 Jan 2018,Active,
+19000560,Embraer ERJ-190LR (ERJ-190-100 LR),B-3206,China Southern Airlines,24 Jul 2012,Stored,lsf CDB Aviation
+19000561,Embraer ERJ-190LR (ERJ-190-100 LR),B-3207,Hebei Airlines,23 Jul 2012,Active,
+19000562,Embraer ERJ-190AR (ERJ-190-100 IGW),5Y-FFA,Kenya Airways,29 Aug 2012,Stored,
+19000563,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCYR,BA CityFlyer,10 Aug 2012,Stored,
+19000564,Embraer ERJ-190LR (ERJ-190-100 LR),B-3209,China Southern Airlines,14 Aug 2012,Stored,lsf CDB Aviation
+19000565,Embraer ERJ-195LR (ERJ-190-200 LR),OE-LWQ,Austrian Airlines,15 Feb 2017,Stored,Silent Night
+19000566,Embraer ERJ-190LR (ERJ-190-100 LR),B-3208,Hebei Airlines,16 Aug 2012,Active,
+19000567,Embraer ERJ-190LR (ERJ-190-100 LR),B-3212,Tianjin Airlines,30 Aug 2012,Active,lsf Yangtze River International Leasing
+19000568,Embraer ERJ-190AR (ERJ-190-100 IGW),PP-ADV,Vale,10 Sep 2012,Active,
+19000569,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXH,Azul Linhas Aéreas Brasileiras,8 Nov 2012,Stored,"Verão Azul, lsf Falko, 50 cities cs"
+19000570,Embraer ERJ-190LR (ERJ-190-100 LR),B-3210,China Southern Airlines,18 Sep 2012,Stored,lsf CDB Aviation
+19000571,Embraer Lineage 1000 (ERJ-190-100 ECJ),T7-PPR,Private,30 Aug 2019,Active,
+19000572,Embraer ERJ-190AR (ERJ-190-100 IGW),5Y-FFB,Kenya Airways,13 Sep 2012,Stored,SkyTeam cs
+19000573,Embraer ERJ-190LR (ERJ-190-100 LR),B-3213,Tianjin Airlines,27 Sep 2012,Stored,
+,,,,,,
+19000574,Embraer ERJ-190LR (ERJ-190-100 LR),B-3193,Tianjin Airlines,27 Sep 2012,Active,
+19000575,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXI,Azul Linhas Aéreas Brasileiras,7 Dec 2012,Stored,"Piloto Azul, lsf Aircastle"
+19000576,Embraer ERJ-190AR (ERJ-190-100 IGW),N353JB,JetBlue Airways,22 Oct 2012,Active,Blue La La
+19000577,Embraer ERJ-190AR (ERJ-190-100 IGW),5Y-FFC,Kenya Airways,9 Oct 2012,Stored,
+19000578,Embraer ERJ-195LR (ERJ-190-200 LR),I-ADJP,Air Dolomiti,23 Nov 2012,Stored,I Puritani di Vincenzo Bellini
+19000579,Embraer ERJ-190AR (ERJ-190-100 IGW),5Y-FFD,Kenya Airways,8 Nov 2012,Stored,
+19000580,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXJ,Azul Linhas Aéreas Brasileiras,13 Dec 2012,Stored,"O Sul é Azul, lsf Falko"
+19000581,Embraer ERJ-190AR (ERJ-190-100 IGW),C9-EMC,LAM - Linhas Aéreas de Moçambique,8 Nov 2012,Written Off,"Chaimite, lsf ALC"
+19000582,Embraer ERJ-190LR (ERJ-190-100 LR),B-3195,Tianjin Airlines,29 Nov 2012,Active,
+19000583,Embraer ERJ-195LR (ERJ-190-200 LR),SP-LNE,LOT - Polish Airlines,28 Nov 2012,Stored,lsf NAC
+19000584,Embraer ERJ-190STD (ERJ-190-100),LZ-PLO,Bulgaria Air,22 Nov 2012,Active,lsf ALC
+19000585,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXK,Azul Linhas Aéreas Brasileiras,29 Nov 2012,Stored,Águia Branca
+19000586,Embraer ERJ-190AR (ERJ-190-100 IGW),5Y-FFE,Kenya Airways,18 Dec 2012,Stored,
+19000587,Embraer ERJ-195LR (ERJ-190-200 LR),I-ADJQ,Air Dolomiti,17 Jan 2013,Active,Ernani di Giuseppe Verdi
+19000588,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXL,Azul Linhas Aéreas Brasileiras,13 Dec 2012,Stored,"Flecha Azul, lsf Aircastle"
+19000589,Embraer ERJ-190LR (ERJ-190-100 LR),UR-EMC,Ukraine International Airlines,2 Jul 2013,Stored,lsf Varangian Leasing
+19000590,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXN,Azul Linhas Aéreas Brasileiras,17 Dec 2012,Stored,"Dias Azuis, lsf GECAS"
+19000591,Embraer ERJ-190LR (ERJ-190-100 LR),B-3215,GX Airlines,1 Feb 2015,Stored,lsf MSFL
+19000592,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXO,Azul Linhas Aéreas Brasileiras,19 Dec 2012,Stored,"Simplesmente Azul, lsf GECAS"
+19000593,Embraer ERJ-190STD (ERJ-190-100),CP-3133,Amaszonas,15 Oct 2019,Active,lsf GECAS
+19000594,Embraer ERJ-190AR (ERJ-190-100 IGW),5Y-FFF,Kenya Airways,17 Jan 2013,Stored,
+19000595,Embraer ERJ-195LR (ERJ-190-200 LR),I-ADJR,Air Dolomiti,30 Jan 2013,Active,Norma di Vincenzo Bellini
+19000596,Embraer ERJ-195LR (ERJ-190-200 LR),SP-LNF,LOT - Polish Airlines,25 Feb 2013,Stored,lsf NAC
+19000597,Embraer ERJ-195LR (ERJ-190-200 LR),I-ADJS,Air Dolomiti,22 Feb 2013,Stored,Guglielmo Tell Gioachino Rossini
+19000598,Embraer ERJ-190LR (ERJ-190-100 LR),B-3216,China Southern Airlines,26 Feb 2013,Active,lsf CDB Aviation
+19000599,Embraer ERJ-190AR (ERJ-190-100 IGW),5Y-FFG,Kenya Airways,19 Feb 2013,Stored,
+19000600,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXP,Azul Linhas Aéreas Brasileiras,27 Feb 2013,Stored,"Coração Azul, lsf GECAS"
+19000601,Embraer ERJ-190AR (ERJ-190-100 IGW),N354JB,JetBlue Airways,1 Mar 2013,Active,Bluetopia
+19000602,Embraer ERJ-190LR (ERJ-190-100 LR),UR-EMD,Ukraine International Airlines,2 Jul 2013,Stored,lsf Varangian Leasing
+19000603,Embraer ERJ-190STD (ERJ-190-100),OO-JEM,TUI Airlines Belgium,19 Oct 2016,Stored,"Explorer, lsf TrueNoord"
+19000604,Embraer ERJ-190LR (ERJ-190-100 LR),P4-KCI,Air Astana,14 Mar 2013,Stored,"Amina, lsf TrueNoord"
+19000605,Embraer ERJ-190LR (ERJ-190-100 LR),B-3217,China Southern Airlines,12 Mar 2013,Active,lsf CDB Aviation
+19000606,Embraer ERJ-195LR (ERJ-190-200 LR),I-ADJT,Air Dolomiti,15 Mar 2013,Active,Tosca Giacomo Puccini
+19000607,Embraer ERJ-190STD (ERJ-190-100),OO-JEB,TUI Airlines Belgium,19 Oct 2016,Stored,"Navigator, lsf TrueNoord"
+19000608,Embraer ERJ-190STD (ERJ-190-100),CP-3130,Amaszonas,2 Aug 2019,Active,lsf GECAS
+19000609,Embraer ERJ-195AR (ERJ-190-200 IGW),CS-TTY,TAP Express,10 Jun 2017,Active,"Lisboa, opby Portugália"
+19000610,Embraer ERJ-190AR (ERJ-190-100 IGW),YV2911,Conviasa,28 May 2013,Active,
+19000611,Embraer Lineage 1000 (ERJ-190-100 ECJ),OO-NGI,Flying Service,20 Sep 2013,Active,
+19000612,Embraer ERJ-190AR (ERJ-190-100 IGW),YV2912,Conviasa,28 May 2013,Active,
+19000613,Embraer ERJ-190LR (ERJ-190-100 LR),B-3218,China Southern Airlines,16 Apr 2013,Active,lsf CDB Aviation
+19000614,Embraer ERJ-190LR (ERJ-190-100 LR),UR-EME,Ukraine International Airlines,2 Jul 2013,Stored,lsf Varangian Leasing
+19000615,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXR,Azul Linhas Aéreas Brasileiras,29 Apr 2013,Stored,"Agente de Aeroporto Azul, lsf Chorus Aviation"
+19000616,Embraer ERJ-190LR (ERJ-190-100 LR),4X-EMB,Arkia - Israeli Airlines,13 Mar 2014,Active,lsf Falko
+19000617,Embraer ERJ-190AR (ERJ-190-100 IGW),N355JB,JetBlue Airways,22 Apr 2013,Active,Rendezblue
+19000618,Embraer ERJ-190AR (ERJ-190-100 IGW),N358JB,JetBlue Airways,26 Apr 2013,Active,Blue's on First
+19000619,Embraer ERJ-190AR (ERJ-190-100 IGW),5Y-FFH,Kenya Airways,9 May 2013,Stored,
+19000620,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXS,Azul Linhas Aéreas Brasileiras,24 May 2013,Stored,"Espírito Azul, lsf ICBC"
+19000621,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXT,Azul Linhas Aéreas Brasileiras,27 May 2013,Stored,"Sangue Azul, lsf Chorus Aviation"
+19000622,Embraer ERJ-190AR (ERJ-190-100 IGW),YV2913,Conviasa,28 May 2013,Active,
+19000623,Embraer ERJ-190AR (ERJ-190-100 IGW),N368JB,JetBlue Airways,20 May 2013,Stored,Powered by Blue
+19000624,Embraer ERJ-190AR (ERJ-190-100 IGW),N373JB,JetBlue Airways,23 May 2013,Stored,Best in Blue
+19000625,Embraer ERJ-190LR (ERJ-190-100 LR),B-3140,Hebei Airlines,20 Jun 2013,Active,
+,,,,,,
+19000626,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXU,Azul Linhas Aéreas Brasileiras,21 Jun 2013,Stored,"Azul Bossa Nova, lsf ICBC"
+19000627,Embraer ERJ-190AR (ERJ-190-100 IGW),4K-AZ64,Buta Airways,8 Oct 2017,Active,Gabala
+19000628,Embraer ERJ-195AR (ERJ-190-200 IGW),CS-TTZ,TAP Express,Apr 2017,Active,"Madeira, opby Portugália"
+19000629,Embraer ERJ-190AR (ERJ-190-100 IGW),N374JB,JetBlue Airways,26 Jun 2013,Active,I'm A Blue Believer
+19000630,Embraer ERJ-190AR (ERJ-190-100 IGW),4K-AZ65,Buta Airways,21 Oct 2017,Active,Gusar
+19000631,Embraer ERJ-190AR (ERJ-190-100 IGW),4K-AZ66,Buta Airways,27 Oct 2017,Active,Salyan
+19000632,Embraer Lineage 1000 (ERJ-190-100 ECJ),EJ-IOBN,GainJet Ireland,12 Oct 2018,Active,
+19000633,Embraer ERJ-190AR (ERJ-190-100 IGW),5Y-FFJ,Kenya Airways,30 Aug 2013,Stored,
+19000634,Embraer ERJ-190AR (ERJ-190-100 IGW),YV2943,Conviasa,7 Oct 2013,Active,
+19000635,Embraer ERJ-190AR (ERJ-190-100 IGW),YV2944,Conviasa,7 Oct 2013,Active,
+19000636,Embraer ERJ-190AR (ERJ-190-100 IGW),4K-AZ67,Buta Airways,15 Oct 2017,Active,Khankandi
+19000637,Embraer ERJ-190AR (ERJ-190-100 IGW),N375JB,JetBlue Airways,29 Oct 2013,Stored,Blue State of Mind
+19000638,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXW,Azul Linhas Aéreas Brasileiras,15 Oct 2013,Stored,"Nas Asas Azuis de Milton Nascimento, lsf ICBC"
+19000639,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-FPS,Austral Líneas Aéreas,26 Sep 2013,Active,SkyTeam cs
+19000640,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-FPT,Austral Líneas Aéreas,24 Oct 2013,Active,
+19000641,Embraer Lineage 1000 (ERJ-190-100 ECJ),9H-FCM,AIR X Charter,18 Dec 2019,Active,
+19000642,Embraer ERJ-190AR (ERJ-190-100 IGW),5Y-FFK,Kenya Airways,13 Nov 2013,Active,
+19000643,Embraer ERJ-190AR (ERJ-190-100 IGW),YV2953,Conviasa,11 Nov 2013,Active,
+19000644,Embraer ERJ-190AR (ERJ-190-100 IGW),YV2954,Conviasa,11 Nov 2013,Active,
+19000645,Embraer ERJ-190AR (ERJ-190-100 IGW),YV2965,Conviasa,9 Dec 2013,Active,
+19000646,Embraer ERJ-190AR (ERJ-190-100 IGW),YV2964,Conviasa,9 Dec 2013,Active,
+19000647,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXX,Azul Linhas Aéreas Brasileiras,12 Nov 2013,Stored,"Estrela Azul, lsf ICBC"
+19000648,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXY,Azul Linhas Aéreas Brasileiras,19 Nov 2013,Stored,"Azul de Norte a Sul, lsf ICBC"
+19000649,Embraer ERJ-190STD (ERJ-190-100),PH-EZY,KLM Cityhopper,28 Nov 2013,Active,"EZY-649, lsf Chorus Aviation"
+19000650,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AXZ,Azul Linhas Aéreas Brasileiras,10 Dec 2013,Stored,"Céu Azul de Brigadeiro, lsf Falko"
+19000651,Embraer ERJ-190LR (ERJ-190-100 LR),XA-GAD,Aeroméxico Connect,9 Dec 2013,Active,lsf Falko
+19000652,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AUA,Azul Linhas Aéreas Brasileiras,18 Dec 2013,Stored,"Canarinho Azul, lsf Falko"
+19000653,Embraer ERJ-190LR (ERJ-190-100 LR),P4-KCJ,Air Astana,19 Dec 2013,Stored,
+19000654,Embraer ERJ-190STD (ERJ-190-100),PH-EZZ,KLM Cityhopper,19 Dec 2013,Active,"EZZ-654, lsf TrueNoord"
+19000655,Embraer ERJ-190STD (ERJ-190-100),PH-EXA,KLM Cityhopper,23 Jan 2014,Active,"EXA-655, lsf TrueNoord"
+19000656,Embraer Lineage 1000 (ERJ-190-100 ECJ),N760CC,Private,26 Jun 2015,Active,
+19000657,Embraer ERJ-190LR (ERJ-190-100 LR),P4-KCK,Air Astana,14 Feb 2014,Stored,lsf TrueNoord
+19000658,Embraer ERJ-190STD (ERJ-190-100),PH-EXB,KLM Cityhopper,16 Mar 2014,Active,"EXB-658, lsf TrueNoord"
+19000659,Embraer ERJ-190STD (ERJ-190-100),PH-EXC,KLM Cityhopper,17 Mar 2014,Active,"EXC-659, lsf TrueNoord"
+19000660,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AUB,Azul Linhas Aéreas Brasileiras,29 Mar 2014,Stored,"Anjo Azul, lsf Elevate Capital Partners"
+19000661,Embraer ERJ-190STD (ERJ-190-100),PH-EXD,KLM Cityhopper,28 Apr 2014,Active,"EXD-661, lsf TrueNoord"
+19000662,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AUC,Azul Linhas Aéreas Brasileiras,9 Apr 2014,Stored,"Fernando de Noronha é Azul, lsf Elevate Capital Partners"
+19000663,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCYS,BA CityFlyer,29 May 2014,Stored,lsf Falko
+19000664,Embraer ERJ-190LR (ERJ-190-100 LR),XA-GAE,Aeroméxico Connect,25 Apr 2014,Stored,lsf Chorus Aviation
+19000665,Embraer ERJ-190STD (ERJ-190-100),OO-TEA,TUI Airlines Belgium,30 Mar 2017,Stored,"Traveller, lsf GECAS"
+19000666,Embraer ERJ-190LR (ERJ-190-100 LR),XA-GAF,Aeroméxico Connect,25 Apr 2014,Active,lsf Falko
+19000667,Embraer ERJ-195LR (ERJ-190-200 LR),EW-399PO,Belavia,28 Apr 2014,Active,
+19000668,Embraer ERJ-195LR (ERJ-190-200 LR),EW-400PO,Belavia,7 May 2014,Active,World of Tanks cs
+19000669,Embraer ERJ-195LR (ERJ-190-200 LR),SP-LNM,LOT - Polish Airlines,28 Jul 2018,Active,lsf NAC
+19000670,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCYT,BA CityFlyer,29 May 2014,Stored,lsf Falko
+19000671,Embraer ERJ-195STD (ERJ-190-200),G-NSEY,Aurigny Air Services,24 Jun 2014,Active,
+19000672,Embraer ERJ-190LR (ERJ-190-100 LR),XA-GAI,Aeroméxico Connect,27 Jun 2014,Stored,lsf TrueNoord
+19000673,Embraer ERJ-190LR (ERJ-190-100 LR),XA-GAK,Aeroméxico Connect,7 Jul 2014,Stored,lsf TrueNoord
+19000674,Embraer ERJ-190SR (ERJ-190-100 SR),G-LCYU,BA CityFlyer,4 Sep 2014,Stored,
+19000675,Embraer ERJ-190AR (ERJ-190-100 IGW),YV3052,Conviasa,24 Jun 2015,Active,
+19000676,Embraer ERJ-190AR (ERJ-190-100 IGW),YV3071,Conviasa,24 Jun 2015,Active,
+19000677,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AUE,Azul Linhas Aéreas Brasileiras,23 Sep 2014,Stored,"Azultec, lsf Falko"
+,,,,,,
+19000678,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AUF,Azul Linhas Aéreas Brasileiras,30 Oct 2014,Stored,"Incrivelmente Azul, lsf Falko"
+19000679,Embraer ERJ-190LR (ERJ-190-100 LR),XA-GAW,Aeroméxico Connect,18 Nov 2014,Active,"lsf Falko, 1,100th Ejet cs"
+19000680,Embraer ERJ-190AR (ERJ-190-100 IGW),CN-RGO,Royal Air Maroc,21 Nov 2014,Stored,lsf NAC
+19000681,Embraer ERJ-190AR (ERJ-190-100 IGW),CN-RGP,Royal Air Maroc,26 Nov 2014,Stored,lsf NAC
+19000682,Embraer ERJ-190AR (ERJ-190-100 IGW),CN-RGQ,Royal Air Maroc,5 Dec 2014,Stored,lsf NAC
+19000683,Embraer Lineage 1000 (ERJ-190-100 ECJ),N966MS,Private,22 Dec 2014,Active,
+19000684,Embraer ERJ-190AR (ERJ-190-100 IGW),CN-RGR,Royal Air Maroc,12 Dec 2014,Stored,lsf NAC
+19000685,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AUH,Azul Linhas Aéreas Brasileiras,10 Dec 2014,Active,"Pernambuco é Azul, lsf Falko"
+19000686,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AUI,Azul Linhas Aéreas Brasileiras,15 Dec 2014,Stored,"Ada Rogato Pioneira Azul, lsf Falko"
+19000687,Embraer ERJ-190STD (ERJ-190-100),PH-EXE,KLM Cityhopper,15 Dec 2015,Active,EXE-687
+19000688,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AUJ,Azul Linhas Aéreas Brasileiras,27 Apr 2015,Stored,Cmte. Omar Fontana Pioneiro da Aviação
+19000689,Embraer ERJ-190STD (ERJ-190-100),OO-JVA,TUI Airlines Belgium,19 Oct 2016,Stored,"Jewel, lsf Falko"
+19000690,Embraer ERJ-190STD (ERJ-190-100),PH-EXF,KLM Cityhopper,19 Dec 2015,Active,EXF-690
+19000691,Embraer Lineage 1000 (ERJ-190-100 ECJ),N527AH,Lineage Asset Company,31 Mar 2016,Stored,
+19000692,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AUK,Azul Linhas Aéreas Brasileiras,24 Jun 2015,Active,Ozires Silva
+19000693,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AUM,Azul Linhas Aéreas Brasileiras,29 Jul 2015,Stored,"China e Brasil, unidos, lsf ICBC"
+19000694,Embraer ERJ-190LR (ERJ-190-100 LR),B-3383,Hebei Airlines,15 Oct 2015,Active,
+19000695,Embraer Lineage 1000 (ERJ-190-100 ECJ),N726EE,Embraer Executive Aircraft,5 Oct 2018,Stored,
+19000696,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AUN,Azul Linhas Aéreas Brasileiras,23 Oct 2015,Stored,"Azul de Felicidade, lsf ICBC"
+19000697,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AUO,Azul Linhas Aéreas Brasileiras,9 Nov 2015,Stored,"Trem é Azul, lsf ICBC"
+19000698,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AUP,Azul Linhas Aéreas Brasileiras,18 Dec 2015,Stored,"Azul & Embraer, Embraer & Azul"
+19000699,Embraer ERJ-195AR (ERJ-190-200 IGW),PR-AUQ,Azul Linhas Aéreas Brasileiras,29 Dec 2015,Active,"Sky é Azul, Sky cs"
+19000700,Embraer ERJ-195LR (ERJ-190-200 LR),B-3100,Tianjin Airlines,18 Dec 2015,Active,lsf Bohai Leasing
+19000701,Embraer ERJ-190LR (ERJ-190-100 LR),B-3115,Colorful Guizhou Airlines,3 Dec 2015,Active,
+19000702,Embraer ERJ-195LR (ERJ-190-200 LR),B-3108,Tianjin Airlines,18 Dec 2015,Stored,lsf Bohai Leasing
+19000703,Embraer ERJ-190LR (ERJ-190-100 LR),B-3116,Colorful Guizhou Airlines,18 Dec 2015,Active,
+19000704,Embraer ERJ-195LR (ERJ-190-200 LR),B-3117,Tianjin Airlines,29 Jan 2016,Active,lsf Bohai Leasing
+19000705,Embraer Lineage 1000 (ERJ-190-100 ECJ),N783MM,MGM Mirage,30 Nov 2016,Active,
+19000706,Embraer ERJ-195LR (ERJ-190-200 LR),B-3119,Tianjin Airlines,1 Apr 2016,Active,lsf Bohai Leasing
+19000707,Embraer ERJ-190LR (ERJ-190-100 LR),B-3225,Colorful Guizhou Airlines,14 Apr 2016,Active,lsf CMB Financial Leasing
+19000708,Embraer ERJ-190STD (ERJ-190-100),JA241J,J-Air,20 Apr 2016,Active,
+19000709,Embraer Lineage 1000 (ERJ-190-100 ECJ),N785MM,MGM Mirage,14 Dec 2016,Active,
+19000710,Embraer ERJ-190LR (ERJ-190-100 LR),B-3240,Colorful Guizhou Airlines,17 Aug 2016,Active,lsf CMB Financial Leasing
+19000711,Embraer ERJ-190LR (ERJ-190-100 LR),B-3241,Colorful Guizhou Airlines,23 Sep 2016,Active,lsf CMB Financial Leasing
+19000712,Embraer ERJ-190STD (ERJ-190-100),JA242J,J-Air,28 Jun 2016,Active,
+19000713,Embraer ERJ-195AR (ERJ-190-200 IGW),4X-EMC,Arkia - Israeli Airlines,9 Jun 2016,Active,
+19000714,Embraer ERJ-190LR (ERJ-190-100 LR),B-3242,Colorful Guizhou Airlines,28 Oct 2016,Active,lsf CMB Financial Leasing
+19000715,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-GIK,Austral Líneas Aéreas,29 Jun 2016,Active,lsf NAC
+19000716,Embraer ERJ-190AR (ERJ-190-100 IGW),LV-GIQ,Austral Líneas Aéreas,26 Jul 2016,Active,lsf NAC
+19000717,Embraer ERJ-195LR (ERJ-190-200 LR),B-3143,Tianjin Airlines,31 Aug 2016,Stored,lsf Bohai Leasing
+19000718,Embraer ERJ-190STD (ERJ-190-100),JA243J,J-Air,25 Aug 2016,Active,
+19000719,Embraer ERJ-195LR (ERJ-190-200 LR),B-3232,Tianjin Airlines,14 Oct 2016,Active,lsf Bocomm Leasing
+19000720,Embraer ERJ-195LR (ERJ-190-200 LR),B-3235,Tianjin Airlines,28 Oct 2016,Stored,lsf Bocomm Leasing
+19000721,Embraer ERJ-195LR (ERJ-190-200 LR),B-3243,Tianjin Airlines,2 Dec 2016,Stored,lsf Bohai Leasing
+19000722,Embraer ERJ-190STD (ERJ-190-100),JA244J,J-Air,26 Nov 2016,Active,
+19000723,Embraer ERJ-195LR (ERJ-190-200 LR),B-3245,Tianjin Airlines,18 Jan 2017,Active,lsf Bocomm Leasing
+19000724,Embraer ERJ-190STD (ERJ-190-100),JA245J,J-Air,22 Dec 2016,Active,
+19000725,Embraer ERJ-195LR (ERJ-190-200 LR),B-3236,Tianjin Airlines,17 Feb 2017,Stored,lsf Bocomm Leasing
+19000726,Embraer ERJ-190LR (ERJ-190-100 LR),B-3273,Colorful Guizhou Airlines,25 Aug 2017,Active,lsf ABC Financial Leasing
+19000727,Embraer ERJ-195LR (ERJ-190-200 LR),B-3238,Tianjin Airlines,21 Apr 2017,Active,lsf Bocomm Leasing
+19000728,Embraer ERJ-190STD (ERJ-190-100),JA246J,J-Air,13 Apr 2017,Active,
+19000729,Embraer ERJ-195LR (ERJ-190-200 LR),B-3247,Tianjin Airlines,26 May 2017,Active,lsf Bohai Leasing
+,,,,,,
+19000730,Embraer ERJ-190STD (ERJ-190-100),JA247J,J-Air,1 Jun 2017,Stored,
+19000731,Embraer ERJ-190STD (ERJ-190-100),JA248J,J-Air,14 Jul 2017,Active,
+19000732,Embraer Lineage 1000 (ERJ-190-100 ECJ),N727EE,Embraer Executive Aircraft,22 Mar 2019,Stored,
+19000733,Embraer ERJ-190AR (ERJ-190-100 IGW),VP-BRU,Buta Airways,19 Aug 2017,Active,Khojali
+19000734,Embraer ERJ-195LR (ERJ-190-200 LR),B-3257,Tianjin Airlines,30 Aug 2017,Stored,lsf Bohai Leasing
+19000735,Embraer ERJ-190STD (ERJ-190-100),JA249J,J-Air,19 Aug 2017,Active,
+19000736,Embraer ERJ-195LR (ERJ-190-200 LR),B-3259,Tianjin Airlines,2 Sep 2017,Stored,lsf Bohai Leasing
+19000737,Embraer ERJ-190AR (ERJ-190-100 IGW),VP-BRV,Buta Airways,25 Aug 2017,Active,Fuzuli
+19000738,Embraer ERJ-195LR (ERJ-190-200 LR),B-3263,Tianjin Airlines,11 Nov 2017,Active,lsf Bohai Leasing
+19000739,Embraer ERJ-190LR (ERJ-190-100 LR),B-3285,Colorful Guizhou Airlines,28 Oct 2017,Active,lsf CMIG Aviation Leasing
+19000740,Embraer ERJ-195LR (ERJ-190-200 LR),B-3265,Tianjin Airlines,13 Dec 2017,Active,lsf Bohai Leasing
+19000741,Embraer ERJ-190STD (ERJ-190-100),JA250J,J-Air,27 Oct 2017,Active,
+19000742,Embraer ERJ-190STD (ERJ-190-100),JA251J,J-Air,8 Dec 2017,Stored,
+19000743,Embraer ERJ-195LR (ERJ-190-200 LR),B-3267,Tianjin Airlines,21 Dec 2017,Active,lsf Bohai Leasing
+19000744,Embraer ERJ-190LR (ERJ-190-100 LR),B-3320,Colorful Guizhou Airlines,20 Dec 2017,Active,lsf CMIG Aviation Leasing
+19000745,Embraer ERJ-195AR (ERJ-190-200 IGW),4X-EMF,Arkia - Israeli Airlines,23 Dec 2017,Active,
+19000746,Embraer ERJ-190AR (ERJ-190-100 IGW),ZS-YAD,Airlink,21 Dec 2017,Active,lsf NAC
+19000747,Embraer ERJ-195LR (ERJ-190-200 LR),B-3287,Tianjin Airlines,11 Dec 2018,Active,lsf NAC
+19000748,Embraer ERJ-190STD (ERJ-190-100),JA252J,J-Air,1 Feb 2018,Active,Minion Park - Universal Studios Japan cs
+19000749,Embraer ERJ-195LR (ERJ-190-200 LR),B-3289,Tianjin Airlines,1 Dec 2018,Active,lsf NAC
+19000750,Embraer ERJ-190STD (ERJ-190-100),PH-EXV,KLM Cityhopper,22 Feb 2018,Active,"EXV-750, lsf Fuyo General Lease (FGL)"
+19000751,Embraer ERJ-190STD (ERJ-190-100),PH-EXY,KLM Cityhopper,23 Mar 2018,Stored,"EXY-751, lsf Fuyo General Lease (FGL)"
+19000752,Embraer ERJ-195LR (ERJ-190-200 LR),B-3345,Tianjin Airlines,4 Dec 2018,Active,lsf NAC
+19000753,Embraer ERJ-190STD (ERJ-190-100),JA253J,J-Air,26 Apr 2018,Active,
+19000754,Embraer ERJ-195LR (ERJ-190-200 LR),EW-513PO,Belavia,11 May 2018,Active,
+19000755,Embraer ERJ-190AR (ERJ-190-100 IGW),ZS-YAJ,Airlink,25 Jun 2018,Active,lsf NAC
+19000756,Embraer ERJ-195LR (ERJ-190-200 LR),EW-514PO,Belavia,28 Jun 2018,Active,
+19000757,Embraer ERJ-190STD (ERJ-190-100),JA254J,J-Air,25 Jul 2018,Stored,
+19000758,Embraer ERJ-190AR (ERJ-190-100 IGW),VP-BHE,Buta Airways,14 Sep 2018,Active,"Gunnut, lsf NAC"
+19000759,Embraer ERJ-190AR (ERJ-190-100 IGW),VP-BHH,Buta Airways,30 Nov 2018,Active,"Aghdam, lsf NAC"
+19000760,Embraer ERJ-190STD (ERJ-190-100),F-HBLK,HOP!,21 Dec 2018,Stored,"Cpt. François Debost, lsf NAC"
+19000761,Embraer ERJ-190STD (ERJ-190-100),SP-LMA,LOT - Polish Airlines,17 Dec 2018,Active,lsf NAC
+19000762,Embraer ERJ-190STD (ERJ-190-100),SP-LMB,LOT - Polish Airlines,17 Dec 2018,Active,lsf NAC
+19000763,Embraer ERJ-190STD (ERJ-190-100),SP-LMC,LOT - Polish Airlines,21 Dec 2018,Active,lsf NAC
+19000764,Embraer ERJ-190STD (ERJ-190-100),SP-LMD,LOT - Polish Airlines,21 Dec 2018,Active,lsf NAC
+19000765,Embraer ERJ-195LR (ERJ-190-200 LR),EW-532PO,Belavia,18 Apr 2019,Active,lsf NAC
+19000766,Embraer ERJ-195LR (ERJ-190-200 LR),EW-533PO,Belavia,26 Apr 2019,Active,lsf NAC
+19000767,Embraer ERJ-190STD (ERJ-190-100),F-HBLL,HOP!,16 May 2019,Stored,lsf NAC
+19000768,Embraer ERJ-190STD (ERJ-190-100),F-HBLM,HOP!,22 Aug 2019,Active,lsf NAC
+19000769,Embraer ERJ-190STD (ERJ-190-100),F-HBLN,HOP!,20 Sep 2019,Active,lsf NAC
+19000770,Embraer ERJ-190STD (ERJ-190-100),F-HBLO,HOP!,18 Oct 2019,Stored,lsf NAC
+19000771,Embraer ERJ-190STD (ERJ-190-100),F-HBLP,HOP!,30 Dec 2019,Stored,lsf NAC
+19000772,Embraer ERJ-195LR (ERJ-190-200 LR),EW-545PO,Belavia,13 Dec 2019,Active,lsf NAC
+19000773,Embraer ERJ-190STD (ERJ-190-100),F-HBLQ,HOP!,,On Order,lsf NAC

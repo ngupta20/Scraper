@@ -1,0 +1,1646 @@
+MSN,Aircraft Type,Reg,Current Operator,Delivered From,Status,Prev Reg,Remark
+,,,,,,,
+001,ATR 42-200,F-WEGA,Aérospatiale,16 Aug 1984,Written Off,,
+002,ATR 42-200,F-WEGB,Aérospatiale,31 Oct 1984,Preserved,,
+003,ATR 42-320,F-WEGA,ATR,Aug 2019,Preserved,EC-IDG,
+004,ATR 42-300,TG-AGD,Unknown,Sep 2014,Stored,HP-004APP,
+005,ATR 42-300(F),LY-OOV,DOT LT,13 Jun 2007,Stored,EI-SLD,
+006,ATR 42-300,F-GHPS,Air Guyane,20 Feb 2004,Scrapped,B-2206,
+007,ATR 42-320,G-DRFC,Blue Islands,15 Jul 2009,Written Off,OY-CIB,lsf Bravo Aviation
+008,ATR 42-300,F-GEQJ,TAT European Airlines,May 2004,Scrapped,PH-ATR,
+009,ATR 42-300,CU-T1509,Aero Caribbean,16 Jul 2007,Stored,CU-T1296,
+010,ATR 42-300,LY-RUM,DOT LT,28 Sep 2006,Stored,OY-RUM,
+011,ATR 42-300,PNC-0241,Policia Nacional de Colombia,20 Oct 2009,Stored,F-WCAU,
+012,ATR 42-300,F-OHFV,SiFly,15 Jul 1999,Written Off,F-WQJB,lsf ATRiam Capital
+012A,ATR 42-300,LY-ARI,DOT LT,May 2016,Stored,SX-GRY,
+014,ATR 42-300,CU-T1550,Aero Caribbean,24 Oct 2006,Stored,PP-PTE,
+015,ATR 42-300(F),HK-4492,Arkas,13 Jul 2007,Scrapped,PR-TTA,
+016,ATR 42-320,N212AZ,Blue Ridge Aero Services,2002,Active,F-WHHS,
+017,ATR 42-300(QC),G-IONA,Bravo Aviation,13 Feb 2008,Scrapped,SP-KEE,
+018,ATR 42-300(F),HK-4493,Arkas,11 Nov 2007,Scrapped,F-GPIA,
+019,ATR 42-320,G-ISLG,Blue Islands,13 Feb 2013,Scrapped,F-HAAV,
+020,ATR 42-320,PR-MPN,MAP Linhas Aéreas,12 Apr 2012,Written Off,PR-TTG,
+021,ATR 42-320,PR-TTF,TRIP Linhas Aéreas,10 May 2007,Stored,F-WQNS,opby Total Linhas Aereas
+022,ATR 42-300,EI-CVR,Aer Arann,17 Jan 2001,Scrapped,F-GGLK,"Muire, lsf NAC"
+023,ATR 42-300(F),N908FX,Empire Airlines,18 Dec 2003,Scrapped,N972NA,"908, lsf Federal Express (FedEx)"
+024,ATR 42-300(F),VH-TOX,Jetcraft Aviation,2 Aug 2007,Active,EI-SLE,
+025,ATR 42-300,5N-BCS,Overland Airways,17 Jul 2008,Active,EC-IYE,
+026,ATR 42-300,PT-MTS,Total Linhas Aereas,13 Sep 2001,Written Off,F-GTSM,lsf ATRiam Capital
+027,ATR 42-300,PK-YRE,Trigana Air Service,20 Nov 2001,Stored,F-GPZB,
+028,ATR 42-300,YV1449,Santa Barbara Airlines,28 Oct 2005,Written Off,PR-TTC,
+029,ATR 42-300,PT-MFH,Federal Aviation Administration (FAA),2002,Scrapped,F-GFJP,
+030,ATR 42-300,N330NA,Nordic Aviation Capital (NAC),24 Aug 2012,Stored,HR-ARY,
+031,ATR 42-320,5N-BCR,Overland Airways,4 Mar 2005,Active,F-WQNR,lsf ATRiam Capital
+032,ATR 42-320,C9-SOL,Solenta Aviation Mozambique,Oct 2016,Stored,ZS-LUC,
+033,ATR 42-300,SX-BPA,Olympic Airlines,10 Oct 2008,Scrapped,EI-CVS,
+034,ATR 42-300,I-ATRF,Air Industria,19 Aug 2002,Written Off,F-WWEP,
+035,ATR 42-300,N335DG,Aerway Leasing,14 Nov 2013,Scrapped,PP-PTC,
+036,ATR 42-320,OY-JRJ,Danish Air Transport (DAT),12 May 1999,Active,F-WQIS,
+037,ATR 42-300,N37AE,American Eagle,1 May 1998,Written Off,N426MQ,
+038,ATR 42-300,YV2314,Santa Barbara Airlines,15 Mar 2007,Stored,PR-TTD,lsf ATRiam Capital
+039,ATR 42-320,XA-SJJ,Aeromar,1 Jul 1993,Preserved,N71296,
+040,ATR 42-300,N142DD,American Eagle,1 May 1998,Scrapped,F-WWEV,
+041,ATR 42-320,9G-AAB,Antrak Air,19 Jan 2008,Stored,F-WQCT,lsf ATRiam Capital
+042,ATR 42-300,UR-UTF,UTair-Ukraine,3 Oct 2011,Scrapped,VP-BCD,lsf NAC
+043,ATR 42-300,PT-MFV,Pantanal,4 Aug 2000,Stored,F-GGLR,
+044,ATR 42-320,5R-MVT,Air Madagascar,1 Aug 2000,Active,F-WQAD,
+045,ATR 42-300(F),N911FX,Federal Express (FedEx),4 Oct 2004,Active,N424MQ,"911, opby Empire Airlines"
+046,ATR 42-312,I-ATRH,ATI - Aero Trasporti Italiani,14 May 1987,Written Off,F-WWEZ,Verona
+047,ATR 42-300(F),N912FX,Federal Express (FedEx),9 Feb 2005,Stored,N47AE,"912, opby Empire Airlines"
+048,ATR 42-300,EI-COC,Italair,24 Jul 1997,Written Off,F-WQFT,lsf ATRiam Capital
+049,ATR 42-300,F-GFJH,Direction Générale de l'Aviation Civile (DGAC),13 Sep 1991,Stored,,
+050,ATR 42-312,PK-YRP,Trigana Air Service,2 Aug 2005,Written Off,ZS-DHL,
+051,ATR 42-300,PNC-0245,Policia Nacional de Colombia,Jan 2018,Active,T7-TAL,
+052,ATR 42-300(F),TG-DHP,DHL de Guatemala,17 Nov 2003,Active,YV-876C,
+053,ATR 42-320,4X-ATN,Israir Airlines,Jul 1998,Scrapped,F-WQGN,
+054,ATR 42-300,VP-BCB,UTair Aviation,Apr 2007,Stored,I-NOWT,lsf NAC
+,,,,,,,
+055,ATR 42-300,F-GVZZ,Airlinair,12 Dec 2002,Scrapped,SP-EEB,
+056,ATR 42-300,N143DD,Executive Airlines,2 Nov 1995,Written Off,F-WWEK,
+057,ATR 42-300,UR-UTE,UTair-Ukraine,28 Jul 2011,Scrapped,VP-BCG,
+058,ATR 42-320,XA-TIC,Aeromar,29 Jul 1997,Stored,F-OGNF,
+059,ATR 42-300(QC),PK-TSZ,Indonesia Air Transport,Jun 2007,Stored,LY-ARJ,
+060,ATR 42-320,ZS-ATR,Solenta Aviation,2011,Scrapped,PH-XLC,
+061,ATR 42-320(F),YV2308,Vensecar Internacional,Mar 2007,Stored,YV157T,lsf ATRiam Capital
+062,ATR 42-320,XA-SYH,Aeromar,1 Jul 1995,Stored,XA-PEP,Presidente Aleman
+063,ATR 42-300,OY-JRY,Danish Air Transport (DAT),22 Dec 2000,Active,F-WQOC,
+064,ATR 42-320,4X-ATO,Israir Airlines,10 Jul 1998,Scrapped,F-GPEC,
+065,ATR 42-300,N973NA,Executive Airlines,1 Jan 1991,Scrapped,F-WWEQ,973
+066,ATR 42-320(F),HA-KAM,Fleet Air International,May 2020,Active,LZ-FAC,
+067,ATR 42-300(F),LZ-ETM,Bright Flight,Jul 2015,Stored,LY-ETM,
+068,ATR 42-300,D-BLAU,Rheinland Air Service (RAS),Sep 2014,Scrapped,UR-UTD,
+069,ATR 42-320,4X-ATM,Israir Airlines,1 May 1997,Scrapped,F-WQFS,lsf ATRiam Capital
+070,ATR 42-300,PT-MFU,Pantanal,24 Dec 1999,Stored,F-GHJE,lsf Brit Air
+071,ATR 42-320,ET-AJC,Ethiopian Airlines,Jun 1999,Scrapped,F-WWEZ,
+072,ATR 42-320,PP-PTF,TRIP Linhas Aéreas,30 Oct 2003,Scrapped,LV-ZNV,lsf ATRiam Capital
+073,ATR 42-320,4X-ATK,Israir Airlines,26 Jul 1996,Written Off,F-WQCX,
+074,ATR 42-300,N144DD,American Eagle,1 May 1998,Scrapped,F-WWEX,
+075,ATR 42-320(F),ZS-OVS,Solenta Aviation,27 Sep 2002,Scrapped,F-WQNU,
+076,ATR 42-320,ET-AJD,Ethiopian Airlines,30 Jun 2000,Scrapped,F-WWEB,
+077,ATR 42-300,VP-BBC,West Caribbean Airways,22 Jun 2000,Scrapped,F-WQJM,
+078,ATR 42-320,F-HMTO,Centre d'Aviation Meteorologique (Météo France),12 May 2005,Active,F-WMTO,
+079,ATR 42-300(F),VH-TOQ,Jetcraft Aviation,1 Jun 2007,Active,EI-SLB,
+080,ATR 42-300,OY-CHT,Air Europa Express,11 Jan 2016,Scrapped,PJ-DAJ,opby Denim Air
+081,ATR 42-320(F),HC-CDX,Trans Am Aero Express del Ecuador (DHL Ecuador),31 May 2003,Active,YV-914C,lsf ATRiam Capital
+082,ATR 42-300(F),EI-SLC,Air Contractors,19 Aug 2011,Scrapped,OY-CIE,
+083,ATR 42-300,F-WQJN,ATRiam Capital,Apr 1999,Written Off,YR-ATY,
+084,ATR 42-320,A2-AJD,Air Botswana,6 Mar 1997,Written Off,F-OIET,
+085,ATR 42-300,SP-KCA,White Eagle Aviation,4 May 2001,Stored,F-WQNY,
+086,ATR 42-300(F),9G-ANT,Antrak Air,20 Sep 2004,Stored,ZS-ORE,lsf ATRiam Capital
+087,ATR 42-320(F),P2-PXY,Air Niugini,15 Jul 2013,Written Off,HB-AFC,lsf Farnair Switzerland
+088,ATR 42-300(F),ZS-OVP,Solenta Aviation,26 Feb 2002,Scrapped,F-WQNG,
+089,ATR 42-320,4X-ATL,Israir Airlines,16 Aug 1996,Scrapped,F-WQCY,
+090,ATR 42-320,N190NA,Nordic Aviation Capital (NAC),18 Mar 2013,Scrapped,PJ-DAH,
+091,ATR 42-320,PR-MPO,Voepass,21 Aug 2019,Active,PP-PTD,opby MAP Linhas Aéreas
+092,ATR 42-300,D-BRAS,Rheinland Air Service (RAS),Oct 2013,Scrapped,SP-KTR,
+093,ATR 42-320(F),OE-HZA,Zimex Aviation,7 Aug 2019,Active,F-GVZJ,
+094,ATR 42-320,N25811,ExpressJet Airlines,10 Jul 2001,Scrapped,F-WWET,477
+095,ATR 42-300,CS-DTO,Lease Fly,Dec 2013,Stored,F-GKYN,
+096,ATR 42-320(F),P2-KSJ,Hevilift,9 Dec 2010,Active,VH-FLH,
+097,ATR 42-320,PK-YRH,Trigana Air Service,31 Oct 2003,Stored,F-ODGN,lsf TAT Leasing
+098,ATR 72-600 (72-212A),F-WWEY,ATR,27 Oct 1988,Preserved,,
+099,ATR 42-320,N19812,ExpressJet Airlines,10 Jul 2001,Scrapped,F-WWEV,
+100,ATR 42-320,N14813,ExpressJet Airlines,10 Jul 2001,Scrapped,F-WWEX,464
+101,ATR 42-320,A2-ABB,Air Botswana,11 Jul 1988,Written Off,F-WWEY,
+102,ATR 42-300,PK-YRN,Trigana Air Service,24 Jan 2005,Written Off,N421TE,
+103,ATR 42-320,N18814,ExpressJet Airlines,10 Jul 2001,Scrapped,F-WWEA,463
+104,ATR 42-320,N14815,ExpressJet Airlines,10 Jul 2001,Scrapped,F-WWEB,
+105,ATR 42-320,N15816,ExpressJet Airlines,10 Jul 2001,Scrapped,F-WWEC,466
+106,ATR 42-300,PK-YRK,Trigana Air Service,27 Sep 2004,Stored,N422TE,
+107,ATR 42-300,SX-LOS,Sky Express,22 May 2015,Stored,OY-CIR,
+108,ATR 72-201(F),ZS-XCH,Solenta Aviation,22 Nov 2016,Active,EI-SLR,
+,,,,,,,
+109,ATR 42-300,N283CS,GECAS,17 Aug 2012,Scrapped,TG-RYM,
+110,ATR 42-300,YV382T,LTA - Linea Turistica Aereotuy,3 Oct 2008,Stored,LN-FAP,
+111,ATR 42-300,A2-ABC,Air Botswana,26 Oct 1988,Written Off,F-WWEH,Kgalagadi
+112,ATR 42-300,OY-CIU,Danish Air Transport (DAT),10 Oct 2016,Active,C-GPEK,
+113,ATR 42-300,TG-MYH,Aeroperlas,5 Jan 2005,Scrapped,G-ZAPJ,
+114,ATR 42-300,I-ATRM,Air Sicilia,8 Apr 1995,Scrapped,F-WWEK,Mister Volare
+115,ATR 42-320,EC-LMX,Canary Fly,23 Jun 2011,Scrapped,EI-SLI,lsf Air Contractors
+116,ATR 42-300(F),ZS-OVR,Solenta Aviation,23 Feb 2002,Stored,F-WQNB,
+117,ATR 42-300,6V-AFW,ASECNA,9 Dec 1988,Active,F-WWEN,
+118,ATR 42-300,PK-YSJ,Trigana Air Service,17 Feb 2016,Active,PK-TSY,
+119,ATR 42-300(QC),C-FVGF,Air North,28 Sep 2016,Active,C-FTJB,
+120,ATR 42-300,TG-AGC,Unknown,Sep 2014,Stored,HP-1679APP,
+121,ATR 42-320(F),HA-KAN,Fleet Air International,May 2020,Active,LZ-FAB,
+122,ATR 42-300(QC),N722KA,Kolob Canyons Air Services,21 Aug 2017,Stored,C-GPEB,
+123,ATR 42-300(QC),C-GHCP,First Air,26 Oct 2001,Active,F-WWET,
+124,ATR 42-300,N424TE,Trans States Airlines,1 Oct 1989,Scrapped,F-WWEU,
+125,ATR 42-300(QC),C-GSRR,First Air,25 Nov 2004,Active,OY-MUH,
+126,ATR 72-201(F),EI-REJ,ASL Airlines Ireland,15 May 2015,Scrapped,ES-KRA,lsf Erik Thun
+127,ATR 42-300,CN-CDT,Royal Air Maroc,24 Mar 1989,Written Off,F-WWEX,
+128,ATR 42-320,N228DG,Konair US LLC,21 Feb 2020,Stored,PP-PTG,
+129,ATR 42-320,9N-AGP,Necon Air,28 Dec 2000,Scrapped,F-WQNR,
+130,ATR 42-300,SX-DIQ,Astra Airlines,22 Jun 2015,Stored,LZ-ATS,Erriki
+131,ATR 42M-312,TR-KJD,République Gabonaise,5 Dec 1989,Active,F-WWEB,
+132,ATR 42-320,C-GUNO,First Air,14 Mar 2007,Active,5R-MJC,
+133,ATR 42-300(QC),C-FIQR,First Air,20 Nov 2001,Active,F-WWEE,
+134,ATR 42-300,CN-CDU,Regional Air Lines,20 Jul 2004,Stored,F-WWEF,
+135,ATR 42-300(F),N923FX,Federal Express (FedEx),28 Feb 2013,Active,C-GATK,
+136,ATR 42-300,CU-T1512,Aero Caribbean,1999,Stored,CU-T1298,
+137,ATR 42-300,CN-CDV,Regional Air Lines,9 Jul 2004,Stored,F-WWEI,
+138,ATR 42-300(QC),C-FIQU,First Air,22 Oct 2001,Active,F-WWEK,
+139,ATR 42-320(F),C-FCIJ,Calm Air International,28 Nov 2008,Active,ZS-OSN,424F
+140,ATR 72-201,YU-ALS,JAT Airways,18 Jun 2007,Scrapped,ES-KRB,lsf Skyways Aviation
+141,ATR 42-300(F),EC-KAI,Swiftair,8 Jan 2007,Active,EI-FXF,
+142,ATR 42-320,C-FMAK,Calm Air International,16 Nov 2007,Active,N142GP,423
+143,ATR 42-300(QC),C-FVGP,Air North,16 Sep 2016,Active,C-FTCP,
+144,ATR 42-320,9N-AFU,Necon Air,25 Jan 2000,Scrapped,F-WQIH,
+145,ATR 72-201,OY-RUR,Danish Air Transport (DAT),17 Sep 2015,Active,SE-MGT,
+146,ATR 42-300,C-GIQD,Intair,29 Oct 1989,Scrapped,F-WWEQ,518
+147,ATR 72-211(F),EC-JQF,Swiftair,15 Mar 2006,Active,SE-LVK,
+148,ATR 42-300,TR-LIW,Equaflight Service,11 Jun 2012,Scrapped,F-HAEK,
+149,ATR 42-300(F),EI-SLA,ASL Airlines Ireland,15 May 2015,Scrapped,SE-LST,
+150,ATR 72-211(F),EC-JXF,Swiftair,1 Sep 2006,Active,OY-CIV,
+151,ATR 42-300,5H-AMI,Tropical Air,7 Oct 2011,Active,LZ-ATR,
+152,ATR 42-320,XY-AID,Air Bagan,28 Sep 2005,Scrapped,N34817,
+153,ATR 42-320,N15818,ExpressJet Airlines,10 Jul 2001,Scrapped,F-WWEA,
+154,ATR 72-202(F),EI-SLV,ASL Airlines Ireland,13 Jul 2017,Stored,HB-AFJ,
+155,ATR 42-320,C-GULU,First Air,18 Dec 2006,Active,5R-MJD,
+156,ATR 42-320,N14819,ExpressJet Airlines,10 Jul 2001,Scrapped,F-WWED,494
+157,ATR 72-202(F),EI-SLH,ASL Airlines Ireland,15 May 2015,Scrapped,OY-RTG,
+158,ATR 42-300(QC),C-GPEA,Pascan Aviation,18 Apr 2012,Stored,D-BCRP,158
+159,ATR 42MP-320,0007,Myanmar Air Force,2017,Active,XY-AIC,
+160,ATR 42-320,N14821,ExpressJet Airlines,10 Jul 2001,Scrapped,F-WWEG,491
+161,ATR 42-300,EI-BYO,Aer Arann,20 Dec 2002,Written Off,OY-CIS,"St. Ida / Ída, lsf NAC"
+162,ATR 72-201,OY-RUD,Danish Air Transport (DAT),Aug 2011,Stored,LY-ATR,
+,,,,,,,
+163,ATR 42-320,N14822,ExpressJet Airlines,10 Jul 2001,Scrapped,F-WWEN,492
+164,ATR 72-201,HS-TRA,Nok Air,2010,Preserved,F-WWEO,
+165,ATR 42-320,VP-BPJ,UTair Aviation,14 Mar 2005,Stored,N15823,
+166,ATR 42-320,VP-BPK,UTair Aviation,14 Mar 2006,Stored,N16824,
+167,ATR 72-201,HS-TRB,Nok Air,Nov 2009,Scrapped,F-WWEU,
+168,ATR 42-320,N168WA,USA Aviation Sales Inc,25 Oct 1999,Scrapped,XA-RQY,
+169,ATR 42-320,SX-BIA,Olympic Airlines,12 Dec 2003,Scrapped,F-WWEW,Plato
+170,ATR 42-320(F),N900FX,Federal Express (FedEx),16 May 2003,Active,N14825,"900, opby Empire Airlines"
+171,ATR 72-202,EC-KAD,Swiftair,24 Oct 2014,Active,F-GKPC,
+172,ATR 42-320(F),N901FX,Federal Express (FedEx),16 May 2003,Active,N26826,"901, opby Empire Airlines"
+173,ATR 42-320,G-ISLH,Blue Islands,31 Jul 2013,Active,F-HEKF,
+174,ATR 72-201,VP-BYW,UTair Aviation,Jan 2008,Scrapped,ES-KRE,
+175,ATR 42-320(F),N902FX,Federal Express (FedEx),19 Feb 2003,Written Off,N15827,opby Empire Airlines
+176,ATR 42-300,LY-DOT,DOT LT,Jul 2010,Scrapped,OY-MUK,lsf Danish Air Transport (DAT)
+177,ATR 72-202,D-ATZE,Rheinland Air Service (RAS),Apr 2015,Scrapped,OM-VRD,
+178,ATR 42-320,0006,Myanmar Air Force,Oct 2016,Active,XY-AIB,
+179,ATR 42-320(F),N903FX,Federal Express (FedEx),16 May 2003,Active,N14828,"903, opby Empire Airlines"
+180,ATR 72-202,YU-ALN,Air Serbia,1 Aug 2013,Active,F-WWEP,
+181,ATR 42-320,N14829,ExpressJet Airlines,10 Jul 2001,Scrapped,F-WWEQ,459
+182,ATR 42-320,SE-MGE,West Air Sweden,29 Jun 2012,Scrapped,SX-BIB,lsf Willis Lease
+183,ATR 72-202(F),LZ-FAD,Fleet Air Bulgaria,14 Jan 2020,Stored,EI-SLG,
+184,ATR 42-320,N14830,ExpressJet Airlines,10 Jul 2001,Scrapped,F-WWET,830 / 460
+185,ATR 42-320,N17831,ExpressJet Airlines,10 Jul 2001,Scrapped,F-WWEV,461
+186,ATR 72-202,YU-ALO,Air Serbia,1 Aug 2013,Active,F-WWEW,
+187,ATR 42-320,N14832,ExpressJet Airlines,10 Jul 2001,Scrapped,F-WWEJ,832 / 478
+188,ATR 42-320,N14833,ExpressJet Airlines,10 Jul 2001,Scrapped,F-WWEC,
+189,ATR 72-202,YU-ALP,Air Serbia,1 Aug 2013,Active,F-WWED,
+190,ATR 42-320,PK-YRV,Trigana Air Service,9 Jun 2006,Active,G-BYHA,
+191,ATR 42-300,EI-CPT,Aer Arann,27 Apr 2001,Scrapped,C-GIQS,lsf NAC
+192,ATR 72-202,EC-LSN,Swiftair,2 Aug 2014,Active,PR-AZZ,
+193,ATR 42-320,N14834,Cape Air,24 May 2018,Scrapped,F-WWEG,
+194,ATR 42-320,VH-YWH,Hevilift Australia,19 Oct 2017,Active,P2-KSR,
+195,ATR 72-201(F),ZS-XCK,DHL Aviation,12 May 2017,Active,HB-AFR,opby Solenta Aviation
+196,ATR 42-300,EI-EHH,Elix Aviation Capital,15 Mar 2018,Stored,G-SSEA,
+197,ATR 42-320,C-GKKR,Calm Air International,19 Jul 2012,Active,SX-BIC,
+198,ATR 72-201(F),EI-SLS,ASL Airlines Ireland,2 Sep 2016,Stored,HB-AFS,
+199,ATR 42-300,EI-CBK,Stobart Air,5 Jun 2014,Scrapped,F-WWEM,lsf Elix Aviation Capital
+200,ATR 42-320,N42836,Cape Air,6 Jun 2018,Scrapped,F-WWEN,
+201,ATR 72-202,PK-YRY,Trigana Air Service,5 Aug 2008,Stored,F-WQAL,
+202,ATR 42-320,PK-TZF,Express Air,2 Jan 2018,Active,PK-KSO,lsf Asia Cargo Leasing
+203,ATR 42-320,C-FECI,Calm Air International,29 Mar 2010,Active,F-WNUG,lsf ATRiam Capital
+204,ATR 72-202(QC),EC-KIZ,Swiftair,23 Jul 2007,Active,F-GPOA,
+205,ATR 42-320,5Y-BUN,Fly540,10 Nov 2006,Stored,ZS-OZX,
+206,ATR 42-320,YV2757,LTA - Linea Turistica Aereotuy,Oct 2011,Stored,YV383T,
+207,ATR 72-202F,EC-KJA,Swiftair,23 Jul 2007,Active,F-GPOB,
+208,ATR 42-320,N9621C,Intertrade,14 Jun 2011,Scrapped,CN-RLF,
+209,ATR 42-300,C-GWWC,West Wind Aviation,14 Dec 2003,Active,N209AT,
+210,ATR 72-201(F),EI-SLF,ASL Airlines Ireland,15 May 2015,Stored,OY-RUA,
+211,ATR 42-300,C-GWWD,West Wind Aviation,10 Mar 2005,Active,N213AT,
+212,ATR 72-201,LY-MCA,DOT LT,13 May 2012,Scrapped,SE-MCA,
+213,ATR 42-320,N230KA,Nordic Aviation Capital (NAC),21 Jul 2014,Scrapped,OB-2010P,
+214,ATR 42-300,PK-YRR,Trigana Air Service,17 Nov 2005,Active,F-GHPI,
+215,ATR 72-202(F),C-FULE,Calm Air International,10 Jan 2010,Active,F-WNUE,"721F, lsf ATRiam Capital"
+216,ATR 42-300,C-FJYV,Calm Air International,30 May 2007,Written Off,N216AT,
+,,,,,,,
+217,ATR 72-202(F),C-FTAR,Morningstar Air Express,3 Jan 2013,Active,N809FX,
+218,ATR 42-300(QC),EC-JBN,Swiftair,13 Aug 2004,Active,F-GHPK,
+219,ATR 42-320,SE-MGG,West Air Sweden,29 Jun 2012,Scrapped,SX-BID,lsf Willis Lease
+220,ATR 72-202(F),N810FX,Federal Express (FedEx),13 May 2004,Active,N722TE,"810, opby Mountain Air Cargo"
+221,ATR 42-320,5R-MJT,Tiko Air,11 Oct 2006,Active,F-ODYD,lsf ATRiam Capital
+222,ATR 72-202(F),EI-SLX,ASL Airlines Ireland,28 Jul 2017,Stored,HB-AFL,
+223,ATR 42-300,YJ-AV42,Air Vanuatu,19 Dec 2003,Scrapped,N223AT,"Spirit of Vanuatu, lsf GECAS"
+224,ATR 72-202(F),EI-FXG,Federal Express (FedEx),15 May 2015,Stored,D-ANFA,opby ASL Airlines Ireland
+225,ATR 42-300,PT-MFK,Pantanal,30 Mar 1998,Preserved,F-GKNA,lsf ATRiam Capital
+226,ATR 42-300,N111AV,AeroVision International,6 Oct 2016,Stored,EC-LYZ,
+227,ATR 72-201(F),N811HC,'Ohana by Hawaiian,8 Sep 2015,Active,ZS-XCF,opby Empire Airlines
+228,ATR 42-300(F),YV638T,Vensecar Internacional,Jan 2018,Active,ZS-XCD,
+229,ATR 72-202(F),EI-FXH,Federal Express (FedEx),15 May 2015,Stored,N815FX,opby ASL Airlines Ireland
+230,ATR 42-300,TT-ABE,République du Tchad,21 Oct 2013,Active,OY-PCN,
+231,ATR 42-300(F),EC-IVP,Swiftair,25 Mar 2004,Active,F-GKND,
+232,ATR 72-202(F),EI-SLW,ASL Airlines Ireland,4 Aug 2017,Active,HB-AFK,
+233,ATR 42-300,VP-BLI,UTair Aviation,4 Jul 2008,Scrapped,D-BCRQ,lsf NAC
+234,ATR 72-201,EC-LST,Air Europa,Jul 2013,Stored,SP-OLL,opby Swiftair
+235,ATR 42-300,C-FJYW,Calm Air International,11 Jun 2007,Active,N233RM,
+236,ATR 42-320,7Q-YKQ,Air Malawi,13 Dec 1991,Stored,F-WWES,Shire
+237,ATR 72-202,C-GPBR,Calm Air International,17 Sep 2014,Active,D-ANFC,
+238,ATR 42-300,C-GWWR,West Wind Aviation,14 Mar 2007,Active,G-RHUM,
+239,ATR 72-202,D-ATRS,Rheinland Air Service (RAS),15 Oct 2012,Scrapped,SE-MGH,
+240,ATR 42-320,C-GWEA,West Wind Aviation,1 Jun 2012,Written Off,D2-FLA,
+241,ATR 72-202(F),C-FEUR,Summit Air,31 Jul 2015,Active,SE-MGI,
+242,ATR 42-300(F),EC-ISX,Swiftair,21 Nov 2003,Active,N242AT,
+243,ATR 42-300(F),EI-FXB,Federal Express (FedEx),15 May 2015,Active,N246AE,opby ASL Airlines Ireland
+244,ATR 72-212,N4AE,Executive Airlines,Sep 1997,Scrapped,N244AT,
+245,ATR 42-300,TS-LBA,Tunisair Express,Feb 2011,Stored,G-BXBV,
+246,ATR 72-202(F),SP-SPA,SprintAir,Nov 2014,Active,D-ANFD,
+247,ATR 42-320,N470JF,Blue Ridge Aero Services,Jan 2002,Active,N106LM,lsf Jefferson Financial Company
+248,ATR 72-212(F),N820FX,Federal Express (FedEx),25 Apr 2007,Active,N248AT,"820, opby Mountain Air Cargo"
+249,ATR 42-300,N249AT,American Eagle,1 May 1998,Scrapped,F-WWEB,249
+250,ATR 42-300(F),N913FX,Federal Express (FedEx),24 Mar 2005,Active,N251AE,"913, opby Empire Airlines"
+251,ATR 72-201,VP-BYX,UTair Aviation,May 2008,Stored,ES-KRK,
+252,ATR 42-320,N315CR,Blue Ridge Aero Services,Jan 2003,Active,F-WWEE,lsf Jefferson Financial Company
+253,ATR 72-212(F),N821FX,Federal Express (FedEx),23 Feb 2007,Active,N252AM,821
+254,ATR 42-300(F),EC-JBX,Swiftair,23 Sep 2004,Active,N255AE,
+255,ATR 42-300,PNC-0244,Policia Nacional de Colombia,Jan 2017,Active,T7-LBA,
+256,ATR 72-202(F),EI-FXK,Federal Express (FedEx),15 May 2015,Stored,N817FX,opby ASL Airlines Ireland
+257,ATR 42-320,LV-CZJ,American Jet,28 Nov 2012,Active,OY-PCE,lsf NAC
+258,ATR 72-202,TS-LBB,Tuninter,27 Mar 1992,Written Off,F-WWLE,Habib Bourguiba
+259,ATR 42-320(F),N904FX,Federal Express (FedEx),23 Apr 2003,Written Off,N99838,"904, opby Mountain Air Cargo"
+260,ATR 72-201,EI-REH,Stobart Air,5 Jun 2014,Scrapped,OY-RTA,
+261,ATR 42-320,C-FCIJ,Calm Air International,27 Dec 2007,Scrapped,N261RT,
+262,ATR 42-300(F),N918FX,Federal Express (FedEx),7 Sep 2004,Active,N262AT,"918, opby Mountain Air Cargo"
+263,ATR 72-212,N260AE,Executive Airlines,15 Dec 2001,Scrapped,N263AT,260
+264,ATR 42-320,C-GVGX,Air North,3 Aug 2018,Active,HB-AFF,
+265,ATR 72-202(F),EI-SOA,ASL Airlines Ireland,14 Nov 2017,Active,HB-AFX,
+266,ATR 42-300(F),N919FX,Federal Express (FedEx),4 Oct 2004,Active,N265AE,"919, opby Empire Airlines"
+267,ATR 72-201,EI-REI,Stobart Air,29 Jun 2015,Scrapped,OY-RTB,
+268,ATR 42-320,XY-AIJ,Air Mandalay,12 Sep 2008,Stored,F-OHRN,
+269,ATR 42-300(F),N915FX,Federal Express (FedEx),7 Sep 2004,Active,N269AT,"915, opby Mountain Air Cargo"
+270,ATR 72-212,N270AT,Executive Airlines,1 Oct 2002,Scrapped,F-WWEL,270
+,,,,,,,
+271,ATR 42-320(F),N905FX,Federal Express (FedEx),23 Apr 2003,Written Off,N93840,opby Mountain Air Cargo
+272,ATR 72-202(F),SP-SPC,SprintAir,15 Dec 2015,Active,D-ANFE,
+273,ATR 42-300(F),EI-FXD,Federal Express (FedEx),15 May 2015,Stored,N271AT,opby ASL Airlines Ireland
+274,ATR 72-212(F),EC-INV,Swiftair,May 2003,Active,N274AT,
+275,ATR 42-300(F),N909FX,Federal Express (FedEx),10 Nov 2003,Active,N275BC,"909, opby Mountain Air Cargo"
+276,ATR 72-201,YV1850,Conviasa,13 Jun 2007,Stored,F-WQNE,
+277,ATR 42-300(F),N910FX,Federal Express (FedEx),14 Apr 2004,Active,N277AT,"910, opby Mountain Air Cargo"
+278,ATR 42-300,SX-DIR,Astra Airlines,28 May 2015,Stored,T7-BLN,Theofilos
+279,ATR 72-202,SP-LFD,Eurolot,13 Jan 2001,Stored,F-WWLD,
+280,ATR 42-320(F),N906FX,Federal Express (FedEx),23 Apr 2003,Active,N97841,"906, opby Mountain Air Cargo"
+281,ATR 72-202,TS-LBC,Tunisair Express,Feb 2011,Stored,F-WWLK,
+282,ATR 42-300(F),EI-FXA,Federal Express (FedEx),15 May 2015,Active,N282AT,opby ASL Airlines Ireland
+283,ATR 72-202(F),N811FX,Federal Express (FedEx),25 Aug 2005,Active,N723TE,"811, opby Mountain Air Cargo"
+284,ATR 42-320,N285DG,Aerway Leasing,6 May 2014,Stored,PP-PTJ,
+285,ATR 72-202,EC-LNP,Helitt Líneas Aéreas,Aug 2011,Written Off,OK-XFA,
+286,ATR 42-320(F),N907FX,Federal Express (FedEx),30 May 2003,Active,N86842,"907, opby Mountain Air Cargo"
+287,ATR 42-300,PNC-0243,Policia Nacional de Colombia,Apr 2015,Active,D-BBBB,
+288,ATR 72-212,N288AM,Executive Airlines,1 Oct 2002,Scrapped,F-WWLP,"288, lsf NAC"
+289,ATR 42-300(QC),VP-BLO,UTair Aviation,27 May 2008,Stored,D-BCRT,lsf NAC
+290,ATR 72-202,SE-MGJ,West Air Sweden,29 Jun 2012,Stored,SX-BIG,lsf Willis Lease
+291,ATR 42-320,F-WTBV,Rheinland Air Service (RAS),21 Dec 2019,Stored,SX-NIK,
+292,ATR 72-202(F),EI-FXJ,Federal Express (FedEx),15 May 2015,Stored,N813FX,opby ASL Airlines Ireland
+293,ATR 42-300(F),N914FX,Federal Express (FedEx),10 Feb 2005,Active,N293AT,"914, opby Empire Airlines"
+294,ATR 72-202(F),EI-FXI,Federal Express (FedEx),15 May 2015,Active,N818FX,opby ASL Airlines Ireland
+295,ATR 42-300,PT-MFE,Voepass,21 Aug 2019,Active,F-WWLU,opby MAP Linhas Aéreas
+296,ATR 42-320,D4-CBQ,Halcyon Air,3 Sep 2007,Preserved,J5-GZZ,lsf ATRiam Capital
+297,ATR 72-202,N19DZ,19th Hole,10 Jan 2014,Scrapped,SP-EFI,
+298,ATR 42-300,C-FAFS,Calm Air International,27 Jun 2013,Active,N298DG,428
+299,ATR 72-202,SP-EFK,Eurolot,24 Aug 2011,Scrapped,OK-XFC,
+300,ATR 42-320,YV1421,Santa Barbara Airlines,Sep 2006,Stored,YV-1017C,La Inmaculada Concepción
+301,ATR 72-202,OY-RUB,Danish Air Transport (DAT),Oct 2014,Active,F-WQNS,
+302,ATR 42-300,PT-MFI,Pantanal,20 Jul 1997,Written Off,F-OKNG,
+303,ATR 72-202,EC-LNQ,Helitt Líneas Aéreas,14 Jul 2011,Stored,OK-XFD,
+304,ATR 42-320,P2-AVV,Hevilift,6 Feb 2013,Stored,VH-AVV,
+305,ATR 72-202,SX-BIH,Olympic Airlines,12 Dec 2003,Scrapped,F-WWLC,Herodotus
+306,ATR 42-320,PT-MFT,Pantanal,17 Apr 1998,Stored,G-BXEH,
+307,ATR 72-202,OM-VRC,Danube Wings,13 Jul 2009,Scrapped,EC-IPJ,
+308,ATR 42-320,5H-ATR,Tropical Air,6 Dec 2012,Active,5H-PAA,
+309,ATR 72-212,N308AE,Executive Airlines,1 Oct 2000,Scrapped,N309AM,"308, lsf NAC"
+310,ATR 42-300(F),EI-FXC,Federal Express (FedEx),15 May 2015,Stored,N310DK,opby ASL Airlines Ireland
+311,ATR 72-202(QC),C-FJCQ,Calm Air International,3 Feb 2014,Active,F-GPOC,
+312,ATR 42-300(QC),S2-AHI,Hello Airlines,18 Mar 2016,Active,D-BCCC,
+313,ATR 72-202(F),ZS-XCL,Solenta Aviation,27 Jun 2017,Active,HB-AFH,
+314,ATR 42-300(F),N916FX,Federal Express (FedEx),22 Jul 2004,Active,N314AM,"916, opby Mountain Air Cargo"
+315,ATR 42-320,ARC-703,Colombian Navy (Armada Nacional de Colombia),7 Dec 2015,Active,F-WNUA,
+316,ATR 72-202,5N-BPE,Overland Airways,27 Oct 2012,Written Off,F-WNUA,lsf ATRiam Capital
+317,ATR 42-320(F),HB-AMB,Zimex Aviation,8 Aug 2019,Active,YL-RAJ,
+318,ATR 72-202,F-OHOC,Air Gabon,23 Dec 1993,Written Off,F-WKOF,lsf ATRiam Capital
+319,ATR 42-300(F),N921FX,Federal Express (FedEx),29 Oct 2004,Active,N319AM,"921, opby Empire Airlines"
+320,ATR 72-212,D-ATRR,Rheinland Air Service (RAS),12 Feb 2014,Scrapped,N322AC,
+321,ATR 42-300,EC-JAD,Swiftair,16 Jun 2004,Active,F-GHPY,
+322,ATR 72-202,B-22708,TransAsia Airways,1 Feb 2002,Written Off,G-BXYV,
+323,ATR 42-320,YN-CHG,La Costena,13 Nov 2009,Active,F-OHGL,
+324,ATR 72-201(F),EI-SLJ,ASL Airlines Ireland,15 May 2015,Stored,LY-PTK,
+,,,,,,,
+325,ATR 42-300(F),N920FX,Federal Express (FedEx),27 Aug 2004,Active,N325AT,"920, opby Mountain Air Cargo"
+326,ATR 72-202,PK-YRI,Trigana Air Service,22 Mar 2004,Stored,F-WQUF,
+327,ATR 42-300(F),EI-FXE,Federal Express (FedEx),15 May 2015,Stored,N327AT,opby ASL Airlines Ireland
+328,ATR 72-202,SX-DIP,Astra Airlines,Apr 2014,Stored,SP-LFE,Nicolaos
+329,ATR 42-320,C-GDSS,Calm Air International,20 Feb 2013,Active,D-BCRN,
+330,ATR 72-202(F),EC-IYH,Swiftair,14 May 2004,Active,F-WQUI,lsf ATRiam Capital
+331,ATR 42-300,C-GKLB,First Air,26 Feb 2009,Active,G-CDFF,
+332,ATR 72-201,VP-BYZ,UTair Aviation,23 Jul 2008,Written Off,ES-KRL,
+333,ATR 42-320,F-HBCS,Chalair Aviation,29 Jun 2018,Active,CS-DVL,
+334,ATR 72-212,EP-ATA,Iran Aseman Airlines,2 Oct 1993,Stored,F-WWLQ,
+335,ATR 42-320,3C-LLG,Ceiba Intercontinental,22 May 2007,Active,F-ODYE,
+336,ATR 72-212(F),N800FX,Federal Express (FedEx),21 Jul 2010,Active,N630AS,
+337,ATR 42-320,CS-DVO,Lease Fly,9 Jun 2015,Stored,HR-AXA,
+338,ATR 72-212(F),N801FX,Federal Express (FedEx),18 Aug 2010,Active,N632AS,
+339,ATR 72-212,EP-ATH,Iran Aseman Airlines,31 Oct 1993,Stored,F-WWLU,
+340,ATR 42-320,YV1422,Santa Barbara Airlines,Jun 2006,Stored,YV-1018C,Virgen de Coromoto
+341,ATR 72-202(F),EI-SLY,ASL Airlines Ireland,12 Sep 2017,Stored,HB-AFV,
+342,ATR 72-202,PK-YRX,Trigana Air Service,22 Feb 2008,Active,F-WQRY,
+343,ATR 42-320,N343DG,Aerway Leasing,14 Jul 2014,Stored,PT-MFJ,
+344,ATR 72-212(F),N802FX,Federal Express (FedEx),9 Aug 2010,Active,N633AS,
+345,ATR 72-212,N944WP,Island Air,May 2015,Scrapped,N342AT,Ho'opa'a
+346,ATR 42-320,YV1008,Conviasa,6 Sep 2006,Stored,F-WQNB,
+347,ATR 72-212(F),N816FX,Federal Express (FedEx),4 Oct 2005,Active,D-AEWG,"816, opby Empire Airlines"
+348,ATR 42-300,PK-TZH,Express Air,2 Jan 2018,Active,PK-KSI,lsf Asia Cargo Leasing
+349,ATR 72-212,N941WP,Island Air,6 Jun 2013,Stored,N348AE,Manawanui
+350,ATR 72-202,C-GFSA,Summit Air,9 Apr 2018,Active,CS-DVF,
+351,ATR 42-320,5N-BRQ,Overland Airways,Mar 2015,Active,F-WKVF,lsf ATRiam Capital
+352,ATR 72-202,5N-BPF,Overland Airways,16 Feb 2013,Stored,F-WNUF,lsf ATRiam Capital
+353,ATR 72-202,C-GUSA,Summit Air,22 Apr 2015,Active,SE-MGL,
+354,ATR 42-300(F),N917FX,Federal Express (FedEx),10 Feb 2005,Active,N351AT,"917, opby Empire Airlines"
+355,ATR 72-212,N355AT,Federal Express (FedEx),5 Aug 2013,Scrapped,F-WWEQ,
+356,ATR 42-320,VT-ABD,Air India Regional,20 Sep 2007,Stored,F-WQNF,lsf ACIA Aero Leasing
+357,ATR 72-202(F),C-FCRZ,Calm Air International,22 Sep 2010,Active,YU-ALR,
+358,ATR 42-320(F),N313CG,US Department of Justice,27 Nov 2007,Active,N215BB,
+359,ATR 72-212(F),N819FX,Federal Express (FedEx),Oct 2006,Active,D-AEWH,"819, opby Empire Airlines"
+360,ATR 42-320,YV1423,Santa Barbara Airlines,2 Oct 2006,Stored,YV-1015C,Virgen del Carmen
+361,ATR 72-202(QC),F-GPOD,HOP!,31 Mar 2013,Scrapped,B-22711,
+362,ATR 72-212(F),N803FX,Federal Express (FedEx),18 Aug 2010,Active,N631AS,
+363,ATR 42-320,5N-BND,Overland Airways,27 Oct 2010,Active,F-WKVD,lsf ATRiam Capital
+364,ATR 72-202(F),EI-SLU,ASL Airlines Ireland,20 Jun 2017,Stored,HB-AFM,
+365,ATR 72-202,5N-BPG,Overland Airways,16 Sep 2013,Active,F-WKVH,lsf ATRiam Capital
+366,ATR 42-320,CN-RLG,Regional Air Lines,9 Jun 2006,Stored,F-WQNM,
+367,ATR 72-202,PP-STY,Flyways Linhas Aéreas,Nov 2015,Scrapped,OM-VRB,lsf Elix Aviation Capital
+368,ATR 42-320,YV1424,Santa Barbara Airlines,Jun 2006,Stored,YV-1014C,Mi Chinita
+369,ATR 72-212,S5-ACK,Aero4M,2 Jul 2014,Stored,TR-LHI,
+370,ATR 72-212(F),N804FX,Federal Express (FedEx),13 Aug 2010,Active,N634AS,opby Mountain Air Cargo
+371,ATR 42-300,YV1010,Conviasa,5 Sep 2006,Written Off,F-WQNC,lsf ATRiam Capital
+372,ATR 72-212(F),N805FX,Federal Express (FedEx),23 Aug 2010,Active,N635AS,
+373,ATR 72-202,4R-EXN,FitsAir,28 Dec 2018,Active,XT-GTI,
+374,ATR 42-320,C-GLDE,West Wind Aviation,15 Jan 2014,Active,N374AF,
+375,ATR 72-212(F),N806FX,Federal Express (FedEx),2 Sep 2010,Active,N636AS,"806, opby Mountain Air Cargo"
+376,ATR 42-300,N367DG,Aerway Leasing,15 Jul 2014,Stored,PT-MFM,
+377,ATR 72-212,N377AT,Falcon Air Express,Apr 2013,Scrapped,F-WWLA,lsf NAC
+378,ATR 42-320(F),HB-AMC,Zimex Aviation,21 May 2019,Active,2-FLYE,
+,,,,,,,
+379,ATR 72-212,S2-AFN,United Airways,25 May 2011,Stored,PK-MFA,
+380,ATR 42-320,PNC-0242,Policia Nacional de Colombia,7 May 2014,Active,N380DG,
+381,ATR 72-201(F),ZS-XCJ,Solenta Aviation,22 Feb 2017,Active,HB-AFP,
+382,ATR 42-300,N5039Q,Intertrade,24 Dec 2013,Preserved,UR-UTA,
+383,ATR 72-212(F),N807FX,Federal Express (FedEx),19 Jul 2010,Active,N637AS,"807, opby Empire Airlines"
+384,ATR 42-320,5H-PAG,Precision Air,Dec 1999,Stored,F-WQJO,
+385,ATR 72-212,S2-AFE,United Airways,4 Oct 2010,Stored,N385FA,
+386,ATR 42-300,N503ZT,Intertrade,30 Dec 2013,Scrapped,UR-UTB,
+387,ATR 72-212(F),SP-SPD,SprintAir,12 Jul 2016,Active,EI-SLL,
+388,ATR 42-320,9N-AIM,Buddha Air,20 Sep 2008,Active,F-WQNF,
+389,ATR 72-201(F),N816HC,'Ohana by Hawaiian,26 Feb 2020,Stored,EI-SLT,opby Empire Airlines
+390,ATR 42-320,VT-ABA,Air India Regional,20 Sep 2007,Active,F-WQNK,opby Alliance Air
+391,ATR 72-212,EP-ATS,Iran Aseman Airlines,12 Dec 1993,Written Off,F-WWED,
+392,ATR 42-320,VT-ABB,Air India Regional,20 Sep 2007,Stored,F-WQNL,opby Alliance Air
+393,ATR 72-212,XY-AEY,Air Mandalay,15 Jul 2004,Stored,F-OHFS,
+394,ATR 42-300,HR-AUX,Avianca Honduras,28 May 2013,Scrapped,9A-CTU,
+395,ATR 72-212(F),ZS-XCM,Solenta Aviation,22 May 2017,Active,EI-SLK,
+396,ATR 72-202(F),HB-ALM,Zimex Aviation,11 Apr 2016,Active,ZS-XCE,
+397,ATR 42-320,N45838,Cape Air,14 Dec 2016,Stored,2-CAPE,838
+398,ATR 72-212,EP-ATZ,Iran Aseman Airlines,22 Jan 1994,Active,F-WWEK,
+399,ATR 72-212,N399AT,Executive Airlines,1 Oct 2002,Scrapped,F-WWLK,lsf NAC
+400,ATR 42-320,YN-CIE,La Costena,4 Jun 2014,Active,N400LC,
+401,ATR 72-212,N401AM,Simmons Airlines,24 Mar 1994,Written Off,F-WWLL,
+402,ATR 72-202,S2-AFU,United Airways,Aug 2013,Stored,SP-LFF,lsf Phoenix Aircraft Leasing & Sales
+403,ATR 42-320,9N-AIN,Buddha Air,17 Sep 2008,Active,F-WQNA,
+404,ATR 72-212(F),N812FX,Federal Express (FedEx),14 Jun 2005,Active,D-AEWI,"812, opby Mountain Air Cargo"
+405,ATR 72-212,OY-LHC,Danish Air Transport (DAT),4 Nov 2014,Active,EI-SLN,
+406,ATR 42-320,VT-ABO,Alliance Air,2 Jan 2008,Stored,F-WQNE,lsf ACIA Aero Leasing
+407,ATR 72-212,N407AT,WFBN Wells Fargo Bank Northwest,10 Sep 2013,Scrapped,PJ-DAK,
+408,ATR 72-212,N408AT,Nordic Aviation Capital (NAC),8 Apr 2014,Scrapped,9Q-CZG,
+409,ATR 42-320,9N-AIT,Buddha Air,14 May 2009,Active,F-WKVF,
+410,ATR 72-212,N410AT,Executive Airlines,1 Oct 2002,Scrapped,F-WWLS,lsf NAC
+411,ATR 72-202(F),HB-ALL,Zimex Aviation,1 Apr 2016,Active,F-WTBC,
+412,ATR 42-320,XA-UFA,Aeromar,7 Apr 2006,Stored,F-WQNH,lsf Elix Aviation Capital
+413,ATR 72-212,EI-SLM,Aer Lingus Regional,Jul 2010,Written Off,N643AS,"St Fiachre, lsf Air Contractors, opby Aer Arann"
+414,ATR 72-212,OY-CNJ,Mistral Air,29 Oct 2013,Written Off,N414WF,lsf NAC
+415,ATR 42-300,PK-TZG,Express Air,2 Jan 2018,Active,PK-KSE,lsf Asia Cargo Leasing
+416,ATR 72-202,EC-LHV,Air Europa,11 Apr 2015,Active,F-WNUH,opby Swiftair
+417,ATR 72-212,N417AT,Executive Airlines,1 Dec 2000,Scrapped,F-WWIT,lsf NAC
+418,ATR 42-300,-,Aérospatiale,,Not Built,,
+419,ATR 72-202(F),EI-SLZ,ASL Airlines Ireland,16 Oct 2017,Stored,HB-AFW,
+420,ATR 72-212,N943WP,Island Air,23 May 2014,Scrapped,N420AT,Ho'olauna
+422,ATR 72-212,XY-AIA,Myanmar National Airlines,10 Dec 2014,Stored,F-WQNQ,
+423,ATR 72-212(F),N810HC,'Ohana by Hawaiian,27 Aug 2015,Active,C-GLHR,opby Empire Airlines
+424,ATR 42-300,-,Aérospatiale,,Not Built,,
+425,ATR 72-212,N942WP,Island Air,14 Apr 2014,Stored,N425MJ,Pa'ahana
+426,ATR 72-212,N426AT,Federal Express (FedEx),12 Aug 2013,Scrapped,F-WWED,
+427,ATR 42-300,-,Aérospatiale,,Not Built,,
+428,ATR 72-212,EC-LNR,Helitt Líneas Aéreas,21 Jul 2011,Stored,I-ATRQ,
+429,ATR 72-212,D-ARAS,Rheinland Air Service (RAS),3 Jun 2013,Scrapped,N429AT,
+430,ATR 42-300,-,Aérospatiale,,Not Built,,
+431,ATR 72-212,N431AT,Executive Airlines,1 Mar 2002,Scrapped,F-WWEI,lsf NAC
+432,ATR 72-212,N807HC,'Ohana by Hawaiian,29 Jun 2015,Active,C-GRMZ,opby Empire Airlines
+433,ATR 42-300,-,Aérospatiale,,Not Built,,
+,,,,,,,
+434,ATR 72-212,N945WP,Island Air,25 Mar 2014,Scrapped,N434AT,Hilina'i
+435,ATR 72-202,B-22717,TransAsia Airways,17 Dec 1994,Written Off,F-WWEN,
+436,ATR 42-300,-,Aérospatiale,,Not Built,,
+437,ATR 72-202,C-GOSA,Summit Air,31 Mar 2016,Active,SE-MGN,lsf Willis Lease
+438,ATR 72-212,N438AT,Executive Airlines,27 Dec 1998,Written Off,F-WWEO,
+439,ATR 42-300,-,Aérospatiale,,Not Built,,
+440,ATR 72-212,N440AM,Executive Airlines,31 Jan 1999,Scrapped,F-WWEP,"440, lsf NAC"
+441,ATR 72-202,SP-SPE,SprintAir,Jul 2016,Active,EC-LZR,
+442,ATR 42-300,-,Aérospatiale,,Not Built,,
+443,ATR 42-500,ZS-XCG,Solenta Aviation,9 Apr 2014,Active,F-WKVE,
+444,ATR 72-202(F),C-GJPY,Summit Air,5 Jan 2016,Active,T7-COB,
+445,ATR 42-500,LY-DAT,DOT LT,25 Aug 2015,Active,F-WKVF,
+446,ATR 72-212,EC-JRP,Swiftair,Jun 2014,Active,D-AEWK,
+447,ATR 72-212,N447AM,Executive Airlines,Dec 1998,Stored,F-WWEC,lsf NAC
+448,ATR 72-212,N448AM,Executive Airlines,14 Dec 1998,Scrapped,F-WWED,
+449,ATR 72-202(F),HB-ALQ,Zimex Aviation,16 Sep 2016,Active,G-BWDB,BDA Logistics cs
+450,ATR 72-202,PR-AZT,Imetame,14 May 2012,Active,F-WKVE,
+451,ATR 72-212,N451AT,Executive Airlines,25 Nov 1998,Scrapped,F-WWES,
+452,ATR 72-202,EC-JCD,Islas Airways,29 Sep 2004,Preserved,F-WQND,
+453,ATR 72-212,CU-T1548,Cubana,1 Jul 2015,Active,F-WQNQ,
+454,ATR 72-212,PR-TTI,TRIP Linhas Aéreas,May 2008,Written Off,N531AS,lsf ATRiam Capital
+455,ATR 72-202(F),C-GRFU,Avionco,27 Feb 2020,Stored,N455CJ,
+456,ATR 72-202F,M-ABJM,N.D.R Warehousing Private Limited,16 Aug 2016,Preserved,VT-DEB,
+457,ATR 42-500,SX-JOY,Sky Express,22 Jul 2016,Active,F-GPYA,lsf NAC
+458,ATR 72-212,XY-AIE,Air Bagan,19 Jan 2006,Written Off,F-WQNB,
+459,ATR 72-212,CU-T1549,Aero Caribbean,23 Oct 2006,Written Off,F-WQND,lsf ATRiam Capital
+460,ATR 72-212,ZS-XCB,Solenta Aviation,2019,Stored,F-WNUC,
+461,ATR 72-212,EI-SLP,ASL Airlines Ireland,7 Oct 2015,Stored,EC-LKK,lsf TrueNoord
+462,ATR 42-500,XA-UAU,Aeromar,18 Jun 2004,Active,I-ADLF,lsf Elix Aviation Capital
+463,ATR 72-212(F),TU-TRN,Solenta Aviation Côte d'Ivoire,Mar 2017,Active,ZS-XCA,
+464,ATR 72-212,E7-AAD,BH Airlines,16 Mar 2009,Scrapped,T9-AAD,Sarajevo
+465,ATR 72-212,E7-AAE,BH Airlines,4 Feb 2009,Scrapped,T9-AAE,Mostar
+466,ATR 42MP-420,MM62170,Guardia Costiera (Italian Coast Guard),30 May 2001,Active,CSX62170,10-01
+467,ATR 72-212(F),F-WKVB,ATRiam Capital,Apr 2017,Stored,XY-AIR,
+468,ATR 72-500 (72-212A),EC-LYJ,Swiftair,17 Mar 2020,Active,OY-CIM,lsf AMRA Leasing
+469,ATR 72-212,XY-AIH,Air Bagan,9 Oct 2008,Written Off,F-OHFZ,
+470,ATR 72-202,M-ABEF,Aircraft Solutions,7 Jan 2016,Scrapped,D2-FLB,
+471,ATR 42-500,F-WNUJ,ATRiam Capital,Feb 2017,Scrapped,XA-TAH,
+472,ATR 72-212,CU-T1544,Aero Caribbean,4 May 2004,Stored,F-WQNG,
+473,ATR 72-212,CU-T1545,Aero Caribbean,29 Mar 2004,Stored,F-WQNI,
+474,ATR 42-500,XA-TAI,Aeromar,29 Nov 1995,Stored,F-WWLF,
+475,ATR 72-212,XY-AEZ,Myanmar National Airlines,10 Dec 2014,Stored,F-OGUO,
+476,ATR 42-500,XA-UAV,Aeromar,10 Jul 2004,Stored,I-ADLG,lsf Elix Aviation Capital
+477,ATR 72-202,EC-IKQ,Islas Airways,19 Feb 2003,Stored,F-WQNM,Islas Canarias
+478,ATR 72-202,SP-LFH,Eurolot,13 Jan 2001,Scrapped,F-WWEK,
+479,ATR 72-212,XY-AIM,Air Thanlwin,1 Oct 2019,Active,F-OIYA,
+480,ATR 42-500,F-GPYB,HOP!,31 Mar 2013,Stored,F-WWLZ,lsf NAC
+481,ATR 72-212,XY-AIN,Air Thanlwin,1 Oct 2019,Active,F-OIYB,
+482,ATR 72-212,YV2421,Conviasa,31 Oct 2007,Stored,F-WQNB,
+483,ATR 72-202(F),HI-1000,Air Century,30 Oct 2017,Active,M-ABEG,
+484,ATR 42-500,G-LMRB,Loganair,19 Mar 2020,Active,F-GPYC,"Clan Baxter / Clann am Bacastair, lsf NAC"
+485,ATR 72-212,CU-T1547,Aero Caribbean,21 May 2005,Stored,F-WQNB,
+486,ATR 72-212,YV2422,Conviasa,31 Oct 2007,Stored,F-WQNA,
+487,ATR 42-420,YV1009,Conviasa,24 May 2006,Stored,F-WQNL,
+,,,,,,,
+488,ATR 72-202,SP-SPG,SprintAir,Oct 2016,Active,EC-GRP,
+489,ATR 72-202(F),SP-SPH,SprintAir,Sep 2017,Active,EC-GQF,
+490,ATR 42-500,G-LMRA,Loganair,16 Jan 2020,Active,F-GPYD,"Clan Adair / Clann am MacÈigeir, lsf NAC"
+491,ATR 42-420,YV1005,Conviasa,29 Jun 2006,Stored,F-WQNK,
+492,ATR 42-500,F-GPYE,Air Littoral,25 Apr 1996,Written Off,F-WWLK,
+493,ATR 72-202,YL-RAI,RAF-Avia,27 Jun 2017,Active,EC-GRU,
+494,ATR 72-500 (72-212A),EC-MKE,Swiftair,18 Jan 2016,Active,F-GVZP,
+495,ATR 42-500,F-GPYF,Air Antilles Express,17 Jun 2019,Active,F-WWLM,lsf NAC
+496,ATR 72-202,OY-LHB,Danish Air Transport (DAT),18 Apr 2013,Active,OY-RTF,
+497,ATR 42-500,P2-KSL,Hevilift,6 Oct 2014,Active,OY-RUJ,lsf Castlelake
+498,ATR 72-500 (72-212A),EC-MIY,Swiftair,9 Sep 2017,Active,F-GVZR,
+499,ATR 72-500 (72-212A),YL-RAK,RAF-Avia,11 Dec 2019,Active,F-GVZU,
+500,ATR 42MP-420,MM62165,Guardia di Finanza (Italian Customs Police),3 Dec 1996,Active,F-WWEW,GF-13
+501,ATR 42-500,P2-KSV,Hevilift,19 Jul 2013,Active,OY-RUL,lsf Castlelake
+502,ATR 42MP-420,MM62166,Guardia di Finanza (Italian Customs Police),2004,Active,CSX62166,GF-14
+503,ATR 42-500,C-FTIR,First Air,21 Apr 2016,Active,OY-YAW,
+504,ATR 42-500,PR-TTK,Azul Linhas Aéreas Brasileiras,6 Mar 2013,Stored,F-WQNK,lsf Elix Aviation Capital
+505,ATR 42-500,VP-BOF,ACES Colombia,24 Jul 2000,Written Off,F-WQND,
+506,ATR 42-500,PR-TTH,Total Linhas Aereas,Apr 2005,Written Off,F-WQNL,lsf Elix Aviation Capital
+507,ATR 42-500,A2-ABN,Air Botswana,8 Sep 2000,Stored,F-WQNG,Chobe
+508,ATR 72-202,C-FINB,Calm Air International,14 Feb 2017,Active,OY-LHA,
+509,ATR 72-202,OY-RUG,Danish Air Transport (DAT),27 Aug 2012,Active,OY-RTD,
+510,ATR 42-500,C-FTID,First Air,21 Jul 2015,Active,N510XA,lsf NAC
+511,ATR 42-500,9H-AGW,ATRiam Capital,Feb 2019,Scrapped,A2-ABO,
+512,ATR 42-500,9H-AGX,Unknown,Feb 2019,Stored,A2-ABP,
+513,ATR 42-500,HK-4806,SATENA,23 Nov 2011,Active,N513NA,"FAC-1184, lsf NAC"
+514,ATR 42-500,OY-RUO,Danish Air Transport (DAT),31 May 2016,Active,OY-CIL,
+515,ATR 42-500,OY-RUF,Danish Air Transport (DAT),5 Jun 2010,Active,F-GVIJ,
+516,ATR 42-500,SX-TWO,Sky Express,11 May 2017,Active,F-GVZC,
+517,ATR 72-500 (72-212A),N517TR,Intertrade,7 Mar 2014,Scrapped,B-22801,
+518,ATR 42-500,2-KKSF,Castlelake,18 May 2017,Scrapped,PK-KSF,
+519,ATR 72-202,PR-MPY,Voepass,21 Aug 2019,Active,F-WNUC,opby MAP Linhas Aéreas
+520,ATR 42-500,F-GPYM,Chalair Aviation,11 Jun 2019,Active,F-WWLR,
+521,ATR 72-500 (72-212A),2-ATRH,Nordic Aviation Capital (NAC),9 Aug 2018,Stored,HK-4828,
+522,ATR 42-500,OY-PCB,Nordic Aviation Capital (NAC),7 Sep 2016,Scrapped,HK-4748,
+523,ATR 72-202,PR-MPZ,Voepass,21 Aug 2019,Active,F-WNUD,opby MAP Linhas Aéreas
+524,ATR 42-500,SX-FOR,Sky Express,19 Feb 2018,Stored,F-GVZB,
+525,ATR 72-500 (72-212A),N525TR,Intertrade,11 Dec 2013,Scrapped,B-22802,
+526,ATR 42-500,OY-YBT,Nordic Aviation Capital (NAC),20 Oct 2017,Scrapped,HK-4747,
+527,ATR 72-500 (72-212A),2-EACA,Elix Aviation Capital,27 Jun 2017,Scrapped,M-DMLM,
+528,ATR 42-500,HB-ALN,Zimex Aviation,4 Dec 2018,Active,ZS-XCI,lsf ACIA Aero Leasing
+529,ATR 72-500 (72-212A),2-RASA,Nordic Aviation Capital (NAC),15 Mar 2019,Stored,G-ISLI,
+530,ATR 42-500,SX-EIT,Sky Express,25 May 2018,Active,F-GVZD,
+531,ATR 72-500 (72-212A),9N-AJS,Buddha Air,2 Aug 2011,Active,B-3023,
+532,ATR 42-500,2-LNOA,Phoenix Aircraft Leasing & Sales,20 Apr 2016,Scrapped,HK-4827,
+533,ATR 72-500 (72-212A),YR-ATS,Carpatair,21 Dec 2012,Written Off,N533AT,lsf NAC
+534,ATR 42-500,SX-GRI,Sky Express,24 Oct 2016,Active,OY-YAL,"Isle of Karpathos, lsf NAC"
+535,ATR 72-500 (72-212A),9N-AJO,Buddha Air,18 Jun 2010,Active,F-WNUF,
+536,ATR 72-500 (72-212A),YU-ALU,Air Serbia,1 Aug 2013,Active,OY-NAB,lsf NAC
+537,ATR 42-500,F-GPYK,Chalair Aviation,27 Dec 2018,Active,F-WWLC,
+538,ATR 72-500 (72-212A),PK-YSK,Trigana Air Service,24 Mar 2017,Active,PK-JKH,lsf NAC
+539,ATR 42-500,F-GPYN,Chalair Aviation,1 Mar 2019,Active,F-WWLO,
+540,ATR 72-500 (72-212A),OY-JZY,Jettime,12 Mar 2014,Stored,N540AM,lsf NAC
+541,ATR 72-500 (72-212A),OY-YBU,Poste Air Cargo,1 Oct 2019,Active,XY-AJC,lsf NAC
+,,,,,,,
+542,ATR 42-500,SX-TEN,Sky Express,9 Jul 2018,Active,F-GPYL,
+543,ATR 72-500 (72-212A),XY-AIT,Air KBZ,28 Feb 2011,Written Off,OY-PCK,lsf NAC
+544,ATR 42-500,SX-SIX,Sky Express,13 Apr 2018,Active,F-GPYO,
+545,ATR 72-500 (72-212A),0005,Myanmar Air Force,2019,Active,XY-AJD,
+546,ATR 42-500,G-ISLF,Elix Aviation Capital,14 Nov 2018,Stored,D-BMMM,
+547,ATR 72-500 (72-212A),XY-AIY,Air KBZ,13 Oct 2011,Stored,N547NA,lsf NAC
+548,ATR 72-500 (72-212A),OY-JZZ,Poste Air Cargo,1 Oct 2019,Active,N548AT,lsf NAC
+549,ATR 42-500,N366FM,US Department of Justice,17 Oct 2008,Stored,OY-RTH,
+550,ATR 72-500 (72-212A),EC-LYB,Air Europa Express,19 Jan 2015,Active,N550LL,opby Swiftair
+551,ATR 42-500,P2-KSD,Hevilift,Dec 2016,Active,PR-TTM,lsf Elix Aviation Capital
+552,ATR 72-500 (72-212A),2-ATRI,Nordic Aviation Capital (NAC),8 Aug 2018,Stored,F-WTDC,
+553,ATR 72-500 (72-212A),SX-ONE,Sky Express,7 Apr 2017,Active,F-GVZL,
+554,ATR 42-500,PR-OHS,OMNI Táxi Aéreo,30 Oct 2018,Active,OY-YCB,lsf NAC
+555,ATR 72-500 (72-212A),YU-ALT,Air Serbia,1 Aug 2013,Stored,OY-CJT,lsf NAC
+556,ATR 42-500,C-FTIZ,First Air,1 Jun 2016,Active,F-WNUI,
+557,ATR 72-500 (72-212A),XY-AIU,Asian Wings Airways,3 Jan 2011,Active,I-ADLN,
+558,ATR 72-500 (72-212A),PH-ATP,Executive Jet Support,24 Jul 2018,Preserved,D4-CCC,
+559,ATR 42-500,PK-YSP,Trigana Air Service,6 Nov 2018,Active,PK-THS,
+560,ATR 72-500 (72-212A),PK-YSL,Trigana Air Service,20 Sep 2017,Active,OY-YAZ,lsf NAC
+561,ATR 42-500,PR-PDS,Voepass,24 Mar 2020,Stored,2-HJKL,opby MAP Linhas Aéreas
+562,ATR 72-500 (72-212A),PR-PDD,Passaredo Transportes Aereos,25 Aug 2012,Written Off,F-WKVE,Beija-flor
+563,ATR 72-500 (72-212A),SX-THR,Sky Express,4 Dec 2017,Active,F-GVZN,
+564,ATR 42-500,9M-JOG,Berjaya Air,21 Jan 2019,Active,2-ATLN,"lsf Elix Aviation Capital, The Taaras Beach & Spa Resort cs"
+565,ATR 72-500 (72-212A),F-WKVE,ATRiam Capital,Aug 2016,Scrapped,PR-PDE,
+566,ATR 42-500,YR-ATA,TAROM,5 Jun 1998,Stored,F-WWLF,Dunarea
+567,ATR 72-500 (72-212A),2-ATRN,Nordic Aviation Capital (NAC),5 Jul 2019,Stored,OY-YBL,
+568,ATR 72-500 (72-212A),EC-MAF,Swiftair,12 Dec 2015,Active,OY-CIN,"lsf AMRA Leasing, Madeira cs"
+569,ATR 42-500,YR-ATB,TAROM,5 Jun 1998,Stored,F-WWLH,Bistrita
+570,ATR 72-500 (72-212A),G-LMRZ,Loganair,4 Nov 2019,Active,OY-YAN,"RMA Western Isles Flyer / RMA Itealaiche Na h-Elieanan Siar, lsf NAC"
+571,ATR 42-500,HK-4862,SATENA,5 Jul 2012,Active,OY-EDL,"FAC-1187, lsf NAC"
+572,ATR 72-500 (72-212A),PR-PDH,Passaredo Transportes Aereos,6 Nov 2013,Stored,EI-FAN,Tucano
+573,ATR 72-500 (72-212A),EP-ATX,Iran Aseman Airlines,18 Dec 2007,Active,F-OIRB,
+574,ATR 42-500,YA-KMP,Kam Air,21 Nov 2018,Active,2-GJSA,
+575,ATR 72-500 (72-212A),PR-PDJ,Passaredo Transportes Aereos,5 Nov 2013,Stored,EI-EYY,Andorinha
+576,ATR 42-500,YA-KMQ,Kam Air,15 May 2019,Active,2-GJSB,
+577,ATR 72-500 (72-212A),EI-SOO,ASL Airlines Ireland,2 Nov 2016,Stored,HB-ACE,
+578,ATR 72-500 (72-212A),9N-AJX,Buddha Air,21 Sep 2012,Active,F-WNUB,
+579,ATR 42-500,C-FTIL,First Air,3 Jan 2017,Active,OY-YBS,
+580,ATR 72-500 (72-212A),PR-TKN,Flyways Linhas Aéreas,13 Jul 2015,Stored,F-WKVF,
+581,ATR 42-500,PR-PDP,Voepass,18 Dec 2019,Active,HK-5117,opby MAP Linhas Aéreas
+582,ATR 72-500 (72-212A),XY-AIW,Air KBZ,15 Jun 2011,Stored,EC-HEZ,
+583,ATR 72-500 (72-212A),EI-SOP,ASL Airlines Ireland,12 Oct 2015,Stored,4X-AVW,
+584,ATR 42-500,G-HUET,Aurigny Air Services,24 Apr 2015,Stored,OY-YAS,lsf NAC
+585,ATR 72-500 (72-212A),HB-ALR,Zimex Aviation,6 Sep 2018,Active,2-ASIA,lsf Castlelake
+586,ATR 42-500,XA-TPR,Aeromar,25 Sep 1999,Stored,F-WWEA,
+587,ATR 72-500 (72-212A),OY-YBW,Nordic Aviation Capital (NAC),Jan 2017,Scrapped,4X-AVU,
+588,ATR 72-500 (72-212A),OY-YAB,Poste Air Cargo,1 Oct 2019,Active,TC-YAB,lsf NAC
+589,ATR 42-500,YR-ATC,TAROM,12 Mar 1999,Stored,F-WWLR,"Cris, SkyTeam cs"
+590,ATR 72-500 (72-212A),SX-FIV,Sky Express,1 Feb 2018,Active,F-GVZM,
+591,ATR 42-500,YR-ATD,TAROM,12 Mar 1999,Stored,F-WWLS,Mures
+592,ATR 72-500 (72-212A),XY-AIK,Air Bagan,12 Sep 2009,Stored,I-ATSL,
+593,ATR 72-500 (72-212A),PR-PDK,Passaredo Transportes Aereos,5 Nov 2013,Stored,EI-EZK,Arara
+594,ATR 42-500,N806HC,'Ohana by Hawaiian,6 Apr 2018,Active,F-WNUI,opby Empire Airlines
+595,ATR 72-500 (72-212A),EC-MEC,Air Europa Express,Jun 2017,Active,OY-CIO,opby Swiftair
+,,,,,,,
+596,ATR 42-500,YR-ATE,TAROM,12 Mar 1999,Stored,F-WWLY,Olt
+597,ATR 72-500 (72-212A),S2-AHQ,NovoAir,10 Sep 2017,Active,ZK-MCA,
+598,ATR 72-500 (72-212A),ZK-MCB,Air New Zealand,9 Dec 2019,Stored,F-WQKG,
+599,ATR 42-500,YR-ATF,TAROM,12 Mar 1999,Stored,F-WEBB,Arges
+600,ATR 72-500 (72-212A),S2-AJL,NovoAir,24 May 2018,Active,ZK-MCF,
+601,ATR 42-500,PK-HNS,Gatari Air Service,23 Jan 2009,Stored,PK-TSQ,
+602,ATR 42-500,0004,Myanmar Air Force,8 Jan 2014,Active,OY-CGD,
+603,ATR 42-500,HK-4979,SATENA,8 Oct 2013,Active,OY-CHI,FAC-1191
+604,ATR 42-500,C-FTIK,First Air,3 Feb 2016,Active,2-RTKD,
+605,ATR 42-500,YR-ATG,TAROM,24 Feb 2000,Stored,F-WWLG,Dambovita
+606,ATR 42-500,HK-5159,Easyfly,14 Sep 2015,Active,OY-YAA,lsf NAC
+607,ATR 42-500,XA-TRI,Aeromar,18 May 2000,Stored,F-WWEA,
+608,ATR 42-500,XA-TRJ,Aeromar,13 Jul 2000,Stored,F-WWEB,
+609,ATR 42-500,C-FTIQ,First Air,3 Nov 2015,Active,2-RTKC,
+610,ATR 42-500,PR-TKB,Total Linhas Aereas,12 Mar 2013,Written Off,I-ADLV,
+611,ATR 42-500,PK-THT,Indonesia Air Transport,12 Jul 2010,Active,I-ADLZ,
+612,ATR 42-500,VT-ADJ,Kingfisher Airlines,29 Aug 2008,Stored,N612VX,
+613,ATR 42-500,VT-ADK,Kingfisher Airlines,29 Aug 2008,Stored,F-WQNH,
+614,ATR 42-500,PK-HNT,Gatari Air Service,Jun 2017,Stored,OY-EDE,"Pro Perubahan, lsf NAC"
+615,ATR 42MP-420,MM62208,Guardia Costiera (Italian Coast Guard),Sep 2004,Active,CSX62208,10-02
+616,ATR 42-500,CU-T1454,Aerogaviota,29 Jan 2002,Active,F-WWLA,
+617,ATR 42-500,CU-T1240,Aerogaviota,12 Mar 2002,Active,F-WWLB,
+618,ATR 42-500,CU-T1455,Aerogaviota,13 Aug 2002,Active,F-WWLC,
+619,ATR 42-500,CU-T1456,Aerogaviota,9 Dec 2002,Active,F-WWLD,
+620,ATR 42MP-420,MM62230,Guardia di Finanza (Italian Customs Police),Oct 2007,Active,CSX62230,GF-15
+621,ATR 42-500,2-LFEA,Phoenix Aircraft Leasing & Sales,24 Nov 2016,Stored,HK-4949,
+622,ATR 42-500,F-HLIA,Amelia International,13 Feb 2020,Stored,A5-RGH,
+623,ATR 42-500,N804HC,'Ohana by Hawaiian,8 Nov 2012,Active,OK-JFJ,opby Empire Airlines
+624,ATR 72-500 (72-212A),ZK-MCJ,Air New Zealand,9 Dec 2019,Stored,F-WQKI,
+625,ATR 42-500,N805HC,'Ohana by Hawaiian,5 Sep 2013,Active,OK-JFK,opby Empire Airlines
+626,ATR 72-500 (72-212A),XY-AIS,Asian Wings Airways,14 Oct 2010,Active,I-ATPA,
+627,ATR 42-500,PK-PAX,Pelita Air Service,14 Apr 2014,Active,F-OIQC,Bontang
+628,ATR 72-500 (72-212A),ZK-MCO,Air Chathams,4 Feb 2019,Active,F-WQKJ,
+629,ATR 42-500,N801HC,'Ohana by Hawaiian,10 Oct 2012,Active,OK-JFL,opby Empire Airlines
+630,ATR 72-500 (72-212A),ZK-MCP,Air New Zealand,9 Dec 2019,Stored,F-WQKK,
+631,ATR 42-500,HK-5104,SATENA,17 Dec 2014,Active,F-OIQD,"FAC-1190, lsf Airtrails GmbH"
+632,ATR 72-500 (72-212A),ZK-MCU,Air New Zealand,9 Dec 2019,Stored,F-WQKL,
+633,ATR 42-500,TR-AFB,Afrijet Business Service,Aug 2019,Stored,OK-KFO,lsf Elix Aviation Capital
+634,ATR 72-500 (72-212A),G-ISLK,Blue Islands,5 Mar 2020,Active,2-XAJQ,
+635,ATR 42-500,OK-KFM,Czech Airlines (CSA),3 May 2005,Written Off,F-WWLP,lsf Air Contractors
+636,ATR 72-500 (72-212A),S2-AHF,NovoAir,Mar 2016,Active,CX-POS,
+637,ATR 42-500,F-HAIB,Air Corsica,24 May 2019,Active,OK-KFN,"La Liaison, lsf Elix Aviation Capital"
+638,ATR 72-500 (72-212A),PK-KSC,KalStar Aviation,29 Aug 2014,Scrapped,2-CSLA,lsf Castlelake
+639,ATR 42-500,P2-KSA,Hevilift,Jan 2019,Active,F-WTBD,lsf Elix Aviation Capital
+640,ATR 72-500 (72-212A),VT-JCE,Jet Airways,28 Apr 2000,Written Off,F-WQMD,
+641,ATR 42-500,VQ-BPE,NordStar Airlines,Jan 2012,Stored,OH-ATA,
+642,ATR 72-500 (72-212A),B-22810,TransAsia Airways,11 Jul 2000,Written Off,F-WQMF,
+643,ATR 42-500,2-RLBG,Aergo Capital,22 Nov 2018,Stored,ZS-AFR,
+644,ATR 72-500 (72-212A),7T-VUI,Air Algérie,21 Nov 2003,Stored,F-OHGM,
+645,ATR 42-500,AP-BHH,PIA Pakistan International Airlines,1 Jun 2006,Active,F-WWLE,
+646,ATR 72-500 (72-212A),S2-AJK,NovoAir,29 Jan 2018,Active,ZK-MCW,
+647,ATR 42-500,8Q-VAX,Flyme,29 May 2017,Active,F-WNUH,opby Villa Air
+648,ATR 72-500 (72-212A),7T-VUJ,Air Algérie,18 Dec 2003,Stored,F-OHGN,
+649,ATR 42-500,HK-5199,Easyfly,26 Sep 2016,Active,5R-MJG,lsf Elix Aviation Capital
+,,,,,,,
+650,ATR 72-500 (72-212A),5R-EJD,Tsaradia,16 May 2019,Stored,F-OHSF,lsf Falko
+651,ATR 42-500,HK-5071,Easyfly,11 Aug 2014,Active,OH-ATC,
+652,ATR 72-500 (72-212A),7T-VUK,Air Algérie,18 Dec 2003,Stored,F-OHGO,
+653,ATR 42-500,AP-BHI,PIA Pakistan International Airlines,25 Nov 2006,Active,F-WWLK,
+654,ATR 72-500 (72-212A),F-HAPL,Chalair Aviation,8 Nov 2018,Active,F-OIJG,
+655,ATR 42-500,HK-5070,Easyfly,11 Aug 2014,Active,OH-ATD,
+656,ATR 72-500 (72-212A),OY-YCA,Nordic Aviation Capital (NAC),Jan 2017,Scrapped,4X-AVX,
+657,ATR 42-500,AP-BHJ,PIA Pakistan International Airlines,29 Dec 2006,Written Off,F-WWLO,"Mohenjodaro - Indus Valley Civilization, Sindh Province cs"
+658,ATR 72-500 (72-212A),XY-AJT,Air KBZ,5 Nov 2013,Stored,OY-CJM,
+659,ATR 42-500,AP-BHM,PIA Pakistan International Airlines,5 Mar 2007,Active,F-WWLQ,
+660,ATR 72-500 (72-212A),HB-ACA,Adria Airways Switzerland,20 Jul 2017,Stored,I-ADCB,lsf NAC
+661,ATR 42-500,AP-BHN,PIA Pakistan International Airlines,6 Apr 2007,Stored,F-WWLS,
+662,ATR 72-500 (72-212A),OY-CKO,Nordic Aviation Capital (NAC),11 Dec 2019,Stored,HB-ACB,
+663,ATR 42-500,AP-BHO,PIA Pakistan International Airlines,14 May 2007,Written Off,F-WWLU,
+664,ATR 72-500 (72-212A),OY-CUF,Nordic Aviation Capital (NAC),21 Feb 2020,Stored,HB-ACC,
+665,ATR 42-500,AP-BHP,PIA Pakistan International Airlines,18 Jun 2007,Stored,F-WWLW,
+666,ATR 72-500 (72-212A),RP-C8666,Royal Star Aviation,24 Feb 2016,Active,F-WNUJ,lsf ATRiam Capital
+667,ATR 42-500,PK-JKG,Nusantara Air Charter,7 May 2013,Stored,OY-CLO,Pinta Bestari
+668,ATR 72-500 (72-212A),HB-ACD,Adria Airways Switzerland,20 Jul 2017,Stored,I-ADCE,lsf NAC
+669,ATR 42-500,HK-5266,Easyfly,21 Aug 2018,Active,2-DCBV,lsf Elix Aviation Capital
+670,ATR 72-500 (72-212A),HS-PGL,Bangkok Airways,5 Jul 2001,Written Off,F-WWER,Pha Ngan
+671,ATR 42-500,3C-LLH,Ceiba Intercontinental,29 Dec 2007,Active,F-WWLE,
+672,ATR 72-500 (72-212A),7T-VUL,Air Algérie,17 Feb 2004,Stored,F-OHGP,
+673,ATR 42-500,4K-AZ808,SW Business Aviation,29 Apr 2008,Active,F-WWLG,
+674,ATR 72-500 (72-212A),OK-GFQ,Czech Airlines (CSA),5 Oct 2012,Active,VT-JCF,lsf ASL Aviation Group
+675,ATR 42MP-420,MM62251,Guardia di Finanza (Italian Customs Police),6 May 2008,Active,F-WQNB,GF-16
+676,ATR 72-500 (72-212A),7T-VVQ,Air Algérie,3 Jul 2005,Stored,F-WWEA,
+677,ATR 72-500 (72-212A),7T-VUM,Air Algérie,26 Nov 2003,Stored,F-OHGQ,
+678,ATR 72-500 (72-212A),RP-C6678,Alphaland Aviation,8 Mar 2017,Active,VN-B210,
+679,ATR 72-500 (72-212A),OK-GFS,Czech Airlines (CSA),12 Dec 2012,Active,VT-JCG,lsf ASL Aviation Group
+680,ATR 72-500 (72-212A),RP-C6638,Sunlight Express Airways,6 Dec 2019,Stored,F-WKVD,lsf ATRiam Capital
+681,ATR 72-500 (72-212A),OK-GFR,Czech Airlines (CSA),5 Sep 2012,Stored,VT-JCH,"lsf ASL Aviation Group, SkyTeam cs"
+682,ATR 72-500 (72-212A),PR-MPW,Voepass,21 Aug 2019,Active,F-OIJH,opby MAP Linhas Aéreas
+683,ATR 72-500 (72-212A),7T-VVR,Air Algérie,Sep 2005,Stored,F-WWEF,
+684,ATR 72-500 (72-212A),7T-VUN,Air Algérie,19 Dec 2003,Stored,F-OHGR,
+685,ATR 72-500 (72-212A),9S-AAD,flyCAA,14 Aug 2019,Active,VN-B212,
+686,ATR 72-500 (72-212A),F-GVZV,HOP!,5 Jun 2014,Stored,I-ADLJ,lsf Airtrails GmbH
+687,ATR 72-500 (72-212A),S2-AJM,NovoAir,15 Dec 2019,Active,ZK-MCX,
+688,ATR 72-500 (72-212A),M-ABMK,Ezen Aviation,29 Nov 2019,Stored,VN-B214,
+689,ATR 42-500,PK-TNG,TransNusa,3 May 2017,Active,OY-YBV,lsf NAC
+690,ATR 72-500 (72-212A),3B-NBG,Air Mauritius,21 Jun 2002,Stored,F-WWEM,Port Mathurin
+691,ATR 42-500,5A-LAF,Libyan Airlines,16 Nov 2009,Stored,F-WWLM,
+692,ATR 72-500 (72-212A),RP-C6386,Sunlight Express Airways,6 Mar 2020,Stored,F-WKVE,lsf ATRiam Capital
+693,ATR 42MP-500,NAF930,Nigerian Air Force,10 Dec 2009,Active,F-WWLO,
+694,ATR 72-500 (72-212A),5R-MJE,Air Madagascar,10 Nov 2005,Stored,F-WWEQ,
+695,ATR 42-500,F-OIXD,Air Antilles Express,19 Dec 2008,Active,F-WWLQ,lsf NAC
+696,ATR 72-500 (72-212A),G-ISLL,Blue Islands,5 Mar 2020,Active,OY-YAT,lsf NAC
+697,ATR 72-500 (72-212A),EP-ATU,Iran Aseman Airlines,5 Dec 2009,Stored,F-OIRA,"Esfahan, lsf Zahra Ltd"
+698,ATR 72-500 (72-212A),5R-MJF,Air Madagascar,16 Dec 2005,Stored,F-WWEU,lsf Elix Aviation Capital
+699,ATR 72-500 (72-212A),SX-SEV,Sky Express,3 May 2019,Active,M-ABKM,lsf Elix Aviation Capital
+700,ATR 72-500 (72-212A),RP-C6683,Sunlight Express Airways,20 Jan 2020,Stored,F-WKVH,lsf ATRiam Capital
+701,ATR 72-500 (72-212A),8Q-VAV,Flyme,23 Nov 2014,Active,OY-EDC,opby Villa Air
+702,ATR 72-500 (72-212A),8Q-VAW,Flyme,27 Mar 2015,Active,OY-EDD,opby Villa Air
+703,ATR 72-500 (72-212A),ZK-MCY,Air New Zealand,9 Dec 2019,Stored,F-WQMR,
+,,,,,,,
+704,ATR 72-500 (72-212A),F-HBCL,Chalair Aviation,24 Dec 2019,Stored,F-WNUA,lsf ATRiam Capital
+705,ATR 72-500 (72-212A),OY-YAE,Nordic Aviation Capital (NAC),25 Jan 2019,Stored,TC-YAE,
+706,ATR 72-500 (72-212A),9S-ABD,flyCAA,21 Mar 2019,Active,2-GPIA,
+707,ATR 72-500 (72-212A),2-GPIB,Bank of America,21 Jan 2019,Stored,I-ADLW,
+708,ATR 72-500 (72-212A),HS-PGB,Bangkok Airways,12 Dec 2003,Stored,F-WWEH,Phuket
+709,ATR 72-500 (72-212A),D4-CCA,Binter Cabo Verde,28 Sep 2016,Active,EC-IYC,Ilha do Fogo
+710,ATR 72-500 (72-212A),HS-PGA,Bangkok Airways,24 Oct 2003,Stored,F-WWEJ,Kut
+711,ATR 72-500 (72-212A),EC-IZO,Canary Fly,17 May 2016,Active,F-WWEK,
+712,ATR 72-500MPA (72-212A),78,Pakistan Navy,28 Jun 2019,Active,EC-JAH,
+713,ATR 72-500 (72-212A),D4-CCD,Binter Cabo Verde,Feb 2017,Active,EC-JBI,Ilha de São Nicolau
+714,ATR 72-500 (72-212A),ZK-MCC,Air New Zealand,9 Dec 2019,Stored,F-WQMV,
+715,ATR 72-500 (72-212A),ZS-AFJ,Afrijet Business Service,24 Aug 2017,Active,EI-FNP,
+716,ATR 72-500 (72-212A),D4-CCB,Binter Cabo Verde,Sep 2017,Active,EC-JEH,Ilha da Brava
+717,ATR 72-500 (72-212A),EC-JEV,Canary Fly,25 Feb 2017,Active,F-WWER,Villa de Teguise
+718,ATR 72-500 (72-212A),M-ABFI,Investec,1 May 2012,Stored,VT-DKA,
+719,ATR 72-500 (72-212A),ZS-XZA,Cubana,10 Mar 2017,Active,F-OIQN,lsf Solenta Aviation
+720,ATR 72-500 (72-212A),YJ-AV71,Air Vanuatu,10 Nov 2014,Stored,M-ABFJ,
+721,ATR 72-500 (72-212A),VT-DKC,Air Deccan,10 Nov 2005,Scrapped,F-WWEB,
+722,ATR 72-500 (72-212A),F-GRPI,Air Corsica,27 Apr 2015,Stored,F-WWEC,A Reserva Di Scandula
+723,ATR 72-500 (72-212A),EC-MZJ,Aeronova,24 Sep 2018,Stored,OY-JZU,lsf NAC
+724,ATR 72-500 (72-212A),F-GRPJ,Air Corsica,14 Oct 2010,Active,F-WWEE,L'Agriati
+725,ATR 72-500 (72-212A),M-ABEW,Investec,3 Feb 2012,Scrapped,VT-DKD,
+726,ATR 72-500 (72-212A),EC-JQL,Binter Canarias,24 Mar 2006,Stored,F-WWEG,Teide
+727,ATR 72-500 (72-212A),YU-ALV,Air Serbia,11 May 2015,Stored,F-GRPK,
+728,ATR 72-500 (72-212A),M-ABFD,KF Aero,19 Apr 2012,Stored,VT-KAB,
+729,ATR 72-500 (72-212A),VT-KAC,Kingfisher Airlines,21 Jun 2006,Written Off,F-WWEJ,lsf KF Aero
+730,ATR 72-500 (72-212A),M-ABFE,KF Aero,19 Apr 2012,Stored,VT-KAD,
+731,ATR 72-500 (72-212A),ZS-XZB,Cubana,20 Feb 2017,Active,F-OIQO,lsf Solenta Aviation
+732,ATR 72-500 (72-212A),M-YRGN,Amur Aviation,14 Jan 2015,Scrapped,VT-DKI,
+733,ATR 72-500 (72-212A),M-YRGL,Amur Aviation,14 Jan 2015,Stored,VT-DKJ,
+734,ATR 72-500 (72-212A),F-GRPX,Air Corsica,14 Oct 2010,Active,F-WWEO,U Lloni Di Roccapina
+735,ATR 72-500 (72-212A),9N-AMD,Buddha Air,27 Jan 2017,Active,F-OIPN,
+736,ATR 72-500 (72-212A),F-OIJK,Air Caraïbes,15 Dec 2006,Stored,F-WWEQ,
+737,ATR 72-500 (72-212A),VT-KAE,Kingfisher Airlines,29 Dec 2006,Stored,F-WWER,
+738,ATR 72-500 (72-212A),VT-KAF,Kingfisher Airlines,29 Dec 2006,Stored,F-WWES,
+739,ATR 72-500 (72-212A),VT-DKH,Kingfisher Airlines,29 Aug 2008,Stored,F-WWET,
+740,ATR 72-500 (72-212A),9N-ANG,Yeti Airlines,27 Jul 2019,Active,HS-DRC,lsf Investec
+741,ATR 72-500 (72-212A),OH-ATE,NORRA - Nordic Regional Airlines,16 Jun 2015,Active,F-WWEB,
+742,ATR 72-500 (72-212A),F-GRPY,Air Corsica,14 Oct 2010,Active,F-WWEC,U Monte Cintu
+743,ATR 72-500 (72-212A),9G-SBF,Starbow,21 Nov 2017,Stored,OY-EBW,lsf NAC
+744,ATR 72-500 (72-212A),OH-ATF,NORRA - Nordic Regional Airlines,16 Jun 2015,Active,F-WWEE,
+745,ATR 72-500 (72-212A),F-GRPZ,Air Corsica,14 Oct 2010,Active,F-WWEF,A Paglia Orba
+746,ATR 72-500(F) (72-212A),PK-PAW,Angkasa Pura Logistics,4 Jun 2020,Active,M-YWAB,opby Pelita Air Service
+747,ATR 72-500 (72-212A),9H-AHM,Elix Aviation Capital,Jul 2019,Stored,YR-FVL,
+748,ATR 72-500 (72-212A),RP-C7868,SkyJet Airlines,3 Feb 2020,Active,F-WTBD,lsf Elix Aviation Capital
+749,ATR 72-500 (72-212A),9N-AMM,Yeti Airlines,8 Sep 2017,Active,2-TPAJ,lsf NAC
+750,ATR 72-500 (72-212A),VT-KAI,Kingfisher Airlines,27 Jun 2007,Scrapped,F-WWEK,lsf Investec
+751,ATR 72-500 (72-212A),9N-AMY,Buddha Air,14 Mar 2019,Active,F-WKVH,
+752,ATR 72-500 (72-212A),EC-KGI,Canary Fly,3 Feb 2018,Active,F-WWEM,
+753,ATR 72-500 (72-212A),EC-KGJ,Binter Canarias,22 Jun 2007,Active,F-WWEN,"Madeira, opby NAYSA Aerotaxis"
+754,ATR 72-500 (72-212A),9N-ANC,Yeti Airlines,26 Apr 2019,Active,HS-DRD,lsf Investec
+755,ATR 72-500 (72-212A),2-DCBU,Elix Aviation Capital,20 Apr 2017,Stored,D4-CBU,
+756,ATR 72-500 (72-212A),TS-LBD,Tunisair Express,Feb 2011,Active,F-WWEQ,Hasdrubal
+757,ATR 72-500 (72-212A),OH-ATG,NORRA - Nordic Regional Airlines,16 Jun 2015,Stored,F-WWER,
+,,,,,,,
+758,ATR 72-500 (72-212A),M-IBAD,Investec,10 May 2019,Stored,VT-JDD,
+759,ATR 72-500 (72-212A),9N-AMU,Buddha Air,30 Jun 2018,Active,F-WKVC,
+760,ATR 72-500 (72-212A),F-WTBZ,Elix Aviation Capital,6 Dec 2019,Stored,EI-REM,
+761,ATR 72-500 (72-212A),VH-YWV,Hevilift Australia,8 Apr 2020,Active,OY-CLU,lsf NAC
+762,ATR 72-500 (72-212A),G-ISLM,Blue Islands,12 Oct 2018,Active,M-ABKN,lsf Elix Aviation Capital
+763,ATR 72-500 (72-212A),EC-KKQ,Swiftair,31 Mar 2019,Stored,F-WWEB,
+764,ATR 72-500 (72-212A),9N-AMF,Buddha Air,16 Jan 2018,Active,F-OIPS,
+765,ATR 72-500 (72-212A),XY-AIF,Myanmar Air Force,Apr 2014,Active,F-WWED,
+766,ATR 72-500 (72-212A),9H-AGG,Unknown,27 Nov 2015,Active,EC-KKZ,
+767,ATR 72-500 (72-212A),SX-NIV,Sky Express,24 Jun 2019,Active,2-SWKE,lsf Elix Aviation Capital
+768,ATR 72 ASW,T7-NWW,Leonardo,Jun 2017,Active,I-EASD,
+769,ATR 72-500 (72-212A),OH-ATH,NORRA - Nordic Regional Airlines,16 Jun 2015,Active,F-WWEH,
+770,ATR 72-500 (72-212A),9H-AGH,Teide Leasing,27 Nov 2015,Preserved,EC-KNO,
+771,ATR 72-500 (72-212A),PR-PDT,Voepass,12 Mar 2020,Stored,M-ABMB,lsf Aergo Capital
+772,ATR 72-500 (72-212A),9N-ANI,Buddha Air,25 Sep 2019,Active,M-IBAC,
+773,ATR 72-500 (72-212A),JU-8802,Hunnu Air,9 Jun 2017,Active,OY-JZW,lsf NAC
+774,ATR 72-500 (72-212A),JU-8801,Hunnu Air,8 Jul 2016,Active,OY-YBK,lsf NAC
+775,ATR 72-500 (72-212A),M-ABMH,Aergo Capital,20 May 2019,Stored,VT-JCK,
+776,ATR 72-500 (72-212A),9N-ALN,Yeti Airlines,12 Sep 2018,Active,M-IBAJ,lsf Investec
+777,ATR 72-500 (72-212A),PK-PAH,Pelita Air Service,31 Aug 2017,Active,2-SKAD,lsf NAC
+778,ATR 72-500 (72-212A),SE-MDA,Danish Air Transport (DAT),4 Apr 2019,Active,EI-REN,lsf Erik Thun
+779,ATR 72-500 (72-212A),RP-C7250,Cebu Pacific,15 Feb 2008,Stored,F-WWER,
+780,ATR 72-500 (72-212A),5H-PWA,Precision Air,29 Feb 2008,Active,F-WWES,Rombo
+781,ATR 72-500 (72-212A),XY-AIG,Myanmar Air Force,24 Mar 2008,Active,F-WWET,
+782,ATR 72-500 (72-212A),4X-ATJ,Israir Airlines,14 Jun 2018,Active,OY-CRV,lsf NAC
+783,ATR 72-500 (72-212A),OH-ATI,NORRA - Nordic Regional Airlines,16 Jun 2015,Active,F-WWEB,
+784,ATR 72-500 (72-212A),RP-C7251,Cebu Pacific,28 Mar 2008,Stored,F-WWEC,
+785,ATR 72-500 (72-212A),OK-NFV,Czech Airlines (CSA),19 Jul 2018,Stored,OY-YBN,lsf NAC
+786,ATR 72-500 (72-212A),C-FNIJ,North Star Air,14 Apr 2020,Stored,F-WTBA,
+787,ATR 72-500 (72-212A),XY-AJN,Air Thanlwin,Dec 2019,Active,EI-REO,
+788,ATR 72-500MPA (72-212A),79,Pakistan Navy,8 Jul 2013,Active,A2-ABS,
+789,ATR 72-500 (72-212A),OK-NFU,Czech Airlines (CSA),24 Mar 2017,Active,OY-JZV,lsf NAC
+790,ATR 72-500 (72-212A),3C-LLI,Ceiba Intercontinental,5 May 2008,Stored,F-WWEJ,
+791,ATR 72-500 (72-212A),M-ABMC,Aergo Capital,20 May 2019,Stored,VT-JCL,
+792,ATR 72-500 (72-212A),OH-ATJ,NORRA - Nordic Regional Airlines,16 Jun 2015,Active,F-WWEM,
+793,ATR 72-500 (72-212A),M-ABMD,Aergo Capital,28 May 2019,Stored,VT-JCM,
+794,ATR 72-500 (72-212A),TS-LBE,Tunisair Express,Feb 2011,Active,F-WWEU,Hannibal
+795,ATR 72-500 (72-212A),EC-KRY,Canary Fly,17 Feb 2018,Active,F-WWEV,
+796,ATR 72-500 (72-212A),EC-KSG,Binter Canarias,18 Jun 2008,Stored,F-WWEW,"Malvasía Volcánica, opby NAYSA Aerotaxis"
+797,ATR 72-500 (72-212A),XY-AJI,Air Thanlwin,1 Oct 2019,Active,EI-REP,
+798,ATR 72-500 (72-212A),PP-PTM,Voepass,21 Aug 2019,Active,F-WWEO,"Curió, lsf NAC"
+799,ATR 72-500 (72-212A),OY-CLY,Alsie Express,10 Jun 2013,Active,4K-AZ66,lsf NAC
+800,ATR 42MP-500,NAF931,Nigerian Air Force,30 Mar 2010,Active,CSX62269,
+801,ATR 42-500,F-OFSP,Air Saint-Pierre,14 Oct 2009,Active,F-WWLT,
+802,ATR 42-500,5A-LAG,Libyan Airlines,10 Dec 2009,Stored,F-WWLU,
+803,ATR 42MP-420,MM62270,Guardia Costiera (Italian Coast Guard),8 Oct 2009,Active,F-WNUH,10-03
+804,ATR 42MP-500,5A-DTN,Libyan General Security Agency,21 Dec 2009,Written Off,CSX62271,
+805,ATR 72-500 (72-212A),S2-AHG,NovoAir,13 Dec 2015,Active,CX-JCL,
+806,ATR 72-500 (72-212A),HL5244,Hi Air,23 Sep 2019,Active,F-OIQV,
+807,ATR 42-500,F-OIXE,Air Antilles Express,29 Dec 2009,Active,F-WWLX,lsf NAC
+808,ATR 72-500 (72-212A),77,Pakistan Navy,10 Feb 2016,Active,9H-AGI,
+809,ATR 72-500 (72-212A),EC-KUL,Swiftair,8 Jan 2020,Active,F-WWET,
+810,ATR 72-500 (72-212A),3C-LLM,Ceiba Intercontinental,24 Jul 2008,Active,F-WWEX,
+811,ATR 42-600,F-WWLY,ATR,13 Jan 2010,Active,,
+,,,,,,,
+812,ATR 72-500 (72-212A),9M-FYA,Firefly,10 Aug 2008,Active,F-WWEB,
+813,ATR 72-500 (72-212A),5R-EJC,Tsaradia,28 Jun 2019,Active,F-OZSE,lsf Falko
+814,ATR 72-500 (72-212A),9M-FYB,Firefly,29 Aug 2008,Active,F-WWED,Negaraku - Celebrating Community Spirit cs
+815,ATR 42-500,5H-PWE,Precision Air,27 Feb 2010,Active,F-WWLZ,Kigoma
+816,ATR 72-500 (72-212A),S2-AHH,NovoAir,Feb 2016,Active,CX-JPL,
+817,ATR 72-500 (72-212A),9M-MWA,MASwings,30 Aug 2008,Active,F-WWEG,"Kuching, Wings of Love cs"
+818,ATR 72-500 (72-212A),OY-CLZ,Alsie Express,28 Jun 2013,Active,4K-AZ67,lsf NAC
+819,ATR 42-500,5H-PWF,Precision Air,27 Aug 2010,Active,F-WWLA,Bukoba
+820,ATR 72-500(F) (72-212A),RP-C7252,Cebu Pacific,18 Jul 2019,Active,F-WWEJ,
+821,ATR 72-500 (72-212A),9M-FYC,Firefly,19 Sep 2008,Active,F-WWEK,
+822,ATR 72-500 (72-212A),SE-MDB,BRA - Braathens Regional Airlines,6 Jan 2017,Stored,EI-RER,opby Braathens Regional
+823,ATR 42-500,VQ-BKN,NordStar Airlines,11 May 2011,Active,F-WNUB,
+824,ATR 72-500 (72-212A),EC-KVI,Swiftair,28 May 2019,Active,F-WWEM,
+825,ATR 72-500 (72-212A),VT-TMM,TruJet,20 Sep 2019,Active,M-ABME,lsf Aergo Capital
+826,ATR 72-500 (72-212A),M-AMRM,Elix Aviation Capital,18 Jun 2015,Stored,D2-FLY,
+827,ATR 42-500,VQ-BKO,NordStar Airlines,10 May 2011,Stored,F-WNUC,
+828,ATR 72-500 (72-212A),RP-C7253,Cebu Pacific,24 Oct 2008,Stored,F-WWEV,
+829,ATR 72-500 (72-212A),F-WKVD,ATRiam Capital,Sep 2019,Stored,F-OIQT,
+830,ATR 72-500 (72-212A),9M-FYD,Firefly,24 Oct 2008,Active,F-WWEE,Discover Selangor cs
+831,ATR 42-500,F-OIXH,Air Antilles Express,27 Dec 2010,Active,F-WWLD,lsf NAC
+832,ATR 72-500 (72-212A),PP-PTN,Voepass,21 Aug 2019,Active,F-WWEI,"Jaçana, lsf NAC"
+833,ATR 72-500 (72-212A),TR-ATR,Afrijet Business Service,23 Jun 2017,Active,EI-FXU,lsf Aergo Capital
+834,ATR 72-500 (72-212A),5H-PWB,Precision Air,7 Nov 2008,Active,F-WWEB,Musoma
+835,ATR 42-500,VQ-BKP,NordStar Airlines,16 May 2011,Active,F-WWLE,
+836,ATR 72-500 (72-212A),YK-AVA,Syrian Arab Airlines,13 Apr 2010,Stored,F-WWEC,
+837,ATR 72-500 (72-212A),PP-PTO,Voepass,21 Aug 2019,Active,F-WWEO,"Araponga, lsf NAC"
+838,ATR 72-500 (72-212A),RP-C7254,Cebu Pacific,28 Nov 2008,Written Off,F-WWEP,
+839,ATR 42-500,VQ-BKQ,NordStar Airlines,21 May 2011,Active,F-WWLF,
+840,ATR 72-500 (72-212A),9M-FYE,Firefly,12 Dec 2008,Active,F-WWER,Discover Selangor cs
+841,ATR 72-500 (72-212A),M-ABMF,Aergo Capital,20 May 2019,Stored,VT-JCP,
+842,ATR 72-500 (72-212A),RP-C7255,Cebu Pacific,19 Dec 2008,Stored,F-WWEH,
+843,ATR 72-500 (72-212A),VT-TMN,TruJet,19 Dec 2019,Active,M-ABMG,lsf Aergo Capital
+844,ATR 42-500,HC-CLT,TAME,5 Oct 2011,Active,F-WWLG,
+845,ATR 72-500 (72-212A),YK-AVB,Syrian Arab Airlines,16 Apr 2010,Stored,F-WWEK,
+846,ATR 72-500 (72-212A),EC-MMZ,Air Europa Express,16 Jan 2019,Active,OY-YBJ,opby Swiftair
+847,ATR 72-500 (72-212A),RP-C7256,Cebu Pacific,31 Jan 2009,Stored,F-WWEI,
+848,ATR 72-500 (72-212A),OH-ATK,NORRA - Nordic Regional Airlines,16 Jun 2015,Active,F-WWEN,
+849,ATR 42-500,HC-CMB,TAME,9 Nov 2011,Active,F-WWLH,
+850,ATR 72-500 (72-212A),EC-KYI,Binter Canarias,6 Feb 2009,Active,F-WWET,Guarapo
+851,ATR 72-500 (72-212A),OH-ATL,NORRA - Nordic Regional Airlines,16 Jun 2015,Stored,F-WWEU,
+852,ATR 72-500 (72-212A),G-COBO,Aurigny Air Services,5 Mar 2009,Stored,F-WWEV,
+853,ATR 72-500 (72-212A),G-VZON,Aurigny Air Services,27 Mar 2009,Stored,F-WWEW,
+854,ATR 42-500,HC-CMH,TAME,27 Jan 2012,Active,F-WWLI,
+855,ATR 72-500 (72-212A),F-OMRU,Air Austral,15 Mar 2009,Active,F-WWEI,lsf Falko
+856,ATR 72-500 (72-212A),9M-MWB,MASwings,6 Mar 2009,Active,F-WWEX,Kinabalu
+857,ATR 72-500 (72-212A),RP-C7257,Cebu Pacific,16 Mar 2009,Stored,F-WWEB,
+858,ATR 72-500 (72-212A),VT-TMK,TruJet,Jul 2015,Active,9M-TAG,lsf Elix Aviation Capital
+859,ATR 42-600,HZ-A10,Alpha Star,28 Jan 2013,Active,F-WKVG,
+860,ATR 72-500 (72-212A),9M-FYF,Firefly,24 Apr 2009,Active,F-WWEF,
+861,ATR 72-500 (72-212A),YR-ATH,TAROM,7 May 2009,Stored,F-WWEH,Somes
+862,ATR 72-500 (72-212A),HL5243,Hi Air,23 May 2019,Active,F-OIQR,
+863,ATR 72-500 (72-212A),9M-MWC,MASwings,10 Apr 2009,Active,F-WWEL,"Mulu, Negaraku cs"
+864,ATR 72-500 (72-212A),EC-LAD,Binter Canarias,17 Apr 2009,Active,F-WWEM,Baifo
+865,ATR 72-500 (72-212A),PP-PTP,Voepass,21 Aug 2019,Active,F-WWEO,"Tuiuiu, lsf NAC"
+,,,,,,,
+866,ATR 72-500 (72-212A),5H-PWC,Precision Air,28 Apr 2009,Active,F-WWEP,Mwanza
+867,ATR 72-500 (72-212A),YR-ATI,TAROM,5 Jun 2009,Stored,F-WWER,Ialomita
+868,ATR 72-500 (72-212A),9M-FYG,Firefly,18 Jun 2009,Active,F-WWES,
+869,ATR 72-500 (72-212A),PK-WFF,Wings Air,15 Dec 2009,Stored,F-WWET,
+870,ATR 72-500 (72-212A),RDPL-34173,Lao Airlines,4 Jul 2009,Active,F-WNUD,
+871,ATR 72-500 (72-212A),PK-WFI,Wings Air,22 Apr 2010,Stored,F-WWEV,lsf Falko
+872,ATR 72-500 (72-212A),60313,Royal Thai Air Force,4 Sep 2009,Active,F-WWEW,L16-01/52
+873,ATR 72-500 (72-212A),9M-MWD,MASwings,22 May 2009,Stored,F-WWEX,Sandakan
+874,ATR 72-500 (72-212A),PP-PTQ,Voepass,21 Aug 2019,Active,F-WWEZ,"Quero-Quero, lsf NAC"
+875,ATR 72-500 (72-212A),VT-TMP,TruJet,7 Mar 2015,Active,9M-TAQ,lsf Elix Aviation Capital
+876,ATR 72-500 (72-212A),9N-AMN,Yeti Airlines,21 Jul 2017,Active,YJ-AV72,lsf NAC
+877,ATR 72-500 (72-212A),VN-B218,Vasco - Vietnam Air Services Company,Jul 2016,Active,F-WWEE,
+878,ATR 72-500 (72-212A),RDPL-34174,Lao Airlines,12 Sep 2009,Active,F-WNUF,
+879,ATR 72-500 (72-212A),EC-MUJ,Canary Fly,Oct 2019,Active,OY-YAI,lsf NAC
+880,ATR 72-500 (72-212A),5H-PWD,Precision Air,20 Jul 2009,Active,F-WWEI,Zanzibar
+881,ATR 72-500 (72-212A),60314,Royal Thai Air Force,26 Sep 2009,Written Off,F-WWEJ,L16-2/52
+882,ATR 72-500 (72-212A),PK-WFG,Wings Air,15 Dec 2009,Stored,F-WWEL,
+883,ATR 72-500 (72-212A),PK-WFH,Wings Air,16 Dec 2009,Stored,F-WWEM,lsf Falko
+884,ATR 72-500 (72-212A),G-ISLN,Blue Islands,22 Feb 2019,Active,OY-YCT,lsf NAC
+885,ATR 72-500 (72-212A),9M-MWE,MASwings,28 Aug 2009,Active,F-WWEO,Mukah
+886,ATR 72-500 (72-212A),VN-B219,Vasco - Vietnam Air Services Company,Jun 2016,Active,F-WWEP,
+887,ATR 72-500 (72-212A),60315,Royal Thai Air Force,21 Oct 2009,Active,F-WWER,L16-03/52
+888,ATR 72-500 (72-212A),F-OIXL,Air Caraïbes,19 Dec 2009,Active,F-WWES,
+889,ATR 72-500 (72-212A),9M-MWF,MASwings,2 Oct 2009,Active,F-WWET,"Miri, Negaraku cs"
+890,ATR 72-500 (72-212A),XU-237,Cambodia Angkor Air,May 2016,Active,VN-B220,
+891,ATR 72-500 (72-212A),G-LERE,Aurigny Air Services,15 Nov 2016,Active,OY-YBO,lsf NAC
+892,ATR 72-500 (72-212A),VN-B221,Vasco - Vietnam Air Services Company,Feb 2017,Active,F-WWEX,
+893,ATR 72-500 (72-212A),60316,Royal Thai Air Force,4 Nov 2009,Active,F-WWEZ,L16-04/52
+894,ATR 72-500 (72-212A),SE-MDC,Danish Air Transport (DAT),31 Oct 2018,Active,F-WWED,lsf Erik Thun
+895,ATR 72-500 (72-212A),9M-MWG,MASwings,27 Nov 2009,Active,F-WWEE,Sipadan
+896,ATR 72-500 (72-212A),VN-B223,Vasco - Vietnam Air Services Company,Feb 2017,Active,F-WWEG,
+897,ATR 72-500 (72-212A),VN-B225,Vasco - Vietnam Air Services Company,Jan 2017,Active,F-WWEH,
+898,ATR 72-500 (72-212A),PK-WFJ,Wings Air,22 Apr 2010,Stored,F-WWEI,lsf Falko
+899,ATR 72-500 (72-212A),XU-235,Cambodia Angkor Air,28 Apr 2013,Active,VN-B227,
+900,ATR 72-500 (72-212A),9M-MWH,MASwings,28 Jan 2010,Active,F-WWEO,Layang Layang
+901,ATR 72-500 (72-212A),7T-VUO,Air Algérie,11 Feb 2010,Stored,F-WWEP,
+902,ATR 72-500 (72-212A),EC-LFA,Binter Canarias,4 Mar 2010,Stored,F-WWER,"Rapadura, opby NAYSA Aerotaxis"
+903,ATR 72-500 (72-212A),7T-VUP,Air Algérie,25 Feb 2010,Stored,F-WWES,
+904,ATR 72-500 (72-212A),9M-MWI,MASwings,12 Mar 2010,Active,F-WWET,Bario
+905,ATR 72-500 (72-212A),PK-WFK,Wings Air,1 Jul 2010,Stored,F-WWEV,
+906,ATR 72-500 (72-212A),XU-236,Cambodia Angkor Air,2 May 2013,Active,VN-B231,
+907,ATR 72-500 (72-212A),EC-LGF,Binter Canarias,30 Apr 2010,Active,F-WWEX,"Pejeverde, opby NAYSA Aerotaxis"
+908,ATR 72-500 (72-212A),PK-PAV,Pelita Air Service,5 Jan 2015,Active,OY-YAJ,"Dumai, lsf NAC"
+909,ATR 72-500 (72-212A),7T-VUQ,Air Algérie,1 Apr 2010,Stored,F-WWEB,
+910,ATR 72-500 (72-212A),9M-MWJ,MASwings,9 Apr 2010,Active,F-WWEH,"Semporna, Universiti Malaysia Sabah - Strive to Excel cs"
+911,ATR 72-500 (72-212A),EC-MSM,Canary Fly,31 Oct 2019,Active,OY-YBH,lsf NAC
+912,ATR 72-500(F) (72-212A),C-FNSN,North Star Air,24 Jan 2018,Active,VN-B233,
+913,ATR 72-500 (72-212A),7T-VUS,Air Algérie,7 May 2010,Stored,F-WWEI,
+914,ATR 72-500(F) (72-212A),C-FNSJ,North Star Air,23 Nov 2017,Active,VN-B236,Kiera
+915,ATR 72-500 (72-212A),PK-WFL,Wings Air,1 Jul 2010,Stored,F-WWEM,
+916,ATR 72-500 (72-212A),OH-ATM,NORRA - Nordic Regional Airlines,16 Jun 2015,Active,F-WWEN,lsf HEH Aviation
+917,ATR 72-500 (72-212A),SE-MDH,BRA - Braathens Regional Airlines,Sep 2016,Stored,F-WWEO,opby Braathens Regional
+918,ATR 72-500 (72-212A),EC-MSN,Air Europa Express,16 Jan 2019,Active,OY-YBI,opby Swiftair
+919,ATR 72-500 (72-212A),M-IBAM,Injet Leasing,17 May 2019,Stored,VT-JCR,
+,,,,,,,
+920,ATR 72-500 (72-212A),M-IBAN,Injet Leasing,30 May 2019,Stored,VT-JCS,
+921,ATR 72-500 (72-212A),3B-NBN,Air Mauritius,18 Dec 2010,Stored,F-WWET,"Ile aux Aigrettes, lsf NAC"
+922,ATR 72-500 (72-212A),PK-WFM,Wings Air,28 Aug 2010,Stored,F-WWEV,
+923,ATR 72-500 (72-212A),5H-PWG,Precision Air,17 Sep 2010,Active,F-WWEW,Kilimanjaro
+924,ATR 72-500 (72-212A),M-IBAO,Injet Leasing,17 May 2019,Stored,VT-JCT,
+925,ATR 72-500 (72-212A),VN-B237,Vietnam Airlines,15 Sep 2010,Active,F-WWEZ,opby Vasco - Vietnam Air Services Company
+926,ATR 72-500 (72-212A),3B-NBO,Air Mauritius,23 Jun 2016,Stored,OY-YBF,"Les Mascareignes, lsf NAC"
+927,ATR 72-500 (72-212A),0008,Myanmar Air Force,Aug 2018,Active,VN-B239,
+928,ATR 72-500 (72-212A),M-IBAP,Injet Leasing,17 May 2019,Stored,VT-JCU,
+929,ATR 72-500 (72-212A),RDPL-34175,Lao Airlines,28 Oct 2010,Active,F-WKVF,
+930,ATR 72-500 (72-212A),SE-MDI,BRA - Braathens Regional Airlines,19 Jan 2017,Stored,F-WWEF,opby Braathens Regional
+931,ATR 72-500 (72-212A),4X-ATH,Israir Airlines,30 Jun 2011,Active,F-WWEG,
+932,ATR 72-500 (72-212A),M-IBAQ,Injet Leasing,17 May 2019,Stored,VT-JCV,
+933,ATR 72-500 (72-212A),M-IBAR,Injet Leasing,17 May 2019,Stored,VT-JCW,
+934,ATR 72-500 (72-212A),9M-FYH,Firefly,10 Dec 2010,Active,F-WWEJ,
+935,ATR 72-500 (72-212A),9M-FYI,Firefly,24 Dec 2010,Active,F-WWEK,
+936,ATR 72-500 (72-212A),PK-WFO,Wings Air,3 Dec 2010,Stored,F-WWEL,lsf Falko
+937,ATR 72-500 (72-212A),PK-WFP,Wings Air,11 Jan 2011,Active,F-WWEM,lsf Falko
+938,ATR 72-500 (72-212A),RDPL-34176,Lao Airlines,22 Dec 2010,Active,F-WKVJ,
+939,ATR 72-500 (72-212A),0009,Myanmar Air Force,2019,Active,VN-B240,
+940,ATR P-72A MPA (72-212A),MM62279,Aeronautica Militare (Italian Air Force),5 Dec 2018,Active,CSX62279,41-01
+941,ATR 72-500 (72-212A),9M-FYJ,Firefly,27 Jan 2011,Active,F-WWEQ,Jom Jalan cs
+942,ATR 72-500 (72-212A),VQ-BLC,UTair Aviation,20 May 2011,Stored,F-WWER,
+943,ATR 72-500 (72-212A),PK-WFQ,Wings Air,25 Feb 2011,Stored,F-WWES,lsf Falko
+944,ATR 72-500 (72-212A),RP-C7258,Cebu Pacific,4 Mar 2011,Stored,F-WWET,
+945,ATR 72-500 (72-212A),VQ-BLD,UTair Aviation,25 May 2011,Stored,F-WWEV,
+946,ATR 72-500 (72-212A),PK-WFR,Wings Air,11 Mar 2011,Stored,F-WWEW,lsf Falko
+947,ATR 72-500 (72-212A),9M-FYK,Firefly,7 Oct 2011,Active,F-WWEX,
+948,ATR 72-500 (72-212A),9M-FYL,Firefly,7 Oct 2011,Active,F-WWEZ,
+949,ATR 72-500 (72-212A),VT-TMU,TruJet,31 Dec 2015,Active,M-CDOM,
+950,ATR 72-500 (72-212A),VQ-BLE,UTair Aviation,3 Jun 2011,Stored,F-WWEC,
+951,ATR 72-500 (72-212A),VQ-BLF,UTair Aviation,6 Jun 2011,Stored,F-WWED,
+952,ATR 72-500 (72-212A),VQ-BLG,UTair Aviation,27 Jun 2011,Stored,F-WWEE,
+953,ATR 72-500 (72-212A),VQ-BLH,UTair Aviation,2 Jul 2011,Active,F-WWEF,
+954,ATR 72-500 (72-212A),VH-FVH,Hevilift Australia,16 Oct 2018,Active,F-WWEG,lsf AVAP
+955,ATR 72-500 (72-212A),VH-FVI,Virgin Australia,30 Nov 2015,Stored,F-WWEH,"Mission Beach, lsf AVAP"
+956,ATR 72-500 (72-212A),-,Skywest Airlines,,Not Built,,lsf Aviation PLC
+957,ATR 72-500 (72-212A),PK-WFS,Wings Air,17 Aug 2011,Stored,F-WWEJ,lsf Falko
+958,ATR 72-600 (72-212A),CN-COF,Royal Air Maroc Express,19 Aug 2011,Active,F-WWLO,
+959,ATR 72-500 (72-212A),OH-ATN,NORRA - Nordic Regional Airlines,16 Jun 2015,Active,F-WWEL,lsf HEH Aviation
+960,ATR 72-600 (72-212A),CN-COE,Royal Air Maroc Express,16 Aug 2011,Active,F-WWLP,
+961,ATR 72-500 (72-212A),PK-WFT,Wings Air,19 Aug 2011,Active,F-WWEN,lsf Falko
+962,ATR 72-500 (72-212A),4X-ATI,Israir Airlines,29 Jul 2011,Active,F-WWEO,
+963,ATR 72-500 (72-212A),VQ-BLI,UTair Aviation,4 Aug 2011,Active,F-WWEP,
+964,ATR 72-500 (72-212A),PK-WFU,Wings Air,3 Sep 2011,Stored,F-WWEQ,lsf Falko
+965,ATR 72-500 (72-212A),VQ-BLJ,UTair Aviation,10 Aug 2011,Active,F-WWER,
+966,ATR 72-600 (72-212A),PK-GJV,Citilink,16 Dec 2019,Stored,OY-YCN,lsf NAC
+967,ATR 72-600 (72-212A),PR-TKI,Azul Linhas Aéreas Brasileiras,6 Mar 2013,Stored,F-WKVB,lsf Chorus Aviation
+968,ATR 72-600 (72-212A),9Y-TTA,Caribbean Airlines,9 Nov 2011,Active,F-WWLS,
+969,ATR 72-600 (72-212A),OY-YCF,Nordic Aviation Capital (NAC),10 Oct 2018,Stored,PR-ATB,
+970,ATR P-72A MPA (72-212A),MM62280,Aeronautica Militare (Italian Air Force),,Stored,CSX62280,41-02
+971,ATR 72-600 (72-212A),PR-TKJ,Azul Linhas Aéreas Brasileiras,6 Mar 2013,Stored,F-WWLV,lsf NAC
+972,ATR 72-600 (72-212A),PK-GJT,Citilink,27 Nov 2019,Stored,OY-YCH,lsf NAC
+973,ATR 72-600 (72-212A),9Y-TTB,Caribbean Airlines,16 Dec 2011,Active,F-WWLX,
+,,,,,,,
+974,ATR 72-500 (72-212A),VH-FVL,Virgin Australia,30 Nov 2015,Stored,F-WWES,"Preston Beach, lsf AVAP"
+975,ATR 72-500 (72-212A),VQ-BLK,UTair Aviation,2 Nov 2011,Stored,F-WWET,
+976,ATR 72-500 (72-212A),VQ-BLL,UTair Aviation,10 Nov 2011,Stored,F-WWEU,
+977,ATR 72-500 (72-212A),OH-ATO,NORRA - Nordic Regional Airlines,16 Jun 2015,Active,F-WWEV,
+978,ATR 72-500 (72-212A),VH-FVU,Virgin Australia,9 Nov 2015,Stored,OY-CJU,"Double Island Point, lsf AVAP"
+979,ATR 72-500 (72-212A),VH-FVM,Hevilift Australia,23 Apr 2018,Active,F-WWEX,lsf AVAP
+980,ATR 72-500 (72-212A),VQ-BLM,UTair Aviation,30 Nov 2011,Stored,F-WWEZ,
+981,ATR 72-500 (72-212A),VQ-BLN,UTair Aviation,12 Dec 2011,Active,F-WWEB,
+982,ATR 72-500 (72-212A),EC-MHJ,Canary Fly,7 Oct 2019,Active,OY-YAF,lsf NAC
+983,ATR 72-500 (72-212A),VQ-BMA,UTair Aviation,15 Dec 2011,Active,F-WWED,
+984,ATR 72-500 (72-212A),VQ-BMB,UTair Aviation,20 Dec 2011,Stored,F-WWEE,
+985,ATR 72-500 (72-212A),PK-WFV,Wings Air,22 Dec 2011,Stored,F-WWEF,
+986,ATR 72-500 (72-212A),VH-FVX,Virgin Australia,23 Nov 2015,Stored,OY-CJV,"Kirra Beach, lsf AVAP"
+987,ATR 72-600 (72-212A),PR-TKK,Azul Linhas Aéreas Brasileiras,6 Mar 2013,Stored,F-WWLN,"Tri Azul, lsf Chorus Aviation"
+988,ATR 72-600 (72-212A),PK-GJU,Citilink,10 Dec 2019,Active,OY-YCI,lsf NAC
+989,ATR 72-600 (72-212A),9Y-TTC,Caribbean Airlines,10 Aug 2012,Active,F-WWLP,
+990,ATR 72-500 (72-212A),VQ-BMD,UTair Aviation,17 Feb 2012,Active,F-WWEH,
+991,ATR 72-600 (72-212A),OY-YCJ,Nordic Aviation Capital (NAC),Sep 2019,Stored,PR-ATH,
+992,ATR 72-600 (72-212A),PR-TKL,Azul Linhas Aéreas Brasileiras,6 Mar 2013,Stored,F-WWLR,lsf NAC
+993,ATR 72-600 (72-212A),9Y-TTD,Caribbean Airlines,21 Sep 2012,Active,F-WWLS,
+994,ATR 72-500 (72-212A),AP-BKY,PIA Pakistan International Airlines,30 Apr 2015,Active,F-WNUC,lsf ACIA Aero Leasing
+995,ATR 72-600 (72-212A),EC-LQV,Air Nostrum,26 Apr 2012,Stored,F-WWLT,lsf NAC
+996,ATR 72-600 (72-212A),OY-YCO,Nordic Aviation Capital (NAC),1 Oct 2018,Stored,PR-ATJ,
+997,ATR 72-600 (72-212A),9Y-TTE,Caribbean Airlines,14 Nov 2012,Active,F-WWLV,
+998,ATR 72-600 (72-212A),PR-TKM,Azul Linhas Aéreas Brasileiras,6 Mar 2013,Stored,F-WWLW,lsf NAC
+999,ATR 72-600 (72-212A),EC-LRH,Air Nostrum,3 May 2012,Stored,F-WWLX,"lsf NAC, opby Canary Fly"
+1000,ATR 72-500 (72-212A),AP-BKV,PIA Pakistan International Airlines,25 Jun 2015,Active,F-WNUD,lsf ACIA Aero Leasing
+1001,ATR 42-600,5H-PWH,Precision Air,16 Nov 2012,Active,F-WWLK,Tanga
+1002,ATR 42-600,HK-5236,Easyfly,13 Sep 2017,Active,2-RLAO,lsf Knight Aircraft Leasing
+1003,ATR 42-600,5H-PWI,Precision Air,20 Dec 2012,Active,F-WWLM,Mji wa iringa
+1004,ATR 42-600,PK-JBA,Jhonlin Air Transport,12 Feb 2013,Active,F-WWLZ,lsf NAC
+1005,ATR 42-600,HK-5237,Easyfly,20 Sep 2017,Active,2-RLAP,lsf Knight Aircraft Leasing
+1006,ATR 42-600,V2-LID,LIAT,13 Sep 2013,Active,F-WWLO,
+1007,ATR 42-600,F-ORVB,Air Tahiti,19 Nov 2013,Active,F-WWLP,
+1008,ATR 42-600,V2-LIF,LIAT,24 Jan 2014,Active,F-WWLQ,
+1009,ATR 42-600,V2-LIG,LIAT,19 Mar 2014,Active,F-WWLR,lsf NAC
+1010,ATR 42-600,F-OIXO,Air Antilles Express,3 Jan 2014,Active,F-WWLS,
+1011,ATR 42-600,SX-OAW,Olympic Air,30 Jul 2016,Active,CS-TRU,lsf NAC
+1012,ATR 42-600,V2-LIK,LIAT,18 Jul 2014,Active,F-WWLU,lsf NAC
+1013,ATR 42-600,F-ORVC,Air Tahiti,24 Jul 2014,Active,F-WWLV,
+1014,ATR 42-600,DQ-FJY,Fiji Link,5 Sep 2014,Active,F-WWLW,lsf NAC
+1015,ATR 42-600,PK-TNJ,TransNusa,29 Sep 2014,Written Off,F-WWLX,lsf AeroCentury
+1016,ATR 42-600,SX-OAX,Olympic Air,2 Aug 2016,Active,CS-TRV,lsf NAC
+1017,ATR 42-600,PK-TVI,Travira Air,5 Dec 2015,Active,F-WWLB,
+1018,ATR 42-600,V2-LIM,LIAT,15 Apr 2015,Active,F-WWLC,lsf NAC
+1019,ATR 42-600,HK-5114,SATENA,17 Jun 2015,Active,F-WWLD,"FAC-1192, lsf NAC"
+1020,ATR 72-600 (72-212A),OY-YCP,Nordic Aviation Capital (NAC),9 Apr 2018,Stored,PR-ATK,
+1021,ATR C-72 MPA (72-212A),TCB-701,Turkish Navy,11 Jan 2013,Active,F-WKVE,
+1022,ATR 72-600 (72-212A),EC-NBG,Air Nostrum,14 Dec 2018,Stored,2-RPDA,lsf NAC
+1023,ATR 72-600 (72-212A),EC-LRR,Air Nostrum,6 Jun 2012,Stored,F-WWLQ,lsf NAC
+1024,ATR 72-500 (72-212A),PK-WFW,Wings Air,23 May 2012,Active,F-WWEK,
+1025,ATR 72-600 (72-212A),VH-FVP,Virgin Australia,2 Nov 2015,Stored,F-WWLR,"Wategos Beach, lsf AVAP"
+1026,ATR 72-600 (72-212A),OY-YCK,Nordic Aviation Capital (NAC),Jul 2019,Stored,PR-ATP,
+1027,ATR 72-600 (72-212A),OY-YCR,Nordic Aviation Capital (NAC),7 Sep 2018,Stored,PR-ATQ,
+,,,,,,,
+1028,ATR 72-600 (72-212A),ES-ATB,Nordica,28 Feb 2020,Active,EI-GCD,opby Xfly
+1029,ATR 72-500 (72-212A),AP-BKZ,PIA Pakistan International Airlines,11 Apr 2015,Active,F-WNUE,lsf Abric Leasing
+1030,ATR C-72 MPA (72-212A),TCB-702,Turkish Navy,11 Jan 2013,Active,F-WKVF,
+1031,ATR P-72A MPA (72-212A),MM62298,Aeronautica Militare (Italian Air Force),24 Mar 2016,Active,CSX62298,41-03
+1032,ATR 72-600 (72-212A),EC-LRU,Air Nostrum,29 Jun 2012,Stored,F-WWEQ,lsf NAC
+1033,ATR 72-600 (72-212A),OY-YCS,Nordic Aviation Capital (NAC),21 Dec 2018,Stored,PR-ATU,
+1034,ATR 72-600 (72-212A),CN-COH,Royal Air Maroc Express,12 Jul 2012,Active,F-WWES,
+1035,ATR 72-600 (72-212A),CN-COG,Royal Air Maroc Express,23 Jul 2012,Active,F-WWET,
+1036,ATR 72-500 (72-212A),AP-BKW,PIA Pakistan International Airlines,12 Jun 2015,Stored,F-WNUF,lsf ACIA Aero Leasing
+1037,ATR 72-500 (72-212A),AP-BKX,PIA Pakistan International Airlines,12 Jun 2015,Active,F-WNUG,lsf ACIA Aero Leasing
+1038,ATR 72-600 (72-212A),ES-ATA,Nordica,28 Feb 2020,Active,OE-LIB,opby Xfly
+1039,ATR 72-600 (72-212A),VH-FVN,Virgin Australia,29 Sep 2015,Stored,F-WWEB,"Whitehaven Beach, lsf AVAP"
+1040,ATR 72-600 (72-212A),EC-NCC,Air Nostrum,16 Jan 2019,Stored,2-RPDC,lsf NAC
+1041,ATR 72-600 (72-212A),EC-LSQ,Air Nostrum,18 Sep 2012,Stored,F-WWED,"lsf NAC, opby Canary Fly"
+1042,ATR 72-600 (72-212A),S2-AKI,US-Bangla Airlines,17 Oct 2019,Stored,F-HOPA,lsf TrueNoord
+1043,ATR 72-600 (72-212A),PR-ATV,Azul Linhas Aéreas Brasileiras,18 Sep 2012,Stored,F-WWEF,"Magia Azul, lsf GECAS"
+1044,ATR 72-600 (72-212A),B-17001,UNI Airways,27 Sep 2012,Active,F-WWEG,Bad Badtz-Maru cs
+1045,ATR P-72A MPA (72-212A),MM62281,Aeronautica Militare (Italian Air Force),1 Jul 2016,Active,CSX62281,41-04
+1046,ATR 72-600 (72-212A),PR-ATW,Azul Linhas Aéreas Brasileiras,4 Oct 2012,Active,F-WWEI,"Horizonte Azul, lsf Transportation Partners"
+1047,ATR 72-600 (72-212A),F-ORVI,Air Tahiti,19 Mar 2019,Active,F-WNUA,lsf ACIA Aero Leasing
+1048,ATR 72-500 (72-212A),PK-WFY,Wings Air,11 Oct 2012,Stored,F-WWEU,
+1049,ATR 72-600 (72-212A),RDPL-34222,Lao Airlines,11 Oct 2012,Active,F-WKVC,
+1050,ATR 72-500 (72-212A),OH-ATP,NORRA - Nordic Regional Airlines,16 Jun 2015,Active,F-WWEV,
+1051,ATR 72-600 (72-212A),ZK-MVA,Air New Zealand,9 Dec 2019,Active,F-WWEJ,
+1052,ATR 72-600 (72-212A),PR-AQA,Azul Linhas Aéreas Brasileiras,26 Oct 2012,Stored,F-WWEK,"Para sempre Azul, lsf GECAS"
+1053,ATR 72-600 (72-212A),VH-FVQ,Virgin Australia,6 Oct 2015,Stored,F-WWEO,"Christies Beach, lsf AVAP"
+1054,ATR 72-600 (72-212A),PR-AQB,Azul Linhas Aéreas Brasileiras,20 Nov 2012,Stored,F-WWEP,"Azul, blanc et rouge, lsf NAC"
+1055,ATR 72-500 (72-212A),PK-WFZ,Wings Air,29 Nov 2012,Stored,F-WWEX,
+1056,ATR 72-600 (72-212A),EI-GIV,GECAS,7 Jun 2019,Stored,VT-JCX,
+1057,ATR 72-600 (72-212A),ZS-ESS,Solenta Aviation,2 Aug 2018,Active,F-WNUB,lsf ACIA Aero Leasing
+1058,ATR 72-600 (72-212A),VH-FVR,Virgin Australia,27 Oct 2015,Stored,F-WWES,"Yallingup Beach, lsf AVAP"
+1059,ATR 72-600 (72-212A),EC-NCD,Air Nostrum,14 Feb 2019,Stored,2-RPDI,lsf NAC
+1060,ATR 72-600 (72-212A),D2-BFC,Bestfly,3 Aug 2019,Active,F-WNUC,lsf ACIA Aero Leasing
+1061,ATR 72-600 (72-212A),B-17002,UNI Airways,13 Dec 2012,Active,F-WWEV,
+1062,ATR 72-500 (72-212A),PK-WGF,Wings Air,14 Dec 2012,Active,F-WWEM,Fakfak
+1063,ATR 72-600 (72-212A),PK-WGG,Wings Air,19 Dec 2012,Stored,F-WWEX,
+1064,ATR 72-600 (72-212A),ES-ATH,SAS Scandinavian Airlines,28 Feb 2020,Stored,EI-GIW,"Gyrid Viking, opby Xfly"
+1065,ATR 72-600 (72-212A),ZK-MVB,Air New Zealand,9 Dec 2019,Stored,F-WKVB,
+1066,ATR 72-600 (72-212A),PR-AQE,Azul Linhas Aéreas Brasileiras,31 Dec 2012,Stored,F-WWEC,"100% Azul, lsf GECAS"
+1067,ATR 72-600 (72-212A),PK-WGH,Wings Air,31 Dec 2012,Active,F-WWED,
+1068,ATR 72-600 (72-212A),XY-AJE,Mann Yadanarpon Airlines,29 Sep 2019,Active,F-WKVJ,lsf NAC
+1069,ATR 72-600 (72-212A),PR-PDL,Voepass,22 Oct 2019,Active,EI-FSN,"Bem-Te-Vi, lsf GECAS"
+1070,ATR C-72 MPA (72-212A),TCB-751,Turkish Navy,10 Feb 2020,Stored,MT62296,
+1071,ATR 72-600 (72-212A),RDPL-34233,Lao Airlines,28 Mar 2013,Written Off,F-WKVC,
+1072,ATR 72-600 (72-212A),D2-BFD,Bestfly,14 May 2020,Stored,F-WNUD,lsf ACIA Aero Leasing
+1073,ATR 72-600 (72-212A),VH-FVY,Virgin Australia,12 Oct 2015,Stored,F-WWEJ,"Marcoola Beach, lsf AVAP"
+1074,ATR 72-600 (72-212A),PK-WGI,Wings Air,17 May 2013,Active,F-WWEK,lsf ATRiam Capital
+1075,ATR 72-600 (72-212A),ES-ATI,SAS Scandinavian Airlines,28 Feb 2020,Stored,EI-GIX,"Rorik Viking, opby Xfly"
+1076,ATR 72-600 (72-212A),ZS-XZC,Solenta Aviation,Jul 2018,Active,F-WNUE,lsf ATRiam Capital
+1077,ATR 72-600 (72-212A),V2-LIA,LIAT,13 Jun 2013,Active,F-WWEN,lsf GECAS
+1078,ATR 72-600 (72-212A),B-17003,UNI Airways,26 Apr 2013,Active,F-WWEO,
+1079,ATR 72-600 (72-212A),PK-WGJ,Wings Air,17 May 2013,Stored,F-WWEP,lsf ATRiam Capital
+1080,ATR 72-600 (72-212A),PK-TNN,TransNusa,12 Apr 2019,Active,2-PKSA,lsf NAC
+1081,ATR 72-600 (72-212A),9M-LMF,Malindo Air,16 May 2013,Stored,F-WWER,
+,,,,,,,
+1082,ATR 72-600 (72-212A),PR-AQH,Azul Linhas Aéreas Brasileiras,24 Apr 2013,Stored,F-WWES,"Infinito Azul, lsf GECAS"
+1083,ATR 72-600 (72-212A),EI-FAS,Aer Lingus Regional,5 Jun 2014,Stored,F-WWET,"St. Conall / Conall, opby Stobart Air"
+1084,ATR 72-600 (72-212A),ZK-MVC,Air New Zealand,9 Dec 2019,Active,F-WWEU,
+1085,ATR 72-600 (72-212A),XY-AJJ,Air KBZ,19 Jun 2013,Active,F-WKVJ,lsf NAC
+1086,ATR 72-600 (72-212A),OY-YCU,Nordic Aviation Capital (NAC),5 Sep 2018,Stored,XA-NLP,
+1087,ATR 72-600 (72-212A),VH-FVZ,Virgin Australia,15 Sep 2015,Stored,F-WWEX,"Angourie Beach, lsf Chorus Aviation"
+1088,ATR 72-600 (72-212A),PR-AQI,Azul Linhas Aéreas Brasileiras,27 Jun 2013,Stored,F-WWEZ,"É Azul, É Azul, lsf GECAS"
+1089,ATR 72-600 (72-212A),9M-LMG,Malindo Air,30 Jul 2013,Active,F-WWEB,
+1090,ATR 72-600 (72-212A),B-17005,UNI Airways,7 Jun 2013,Active,F-WWEC,
+1091,ATR 72-600 (72-212A),V2-LIC,LIAT,6 Jul 2013,Active,F-WWED,lsf GECAS
+1092,ATR 72-600 (72-212A),HK-4954,Avianca,3 Jul 2013,Stored,F-WWEE,
+1093,ATR 72-600 (72-212A),PK-NYY,NAM Air,7 Jul 2017,Active,9M-FIA,Keyakinan
+1094,ATR 72-600 (72-212A),PR-AQJ,Azul Linhas Aéreas Brasileiras,1 Aug 2013,Stored,F-WWEG,"Alma Azul, lsf GECAS"
+1095,ATR 72-600 (72-212A),9M-LMH,Malindo Air,6 Aug 2013,Stored,F-WWEH,
+1096,ATR 72-600 (72-212A),XA-MKH,Aeromar,Sep 2016,Active,F-WWEI,lsf Elix Aviation Capital
+1097,ATR 72-600 (72-212A),EI-FAT,Aer Lingus Regional,5 Jun 2014,Stored,F-WWEJ,"St. Fursey / Fursa, opby Stobart Air"
+1098,ATR 72-600 (72-212A),EI-FAU,Aer Lingus Regional,5 Jun 2014,Stored,F-WWEK,"St. Darragh / Dáire, opby Stobart Air"
+1099,ATR 72-600 (72-212A),9M-MYA,MASwings,25 Jul 2013,Stored,F-WWEL,Rafflesia
+1100,ATR 72-600 (72-212A),PR-AQK,Azul Linhas Aéreas Brasileiras,11 Oct 2013,Stored,F-WWEM,"Azul Fever, lsf NAC"
+1101,ATR 72-600 (72-212A),B-17006,UNI Airways,1 Aug 2013,Active,F-WWEN,
+1102,ATR 72-600 (72-212A),PR-AQL,Azul Linhas Aéreas Brasileiras,7 Aug 2013,Stored,F-WWEO,"Dia lindo, Dia Azul, lsf GECAS"
+1103,ATR 72-600 (72-212A),V2-LIB,LIAT,31 Aug 2013,Active,F-WWEP,lsf NAC
+1104,ATR 72-600 (72-212A),PK-WGO,Wings Air,13 Dec 2013,Stored,F-WWEQ,lsf ATRiam Capital
+1105,ATR 72-600 (72-212A),EI-FAV,Aer Lingus Regional,5 Jun 2014,Stored,F-WWER,"St. Eithne / Ethna, opby Stobart Air"
+1106,ATR 72-600 (72-212A),PK-WGK,Wings Air,12 Dec 2013,Active,F-WWES,lsf ATRiam Capital
+1107,ATR 72-600 (72-212A),VH-VPI,Virgin Australia,15 Sep 2015,Stored,F-WWET,"Bronte Beach, lsf Chorus Aviation"
+1108,ATR 72-600 (72-212A),PK-TNM,TransNusa,2 May 2019,Active,2-PKSU,lsf NAC
+1109,ATR 72-600 (72-212A),PR-PDN,Voepass,31 Oct 2019,Active,EI-FSO,"Pica-Pau, lsf GECAS"
+1110,ATR 72-600 (72-212A),OY-JZA,Nordic Aviation Capital (NAC),Feb 2020,Stored,B-28068,
+1111,ATR 72-600 (72-212A),B-17007,UNI Airways,25 Oct 2013,Active,F-WWEX,
+1112,ATR 72-600 (72-212A),V2-LIH,LIAT,23 Oct 2013,Active,F-WWEZ,lsf NAC
+1113,ATR 72-600 (72-212A),PR-AQM,Azul Linhas Aéreas Brasileiras,14 Nov 2013,Active,F-WWEB,"Pantanal Azul, lsf NAC"
+1114,ATR 72-600 (72-212A),HK-4955,Avianca,2 Nov 2013,Stored,F-WWEC,
+1115,ATR 72-600 (72-212A),PR-AQN,Azul Linhas Aéreas Brasileiras,31 Oct 2013,Active,F-WWED,"Azulmania, lsf NAC"
+1116,ATR 72-600 (72-212A),HK-4956,Avianca,7 Nov 2013,Stored,F-WWEE,
+1117,ATR 72-600 (72-212A),ZK-MVD,Air New Zealand,9 Dec 2019,Active,F-WWEF,
+1118,ATR 72-600 (72-212A),PK-WGL,Wings Air,13 Dec 2013,Stored,F-WWEG,lsf ATRiam Capital
+1119,ATR 72-600 (72-212A),PK-GJA,Citilink,18 Apr 2019,Active,PK-GAA,lsf NAC
+1120,ATR 72-600 (72-212A),ES-ATE,SAS Scandinavian Airlines,28 Feb 2020,Active,OY-JZC,"Torver Viking, opby Xfly"
+1121,ATR 72-600 (72-212A),OY-JZB,Nordic Aviation Capital (NAC),23 Jan 2020,Stored,ES-ATG,
+1122,ATR 72-600 (72-212A),EI-FAW,Aer Lingus Regional,5 Jun 2014,Stored,F-WWEK,"St. Cronan / Cronán, opby Stobart Air"
+1123,ATR 72-600 (72-212A),9M-LMJ,Malindo Air,26 Dec 2013,Active,F-WWEL,
+1124,ATR 72-600 (72-212A),HK-5039,Avianca,7 Mar 2014,Stored,F-WWEM,
+1125,ATR 72-600 (72-212A),B-17008,UNI Airways,20 Dec 2013,Active,F-WWEN,
+1126,ATR 72-600 (72-212A),HK-4999,Avianca,6 Dec 2013,Stored,F-WWEO,
+1127,ATR 72-600 (72-212A),XY-AJO,Mann Yadanarpon Airlines,28 Jan 2014,Active,F-WKVG,lsf Phoenix Aircraft Leasing & Sales
+1128,ATR 72-600 (72-212A),PK-NYZ,NAM Air,22 Jan 2018,Active,9M-FIB,Di berkati
+1129,ATR 72-600 (72-212A),EI-FAX,Aer Lingus Regional,5 Jun 2014,Stored,F-WWER,"St. Finnian / Finnian, opby Stobart Air"
+1130,ATR 72-600 (72-212A),9M-LMK,Malindo Air,28 Dec 2013,Stored,F-WWES,
+1131,ATR 72-600 (72-212A),ES-ATF,SAS Scandinavian Airlines,28 Feb 2020,Stored,OY-JZD,"Fjölner Viking, opby Xfly"
+1132,ATR 72-600 (72-212A),PK-GAC,Garuda Indonesia,27 Dec 2013,Stored,F-WWEU,lsf NAC
+1133,ATR 72-600 (72-212A),9Y-TTF,Caribbean Airlines,26 Feb 2020,Active,2-ATRC,lsf NAC
+1134,ATR 72-600 (72-212A),PK-WGS,Wings Air,15 Dec 2014,Active,HS-LFH,lsf Transportation Partners
+1135,ATR 72-600 (72-212A),9M-LML,Malindo Air,5 Apr 2014,Stored,F-WWEX,lsf Transportation Partners
+,,,,,,,
+1136,ATR 72-600 (72-212A),B-17009,UNI Airways,5 Mar 2014,Active,F-WWEZ,
+1137,ATR 72-600 (72-212A),XY-AJP,Mann Yadanarpon Airlines,29 Mar 2014,Active,F-WKVJ,
+1138,ATR 72-600 (72-212A),PR-AQO,Azul Linhas Aéreas Brasileiras,22 Mar 2014,Active,F-WWEC,"Vamos de Azul, lsf NAC"
+1139,ATR 72-600 (72-212A),EI-FCY,Aer Lingus Regional,5 Jun 2014,Stored,F-WWED,"St Oliver Plunkett / Oilibhéar Pluincéid, opby Stobart Air"
+1140,ATR 72-600 (72-212A),PK-GAD,Garuda Indonesia,31 Mar 2014,Stored,F-WWEE,lsf NAC
+1141,ATR 72-600 (72-212A),B-22816,TransAsia Airways,14 Apr 2014,Written Off,F-WWEF,
+1142,ATR 72-600 (72-212A),HK-5000,Avianca,26 Mar 2014,Stored,F-WWEG,
+1143,ATR 72-600 (72-212A),CN-COI,Royal Air Maroc Express,2 May 2014,Active,F-WWEH,
+1144,ATR 72-600 (72-212A),PR-AQP,Azul Linhas Aéreas Brasileiras,12 Apr 2014,Active,F-WWEI,"Guerreiro Azul, lsf NAC"
+1145,ATR 72-600 (72-212A),EC-NFR,Air Nostrum,11 Nov 2019,Stored,2-ATRD,lsf NAC
+1146,ATR 72-600 (72-212A),DQ-FJZ,Fiji Link,31 May 2014,Active,F-WWEK,lsf AVAP
+1147,ATR 72-600 (72-212A),9M-LMM,Malindo Air,19 May 2014,Stored,F-WWEL,lsf Chorus Aviation
+1148,ATR 72-600 (72-212A),XY-AJM,Golden Myanmar Airlines,9 May 2014,Active,F-WKVG,lsf NAC
+1149,ATR 72-600 (72-212A),PK-GAE,Garuda Indonesia,16 May 2014,Stored,F-WWEN,lsf NAC
+1150,ATR 72-600 (72-212A),B-17010,UNI Airways,16 May 2014,Active,F-WWEO,
+1151,ATR 72-600 (72-212A),HK-5040,Avianca,6 May 2014,Stored,F-WWEP,
+1152,ATR 72-600 (72-212A),PK-GAF,Garuda Indonesia,12 Jun 2014,Stored,F-WWEQ,lsf NAC
+1153,ATR 72-600 (72-212A),PK-NYU,NAM Air,31 Aug 2017,Active,9M-MYB,Kejujuran
+1154,ATR 72-600 (72-212A),9M-LMO,Malindo Air,30 May 2014,Stored,F-WWES,lsf Chorus Aviation
+1155,ATR 72-600 (72-212A),RDPL-34225,Lao Airlines,5 Jun 2014,Active,F-WKVH,
+1156,ATR 72-600 (72-212A),XY-AJS,Golden Myanmar Airlines,13 Jun 2014,Active,F-WKVG,lsf NAC
+1157,ATR 72-600 (72-212A),F-WWEV,ATR,19 Jun 2019,Active,F-WKVK,
+1158,ATR 72-600 (72-212A),PK-NYW,NAM Air,13 Dec 2017,Stored,9M-FIC,Meriba
+1159,ATR 72-600 (72-212A),EI-FCZ,Aer Lingus Regional,3 Jul 2014,Stored,F-WWEX,"St Senan / Seanán, opby Stobart Air"
+1160,ATR 72-600 (72-212A),HK-5041,Avianca,9 Jul 2014,Stored,F-WWEZ,
+1161,ATR 72-600 (72-212A),PK-WJI,Wings Air,4 Jun 2018,Stored,9M-LMP,lsf Transportation Partners
+1162,ATR 72-600 (72-212A),XY-AMA,Air KBZ,4 Jun 2015,Active,OY-YAR,lsf AVAP
+1163,ATR 72-600 (72-212A),B-17011,UNI Airways,11 Jul 2014,Active,F-WWED,
+1164,ATR 72-600 (72-212A),ES-ATC,Xfly,12 Mar 2020,Stored,OY-JZE,lsf NAC
+1165,ATR 72-600 (72-212A),ES-ATD,SAS Scandinavian Airlines,28 Feb 2020,Stored,OY-JZF,"Skjalm Viking, opby Xfly"
+1166,ATR 72-600 (72-212A),PR-AQQ,Azul Linhas Aéreas Brasileiras,5 Aug 2014,Stored,F-WWEG,"Eu Sempre Sonhei Azul, lsf DAE Capital"
+1167,ATR 72-600 (72-212A),TG-TRC,Avianca Guatemala,23 Jul 2014,Stored,F-WWEH,
+1168,ATR 72-600 (72-212A),PK-WGM,Wings Air,14 Aug 2014,Stored,F-WWEI,lsf Transportation Partners
+1169,ATR 72-600 (72-212A),VH-VPJ,Virgin Australia,20 Oct 2015,Stored,F-WWEJ,"Monkey Mia, lsf Chorus Aviation"
+1170,ATR 72-600 (72-212A),PK-NYT,NAM Air,14 Nov 2017,Active,9M-MYC,Kewajiban
+1171,ATR 72-600 (72-212A),OY-JZG,Nordic Aviation Capital (NAC),Feb 2020,Stored,B-28066,
+1172,ATR 72-600 (72-212A),HR-AYJ,Avianca Honduras,18 Aug 2014,Stored,F-WWEM,
+1173,ATR 72-600 (72-212A),PR-AQR,Azul Linhas Aéreas Brasileiras,10 Sep 2014,Stored,F-WWEN,"Se você fosse uma cor, seria o Azul, lsf DAE Capital"
+1174,ATR 72-600 (72-212A),TG-TRD,Avianca Guatemala,2 Sep 2014,Stored,F-WWEB,
+1175,ATR 72-600 (72-212A),B-17012,UNI Airways,5 Sep 2014,Active,F-WWEP,
+1176,ATR 72-600 (72-212A),PK-WGP,Wings Air,11 Sep 2014,Stored,F-WWEQ,lsf Transportation Partners
+1177,ATR 72-600 (72-212A),PK-TNH,TransNusa,28 Oct 2017,Active,OY-JZH,lsf NAC
+1178,ATR 72-600 (72-212A),2-MFID,Nordic Aviation Capital (NAC),7 Sep 2018,Stored,9M-FID,
+1179,ATR 72-600 (72-212A),9M-LMQ,Malindo Air,22 Sep 2014,Stored,F-WWET,lsf Transportation Partners
+1180,ATR 72-600 (72-212A),PR-AQS,Azul Linhas Aéreas Brasileiras,17 Oct 2014,Stored,F-WWEU,"Lindo voo Azul, lsf DAE Capital"
+1181,ATR 72-600 (72-212A),PK-GAH,Garuda Indonesia,15 Oct 2014,Stored,F-WWEV,lsf NAC
+1182,ATR 72-600 (72-212A),ZK-MVE,Air New Zealand,9 Dec 2019,Stored,F-WWEW,
+1183,ATR 72-600 (72-212A),B-17013,UNI Airways,23 Oct 2014,Active,F-WWEX,lsf AVAP
+1184,ATR 72-600 (72-212A),HZ-A11,Alpha Star,27 Nov 2014,Active,F-WKVH,
+1185,ATR 72-600 (72-212A),HR-AYM,Avianca Honduras,6 Nov 2014,Stored,F-WWEB,
+1186,ATR 72-600 (72-212A),9M-LMR,Malindo Air,23 Oct 2014,Stored,F-WWEC,lsf Transportation Partners
+1187,ATR 72-600 (72-212A),PK-TVM,Travira Air,1 Mar 2019,Active,2-MMYD,
+1188,ATR 72-600 (72-212A),PK-WGQ,Wings Air,31 Oct 2014,Stored,F-WWEE,lsf Transportation Partners
+1189,ATR 72-600 (72-212A),RDPL-34228,Lao Airlines,18 Nov 2014,Active,F-WKVI,
+,,,,,,,
+1190,ATR 72-600 (72-212A),PR-AQT,Azul Linhas Aéreas Brasileiras,20 Nov 2014,Stored,F-WWEG,"Lua Azul, lsf DAE Capital"
+1191,ATR 72-600 (72-212A),PK-GAI,Garuda Indonesia,14 Nov 2014,Stored,F-WWEH,lsf NAC
+1192,ATR 72-600 (72-212A),F-ORVS,Air Tahiti,18 Nov 2014,Active,F-WWEI,Heireva
+1193,ATR 72-600 (72-212A),PK-WGR,Wings Air,12 Jan 2015,Active,F-WWEJ,
+1194,ATR 72-600 (72-212A),HS-PZA,Bangkok Airways,26 Nov 2014,Stored,F-WWEK,
+1195,ATR 72-600 (72-212A),PR-AQV,Azul Linhas Aéreas Brasileiras,2 Dec 2014,Stored,F-WWEL,"Gralha Azul, lsf DAE Capital"
+1196,ATR 72-600 (72-212A),HK-5324,Avianca,May 2019,Stored,TG-TRE,
+1197,ATR 72-600 (72-212A),VT-AII,Air India Regional,16 Dec 2014,Active,F-WNUB,opby Alliance Air
+1198,ATR 72-600 (72-212A),EC-NFT,Air Nostrum,10 Dec 2019,Stored,2-ATRE,lsf NAC
+1199,ATR 72-600 (72-212A),HK-5323,Avianca,Aug 2019,Stored,TG-TRF,
+1200,ATR 72-600 (72-212A),7T-VPE,Government of Algeria,12 Dec 2014,Active,F-WWER,
+1201,ATR 42-600,HK-5129,SATENA,23 Sep 2015,Active,F-WWLE,"FAC-1193, lsf NAC"
+1202,ATR 42-600,JA01AM,Amakusa Airlines,16 Aug 2015,Active,F-WWLF,lsf NAC
+1203,ATR 42-600,HK-5130,SATENA,28 Nov 2015,Active,F-WWLG,"FAC-1194, lsf NAC"
+1204,ATR 42-600,HK-5282,Easyfly,16 Aug 2018,Active,OY-YBP,lsf NAC
+1205,ATR 42-600,RP-C4202,AirSWIFT,11 Jan 2016,Active,F-WWLI,
+1206,ATR 42-600,C6-BFS,Bahamasair,3 May 2016,Active,F-WWLJ,
+1207,ATR 42-600,C6-BFT,Bahamasair,10 Sep 2016,Active,F-WWLK,
+1208,ATR 42-600,RP-C4203,AirSWIFT,2 Sep 2016,Active,F-WWLL,lsf NAC
+1209,ATR 42-600,C6-BFV,Bahamasair,28 Jun 2016,Active,F-WWLM,
+1210,ATR 42-600,HK-5310,Easyfly,11 Mar 2019,Active,2-ATRL,lsf NAC
+1211,ATR 42-600,XA-UYK,Aeromar,21 Dec 2016,Active,F-WWLP,
+1212,ATR 42-600,XA-UYL,Aeromar,23 Dec 2016,Active,F-WWLQ,
+1213,ATR 42-600,EI-GEV,Aer Lingus Regional,9 Feb 2018,Active,OY-YCC,"St. Ita / Íde, opby Stobart Air"
+1214,ATR 42-600,N400SV,Silver Airways,6 Apr 2018,Active,F-WKVF,"Mile Marker Zero / Bella, 400, lsf NAC"
+1215,ATR 42-600,JA01JC,Japan Air Commuter,21 Jan 2017,Active,F-WWLT,Hibiscus cs
+1216,ATR 42-600,N401SV,Silver Airways,14 Mar 2019,Active,N216NX,"Fast and Fuchsia / Bandit, 401, lsf NAC"
+1217,ATR 42-600,N402SV,Silver Airways,12 Mar 2019,Active,F-WNUF,"Pink Sands / Sandy, 402, lsf NAC"
+1218,ATR 42-600,JA02JC,Japan Air Commuter,23 Sep 2017,Active,F-WWLW,Hibiscus cs
+1219,ATR 42-600,N403SV,Silver Airways,17 Aug 2019,Active,F-WWLX,"Sunshine State of Mind / Sunny, 403, lsf NAC"
+1220,ATR 72-600 (72-212A),PK-WGT,Wings Air,12 Jan 2015,Active,F-WWES,
+1221,ATR 72-600 (72-212A),DQ-FJX,Fiji Link,18 Dec 2014,Active,F-WWET,lsf NAC
+1222,ATR 72-600 (72-212A),2-ATRB,Nordic Aviation Capital (NAC),24 May 2018,Stored,B-22820,
+1223,ATR 72-600 (72-212A),7T-VUT,Air Algérie,22 Dec 2014,Stored,F-WWEV,
+1224,ATR 72-600 (72-212A),XY-AJW,Air KBZ,22 Jan 2015,Stored,F-WTDS,lsf NAC
+1225,ATR 72-600 (72-212A),PK-WGU,Wings Air,30 Jan 2015,Stored,F-WWEX,lsf ATRiam Capital
+1226,ATR 72-600 (72-212A),VT-AIT,Air India Regional,26 Feb 2015,Active,F-WWEZ,opby Alliance Air
+1227,ATR 72-600 (72-212A),PK-WGV,Wings Air,30 Jan 2015,Stored,F-WWEB,lsf ATRiam Capital
+1228,ATR 72-600 (72-212A),ZK-MVF,Air New Zealand,9 Dec 2019,Stored,F-WWEC,
+1229,ATR 72-600 (72-212A),PK-TNK,TransNusa,21 Dec 2018,Active,2-XAJV,lsf NAC
+1230,ATR 72-600 (72-212A),HS-PZB,Bangkok Airways,12 Feb 2015,Active,F-WWEE,
+1231,ATR 72-600 (72-212A),HK-5109,Avianca,25 Feb 2015,Stored,F-WWEF,
+1232,ATR 72-600 (72-212A),CS-DJC,TAP Express,Mar 2016,Stored,PR-AQW,"Beja, opby White"
+1233,ATR 72-600 (72-212A),CS-DJD,TAP Express,Apr 2016,Stored,PR-AQX,"Braga, opby White"
+1234,ATR 72-600 (72-212A),PK-WGW,Wings Air,24 Feb 2015,Written Off,F-WWEI,lsf ATRiam Capital
+1235,ATR 72-600 (72-212A),PR-PFD,Imetame,2 Oct 2019,Active,9M-FIE,
+1236,ATR 72-600 (72-212A),CS-DJE,TAP Express,Apr 2016,Stored,PR-AQY,"Bragança, opby White"
+1237,ATR 72-600 (72-212A),2-HOPY,Nordic Aviation Capital (NAC),20 Nov 2019,Stored,F-HOPY,
+1238,ATR 72-600 (72-212A),PK-WGY,Wings Air,6 Mar 2015,Active,F-WWEM,
+1239,ATR 72-600 (72-212A),5R-EJA,Air Madagascar,20 Mar 2015,Stored,F-WWEN,lsf Elix Aviation Capital
+1240,ATR 72-600 (72-212A),B-17015,UNI Airways,15 Apr 2015,Active,F-WWEP,
+1241,ATR 72-600 (72-212A),PR-AQZ,Azul Linhas Aéreas Brasileiras,20 Apr 2015,Stored,F-WWEQ,"Azul, asas do Brasil, lsf DAE Capital"
+1242,ATR 72-600 (72-212A),PK-GAM,Garuda Indonesia,3 Mar 2016,Stored,F-WTDS,lsf NAC
+1243,ATR 72-600 (72-212A),PK-GAJ,Garuda Indonesia,15 Apr 2015,Stored,F-WWES,lsf NAC
+,,,,,,,
+1244,ATR 72-600 (72-212A),PK-WGZ,Wings Air,2 Apr 2015,Active,F-WWET,
+1245,ATR 72-600 (72-212A),PR-AKA,Azul Linhas Aéreas Brasileiras,19 May 2015,Active,F-WWEU,"É Azul, uai, lsf DAE Capital"
+1246,ATR 72-600 (72-212A),VT-AIU,Air India Regional,29 May 2015,Active,F-WWEV,opby Alliance Air
+1247,ATR 72-600 (72-212A),PK-WHF,Wings Air,17 Apr 2015,Active,F-WWEW,
+1248,ATR 72-600 (72-212A),5R-EJB,Tsaradia,2 Jul 2018,Active,F-WWEX,lsf Elix Aviation Capital
+1249,ATR 72-600 (72-212A),PK-GAK,Garuda Indonesia,18 Jun 2015,Stored,F-WWEZ,lsf NAC
+1250,ATR 72-600 (72-212A),PK-WHG,Wings Air,30 May 2015,Stored,F-WWEB,"lsf ATRiam Capital, 50th ATR cs"
+1251,ATR 72-600 (72-212A),2-ATRF,Nordic Aviation Capital (NAC),18 May 2018,Stored,B-22821,
+1252,ATR 72-600 (72-212A),VT-AIV,Air India Regional,3 Jul 2015,Active,F-WWED,opby Alliance Air
+1253,ATR 72-600 (72-212A),PR-AKB,Azul Linhas Aéreas Brasileiras,24 Jun 2015,Active,F-WWEE,"Tuiuiu Azul, lsf DAE Capital"
+1254,ATR 72-600 (72-212A),PK-GAL,Garuda Indonesia,6 Oct 2015,Stored,F-WWEF,lsf NAC
+1255,ATR 72-600 (72-212A),F-ORVN,Air Tahiti,3 Nov 2015,Active,F-WWEG,Rereara'i
+1256,ATR 72-600 (72-212A),PK-WHH,Wings Air,6 Jun 2015,Stored,F-WWEH,
+1257,ATR 72-600 (72-212A),F-HOPX,HOP!,7 Jul 2015,Stored,F-WWEI,lsf NAC
+1258,ATR 72-600 (72-212A),7T-VUV,Air Algérie,8 Jul 2015,Stored,F-WWEJ,
+1259,ATR 72-600 (72-212A),F-HIPY,Amelia International,12 Jul 2019,Active,OY-YCV,lsf NAC
+1260,ATR 72-600 (72-212A),G-FBXA,Loganair,12 Feb 2020,Stored,F-WWEL,lsf AVAP
+1261,ATR 72-600 (72-212A),EC-NFU,Air Nostrum,2 Sep 2019,Active,2-ATRG,lsf NAC
+1262,ATR 72-600 (72-212A),2-MFIG,Nordic Aviation Capital (NAC),19 Nov 2018,Stored,9M-FIG,
+1263,ATR 72-600 (72-212A),PK-WHI,Wings Air,7 Oct 2015,Stored,F-WWEP,
+1264,ATR 72-600 (72-212A),ZK-MVG,Air New Zealand,9 Dec 2019,Active,F-WWEQ,
+1265,ATR 72-600 (72-212A),F-HOPZ,HOP!,29 Jul 2015,Stored,F-WWER,lsf NAC
+1266,ATR 72-600 (72-212A),7T-VUW,Air Algérie,31 Jul 2015,Stored,F-WWES,
+1267,ATR 72-600 (72-212A),XY-AJY,Myanmar National Airlines,8 Aug 2015,Active,F-WKVJ,lsf DAE Capital
+1268,ATR 72-600 (72-212A),VT-AIX,Air India Regional,18 Apr 2016,Active,F-WKVG,opby Alliance Air
+1269,ATR 72-600 (72-212A),HS-PZC,Bangkok Airways,11 Sep 2015,Active,F-WWEV,
+1270,ATR 72-600 (72-212A),PR-AKC,Azul Linhas Aéreas Brasileiras,4 Sep 2015,Active,F-WWEW,"Maracatu Azul, lsf DAE Capital"
+1271,ATR 72-600 (72-212A),PK-WHJ,Wings Air,19 Aug 2015,Stored,F-WWEX,
+1272,ATR 72-600 (72-212A),VT-AIW,Air India Regional,23 Oct 2015,Active,F-WWEZ,opby Alliance Air
+1273,ATR 72-600 (72-212A),VT-AIY,Air India Regional,9 May 2016,Active,F-WKVH,opby Alliance Air
+1274,ATR C-72 MPA (72-212A),TCB-,Turkish Navy,17 Sep 2015,Stored,F-WKVG,
+1275,ATR 72-600 (72-212A),PK-WHK,Wings Air,9 Sep 2015,Stored,F-WWED,
+1276,ATR 72-600 (72-212A),SE-MKA,BRA - Braathens Regional Airlines,29 Feb 2016,Stored,F-WWEE,opby Braathens Regional
+1277,ATR 72-600 (72-212A),G-FBXB,Loganair,25 Feb 2020,Stored,F-WWEF,lsf Flybe
+1278,ATR 72-600 (72-212A),EC-MIF,Binter Canarias,17 Sep 2015,Stored,F-WWEG,Timple
+1279,ATR 72-600 (72-212A),VT-AIZ,Air India Regional,25 Jul 2016,Active,F-WKVJ,opby Alliance Air
+1280,ATR 72-600 (72-212A),7T-VPF,Government of Algeria,2 Oct 2015,Active,F-WWEI,
+1281,ATR 72-600 (72-212A),PR-AKD,Azul Linhas Aéreas Brasileiras,22 Oct 2015,Active,F-WWEJ,"Familia Azul, lsf DAE Capital"
+1282,ATR 72-600 (72-212A),PK-WHL,Wings Air,2 Oct 2015,Active,F-WWEK,lsf ATRiam Capital
+1283,ATR 72-600 (72-212A),2-HOPL,Nordic Aviation Capital (NAC),13 Dec 2019,Stored,F-HOPL,
+1284,ATR 72-600 (72-212A),CS-DJF,TAP Express,Apr 2016,Stored,PR-AKE,"Castelo Branco, opby White"
+1285,ATR 72-600 (72-212A),2-RLBQ,Aergo Capital,5 Nov 2019,Stored,9M-FIH,
+1286,ATR 72-600 (72-212A),PK-TNO,TransNusa,5 Jul 2019,Active,2-PKSG,lsf NAC
+1287,ATR 72-600 (72-212A),P2-ATR,PNG Air,30 Oct 2015,Active,F-WWEQ,lsf DAE Capital
+1288,ATR 72-600 (72-212A),2-HOPN,Nordic Aviation Capital (NAC),3 Mar 2020,Stored,F-HOPN,
+1289,ATR 72-600 (72-212A),F-ORVO,Air Tahiti,3 Dec 2015,Active,F-WWES,Rereatau
+1290,ATR 72-600 (72-212A),PK-WHP,Wings Air,6 Nov 2015,Stored,F-WWET,
+1291,ATR 72-600 (72-212A),PK-WHQ,Wings Air,9 Dec 2015,Stored,F-WWEU,
+1292,ATR 72-600 (72-212A),PR-AKF,Azul Linhas Aéreas Brasileiras,26 Nov 2015,Active,F-WWEV,"É Azuuuuuuuul, lsf DAE Capital, Pink Ribbon cs"
+1293,ATR 72-600 (72-212A),C6-BFQ,Bahamasair,28 Nov 2015,Written Off,F-WWEW,
+1294,ATR 72-600 (72-212A),CS-DJA,TAP Express,Mar 2016,Active,PR-AKG,"Aveiro, opby White"
+1295,ATR 72-600 (72-212A),EI-FMJ,Stobart Air,5 Mar 2020,Active,F-WWEZ,lsf GECAS
+1296,ATR 72-600 (72-212A),HS-PZD,Bangkok Airways,25 Dec 2015,Active,F-WWEB,
+1297,ATR 72-600 (72-212A),PR-PDO,Voepass,16 Jan 2020,Active,EI-FMK,"Canário, lsf GECAS"
+,,,,,,,
+1298,ATR 72-600 (72-212A),PK-WHR,Wings Air,12 Dec 2015,Active,F-WWED,
+1299,ATR 72-600 (72-212A),ZK-MVO,Air New Zealand,9 Dec 2019,Active,F-WWEE,
+1300,ATR 72-600 (72-212A),EI-GPN,Stobart Air,9 Jan 2020,Stored,G-FBXC,lsf Flybe
+1301,ATR 72-600 (72-212A),P2-ATA,PNG Air,19 Dec 2015,Active,F-WWEG,lsf DAE Capital
+1302,ATR C-72 MPA (72-212A),TCB-,Turkish Navy,18 Jan 2016,Stored,F-WKVI,
+1303,ATR 72-600 (72-212A),HS-PZE,Bangkok Airways,15 Jan 2016,Active,F-WWEI,
+1304,ATR 72-600 (72-212A),ZK-MVH,Air New Zealand,9 Dec 2019,Stored,F-WWEJ,
+1305,ATR 72-600 (72-212A),CS-DJB,TAP Express,11 May 2016,Stored,F-WWEK,"Guarda, opby White"
+1306,ATR 72-600 (72-212A),ZK-MVI,Air New Zealand,9 Dec 2019,Stored,F-WWEL,
+1307,ATR 72-600 (72-212A),PK-WHS,Wings Air,2 Mar 2016,Stored,F-WWEM,60th ATR cs
+1308,ATR 72-600 (72-212A),SE-MKB,BRA - Braathens Regional Airlines,29 Feb 2016,Stored,F-WWEN,opby Braathens Regional
+1309,ATR 72-600 (72-212A),XY-AJZ,Myanmar National Airlines,2 Jan 2016,Active,F-WNUB,lsf DAE Capital
+1310,ATR 72-600 (72-212A),EC-MJG,Binter Canarias,30 Dec 2015,Active,F-WWEQ,Los Gofiones
+1311,ATR 72-600 (72-212A),HZ-FFG,Nesma Airlines,27 May 2016,Stored,F-WNUA,"Alia, lsf DAE Capital"
+1312,ATR 72-600 (72-212A),HZ-MHH,Nesma Airlines,4 Jun 2016,Stored,F-WNUB,"Jude, lsf DAE Capital"
+1313,ATR 72-600 (72-212A),SE-MKC,BRA - Braathens Regional Airlines,29 Feb 2016,Stored,F-WWET,opby Braathens Regional
+1314,ATR 72-600 (72-212A),C6-BFR,Bahamasair,9 Mar 2016,Active,F-WWEU,
+1315,ATR 72-600 (72-212A),EI-GPO,Stobart Air,28 Feb 2020,Active,G-FBXD,lsf Flybe
+1316,ATR 72-600 (72-212A),CS-DJG,TAP Express,Jul 2016,Stored,F-WTDS,"Santarém, opby White"
+1317,ATR 72-600 (72-212A),P2-ATB,PNG Air,12 Apr 2016,Active,F-WWEX,lsf DAE Capital
+1318,ATR 72-600 (72-212A),9Y-TTI,Caribbean Airlines,15 Jan 2020,Active,2-ATRA,lsf NAC
+1319,ATR 72-600 (72-212A),ZK-MVJ,Air New Zealand,9 Dec 2019,Active,F-WWEB,
+1320,ATR 72-600 (72-212A),HS-PZF,Bangkok Airways,5 Apr 2016,Active,F-WWEC,
+1321,ATR 72-600 (72-212A),PK-GAN,Garuda Indonesia,14 May 2016,Stored,F-WWED,lsf NAC
+1322,ATR 72-600 (72-212A),EI-GPP,Stobart Air,15 Oct 2019,Stored,G-FBXE,lsf Flybe
+1323,ATR 72-600 (72-212A),CS-DJH,TAP Express,Jul 2016,Stored,F-WTDK,"Portalegre, opby White"
+1324,ATR 72-600 (72-212A),PK-TNE,TransNusa,7 May 2016,Active,F-WWEG,lsf NAC
+1325,ATR 72-600 (72-212A),EI-FNA,Aer Lingus Regional,29 Apr 2016,Active,F-WWEH,"St. Abban / Abán, opby Stobart Air"
+1326,ATR 72-600 (72-212A),EI-FSK,Stobart Air,14 Jun 2016,Stored,F-WWEI,lsf NAC
+1327,ATR 72-600 (72-212A),PK-WHT,Wings Air,27 May 2016,Active,F-WWEJ,
+1328,ATR 72-600 (72-212A),ZK-MVL,Air New Zealand,9 Dec 2019,Stored,F-WWEK,
+1329,ATR 72-600 (72-212A),PK-GAO,Garuda Indonesia,28 Jun 2016,Stored,F-WTDT,lsf NAC
+1330,ATR 72-600 (72-212A),ZK-MVK,Air New Zealand,9 Dec 2019,Stored,F-WWEM,
+1331,ATR 72-600 (72-212A),SE-MKD,BRA - Braathens Regional Airlines,17 Jun 2016,Stored,F-WWEN,opby Braathens Regional
+1332,ATR 72-600 (72-212A),PK-WJJ,Wings Air,3 May 2018,Stored,9M-LMS,
+1333,ATR 72-600 (72-212A),XY-AMF,Air KBZ,30 Aug 2016,Active,F-WTDS,lsf NAC
+1334,ATR 72-600 (72-212A),PK-TNF,TransNusa,10 Aug 2016,Active,F-WWER,lsf ALC
+1335,ATR C-72 MPA (72-212A),TCB-,Turkish Navy,Jul 2016,Stored,F-WKVC,
+1336,ATR 72-600 (72-212A),PK-WJK,Wings Air,3 May 2018,Stored,9M-LMT,
+1337,ATR 72-600 (72-212A),EC-MMM,Binter Canarias,2 Aug 2016,Active,F-WWEU,Gofio
+1338,ATR 72-600 (72-212A),XY-AME,Myanmar National Airlines,15 Jul 2016,Stored,F-WKVI,lsf DAE Capital
+1339,ATR 72-600 (72-212A),EI-FSL,Stobart Air,26 Aug 2016,Stored,F-WWEW,lsf NAC
+1340,ATR 72-600 (72-212A),PK-GJP,Citilink,11 Apr 2019,Stored,PK-GAP,lsf NAC
+1341,ATR 72-600 (72-212A),SE-MKK,BRA - Braathens Regional Airlines,1 Dec 2017,Stored,F-WWEZ,opby Braathens Regional
+1342,ATR 72-600 (72-212A),PR-AKI,Azul Linhas Aéreas Brasileiras,13 Feb 2018,Active,PH-ATC,"#Azulou, lsf NAC"
+1343,ATR 72-600 (72-212A),LV-GUG,Avianca Argentina,13 Jan 2017,Stored,F-WWEC,
+1344,ATR 72-600 (72-212A),B-17016,EVA Airways,9 Aug 2016,Active,F-WWED,opby UNI Airways
+1345,ATR 72-600 (72-212A),HS-PZG,Bangkok Airways,12 Aug 2016,Active,F-WWEE,
+1346,ATR 72-600 (72-212A),ZK-MVM,Air New Zealand,9 Dec 2019,Active,F-WWEF,
+1347,ATR 72-600 (72-212A),P2-ATC,PNG Air,1 Sep 2016,Active,F-WWEG,lsf DAE Capital
+1348,ATR 72-600 (72-212A),SE-MKE,BRA - Braathens Regional Airlines,5 Aug 2016,Stored,F-WWEH,opby Braathens Regional
+1349,ATR 72-600 (72-212A),9M-LMU,Malindo Air,16 Sep 2016,Active,F-WWEI,
+1350,ATR 72-600 (72-212A),F-ORVU,Air Tahiti,4 Oct 2016,Active,F-WWEJ,Rerehau
+1351,ATR 72-600 (72-212A),B-17017,EVA Airways,7 Sep 2016,Active,F-WWEK,opby UNI Airways
+,,,,,,,
+1352,ATR 72-600 (72-212A),HZ-ABS,Nesma Airlines,19 Jan 2017,Stored,F-WNUF,"Zein, lsf DAE Capital"
+1353,ATR 72-600 (72-212A),ZK-MVN,Air New Zealand,9 Dec 2019,Active,F-WWEM,
+1354,ATR 72-600 (72-212A),SE-MKG,BRA - Braathens Regional Airlines,17 Nov 2016,Stored,F-WWEN,opby Braathens Regional
+1355,ATR 72-600 (72-212A),F-OZIP,Air Calédonie,3 Dec 2016,Active,F-WWEP,
+1356,ATR 72-600 (72-212A),9M-LMV,Malindo Air,8 Oct 2016,Stored,F-WWEQ,
+1357,ATR 72-600 (72-212A),SE-MKF,BRA - Braathens Regional Airlines,7 Oct 2016,Stored,F-WWER,opby Braathens Regional
+1358,ATR 72-600 (72-212A),YJ-AV73,Air Vanuatu,25 Oct 2016,Active,F-WWES,
+1359,ATR 72-600 (72-212A),EC-MOL,Binter Canarias,16 Jan 2017,Stored,F-WWET,Los Sabandeños
+1360,ATR 72-600 (72-212A),PR-AKJ,Azul Linhas Aéreas Brasileiras,23 Feb 2018,Active,PH-ATD,"Azul Valente, lsf NAC"
+1361,ATR 72-600 (72-212A),EC-MNN,Binter Canarias,30 Sep 2016,Active,F-WWEV,Maspalomas Costa Canaria
+1362,ATR 72-600 (72-212A),RP-C7280,Cebu Pacific,3 Oct 2016,Active,F-WWEW,
+1363,ATR 72-600 (72-212A),9M-LMW,Malindo Air,10 Nov 2016,Stored,F-WWEX,
+1364,ATR 72-600 (72-212A),VT-TMC,TruJet,21 Dec 2016,Active,F-WTBM,lsf DAE Capital
+1365,ATR 72-600 (72-212A),CSX62301,Leonardo,15 Mar 2017,Stored,F-WKVF,
+1366,ATR 72-600 (72-212A),V2-LIN,LIAT,29 Nov 2016,Active,F-WWEC,lsf NAC
+1367,ATR 72-600 (72-212A),PR-AKL,Azul Linhas Aéreas Brasileiras,5 Mar 2018,Active,PH-ATE,"Rainbow Azul, lsf NAC"
+1368,ATR 72-600 (72-212A),XY-AMI,Myanmar National Airlines,1 Nov 2016,Active,F-WKVC,lsf DAE Capital
+1369,ATR 72-600 (72-212A),RP-C7281,Cebu Pacific,9 Nov 2016,Stored,F-WWEF,
+1370,ATR C-72 MPA (72-212A),TCB-,Turkish Navy,Nov 2016,Stored,F-WKVG,
+1371,ATR 72-600 (72-212A),HZ-HGA,Nesma Airlines,10 Feb 2017,Stored,F-WNUG,"Noaf, lsf DAE Capital"
+1372,ATR 72-600 (72-212A),SE-MKH,BRA - Braathens Regional Airlines,5 Dec 2016,Stored,F-WWEI,opby Braathens Regional
+1373,ATR 72-600 (72-212A),P2-ATD,PNG Air,3 Dec 2016,Active,F-WWEJ,lsf DAE Capital
+1374,ATR 72-600 (72-212A),F-OMYM,Air Antilles Express,26 Jan 2017,Active,F-WWEK,
+1375,ATR 72-600 (72-212A),PK-WHU,Wings Air,30 Nov 2016,Active,F-WWEL,
+1376,ATR 72-600 (72-212A),F-ORVV,Air Tahiti,19 Dec 2016,Active,F-WWEM,Ra'Ireva
+1377,ATR 72-600 (72-212A),HS-PZH,Bangkok Airways,8 Apr 2017,Stored,F-WWEN,Sea & Palm Tree cs
+1378,ATR 72-600 (72-212A),XY-AMJ,Myanmar National Airlines,4 Dec 2016,Active,F-WKVF,lsf DAE Capital
+1379,ATR 72-600 (72-212A),SE-MKI,BRA - Braathens Regional Airlines,20 Dec 2016,Stored,F-WWEQ,opby Braathens Regional
+1380,ATR 72-600 (72-212A),F-OZLI,Air Calédonie,10 Dec 2016,Active,F-WWER,
+1381,ATR 72-600 (72-212A),VT-RKC,Alliance Air,1 Sep 2017,Active,F-WKVC,lsf DAE Capital
+1382,ATR 72-600 (72-212A),PK-WHV,Wings Air,22 Dec 2016,Stored,F-WWET,70th ATR cs
+1383,ATR 72-600 (72-212A),VT-RKD,Alliance Air,11 Jun 2017,Active,F-WWEU,lsf DAE Capital
+1384,ATR 72-600 (72-212A),F-OSIX,Air Caraïbes,12 Dec 2016,Stored,F-WWEV,
+1385,ATR 72-600 (72-212A),VT-TMT,TruJet,Jan 2018,Active,F-WTBL,lsf DAE Capital
+1386,ATR 72-600 (72-212A),EP-ITA,Iran Air,16 May 2017,Active,F-WWEX,
+1387,ATR 72-600 (72-212A),B-16852,Mandarin Airlines,5 Dec 2017,Active,OY-SWT,lsf AVAP
+1388,ATR 72-600 (72-212A),XA-UYM,Aeromar,23 Dec 2016,Active,F-WWEB,
+1389,ATR 72-600 (72-212A),EP-ITB,Iran Air,16 May 2017,Active,F-WWEC,
+1390,ATR 72-600 (72-212A),EP-ITC,Iran Air,16 May 2017,Active,F-WWED,
+1391,ATR 72-600 (72-212A),EP-ITD,Iran Air,16 May 2017,Stored,F-WWEE,
+1392,ATR 72-600 (72-212A),HS-PZJ,Bangkok Airways,13 Apr 2017,Stored,F-WWEF,
+1393,ATR 72-600 (72-212A),XY-AMK,Myanmar National Airlines,13 Feb 2017,Active,F-WKVG,lsf DAE Capital
+1394,ATR 72-600 (72-212A),RP-C7282,Cebu Pacific,4 Feb 2017,Stored,F-WWEH,
+1395,ATR 72-600 (72-212A),LV-GUH,Avianca Argentina,9 Mar 2017,Stored,F-WWEI,
+1396,ATR 72-600 (72-212A),EC-MPI,Binter Canarias,2 Mar 2017,Stored,F-WWEJ,Virgen de Los Reyes
+1397,ATR 72-600 (72-212A),RP-C7283,Cebu Pacific,1 Mar 2017,Active,F-WWEK,
+1398,ATR 72-600 (72-212A),PK-GAQ,Garuda Indonesia,24 Mar 2017,Stored,F-WWEL,lsf NAC
+1399,ATR 72-600 (72-212A),PK-WHM,Wings Air,30 Nov 2017,Stored,9M-LMY,lsf ATRiam Capital
+1400,ATR 72-600 (72-212A),XA-UYT,Aeromar,29 Mar 2017,Active,F-WWEN,
+1401,ATR 42-600,JA03JC,Japan Air Commuter,1 Feb 2018,Active,F-WWLZ,
+1402,ATR 42-600,JA04JC,Japan Air Commuter,30 Mar 2018,Active,F-WWLB,
+1403,ATR 42-600,N405SV,Silver Airways,26 Nov 2019,Active,F-WWLC,"Flip Flops Optional / Zoë, 405, lsf NAC"
+1404,ATR 42-600,JA05JC,Japan Air Commuter,30 Jun 2018,Stored,F-WWLD,Kounotori Tajima cs
+1405,ATR 42-600,N406SV,Silver Airways,22 Nov 2019,Active,F-WWLE,"Pinky Promise, 406, lsf NAC"
+,,,,,,,
+1406,ATR 42-600,HK-5315,Easyfly,17 Apr 2019,Active,F-WTBO,lsf NAC
+1407,ATR 42-600,HK-5313,Easyfly,8 Apr 2019,Active,F-WWLG,lsf NAC
+1408,ATR 42-600,JA07JC,Japan Air Commuter,24 Jan 2019,Active,F-WWLH,
+1409,ATR 42-600,HK-5321,Easyfly,11 May 2019,Active,F-WWLI,
+1410,ATR 42-600,HK-5314,Easyfly,18 May 2019,Active,F-WWLJ,
+1411,ATR 42-600,N407SV,Silver Airways,23 Jan 2020,Active,F-WNUF,"Life's a Beach, 407, lsf NAC"
+1412,ATR 42-600,A5-JNW,Druk Air - Royal Bhutan Airlines,23 Oct 2019,Active,F-WWLL,
+1413,ATR 42-600,HK-5331,Easyfly,28 Aug 2019,Active,F-WWLM,
+1414,ATR 42-600,JA09JC,Japan Air Commuter,5 Dec 2019,Active,F-WKVF,
+1415,ATR 42-600,HK-5341,Easyfly,29 Nov 2019,Active,F-WWLP,
+1416,ATR 42-600,HK-5354,Easyfly,,On Order,F-WWLQ,
+1417,ATR 42-600,JA11HC,Hokkaido Air System,18 Dec 2019,Active,F-WKVG,
+1418,ATR 42-600,HK-5349,Easyfly,31 Dec 2019,Active,F-WWLS,
+1419,ATR 42-600,HK-5351,Easyfly,,On Order,F-WWLT,
+1420,ATR 72-600 (72-212A),PK-WHO,Wings Air,30 Nov 2017,Stored,9M-LMZ,lsf ATRiam Capital
+1421,ATR 72-600 (72-212A),VT-RKE,Alliance Air,11 Jul 2017,Active,F-WWEQ,lsf DAE Capital
+1422,ATR 72-600 (72-212A),PK-GJR,Citilink,28 Jan 2019,Stored,PK-GAR,lsf NAC
+1423,ATR 72-600 (72-212A),VT-RKF,Alliance Air,11 Aug 2017,Active,F-WWES,lsf DAE Capital
+1424,ATR 72-600 (72-212A),EP-ITE,Iran Air,27 Sep 2017,Active,F-WWET,
+1425,ATR 72-600MPA (72-212A),MM62311,Guardia di Finanza (Italian Customs Police),27 Nov 2019,Active,CSX62311,
+1426,ATR 72-600 (72-212A),PK-WHW,Wings Air,18 Jul 2017,Stored,F-WWEV,lsf Elix Aviation Capital
+1427,ATR 72-600 (72-212A),VT-RKG,Alliance Air,11 Sep 2017,Active,F-WWEW,lsf DAE Capital
+1428,ATR 72-600 (72-212A),XA-UYY,Aeromar,22 May 2017,Active,F-WWEX,
+1429,ATR 72-600 (72-212A),RP-C7284,Cebu Pacific,10 May 2017,Stored,F-WWEZ,
+1430,ATR 72-600 (72-212A),P2-ATE,PNG Air,13 Jun 2017,Active,F-WWEB,lsf DAE Capital
+1431,ATR 72-600 (72-212A),EP-ITF,Iran Air,27 Sep 2017,Active,F-WWEC,
+1432,ATR 72-600 (72-212A),F-ORVT,Air Tahiti,23 May 2017,Active,F-WWED,Te Anuanua
+1433,ATR 72-600 (72-212A),A2-ABK,Air Botswana,5 Nov 2018,Active,F-WWEE,Tsodilo
+1434,ATR 72-600 (72-212A),VT-RKH,Alliance Air,25 Jan 2018,Active,F-WWEF,lsf DAE Capital
+1435,ATR 72-600 (72-212A),XA-UZE,Aeromar,22 Feb 2018,Active,F-WWEG,
+1436,ATR 72-600 (72-212A),C6-BFW,Bahamasair,17 Jun 2017,Active,F-WWEH,
+1437,ATR 72-600 (72-212A),A2-ABL,Air Botswana,21 Dec 2018,Active,F-WWEI,Makgadikgadi
+1438,ATR 72-600 (72-212A),PK-GJS,Citilink,29 Jan 2019,Stored,PK-GAS,lsf NAC
+1439,ATR 72-600 (72-212A),VT-RKJ,Alliance Air,18 Jul 2018,Active,F-WWEK,lsf DAE Capital
+1440,ATR 72-600 (72-212A),RP-C7201,AirSWIFT,8 Feb 2018,Active,OY-YCD,lsf NAC
+1441,ATR 72-600 (72-212A),XA-UZS,Aeromar,3 Feb 2018,Active,F-WWEM,
+1442,ATR 72-600 (72-212A),PK-WHY,Wings Air,5 Aug 2017,Active,F-WWEN,lsf Elix Aviation Capital
+1443,ATR 72-600 (72-212A),RP-C7285,Cebu Pacific,29 Jul 2017,Stored,F-WWEP,
+1444,ATR 72-600 (72-212A),ZK-MVP,Air New Zealand,9 Dec 2019,Active,F-WWEQ,
+1445,ATR 72-600 (72-212A),VT-RKK,Alliance Air,8 Oct 2018,Active,F-WWER,lsf DAE Capital
+1446,ATR 72-600 (72-212A),XA-UZT,Aeromar,27 Jul 2018,Active,F-WWES,
+1447,ATR 72-600 (72-212A),6V-AMS,Air Senegal,24 Jan 2018,Active,F-WKVH,
+1448,ATR 72-600 (72-212A),G-IACY,Eastern Airways,8 Sep 2017,Stored,F-WWEU,lsf NAC
+1449,ATR 72-600 (72-212A),PK-WHZ,Wings Air,16 Feb 2018,Active,F-WWEV,lsf ATRiam Capital
+1450,ATR 72-600 (72-212A),OY-YCG,Nordic Aviation Capital (NAC),Feb 2020,Stored,B-28268,
+1451,ATR 72-600 (72-212A),ZK-MVQ,Air New Zealand,9 Dec 2019,Active,F-WWEX,
+1452,ATR 72-600 (72-212A),6V-ASN,Air Senegal,11 May 2018,Active,F-WKVJ,
+1453,ATR 72-600 (72-212A),RP-C7286,Cebu Pacific,30 Sep 2017,Stored,F-WWEB,
+1454,ATR 72-600 (72-212A),EC-MSJ,Binter Canarias,29 Sep 2017,Stored,F-WWEC,Virgen del Pino
+1455,ATR 72-600 (72-212A),F-ORVR,Air Tahiti,18 Oct 2017,Active,F-WWED,"Tapuata, 60 Years cs"
+1456,ATR 72-600 (72-212A),VT-RKL,Alliance Air,24 Dec 2018,Active,F-WWEE,lsf DAE Capital
+1457,ATR 72-600 (72-212A),VT-IYA,IndiGo,17 Nov 2017,Stored,F-WWEF,
+1458,ATR 72-600 (72-212A),OY-YCL,Nordic Aviation Capital (NAC),Feb 2020,Stored,B-28266,
+1459,ATR 72-600 (72-212A),F-OZKN,Air Calédonie,7 Dec 2017,Active,F-WWEH,
+,,,,,,,
+1460,ATR 72-600 (72-212A),B-16851,Mandarin Airlines,25 Nov 2017,Active,F-WWEI,lsf AVAP
+1461,ATR 72-600 (72-212A),P2-ATF,PNG Air,11 Nov 2017,Active,F-WWEJ,
+1462,ATR 72-600 (72-212A),EC-MSK,Binter Canarias,27 Oct 2017,Active,F-WWEK,La Graciosa
+1463,ATR 72-600 (72-212A),VT-RKM,Alliance Air,19 Feb 2019,Active,F-WWEL,lsf DAE Capital
+1464,ATR 72-600 (72-212A),OY-YCM,Nordic Aviation Capital (NAC),Feb 2020,Stored,B-28082,
+1465,ATR 72-600 (72-212A),VT-IYB,IndiGo,22 Dec 2017,Stored,F-WWEN,
+1466,ATR 72-600 (72-212A),XY-AMS,Myanmar National Airlines,3 Oct 2019,Stored,F-WTBX,
+1467,ATR 72-600 (72-212A),F-OSIV,Air Caraïbes,8 Dec 2017,Active,F-WWEQ,
+1468,ATR 72-600 (72-212A),RP-C7287,Cebu Pacific,2 Dec 2017,Active,F-WWER,
+1469,ATR 72-600 (72-212A),EC-MTQ,Binter Canarias,1 Dec 2017,Stored,F-WWES,Virgen de La Candelaria
+1470,ATR 72-600 (72-212A),VT-IYC,IndiGo,27 Dec 2017,Stored,F-WWET,
+1471,ATR 72-600 (72-212A),OY-YCE,Nordic Aviation Capital (NAC),Feb 2020,Stored,B-28088,
+1472,ATR 72-600 (72-212A),F-OZNO,Air Calédonie,15 Dec 2017,Active,F-WWEV,
+1473,ATR 72-600 (72-212A),B-16853,Mandarin Airlines,29 Dec 2017,Active,F-WWEW,lsf AVAP
+1474,ATR 72-600 (72-212A),XY-AMT,Myanmar National Airlines,26 Sep 2019,Stored,F-WTBY,
+1475,ATR 72-600 (72-212A),VT-IYG,IndiGo,1 May 2018,Active,F-WWEZ,
+1476,ATR 72-600 (72-212A),VT-IYH,IndiGo,28 May 2018,Active,F-WWEB,
+1477,ATR 72-600 (72-212A),EP-ITG,Iran Air,29 Dec 2017,Active,F-WWEC,
+1478,ATR 72-600 (72-212A),EP-ITH,Iran Air,29 Dec 2017,Stored,F-WWED,
+1479,ATR 72-600 (72-212A),RP-C7288,Cebu Pacific,20 Feb 2018,Active,F-WWEE,
+1480,ATR 72-600 (72-212A),VT-IYD,IndiGo,16 Feb 2018,Active,F-WWEF,
+1481,ATR 72-600 (72-212A),PK-WJF,Wings Air,27 Oct 2018,Stored,F-WWEG,lsf Chorus Aviation
+1482,ATR 72-600 (72-212A),G-IACZ,Eastern Airways,1 Mar 2018,Active,F-WWEH,lsf NAC
+1483,ATR 72-600 (72-212A),EC-MVI,Binter Canarias,2 Mar 2018,Active,F-WWEI,La Palma Isla Bonita
+1484,ATR 72-600 (72-212A),VT-IYE,IndiGo,14 Mar 2018,Active,F-WWEJ,
+1485,ATR 72-600 (72-212A),S2-AKH,US-Bangla Airlines,8 Apr 2019,Stored,F-WWEK,lsf DAE Capital
+1486,ATR 72-600 (72-212A),VT-IYF,IndiGo,20 Mar 2018,Active,F-WWEL,
+1487,ATR 72-600 (72-212A),ZK-MVR,Air New Zealand,9 Dec 2019,Active,F-WWEM,
+1488,ATR 72-600 (72-212A),PK-WJG,Wings Air,31 Aug 2018,Stored,F-WWEN,lsf TrueNoord
+1489,ATR 72-600 (72-212A),EP-ITI,Iran Air,4 Aug 2018,Active,F-WWEP,
+1490,ATR 72-600 (72-212A),EC-MXQ,Binter Canarias,26 Apr 2018,Stored,F-WWEQ,Bentayga
+1491,ATR 72-600 (72-212A),VT-IYI,IndiGo,20 Jun 2018,Stored,F-WWER,
+1492,ATR 72-600 (72-212A),RP-C7202,AirSWIFT,29 Jun 2018,Active,F-WWES,lsf NAC
+1493,ATR 72-600 (72-212A),PK-WJL,Wings Air,26 Oct 2018,Stored,F-WWET,lsf TrueNoord
+1494,ATR 72-600 (72-212A),EP-ITJ,Iran Air,4 Aug 2018,Active,F-WWEU,
+1495,ATR 72-600 (72-212A),S2-AKG,US-Bangla Airlines,22 Mar 2019,Stored,F-WTBE,lsf AVAP
+1496,ATR 72-600 (72-212A),VT-IYJ,IndiGo,16 Jul 2018,Active,F-WWEW,
+1497,ATR 72-600 (72-212A),F-OMYN,Air Antilles Express,28 Jul 2018,Active,F-WWEX,
+1498,ATR 72-600 (72-212A),TCB-,Turkish Navy,28 Feb 2020,Stored,F-WTAQ,
+1499,ATR 72-600 (72-212A),RP-C7289,Cebu Pacific,31 May 2018,Stored,F-WWEB,
+1500,ATR 72-600 (72-212A),ZK-MVU,Air New Zealand,9 Dec 2019,Stored,F-WWEC,
+1501,ATR 72-600 (72-212A),EC-MYT,Binter Canarias,24 May 2018,Active,F-WWED,Cabildos Insulares
+1502,ATR 72-600 (72-212A),VT-IYK,IndiGo,4 Sep 2018,Stored,F-WWEE,
+1503,ATR 72-600 (72-212A),EP-ITK,Iran Air,4 Aug 2018,Active,F-WWEF,
+1504,ATR 72-600 (72-212A),EP-ITL,Iran Air,4 Aug 2018,Active,F-WWEG,
+1505,ATR 72-600 (72-212A),B-16855,Mandarin Airlines,6 Jul 2018,Active,F-WWEH,
+1506,ATR 72-600 (72-212A),8Q-RAZ,Manta Air,14 Dec 2018,Active,F-WTDA,lsf NAC
+1507,ATR 72-600 (72-212A),ZK-MVV,Air New Zealand,9 Dec 2019,Active,F-WWEJ,
+1508,ATR 72-600 (72-212A),8Q-RAY,Manta Air,10 Nov 2018,Active,F-WTDC,lsf NAC
+1509,ATR 72-600 (72-212A),VT-IYL,IndiGo,17 Sep 2018,Stored,F-WWEL,
+1510,ATR 72-600 (72-212A),EP-ITM,Iran Air,4 Aug 2018,Active,F-WWEM,
+1511,ATR 72-600 (72-212A),HK-5293,Easyfly,30 Oct 2018,Active,F-WWEN,
+1512,ATR 72-600 (72-212A),VT-IYM,IndiGo,27 Dec 2018,Active,F-WWEP,lsf TrueNoord
+1513,ATR 72-600 (72-212A),B-16856,Mandarin Airlines,10 Aug 2018,Active,F-WWEQ,
+,,,,,,,
+1514,ATR 72-600 (72-212A),VT-IYN,IndiGo,27 Dec 2018,Active,F-WWER,lsf TrueNoord
+1515,ATR 72-600 (72-212A),8Q-RAX,Manta Air,8 Mar 2019,Active,F-WTDE,lsf NAC
+1516,ATR 72-600 (72-212A),PK-WJM,Wings Air,27 Nov 2018,Stored,F-WWET,lsf TrueNoord
+1517,ATR 72-600 (72-212A),VT-IYO,IndiGo,27 Mar 2019,Active,F-WKVF,lsf TrueNoord
+1518,ATR 72-600 (72-212A),PK-WJO,Wings Air,7 Dec 2018,Stored,F-WWEV,lsf Elix Aviation Capital
+1519,ATR 72-600 (72-212A),OY-RUN,Danish Air Transport (DAT),1 Oct 2018,Active,F-WWEW,lsf AVAP
+1520,ATR 72-600 (72-212A),HK-5292,Easyfly,12 Dec 2018,Active,F-WWEX,Casanare
+1521,ATR 72-600 (72-212A),XY-AML,Myanmar National Airlines,6 Nov 2018,Stored,F-WKVF,lsf DAE Capital
+1522,ATR 72-600 (72-212A),HS-PZK,Bangkok Airways,9 Dec 2018,Active,F-WWEB,
+1523,ATR 72-600 (72-212A),HK-5294,Easyfly,13 Dec 2018,Active,F-WWEC,
+1524,ATR 72-600 (72-212A),JA06JC,Japan Air Commuter,30 Oct 2018,Active,F-WWED,
+1525,ATR 72-600 (72-212A),ZK-MVW,Air New Zealand,9 Dec 2019,Active,F-WWEE,
+1526,ATR 72-600 (72-212A),HS-PZM,Bangkok Airways,27 Dec 2018,Active,F-WWEF,
+1527,ATR 72-600 (72-212A),OY-RUV,Danish Air Transport (DAT),23 Nov 2018,Active,F-WWEG,lsf AVAP
+1528,ATR 72-600 (72-212A),XY-AMN,Air KBZ,3 May 2019,Stored,F-WTBQ,lsf NAC
+1529,ATR 72-600 (72-212A),VT-IYP,IndiGo,25 Apr 2019,Stored,F-WKVF,lsf TrueNoord
+1530,ATR 72-600 (72-212A),RP-C7290,Cebu Pacific,10 Nov 2018,Stored,F-WWEJ,
+1531,ATR 72-600 (72-212A),XY-AMO,Air KBZ,3 May 2019,Active,F-WTBR,lsf NAC
+1532,ATR 72-600 (72-212A),VT-IYQ,IndiGo,31 May 2019,Stored,F-WKVF,lsf TrueNoord
+1533,ATR 72-600 (72-212A),PK-WJP,Wings Air,7 Dec 2018,Stored,F-WWEM,lsf TrueNoord
+1534,ATR 72-600 (72-212A),XY-AMP,Air KBZ,20 Jun 2019,Active,F-WTAG,lsf NAC
+1535,ATR 72-600 (72-212A),F-OJZA,EWA Air,29 Dec 2018,Active,F-WWEP,lsf Investec
+1536,ATR 72-600 (72-212A),RP-C7291,Cebu Pacific,13 Dec 2018,Stored,F-WWEQ,
+1537,ATR 72-600 (72-212A),F-OJMZ,EWA Air,29 Dec 2018,Active,F-WWER,lsf Investec
+1538,ATR 72-600 (72-212A),VT-IYR,IndiGo,22 Jun 2019,Active,F-WKVF,lsf Chorus Aviation
+1539,ATR 72-600 (72-212A),CN-COJ,Royal Air Maroc Express,27 Dec 2018,Active,F-WWET,
+1540,ATR 72-600 (72-212A),XY-AMQ,Air KBZ,15 Jun 2019,Active,F-WTAH,lsf NAC
+1541,ATR 72-600 (72-212A),HZ-A24,Alpha Star,12 Jan 2019,Active,F-WWEV,
+1542,ATR 72-600 (72-212A),VT-,IndiGo,,On Order,F-WWEW,
+1543,ATR 72-600 (72-212A),XY-AMM,Myanmar National Airlines,21 Dec 2018,Stored,F-WKVC,lsf DAE Capital
+1544,ATR 72-600 (72-212A),VT-IYT,IndiGo,8 Nov 2019,Stored,F-WWEZ,lsf Chorus Aviation
+1545,ATR 72-600 (72-212A),VT-IYU,IndiGo,31 Dec 2019,Active,F-WWEB,lsf Chorus Aviation
+1546,ATR 72-600 (72-212A),HS-PZN,Bangkok Airways,1 Apr 2019,Stored,F-WWEC,
+1547,ATR 72-600 (72-212A),VT-IYV,IndiGo,28 Aug 2019,Stored,F-WWED,lsf Chorus Aviation
+1548,ATR 72-600 (72-212A),N700SV,Silver Airways,18 Aug 2019,Active,F-WWEE,"Rocket City, 700, lsf NAC"
+1549,ATR 72-600 (72-212A),HS-PZO,Bangkok Airways,10 May 2019,Active,F-WWEF,
+1550,ATR 72-600 (72-212A),VT-IYW,IndiGo,11 Oct 2019,Active,F-WWEG,lsf Chorus Aviation
+1551,ATR 72-600 (72-212A),ZK-MVX,Air New Zealand,9 Dec 2019,Active,F-WWEH,
+1552,ATR 72-600 (72-212A),VT-IYX,IndiGo,31 Dec 2019,Stored,F-WWEI,lsf Chorus Aviation
+1553,ATR 72-600 (72-212A),N702SV,Silver Airways,16 Jan 2020,Active,F-WNUG,"Bahama Mama, 702, lsf NAC"
+1554,ATR 72-600 (72-212A),HK-5322,Easyfly,18 May 2019,Active,F-WWEK,
+1555,ATR 72-600 (72-212A),N703SV,Silver Airways,27 Feb 2020,Active,F-WKVH,"Conch Republic, 703, lsf NAC"
+1556,ATR 72-600 (72-212A),PK-WJQ,Wings Air,,On Order,F-WWEM,80th ATR 72 to Lion Group cs
+1557,ATR 72-600 (72-212A),VT-IYY,IndiGo,20 Sep 2019,Stored,F-WWEN,lsf Chorus Aviation
+1558,ATR 72-600 (72-212A),RP-C7292,Cebu Pacific,25 May 2019,Stored,F-WWEP,lsf AVAP
+1559,ATR 72-600 (72-212A),VT-IYZ,IndiGo,30 Aug 2019,Stored,F-WWEQ,lsf Chorus Aviation
+1560,ATR 72-600 (72-212A),B-16857,Mandarin Airlines,14 May 2019,Active,F-WWER,
+1561,ATR 72-600 (72-212A),-,Unknown,,On Order,F-WWES,
+1562,ATR 72-600 (72-212A),ZK-MVZ,Air New Zealand,9 Dec 2019,Active,F-WWET,
+1563,ATR 72-600 (72-212A),S2-AKJ,US-Bangla Airlines,24 Sep 2019,Active,F-WKVG,lsf AVAP
+1564,ATR 72-600 (72-212A),CU-T1720,Cubana,,On Order,F-WWEY,
+1565,ATR 72-600 (72-212A),N704SV,Silver Airways,,On Order,F-WWEW,704
+1566,ATR 72-600 (72-212A),VT-IXS,IndiGo,,On Order,F-WWEX,
+1567,ATR 72-600 (72-212A),B-16858,Mandarin Airlines,25 Jun 2019,Active,F-WWEZ,
+,,,,,,,
+1568,ATR 72-600 (72-212A),XY-AMR,Golden Myanmar Airlines,21 Aug 2019,Active,F-WTAU,lsf AVAP
+1569,ATR 72-600 (72-212A),JA08JC,Japan Air Commuter,30 May 2019,Active,F-WWEC,
+1570,ATR 72-600 (72-212A),VT-,IndiGo,,On Order,F-WWED,
+1571,ATR 72-600 (72-212A),F-OSIT,Air Caraïbes,17 Dec 2019,Active,F-WWEE,
+1572,ATR 72-600 (72-212A),EC-NDD,Binter Canarias,14 Jun 2019,Active,F-WWEF,Perenquén
+1573,ATR 72-600 (72-212A),VT-IXW,IndiGo,,On Order,F-WWEG,
+1574,ATR 72-600 (72-212A),SE-MKL,BRA - Braathens Regional Airlines,19 Dec 2019,Stored,F-WWEH,opby Braathens Regional
+1575,ATR 72-600 (72-212A),CU-T1721,Cubana,,On Order,F-WWEI,
+1576,ATR 72-600 (72-212A),ZK-MZA,Air New Zealand,9 Dec 2019,Active,F-WWEJ,
+1577,ATR 72-600 (72-212A),9M-LGC,Royal Brunei Airlines,27 Jul 2019,Stored,F-WWEK,lsf Malindo Air
+1578,ATR 72-600 (72-212A),ZK-MZB,Air New Zealand,9 Dec 2019,Active,F-WWEL,
+1579,ATR 72-600 (72-212A),9M-LGD,Royal Brunei Airlines,26 Oct 2019,Stored,F-WWEM,lsf Malindo Air
+1580,ATR 72-600 (72-212A),G-OATR,Aurigny Air Services,25 Oct 2019,Active,F-WWEN,
+1581,ATR 72-600 (72-212A),ZK-MZC,Air New Zealand,15 Dec 2019,Stored,F-WWEP,
+1582,ATR 72-600 (72-212A),TS-LBF,Tunisair Express,19 Nov 2019,Active,F-WWEQ,Bulla Regia
+1583,ATR 72-600 (72-212A),YR-ATJ,TAROM,18 Feb 2020,Active,F-WKVD,lsf NAC
+1584,ATR 72-600 (72-212A),MM62315,Guardia di Finanza (Italian Customs Police),11 Dec 2019,Active,CSX62315,21
+1585,ATR 72-600 (72-212A),F-WKVK,Leonardo,19 Dec 2019,Stored,F-WWET,
+1586,ATR 72-600 (72-212A),EC-NGF,Binter Canarias,20 Sep 2019,Stored,F-WWEU,
+1587,ATR 72-600 (72-212A),EC-NGG,Binter Canarias,12 Sep 2019,Active,F-WWEY,
+1588,ATR 72-600 (72-212A),8Q-VAY,Flyme,4 Nov 2019,Active,F-WWEW,
+1589,ATR 72-600 (72-212A),S2-AKK,US-Bangla Airlines,15 Jan 2020,Active,F-WKVC,lsf TrueNoord
+1590,ATR 72-600 (72-212A),S2-AKL,US-Bangla Airlines,20 Jan 2020,Active,F-WKVI,lsf TrueNoord
+1591,ATR 72-600 (72-212A),SE-MKP,BRA - Braathens Regional Airlines,,On Order,F-WWEB,opby Braathens Regional
+1592,ATR 72-600 (72-212A),ZK-MZD,Air New Zealand,28 Dec 2019,Stored,F-WWEC,
+1593,ATR 72-600 (72-212A),HK-5347,Easyfly,12 Dec 2019,Active,F-WWED,
+1594,ATR 72-600 (72-212A),PK-WJR,Wings Air,,On Order,F-WWEE,
+1595,ATR 72-600 (72-212A),G-OGFC,Aurigny Air Services,14 Dec 2019,Active,F-WWEF,
+1596,ATR 72-600 (72-212A),PK-WJS,Wings Air,,On Order,F-WWEG,
+1597,ATR 72-600 (72-212A),PK-TVE,Travira Air,28 Nov 2019,Active,F-WWEH,
+1598,ATR 72-600 (72-212A),-,Unknown,,On Order,F-WWEI,
+1599,ATR 72-600 (72-212A),G-ORAI,Aurigny Air Services,10 Jan 2020,Active,F-WWEJ,
+1600,ATR 72-600 (72-212A),-,Unknown,,On Order,F-WWEK,
+1620,ATR 72-600 (72-212A),-,Unknown,,On Order,F-WWEL,
+1621,ATR 72-600 (72-212A),YR-ATK,TAROM,24 Feb 2020,Active,F-WKVJ,"C. Bâzu Cantacuzino, lsf NAC"
+1622,ATR 72-600 (72-212A),YR-ATL,TAROM,3 Mar 2020,Active,F-WKVF,"Alexandru Serbanescu, lsf NAC"
+1623,ATR 72-600 (72-212A),-,Unknown,,On Order,F-WWEP,
+1624,ATR 72-600 (72-212A),YR-ATM,TAROM,11 Mar 2020,Active,F-WKVG,"Vasile Craiu, lsf NAC"
+1625,ATR 72-600 (72-212A),TS-LBG,Tunisair Express,31 Dec 2019,Active,F-WWER,
+1626,ATR 72-600 (72-212A),SE-MKM,BRA - Braathens Regional Airlines,15 Jan 2020,Stored,F-WWES,opby Braathens Regional
+1627,ATR 72-600 (72-212A),-,Unknown,,On Order,F-WWET,
+1628,ATR 72-600 (72-212A),-,Unknown,,On Order,F-WWEU,
+1629,ATR 72-600 (72-212A),-,Unknown,,On Order,F-WWEW,
+1630,ATR 72-600 (72-212A),-,Unknown,,On Order,F-WWEX,
+1632,ATR 72-600 (72-212A),-,Unknown,,On Order,F-WWEZ,
+1633,ATR 72-600 (72-212A),-,Unknown,,On Order,F-WWEB,
+1635,ATR 72-600 (72-212A),EC-NJK,Binter Canarias,,On Order,F-WWED,
+1640,ATR 72-600 (72-212A),-,Unknown,,On Order,F-WWEI,
+1643,ATR 72-600 (72-212A),-,Unknown,,On Order,F-WWEL,
